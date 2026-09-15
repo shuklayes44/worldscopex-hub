@@ -1,15 +1,13 @@
 import { createFileRoute } from "@tanstack/react-router";
 import { StaticPage, staticHead } from "@/components/site/StaticPage";
-import { SITE } from "@/data/articles";
 
 export const Route = createFileRoute("/contact")({
   component: ContactPage,
-  head: () =>
-    staticHead(
-      "Contact",
-      "How to reach the WorldScopeX newsroom for story tips, corrections, permissions and advertising enquiries.",
-      "/contact",
-    ),
+  head: () => staticHead(
+    "Contact",
+    "WorldScopeX contact information and channels, to be published after verification before newsroom launch.",
+    "/contact",
+  ),
 });
 
 function ContactPage() {
@@ -17,25 +15,25 @@ function ContactPage() {
     <StaticPage
       kicker="Contact"
       title="Contact WorldScopeX"
-      intro="Story tips, corrections, permissions and partnership enquiries all reach a human editor."
+      intro="Verified newsroom contact channels will appear here before publication begins."
       sections={[
         {
           heading: "Newsroom",
           paragraphs: [
-            `Editorial desk: ${SITE.editorialEmail}`,
-            "For corrections, include the article headline and the specific claim in question. We reply to verifiable correction requests first.",
+            "WorldScopeX has not yet published an editorial email address. We will not display an invented or unverified contact address.",
+            "Story tips and correction requests will open once a secure, monitored newsroom channel is confirmed.",
           ],
         },
         {
           heading: "Advertising and partnerships",
           paragraphs: [
-            "Advertising slots on this site are currently reserved placeholders and no campaigns are being served. Commercial enquiries can be sent to the editorial address until a dedicated contact is published.",
+            "Advertising areas are reserved placeholders and no campaigns are being served. A dedicated commercial contact will be published only after it is verified.",
           ],
         },
         {
           heading: "Secure tips",
           paragraphs: [
-            "If a story carries risk for you, say so in your first message and we will agree a safer channel before you share documents. Do not send confidential material to an unverified address.",
+            "Do not send confidential material until WorldScopeX publishes and verifies a secure submission channel on this page.",
           ],
         },
       ]}

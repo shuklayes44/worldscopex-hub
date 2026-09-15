@@ -6,7 +6,7 @@ import { PageShell } from "@/components/site/PageShell";
 import { PrelaunchState } from "@/components/site/PrelaunchState";
 import { SITE, articlesByCategory, getCategory } from "@/data/articles";
 
-export const Route = createFileRoute("/category/$slug")({
+export const Route = createFileRoute("/category/")({
   loader: ({ params }) => {
     const category = getCategory(params.slug);
     if (!category) throw notFound();

@@ -17,7 +17,6 @@ import { Route as EditorialPolicyRouteImport } from './routes/editorial-policy'
 import { Route as PrivacyRouteImport } from './routes/privacy'
 import { Route as TermsRouteImport } from './routes/terms'
 import { Route as ArticleSlugRouteImport } from './routes/article.$slug'
-import { Route as CategoryRouteImport } from './routes/category.'
 import { Route as CategorySlugRouteImport } from './routes/category.$slug'
 
 const IndexRoute = IndexRouteImport.update({
@@ -60,11 +59,6 @@ const ArticleSlugRoute = ArticleSlugRouteImport.update({
   path: '/article/$slug',
   getParentRoute: () => rootRouteImport,
 } as any)
-const CategoryRoute = CategoryRouteImport.update({
-  id: '/category/',
-  path: '/category/',
-  getParentRoute: () => rootRouteImport,
-} as any)
 const CategorySlugRoute = CategorySlugRouteImport.update({
   id: '/category/$slug',
   path: '/category/$slug',
@@ -79,7 +73,6 @@ export interface FileRoutesByFullPath {
   '/editorial-policy': typeof EditorialPolicyRoute
   '/privacy': typeof PrivacyRoute
   '/terms': typeof TermsRoute
-  '/category/': typeof CategoryRoute
   '/article/$slug': typeof ArticleSlugRoute
   '/category/$slug': typeof CategorySlugRoute
 }
@@ -91,7 +84,6 @@ export interface FileRoutesByTo {
   '/editorial-policy': typeof EditorialPolicyRoute
   '/privacy': typeof PrivacyRoute
   '/terms': typeof TermsRoute
-  '/category': typeof CategoryRoute
   '/article/$slug': typeof ArticleSlugRoute
   '/category/$slug': typeof CategorySlugRoute
 }
@@ -104,7 +96,6 @@ export interface FileRoutesById {
   '/editorial-policy': typeof EditorialPolicyRoute
   '/privacy': typeof PrivacyRoute
   '/terms': typeof TermsRoute
-  '/category/': typeof CategoryRoute
   '/article/$slug': typeof ArticleSlugRoute
   '/category/$slug': typeof CategorySlugRoute
 }
@@ -118,7 +109,6 @@ export interface FileRouteTypes {
     | '/editorial-policy'
     | '/privacy'
     | '/terms'
-    | '/category/'
     | '/article/$slug'
     | '/category/$slug'
   fileRoutesByTo: FileRoutesByTo
@@ -130,7 +120,6 @@ export interface FileRouteTypes {
     | '/editorial-policy'
     | '/privacy'
     | '/terms'
-    | '/category'
     | '/article/$slug'
     | '/category/$slug'
   id:
@@ -142,7 +131,6 @@ export interface FileRouteTypes {
     | '/editorial-policy'
     | '/privacy'
     | '/terms'
-    | '/category/'
     | '/article/$slug'
     | '/category/$slug'
   fileRoutesById: FileRoutesById
@@ -155,7 +143,6 @@ export interface RootRouteChildren {
   EditorialPolicyRoute: typeof EditorialPolicyRoute
   PrivacyRoute: typeof PrivacyRoute
   TermsRoute: typeof TermsRoute
-  CategoryRoute: typeof CategoryRoute
   ArticleSlugRoute: typeof ArticleSlugRoute
   CategorySlugRoute: typeof CategorySlugRoute
 }
@@ -218,13 +205,6 @@ declare module '@tanstack/react-router' {
       preLoaderRoute: typeof ArticleSlugRouteImport
       parentRoute: typeof rootRouteImport
     }
-    '/category/': {
-      id: '/category/'
-      path: '/category'
-      fullPath: '/category/'
-      preLoaderRoute: typeof CategoryRouteImport
-      parentRoute: typeof rootRouteImport
-    }
     '/category/$slug': {
       id: '/category/$slug'
       path: '/category/$slug'
@@ -243,7 +223,6 @@ const rootRouteChildren: RootRouteChildren = {
   EditorialPolicyRoute: EditorialPolicyRoute,
   PrivacyRoute: PrivacyRoute,
   TermsRoute: TermsRoute,
-  CategoryRoute: CategoryRoute,
   ArticleSlugRoute: ArticleSlugRoute,
   CategorySlugRoute: CategorySlugRoute,
 }

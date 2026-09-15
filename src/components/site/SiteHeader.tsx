@@ -1,9 +1,8 @@
 import { Link } from "@tanstack/react-router";
 import { useState } from "react";
-import { categories, formatDate } from "@/data/articles";
+import { categories } from "@/data/articles";
 import { Tagline, Wordmark } from "./Brand";
 
-const today = formatDate(new Date().toISOString());
 
 export function SiteHeader() {
   const [open, setOpen] = useState(false);
@@ -14,8 +13,7 @@ export function SiteHeader() {
       <div className="border-b border-border bg-brand text-brand-foreground">
         <div className="container-edge flex flex-wrap items-center justify-between gap-2 py-1.5">
           <p className="text-[11px] tracking-wide opacity-90">
-            <span className="hidden sm:inline">Independent global journalism · </span>
-            {today}
+            Verified journalism in preparation
           </p>
           <nav aria-label="Utility" className="flex items-center gap-4">
             <Link

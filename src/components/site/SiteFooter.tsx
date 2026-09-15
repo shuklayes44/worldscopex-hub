@@ -11,12 +11,6 @@ const infoLinks = [
   { to: "/terms", label: "Terms of Use" },
 ];
 
-const socials = [
-  { label: "X", href: "https://x.com" },
-  { label: "LinkedIn", href: "https://www.linkedin.com" },
-  { label: "YouTube", href: "https://www.youtube.com" },
-  { label: "RSS", href: "/rss.xml" },
-];
 
 export function SiteFooter() {
   return (
@@ -26,8 +20,7 @@ export function SiteFooter() {
           <Wordmark />
           <Tagline className="mt-2" />
           <p className="mt-4 max-w-md text-sm leading-relaxed text-ink-soft">
-            {SITE.description} All stories currently shown are sample content
-            used to demonstrate the publication's structure.
+            {SITE.description}
           </p>
         </div>
 
@@ -64,22 +57,6 @@ export function SiteFooter() {
               ))}
             </ul>
           </nav>
-
-          <h2 className="kicker mt-6 text-ink">Follow</h2>
-          <ul className="mt-3 flex flex-wrap gap-3">
-            {socials.map((s) => (
-              <li key={s.label}>
-                <a
-                  href={s.href}
-                  rel="noopener noreferrer me"
-                  target="_blank"
-                  className="border border-border-strong px-2.5 py-1 text-xs text-ink-soft hover:text-brand"
-                >
-                  {s.label}
-                </a>
-              </li>
-            ))}
-          </ul>
         </div>
       </div>
 
@@ -89,7 +66,7 @@ export function SiteFooter() {
             © {new Date().getFullYear()} {SITE.name}. All rights reserved.
           </p>
           <p className="text-xs text-muted-foreground">
-            Sample editorial demo — not a record of real events.
+            Pre-launch publication — verified stories are in preparation.
           </p>
         </div>
       </div>

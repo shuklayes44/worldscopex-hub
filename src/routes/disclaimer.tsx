@@ -6,7 +6,7 @@ export const Route = createFileRoute("/disclaimer")({
   head: () =>
     staticHead(
       "Disclaimer",
-      "The limits of WorldScopeX content: sample stories, no financial or legal advice, and how third-party links are treated.",
+      "The limits of WorldScopeX content, including professional advice, accuracy and third-party links.",
       "/disclaimer",
     ),
 });
@@ -19,9 +19,9 @@ function DisclaimerPage() {
       intro="Read this alongside our editorial policy. It sets out what our content is, and what it is not."
       sections={[
         {
-          heading: "Sample content notice",
+          heading: "Pre-launch content notice",
           paragraphs: [
-            "All articles currently on this site are sample content created to demonstrate layout and structure. They describe no real events, decisions, organisations or individuals, and must not be cited as reporting.",
+            "WorldScopeX has not yet published news articles. Empty news areas indicate that verified reporting is still in preparation and should not be interpreted as missing or withheld coverage.",
           ],
         },
         {

@@ -12,11 +12,10 @@ export function NewsletterCta() {
       <div className="mx-auto max-w-2xl text-center">
         <p className="kicker text-live">The WorldScopeX Brief</p>
         <h2 id="newsletter-heading" className="headline-lg mt-3 text-ink">
-          One email each morning. The stories that actually moved.
+          The WorldScopeX Brief is in preparation.
         </h2>
         <p className="mt-3 text-sm leading-relaxed text-ink-soft">
-          India, world affairs, geopolitics, economy and technology — summarised
-          with sources, in under five minutes of reading.
+          A sourced briefing on India, world affairs, geopolitics, economy and technology will launch with the newsroom.
         </p>
 
         {done ? (
@@ -24,8 +23,7 @@ export function NewsletterCta() {
             role="status"
             className="mt-6 border border-border bg-card px-4 py-3 text-sm text-ink"
           >
-            Thanks — this demo does not store addresses yet. Newsletter delivery
-            will be connected before launch.
+            Thanks for your interest. This pre-launch form does not transmit or store your address.
           </p>
         ) : (
           <form
@@ -51,12 +49,12 @@ export function NewsletterCta() {
               type="submit"
               className="kicker bg-brand px-5 py-3 text-brand-foreground transition-opacity hover:opacity-90"
             >
-              Subscribe free
+              Register interest
             </button>
           </form>
         )}
         <p className="mt-3 text-xs text-muted-foreground">
-          No spam. Unsubscribe in one click.
+          No address is sent or stored during pre-launch.
         </p>
       </div>
     </section>

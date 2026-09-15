@@ -21,19 +21,19 @@ function EditorialPolicyPage() {
         {
           heading: "Sourcing",
           paragraphs: [
-            "Every factual claim traces to a document, dataset or named source. Anonymity is granted only where a source faces real risk, and the reason is described in the article.",
+            "Every factual claim must trace to a document, dataset or accountable source. Anonymity may be granted only where a source faces real risk, and the reason must be described in the article.",
           ],
         },
         {
           heading: "Verification",
           paragraphs: [
-            "Claims are checked against at least one independent source before publication. Where verification is incomplete at publication time, the article says so plainly in its sources and context block.",
+            "Only stories marked verified in the editorial system may appear as published news. Draft, review and rejected records are excluded from every public story list and direct article lookup.",
           ],
         },
         {
           heading: "Automated research tools",
           paragraphs: [
-            "WorldScopeX may use automated systems to gather, translate and cross-check material. No automated system publishes on its own: a named human editor approves each story and is accountable for it.",
+            "WorldScopeX may use automated systems to gather, translate and cross-check material. No automated system publishes on its own: the WorldScopeX Desk must approve each story and remains accountable for it.",
             "Machine-assisted drafting is disclosed where it materially shaped a piece.",
           ],
         },

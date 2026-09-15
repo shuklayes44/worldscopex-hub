@@ -1,22 +1,12 @@
 import { createFileRoute, Link } from "@tanstack/react-router";
 import { AdSlot } from "@/components/site/AdSlot";
-import { ArticleCard } from "@/components/site/ArticleCard";
 import { NewsletterCta } from "@/components/site/NewsletterCta";
 import { PageShell } from "@/components/site/PageShell";
-import { SectionHeading } from "@/components/site/SectionHeading";
-import {
-  SITE,
-  allArticles,
-  articlesByCategory,
-  categories,
-  featuredStories,
-  leadStory,
-  trendingStories,
-} from "@/data/articles";
+import { PrelaunchState } from "@/components/site/PrelaunchState";
+import { SITE, categories } from "@/data/articles";
 
-const title = "WorldScopeX — India, World, Geopolitics, Economy & Tech News";
-const description =
-  "Clear, sourced reporting and analysis on India, world affairs, geopolitics, economy and technology from WorldScopeX.";
+const title = "WorldScopeX — Verified Global News in Preparation";
+const description = "WorldScopeX is preparing verified reporting on India, world affairs, geopolitics, economy and technology.";
 
 export const Route = createFileRoute("/")({
   component: HomePage,
@@ -31,144 +21,60 @@ export const Route = createFileRoute("/")({
       { name: "twitter:card", content: "summary_large_image" },
     ],
     links: [{ rel: "canonical", href: "/" }],
-    scripts: [
-      {
-        type: "application/ld+json",
-        children: JSON.stringify({
-          "@context": "https://schema.org",
-          "@type": "NewsMediaOrganization",
-          name: SITE.name,
-          description: SITE.description,
-          url: "/",
-        }),
-      },
-    ],
+    scripts: [{
+      type: "application/ld+json",
+      children: JSON.stringify({
+        "@context": "https://schema.org",
+        "@type": "NewsMediaOrganization",
+        name: SITE.name,
+        description: SITE.description,
+        url: "/",
+      }),
+    }],
   }),
 });
 
 function HomePage() {
-  const lead = leadStory();
-  const secondary = featuredStories().filter((a) => a.slug !== lead.slug).slice(0, 3);
-  const latest = allArticles()
-    .filter((a) => a.slug !== lead.slug)
-    .slice(0, 6);
-  const trending = trendingStories(5);
-
   return (
     <PageShell>
       <div className="container-edge">
         <AdSlot className="mt-6" />
 
-        {/* Lead + rail */}
-        <section aria-labelledby="lead-heading" className="mt-8">
-          <h1 id="lead-heading" className="sr-only">
-            Top stories from WorldScopeX
+        <section aria-labelledby="publication-status" className="mt-8">
+          <h1 id="publication-status" className="headline-xl max-w-4xl text-ink">
+            Independent reporting, published only when verified.
           </h1>
-          <div className="grid gap-8 lg:grid-cols-12">
-            <div className="lg:col-span-8">
-              <ArticleCard article={lead} variant="lead" priority showDek />
-              <div className="mt-8 grid gap-6 border-t border-border pt-6 sm:grid-cols-3">
-                {secondary.map((a) => (
-                  <ArticleCard key={a.slug} article={a} variant="standard" />
-                ))}
-              </div>
-            </div>
-
-            <aside className="lg:col-span-4" aria-labelledby="trending-heading">
-              <div className="rule-top pt-3">
-                <h2
-                  id="trending-heading"
-                  className="text-lg font-bold tracking-tight"
-                >
-                  Trending now
-                </h2>
-              </div>
-              <ol className="mt-4 space-y-4">
-                {trending.map((a, i) => (
-                  <li key={a.slug} className="flex gap-3">
-                    <span
-                      className="kicker w-5 shrink-0 pt-0.5 text-live"
-                      aria-hidden="true"
-                    >
-                      {i + 1}
-                    </span>
-                    <div className="min-w-0 flex-1">
-                      <ArticleCard article={a} variant="compact" />
-                    </div>
-                  </li>
-                ))}
-              </ol>
-              <AdSlot size="rectangle" className="mt-6" />
-            </aside>
+          <p className="mt-4 max-w-3xl text-lg leading-relaxed text-ink-soft">
+            WorldScopeX is building its newsroom and preparing coverage across India, world affairs, geopolitics, economy and technology.
+          </p>
+          <div className="mt-8">
+            <PrelaunchState />
           </div>
         </section>
 
-        {/* Latest */}
-        <section aria-labelledby="latest-heading" className="mt-14">
-          <SectionHeading
-            title="Latest news"
-            description="The newest reporting across every WorldScopeX section."
-          />
-          <div className="grid gap-8 sm:grid-cols-2 lg:grid-cols-3">
-            {latest.map((a) => (
-              <ArticleCard key={a.slug} article={a} variant="standard" />
+        <section aria-labelledby="sections-heading" className="mt-14">
+          <div className="rule-top mb-5 pt-3">
+            <h2 id="sections-heading" className="text-xl font-bold sm:text-2xl">Coverage sections</h2>
+            <p className="mt-1 max-w-2xl text-sm text-ink-soft">Our editorial structure is ready for independently verified reporting.</p>
+          </div>
+          <div className="grid border-t border-border sm:grid-cols-2 lg:grid-cols-3">
+            {categories.map((category) => (
+              <Link
+                key={category.slug}
+                to="/category/$slug"
+                params={{ slug: category.slug }}
+                className="group border-b border-border px-1 py-6 no-underline sm:px-5 sm:[&:nth-child(odd)]:border-r lg:[&:nth-child(odd)]:border-r-0 lg:[&:not(:nth-child(3n))]:border-r"
+              >
+                <p className="kicker text-live">Section</p>
+                <h2 className="headline-md mt-2 text-ink group-hover:underline group-hover:underline-offset-4">{category.name}</h2>
+                <p className="mt-2 text-sm leading-relaxed text-ink-soft">{category.description}</p>
+                <span className="kicker mt-4 inline-block text-brand">View section →</span>
+              </Link>
             ))}
           </div>
         </section>
 
-        <AdSlot className="mt-14" />
-
-        {/* Category sections */}
-        {categories.map((category) => {
-          const items = articlesByCategory(category.slug);
-          if (items.length === 0) return null;
-          const [first, ...rest] = items;
-          return (
-            <section
-              key={category.slug}
-              aria-labelledby={`section-${category.slug}`}
-              className="mt-14"
-            >
-              <div className="rule-top mb-5 flex flex-wrap items-end justify-between gap-3 pt-3">
-                <div>
-                  <h2
-                    id={`section-${category.slug}`}
-                    className="text-xl font-bold tracking-tight sm:text-2xl"
-                  >
-                    {category.name}
-                  </h2>
-                  <p className="mt-1 max-w-2xl text-sm text-ink-soft">
-                    {category.description}
-                  </p>
-                </div>
-                <Link
-                  to="/category/$slug"
-                  params={{ slug: category.slug }}
-                  className="kicker text-brand underline-offset-4 hover:underline"
-                >
-                  All {category.shortName} →
-                </Link>
-              </div>
-              <div className="grid gap-8 lg:grid-cols-2">
-                <ArticleCard article={first} variant="standard" />
-                <div className="flex flex-col">
-                  {rest.slice(0, 3).map((a) => (
-                    <ArticleCard key={a.slug} article={a} variant="list" />
-                  ))}
-                  {rest.length === 0 ? (
-                    <p className="text-sm text-muted-foreground">
-                      More {category.shortName} reporting is on the way.
-                    </p>
-                  ) : null}
-                </div>
-              </div>
-            </section>
-          );
-        })}
-
-        <div id="newsletter" className="mt-16 scroll-mt-24">
-          <NewsletterCta />
-        </div>
+        <div id="newsletter" className="mt-16 scroll-mt-24"><NewsletterCta /></div>
       </div>
     </PageShell>
   );

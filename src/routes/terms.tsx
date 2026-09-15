@@ -27,7 +27,7 @@ function TermsPage() {
         {
           heading: "Intellectual property",
           paragraphs: [
-            "Text, layout, the WorldScopeX name and the WorldScopeX mark belong to the publisher. Images used in the current demonstration are placeholders and will be replaced with licensed or original photography before launch.",
+            "Text, layout, the WorldScopeX name and the WorldScopeX mark belong to the publisher. Published reporting will use original, licensed or appropriately credited imagery.",
             "Short quotation with clear attribution and a link back is always welcome.",
           ],
         },

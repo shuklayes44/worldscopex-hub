@@ -21,14 +21,14 @@ function PrivacyPage() {
         {
           heading: "Data we collect",
           paragraphs: [
-            "In its current demonstration state, this site collects no personal data and stores no reader accounts. The newsletter form does not transmit or retain the address you type.",
+            "In its current pre-launch state, this site collects no personal data and stores no reader accounts. The newsletter form does not transmit or retain the address you type.",
             "At launch we expect to collect only what is needed to deliver the site and a newsletter: an email address you provide voluntarily, and standard technical request data such as browser type and approximate region.",
           ],
         },
         {
           heading: "Cookies and analytics",
           paragraphs: [
-            "No tracking cookies are set in this demonstration build. When analytics are introduced, the categories used and the retention period will be listed here, and non-essential cookies will require consent where the law requires it.",
+            "No tracking cookies are set in this pre-launch site. When analytics are introduced, the categories used and the retention period will be listed here, and non-essential cookies will require consent where the law requires it.",
           ],
         },
         {
@@ -41,7 +41,7 @@ function PrivacyPage() {
           heading: "Your choices",
           paragraphs: [
             "You may request access to, correction of, or deletion of any personal data we hold about you, and you may unsubscribe from the newsletter at any time using the link in every email.",
-            "Requests can be sent to the editorial address on our contact page.",
+            "A verified channel for privacy requests will be published on our contact page before launch.",
           ],
         },
         {

@@ -129,7 +129,7 @@ function ArticlePage() {
 
             <figure className="m-0 mt-6">
               <img
-                src={article.image}
+                src={article.heroImage}
                 alt={article.imageAlt}
                 width={1600}
                 height={900}

@@ -41,7 +41,7 @@ export function ArticleCard({
         <Link to={to} params={params} className="block no-underline">
           <figure className="m-0 overflow-hidden bg-surface">
             <img
-              src={article.image}
+              src={article.heroImage}
               alt={article.imageAlt}
               width={1600}
               height={900}
@@ -90,7 +90,7 @@ export function ArticleCard({
             {Meta}
           </div>
           <img
-            src={article.image}
+            src={article.heroImage}
             alt={article.imageAlt}
             width={1600}
             height={900}
@@ -125,7 +125,7 @@ export function ArticleCard({
     <article className="group flex h-full flex-col">
       <Link to={to} params={params} className="flex h-full flex-col no-underline">
         <img
-          src={article.image}
+          src={article.heroImage}
           alt={article.imageAlt}
           width={1600}
           height={900}

@@ -42,7 +42,7 @@ function AboutPage() {
         {
           heading: "Corrections",
           paragraphs: [
-            "We correct errors promptly and openly. Corrections are noted on the article with the date and nature of the change. Write to the editorial address on our contact page.",
+            "We correct errors promptly and openly. Corrections are noted on the article with the date and nature of the change. Use the verified newsroom channel that will be published on our contact page before launch.",
           ],
         },
       ]}

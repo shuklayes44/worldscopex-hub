@@ -49,12 +49,12 @@ export function NewsletterCta() {
               type="submit"
               className="kicker bg-brand px-5 py-3 text-brand-foreground transition-opacity hover:opacity-90"
             >
-              Subscribe free
+              Register interest
             </button>
           </form>
         )}
         <p className="mt-3 text-xs text-muted-foreground">
-          No spam. Unsubscribe in one click.
+          No address is sent or stored during pre-launch.
         </p>
       </div>
     </section>

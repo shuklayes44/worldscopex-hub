@@ -41,7 +41,7 @@ function PrivacyPage() {
           heading: "Your choices",
           paragraphs: [
             "You may request access to, correction of, or deletion of any personal data we hold about you, and you may unsubscribe from the newsletter at any time using the link in every email.",
-            "Requests can be sent to the editorial address on our contact page.",
+            "A verified channel for privacy requests will be published on our contact page before launch.",
           ],
         },
         {

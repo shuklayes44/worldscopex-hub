@@ -1,10 +1,12 @@
 # Roadmap
 
-- [x] Remove all fictional stories, names, sources, dates, and breaking headlines from public content.
+- [x] Remove fictional stories, people, sources, dates, and misleading live-news claims.
 - [x] Enforce verified-only publication in the data layer.
-- [x] Add polished pre-launch states while preserving the editorial design.
-- [x] Update information and legal copy for content integrity.
-- [x] Complete metadata and robots readiness without inventing a public domain.
-- [ ] Verify routes, desktop/mobile rendering, console, runtime, and build health.
-
-Sitemap generation remains intentionally deferred until a real public domain is available.
+- [ ] Finalize branding, masthead, mobile navigation, favicon, and sitewide metadata.
+- [ ] Preserve and complete the homepage editorial structure with truthful pre-launch states.
+- [ ] Add clean category routes with pagination readiness and balanced ad placements.
+- [ ] Add verified-content search and results.
+- [ ] Refine article layout, breadcrumbs, sharing, source context, and related content states.
+- [ ] Finalize legal, trust, and editorial workflow copy.
+- [ ] Add sitemap output and confirm robots readiness.
+- [ ] Verify all routes, links, responsive layouts, accessibility, console/runtime, and build health.

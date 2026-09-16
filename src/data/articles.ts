@@ -18,6 +18,7 @@ export type VerificationStatus = "draft" | "review" | "verified" | "rejected";
 
 export interface Category {
   slug: CategorySlug;
+  path: string;
   name: string;
   shortName: string;
   description: string;
@@ -76,12 +77,12 @@ export const SITE = {
 } as const;
 
 export const categories: Category[] = [
-  { slug: "india", name: "India", shortName: "India", description: "Policy, states, institutions and the forces shaping Indian public life." },
-  { slug: "world", name: "World", shortName: "World", description: "Reporting across regions, with context on how global events connect." },
-  { slug: "geopolitics", name: "Geopolitics", shortName: "Geopolitics", description: "Power, alliances, security and the contest for influence across regions." },
-  { slug: "economy", name: "Economy & Business", shortName: "Economy", description: "Markets, trade, industry and decisions that affect households and businesses." },
-  { slug: "technology", name: "Technology", shortName: "Technology", description: "Compute, connectivity, chips and the governance of emerging systems." },
-  { slug: "explainers", name: "Explainers", shortName: "Explainers", description: "Structured background on complex subjects, designed for clarity." },
+  { slug: "india", path: "/india", name: "India", shortName: "India", description: "Policy, states, institutions and the forces shaping Indian public life." },
+  { slug: "world", path: "/world", name: "World", shortName: "World", description: "Reporting across regions, with context on how global events connect." },
+  { slug: "geopolitics", path: "/geopolitics", name: "Geopolitics", shortName: "Geopolitics", description: "Power, alliances, security and the contest for influence across regions." },
+  { slug: "economy", path: "/economy-business", name: "Economy & Business", shortName: "Economy", description: "Markets, trade, industry and decisions that affect households and businesses." },
+  { slug: "technology", path: "/technology", name: "Technology", shortName: "Technology", description: "Compute, connectivity, chips and the governance of emerging systems." },
+  { slug: "explainers", path: "/explainers", name: "Explainers", shortName: "Explainers", description: "Structured background on complex subjects, designed for clarity." },
 ];
 
 /**
@@ -105,6 +106,17 @@ export const getCategory = (slug: string): Category | undefined =>
 
 export const getArticle = (slug: string): Article | undefined =>
   allArticles().find((article) => article.slug === slug);
+
+export const searchArticles = (query: string): Article[] => {
+  const terms = query.trim().toLocaleLowerCase("en-IN").split(/\s+/).filter(Boolean);
+  if (terms.length === 0) return [];
+  return allArticles().filter((article) => {
+    const searchable = [article.headline, article.dek, article.category, ...article.tags]
+      .join(" ")
+      .toLocaleLowerCase("en-IN");
+    return terms.every((term) => searchable.includes(term));
+  });
+};
 
 export const articlesByCategory = (slug: CategorySlug): Article[] =>
   allArticles().filter((article) => article.category === slug);
@@ -133,6 +145,9 @@ export const recommendedStories = (article: Article, limit = 4): Article[] =>
 
 export const categoryName = (slug: CategorySlug): string =>
   getCategory(slug)?.name ?? slug;
+
+export const categoryPath = (slug: CategorySlug): string =>
+  getCategory(slug)?.path ?? "/";
 
 export const formatDate = (iso: string): string =>
   new Date(iso).toLocaleDateString("en-IN", { day: "numeric", month: "short", year: "numeric" });

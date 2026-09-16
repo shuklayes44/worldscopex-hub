@@ -13,9 +13,16 @@ import { Route as IndexRouteImport } from './routes/index'
 import { Route as AboutRouteImport } from './routes/about'
 import { Route as ContactRouteImport } from './routes/contact'
 import { Route as DisclaimerRouteImport } from './routes/disclaimer'
+import { Route as EconomyBusinessRouteImport } from './routes/economy-business'
 import { Route as EditorialPolicyRouteImport } from './routes/editorial-policy'
+import { Route as ExplainersRouteImport } from './routes/explainers'
+import { Route as GeopoliticsRouteImport } from './routes/geopolitics'
+import { Route as IndiaRouteImport } from './routes/india'
 import { Route as PrivacyRouteImport } from './routes/privacy'
+import { Route as SearchRouteImport } from './routes/search'
+import { Route as TechnologyRouteImport } from './routes/technology'
 import { Route as TermsRouteImport } from './routes/terms'
+import { Route as WorldRouteImport } from './routes/world'
 import { Route as ArticleSlugRouteImport } from './routes/article.$slug'
 import { Route as CategorySlugRouteImport } from './routes/category.$slug'
 
@@ -39,9 +46,29 @@ const DisclaimerRoute = DisclaimerRouteImport.update({
   path: '/disclaimer',
   getParentRoute: () => rootRouteImport,
 } as any)
+const EconomyBusinessRoute = EconomyBusinessRouteImport.update({
+  id: '/economy-business',
+  path: '/economy-business',
+  getParentRoute: () => rootRouteImport,
+} as any)
 const EditorialPolicyRoute = EditorialPolicyRouteImport.update({
   id: '/editorial-policy',
   path: '/editorial-policy',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const ExplainersRoute = ExplainersRouteImport.update({
+  id: '/explainers',
+  path: '/explainers',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const GeopoliticsRoute = GeopoliticsRouteImport.update({
+  id: '/geopolitics',
+  path: '/geopolitics',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const IndiaRoute = IndiaRouteImport.update({
+  id: '/india',
+  path: '/india',
   getParentRoute: () => rootRouteImport,
 } as any)
 const PrivacyRoute = PrivacyRouteImport.update({
@@ -49,9 +76,24 @@ const PrivacyRoute = PrivacyRouteImport.update({
   path: '/privacy',
   getParentRoute: () => rootRouteImport,
 } as any)
+const SearchRoute = SearchRouteImport.update({
+  id: '/search',
+  path: '/search',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const TechnologyRoute = TechnologyRouteImport.update({
+  id: '/technology',
+  path: '/technology',
+  getParentRoute: () => rootRouteImport,
+} as any)
 const TermsRoute = TermsRouteImport.update({
   id: '/terms',
   path: '/terms',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const WorldRoute = WorldRouteImport.update({
+  id: '/world',
+  path: '/world',
   getParentRoute: () => rootRouteImport,
 } as any)
 const ArticleSlugRoute = ArticleSlugRouteImport.update({
@@ -70,9 +112,16 @@ export interface FileRoutesByFullPath {
   '/about': typeof AboutRoute
   '/contact': typeof ContactRoute
   '/disclaimer': typeof DisclaimerRoute
+  '/economy-business': typeof EconomyBusinessRoute
   '/editorial-policy': typeof EditorialPolicyRoute
+  '/explainers': typeof ExplainersRoute
+  '/geopolitics': typeof GeopoliticsRoute
+  '/india': typeof IndiaRoute
   '/privacy': typeof PrivacyRoute
+  '/search': typeof SearchRoute
+  '/technology': typeof TechnologyRoute
   '/terms': typeof TermsRoute
+  '/world': typeof WorldRoute
   '/article/$slug': typeof ArticleSlugRoute
   '/category/$slug': typeof CategorySlugRoute
 }
@@ -81,9 +130,16 @@ export interface FileRoutesByTo {
   '/about': typeof AboutRoute
   '/contact': typeof ContactRoute
   '/disclaimer': typeof DisclaimerRoute
+  '/economy-business': typeof EconomyBusinessRoute
   '/editorial-policy': typeof EditorialPolicyRoute
+  '/explainers': typeof ExplainersRoute
+  '/geopolitics': typeof GeopoliticsRoute
+  '/india': typeof IndiaRoute
   '/privacy': typeof PrivacyRoute
+  '/search': typeof SearchRoute
+  '/technology': typeof TechnologyRoute
   '/terms': typeof TermsRoute
+  '/world': typeof WorldRoute
   '/article/$slug': typeof ArticleSlugRoute
   '/category/$slug': typeof CategorySlugRoute
 }
@@ -93,9 +149,16 @@ export interface FileRoutesById {
   '/about': typeof AboutRoute
   '/contact': typeof ContactRoute
   '/disclaimer': typeof DisclaimerRoute
+  '/economy-business': typeof EconomyBusinessRoute
   '/editorial-policy': typeof EditorialPolicyRoute
+  '/explainers': typeof ExplainersRoute
+  '/geopolitics': typeof GeopoliticsRoute
+  '/india': typeof IndiaRoute
   '/privacy': typeof PrivacyRoute
+  '/search': typeof SearchRoute
+  '/technology': typeof TechnologyRoute
   '/terms': typeof TermsRoute
+  '/world': typeof WorldRoute
   '/article/$slug': typeof ArticleSlugRoute
   '/category/$slug': typeof CategorySlugRoute
 }
@@ -106,9 +169,16 @@ export interface FileRouteTypes {
     | '/about'
     | '/contact'
     | '/disclaimer'
+    | '/economy-business'
     | '/editorial-policy'
+    | '/explainers'
+    | '/geopolitics'
+    | '/india'
     | '/privacy'
+    | '/search'
+    | '/technology'
     | '/terms'
+    | '/world'
     | '/article/$slug'
     | '/category/$slug'
   fileRoutesByTo: FileRoutesByTo
@@ -117,9 +187,16 @@ export interface FileRouteTypes {
     | '/about'
     | '/contact'
     | '/disclaimer'
+    | '/economy-business'
     | '/editorial-policy'
+    | '/explainers'
+    | '/geopolitics'
+    | '/india'
     | '/privacy'
+    | '/search'
+    | '/technology'
     | '/terms'
+    | '/world'
     | '/article/$slug'
     | '/category/$slug'
   id:
@@ -128,9 +205,16 @@ export interface FileRouteTypes {
     | '/about'
     | '/contact'
     | '/disclaimer'
+    | '/economy-business'
     | '/editorial-policy'
+    | '/explainers'
+    | '/geopolitics'
+    | '/india'
     | '/privacy'
+    | '/search'
+    | '/technology'
     | '/terms'
+    | '/world'
     | '/article/$slug'
     | '/category/$slug'
   fileRoutesById: FileRoutesById
@@ -140,9 +224,16 @@ export interface RootRouteChildren {
   AboutRoute: typeof AboutRoute
   ContactRoute: typeof ContactRoute
   DisclaimerRoute: typeof DisclaimerRoute
+  EconomyBusinessRoute: typeof EconomyBusinessRoute
   EditorialPolicyRoute: typeof EditorialPolicyRoute
+  ExplainersRoute: typeof ExplainersRoute
+  GeopoliticsRoute: typeof GeopoliticsRoute
+  IndiaRoute: typeof IndiaRoute
   PrivacyRoute: typeof PrivacyRoute
+  SearchRoute: typeof SearchRoute
+  TechnologyRoute: typeof TechnologyRoute
   TermsRoute: typeof TermsRoute
+  WorldRoute: typeof WorldRoute
   ArticleSlugRoute: typeof ArticleSlugRoute
   CategorySlugRoute: typeof CategorySlugRoute
 }
@@ -177,11 +268,39 @@ declare module '@tanstack/react-router' {
       preLoaderRoute: typeof DisclaimerRouteImport
       parentRoute: typeof rootRouteImport
     }
+    '/economy-business': {
+      id: '/economy-business'
+      path: '/economy-business'
+      fullPath: '/economy-business'
+      preLoaderRoute: typeof EconomyBusinessRouteImport
+      parentRoute: typeof rootRouteImport
+    }
     '/editorial-policy': {
       id: '/editorial-policy'
       path: '/editorial-policy'
       fullPath: '/editorial-policy'
       preLoaderRoute: typeof EditorialPolicyRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/explainers': {
+      id: '/explainers'
+      path: '/explainers'
+      fullPath: '/explainers'
+      preLoaderRoute: typeof ExplainersRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/geopolitics': {
+      id: '/geopolitics'
+      path: '/geopolitics'
+      fullPath: '/geopolitics'
+      preLoaderRoute: typeof GeopoliticsRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/india': {
+      id: '/india'
+      path: '/india'
+      fullPath: '/india'
+      preLoaderRoute: typeof IndiaRouteImport
       parentRoute: typeof rootRouteImport
     }
     '/privacy': {
@@ -191,11 +310,32 @@ declare module '@tanstack/react-router' {
       preLoaderRoute: typeof PrivacyRouteImport
       parentRoute: typeof rootRouteImport
     }
+    '/search': {
+      id: '/search'
+      path: '/search'
+      fullPath: '/search'
+      preLoaderRoute: typeof SearchRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/technology': {
+      id: '/technology'
+      path: '/technology'
+      fullPath: '/technology'
+      preLoaderRoute: typeof TechnologyRouteImport
+      parentRoute: typeof rootRouteImport
+    }
     '/terms': {
       id: '/terms'
       path: '/terms'
       fullPath: '/terms'
       preLoaderRoute: typeof TermsRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/world': {
+      id: '/world'
+      path: '/world'
+      fullPath: '/world'
+      preLoaderRoute: typeof WorldRouteImport
       parentRoute: typeof rootRouteImport
     }
     '/article/$slug': {
@@ -220,9 +360,16 @@ const rootRouteChildren: RootRouteChildren = {
   AboutRoute: AboutRoute,
   ContactRoute: ContactRoute,
   DisclaimerRoute: DisclaimerRoute,
+  EconomyBusinessRoute: EconomyBusinessRoute,
   EditorialPolicyRoute: EditorialPolicyRoute,
+  ExplainersRoute: ExplainersRoute,
+  GeopoliticsRoute: GeopoliticsRoute,
+  IndiaRoute: IndiaRoute,
   PrivacyRoute: PrivacyRoute,
+  SearchRoute: SearchRoute,
+  TechnologyRoute: TechnologyRoute,
   TermsRoute: TermsRoute,
+  WorldRoute: WorldRoute,
   ArticleSlugRoute: ArticleSlugRoute,
   CategorySlugRoute: CategorySlugRoute,
 }

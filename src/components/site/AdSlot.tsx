@@ -19,14 +19,11 @@ export function AdSlot({
 
   return (
     <aside
-      aria-label="Advertisement placeholder"
+      aria-label="Advertisement"
       className={`border border-dashed border-border-strong bg-surface ${className}`}
     >
       <div className={`flex ${height} flex-col items-center justify-center gap-1`}>
-        <span className="kicker text-muted-foreground">Advertisement</span>
-        <span className="text-[11px] text-muted-foreground">
-          Reserved ad space
-        </span>
+        <span className="kicker text-muted-foreground">ADVERTISEMENT</span>
       </div>
     </aside>
   );

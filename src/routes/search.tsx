@@ -9,7 +9,10 @@ import { searchArticles } from "@/data/articles";
 type SearchParams = { q?: string };
 
 export const Route = createFileRoute("/search")({
-  validateSearch: (search: Record<string, unknown>): SearchParams => ({ q: typeof search.q === "string" ? search.q.slice(0, 120) : undefined }),
+  validateSearch: (search: Record<string, unknown>): SearchParams => {
+    const query = search["q"];
+    return typeof query === "string" ? { q: query.slice(0, 120) } : {};
+  },
   component: SearchPage,
   head: () => ({ meta: [
     { title: "Search — WorldScopeX" }, { name: "description", content: "Search verified WorldScopeX reporting and analysis." },

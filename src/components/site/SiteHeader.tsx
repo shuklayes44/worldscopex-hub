@@ -48,20 +48,22 @@ export function SiteHeader() {
             <Wordmark size="lg" />
             <Tagline />
           </div>
-          <div className="flex items-center gap-2">
-            <Button asChild variant="ghost" size="icon" className="rounded-none" aria-label="Search WorldScopeX">
+          <div className="flex shrink-0 items-center gap-2">
+            <Button asChild variant="ghost" size="icon" className="hidden rounded-none sm:inline-flex" aria-label="Search WorldScopeX">
               <Link to="/search"><Search aria-hidden="true" /></Link>
             </Button>
-          <Button
-            type="button"
-            aria-expanded={open}
-            aria-controls="primary-nav"
-            onClick={() => setOpen((v) => !v)}
-            variant="outline"
-            className="rounded-none px-3 text-ink lg:hidden"
-          >
-            {open ? <X aria-hidden="true" /> : <Menu aria-hidden="true" />}<span className="kicker">Sections</span>
-          </Button>
+            <Button
+              type="button"
+              size="icon"
+              aria-label={open ? "Close section menu" : "Open section menu"}
+              aria-expanded={open}
+              aria-controls="primary-nav"
+              onClick={() => setOpen((v) => !v)}
+              variant="outline"
+              className="rounded-none text-ink lg:hidden"
+            >
+              {open ? <X aria-hidden="true" /> : <Menu aria-hidden="true" />}
+            </Button>
           </div>
         </div>
       </div>

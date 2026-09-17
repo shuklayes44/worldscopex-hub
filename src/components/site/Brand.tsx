@@ -14,7 +14,7 @@ export function Wordmark({ size = "md" }: { size?: "sm" | "md" | "lg" }) {
   return (
     <Link
       to="/"
-      className="inline-flex items-baseline gap-2 text-ink no-underline"
+      className="inline-flex min-w-0 items-center gap-2 text-ink no-underline"
       aria-label={`${SITE.name} home`}
     >
       <img
@@ -27,8 +27,7 @@ export function Wordmark({ size = "md" }: { size?: "sm" | "md" | "lg" }) {
         className={`${img} self-center`}
       />
       <span
-        className={`${text} font-serif font-bold tracking-tight leading-none`}
-        style={{ fontFamily: "var(--font-serif)" }}
+        className={`${text} font-serif font-bold leading-none`}
       >
         World<span className="text-brand">Scope</span>
         <span className="text-live">X</span>

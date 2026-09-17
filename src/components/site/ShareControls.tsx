@@ -1,4 +1,5 @@
 import { useState } from "react";
+import { Button } from "@/components/ui/button";
 
 export function ShareControls({ title }: { title: string }) {
   const [copied, setCopied] = useState(false);
@@ -10,7 +11,7 @@ export function ShareControls({ title }: { title: string }) {
     const url = encodeURIComponent(currentUrl());
     const text = encodeURIComponent(title);
     const targets = {
-      x: `https://twitter.com/intent/tweet?text=${text}&url=${url}`,
+      x: `https://x.com/intent/post?text=${text}&url=${url}`,
       linkedin: `https://www.linkedin.com/sharing/share-offsite/?url=${url}`,
       whatsapp: `https://wa.me/?text=${text}%20${url}`,
     };
@@ -27,24 +28,21 @@ export function ShareControls({ title }: { title: string }) {
     }
   };
 
-  const btn =
-    "kicker border border-border-strong px-3 py-2 text-ink transition-colors hover:bg-accent hover:text-accent-foreground";
-
   return (
     <div className="flex flex-wrap items-center gap-2">
       <span className="kicker mr-1 text-muted-foreground">Share</span>
-      <button type="button" className={btn} onClick={() => share("x")}>
+      <Button type="button" variant="outline" size="sm" className="rounded-none" onClick={() => share("x")} aria-label="Share on X">
         X
-      </button>
-      <button type="button" className={btn} onClick={() => share("linkedin")}>
+      </Button>
+      <Button type="button" variant="outline" size="sm" className="rounded-none" onClick={() => share("linkedin")} aria-label="Share on LinkedIn">
         LinkedIn
-      </button>
-      <button type="button" className={btn} onClick={() => share("whatsapp")}>
+      </Button>
+      <Button type="button" variant="outline" size="sm" className="rounded-none" onClick={() => share("whatsapp")} aria-label="Share on WhatsApp">
         WhatsApp
-      </button>
-      <button type="button" className={btn} onClick={copy} aria-live="polite">
+      </Button>
+      <Button type="button" variant="outline" size="sm" className="rounded-none" onClick={copy} aria-live="polite">
         {copied ? "Link copied" : "Copy link"}
-      </button>
+      </Button>
     </div>
   );
 }

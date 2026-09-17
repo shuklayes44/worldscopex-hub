@@ -9,6 +9,7 @@ import { ShareControls } from "@/components/site/ShareControls";
 import {
   SITE,
   categoryName,
+  categoryPath,
   formatDateTime,
   getArticle,
   recommendedStories,
@@ -39,25 +40,33 @@ export const Route = createFileRoute("/article/$slug")({
       ],
       links: [{ rel: "canonical", href: `/article/${params.slug}` }],
       scripts: a
-        ? [
-            {
-              type: "application/ld+json",
-              children: JSON.stringify({
-                "@context": "https://schema.org",
-                "@type": "NewsArticle",
-                headline: a.headline,
-                description: a.dek,
-                datePublished: a.publishedAt,
-                dateModified: a.updatedAt ?? a.publishedAt,
-                articleSection: categoryName(a.category),
-                author: { "@type": "Person", name: a.author.name },
-                publisher: {
-                  "@type": "NewsMediaOrganization",
-                  name: SITE.name,
+        ? [{
+            type: "application/ld+json",
+            children: JSON.stringify({
+              "@context": "https://schema.org",
+              "@graph": [
+                {
+                  "@type": "NewsArticle",
+                  mainEntityOfPage: `/article/${a.slug}`,
+                  headline: a.headline,
+                  description: a.dek,
+                  datePublished: a.publishedAt,
+                  dateModified: a.updatedAt ?? a.publishedAt,
+                  articleSection: categoryName(a.category),
+                  author: { "@type": "Organization", name: a.author.name },
+                  publisher: { "@type": "NewsMediaOrganization", name: SITE.name },
                 },
-              }),
-            },
-          ]
+                {
+                  "@type": "BreadcrumbList",
+                  itemListElement: [
+                    { "@type": "ListItem", position: 1, name: "Home", item: "/" },
+                    { "@type": "ListItem", position: 2, name: categoryName(a.category), item: categoryPath(a.category) },
+                    { "@type": "ListItem", position: 3, name: a.headline, item: `/article/${a.slug}` },
+                  ],
+                },
+              ],
+            }),
+          }]
         : [],
     };
   },
@@ -80,11 +89,7 @@ function ArticlePage() {
             </li>
             <li aria-hidden="true">/</li>
             <li>
-              <Link
-                to="/category/$slug"
-                params={{ slug: article.category }}
-                className="hover:text-brand"
-              >
+              <Link to={categoryPath(article.category)} className="hover:text-brand">
                 {categoryName(article.category)}
               </Link>
             </li>
@@ -168,11 +173,9 @@ function ArticlePage() {
 
             <section aria-labelledby="related-heading" className="mt-12">
               <SectionHeading title="Related stories" as="h2" />
-              <div className="grid gap-8 sm:grid-cols-3">
-                {related.map((a) => (
-                  <ArticleCard key={a.slug} article={a} variant="standard" showDek={false} />
-                ))}
-              </div>
+              {related.length ? <div className="grid gap-8 sm:grid-cols-3">
+                {related.map((a) => <ArticleCard key={a.slug} article={a} variant="standard" showDek={false} />)}
+              </div> : <p className="border-b border-border pb-6 text-sm text-ink-soft">More verified reporting on this subject will appear here when available.</p>}
             </section>
           </article>
 
@@ -182,11 +185,9 @@ function ArticlePage() {
                 Recommended for you
               </h2>
             </div>
-            <div className="mt-4 flex flex-col gap-3">
-              {recommended.map((a) => (
-                <ArticleCard key={a.slug} article={a} variant="compact" />
-              ))}
-            </div>
+            {recommended.length ? <div className="mt-4 flex flex-col gap-3">
+              {recommended.map((a) => <ArticleCard key={a.slug} article={a} variant="compact" />)}
+            </div> : <p className="mt-4 border-b border-border pb-5 text-sm leading-relaxed text-ink-soft">Recommendations will appear as the verified archive grows.</p>}
             <AdSlot size="rectangle" className="mt-6" />
           </aside>
         </div>

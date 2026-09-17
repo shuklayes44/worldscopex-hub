@@ -9,4 +9,4 @@
 - [x] Refine article layout, breadcrumbs, sharing, source context, and related content states.
 - [x] Finalize legal, trust, and editorial workflow copy.
 - [ ] Add sitemap output after a permanent public domain is available; robots is ready.
-- [ ] Verify all routes, links, responsive layouts, accessibility, console/runtime, and build health.
+- [x] Verify all routes, links, responsive layouts, accessibility, console/runtime, and build health.

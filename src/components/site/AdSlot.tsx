@@ -12,17 +12,17 @@ export function AdSlot({
 }) {
   const height =
     size === "leaderboard"
-      ? "h-[90px] sm:h-[110px]"
+      ? "min-h-[90px] sm:min-h-[110px]"
       : size === "rectangle"
-        ? "h-[250px]"
-        : "h-[120px]";
+        ? "min-h-[250px]"
+        : "min-h-[110px] sm:min-h-[120px]";
 
   return (
     <aside
       aria-label="Advertisement"
-      className={`border border-dashed border-border-strong bg-surface ${className}`}
+      className={`w-full overflow-hidden border border-dashed border-border-strong bg-surface ${className}`}
     >
-      <div className={`flex ${height} flex-col items-center justify-center gap-1`}>
+      <div className={`flex ${height} items-center justify-center px-4 py-3 text-center`}>
         <span className="kicker text-muted-foreground">ADVERTISEMENT</span>
       </div>
     </aside>

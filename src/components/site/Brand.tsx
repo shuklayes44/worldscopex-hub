@@ -24,7 +24,7 @@ export function Wordmark({ size = "md" }: { size?: "sm" | "md" | "lg" }) {
         height={816}
         loading="eager"
         decoding="async"
-        className={`${img} self-center`}
+        className={`${img} shrink-0 self-center object-contain`}
       />
       <span
         className={`${text} font-serif font-bold leading-none`}

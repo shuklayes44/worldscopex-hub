@@ -20,8 +20,8 @@ export function Wordmark({ size = "md" }: { size?: "sm" | "md" | "lg" }) {
       <img
         src={mark}
         alt=""
-        width={816}
-        height={816}
+        width={1000}
+        height={1000}
         loading="eager"
         decoding="async"
         className={`${img} shrink-0 self-center object-contain`}

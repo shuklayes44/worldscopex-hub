@@ -92,6 +92,41 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "trump-revives-rare-budget-maneuver-to-rescind-810m-in-congressionally-approved-f-1790447779",
+  "category": "world",
+  "headline": "Trump revives rare budget maneuver to rescind $810M in congressionally approved funds - Fox News",
+  "dek": "Trump administration revives a rare budget maneuver to rescind $810 million in congressionally approved funds.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-09-26T18:36:19Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1790447778_2357.png",
+  "imageAlt": "Trump revives rare budget maneuver to rescind $810M in congressionally approved funds - Fox News",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "The White House has ordered over $800 million in congressionally approved funds to be rescinded using a rare budget authority. Lawmakers have strongly criticized the maneuver, with Collins labeling the move a clear violation of law. The decision marks a significant escalation in tensions between the executive branch and lawmakers regarding spending authority. Observers will be closely watching how Congress responds to the clawback of nearly $1 billion in previously approved spending."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Trump revives rare budget maneuver to rescind $810M in congressionally approved funds - Fox News"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "school-assembly-news-headlines-today-august-22-top-national-sports-and-world-new-1790445017",
   "category": "world",
   "headline": "School assembly news headlines today- August 22: Top national, sports and world news curated for you - bestcolleges.indiatoday.in",

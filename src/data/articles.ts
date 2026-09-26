@@ -92,6 +92,45 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "school-assembly-news-headlines-today-august-22-top-national-sports-and-world-new-1790445017",
+  "category": "world",
+  "headline": "School assembly news headlines today- August 22: Top national, sports and world news curated for you - bestcolleges.indiatoday.in",
+  "dek": "Curated national, sports, and world news headlines for August 22 school assemblies are now available.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-09-26T17:50:17Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1790445015_4324.png",
+  "imageAlt": "School assembly news headlines today- August 22: Top national, sports and world news curated for you - bestcolleges.indiatoday.in",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Educators and students preparing for morning school assemblies on August 22 can access a fresh curation of top news updates. The daily briefing spans national developments, sports highlights, and major international stories."
+    },
+    {
+      "type": "paragraph",
+      "text": "These curated updates aim to keep school communities informed about current affairs efficiently. The collection serves as a ready-to-use resource for morning announcements and academic discussions."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "School assembly news headlines today- August 22: Top national, sports and world news curated for you - bestcolleges.indiatoday.in"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "trump-rejects-irans-seven-day-roadmap-to-reopen-strait-of-hormuz-al-jazeera-1790443891",
   "category": "india",
   "headline": "Trump rejects Iran’s seven-day roadmap to reopen Strait of Hormuz - Al Jazeera",

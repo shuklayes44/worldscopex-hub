@@ -90,7 +90,42 @@ export const categories: Category[] = [
  * Never add illustrative or invented stories. A record may be made public only
  * after its verificationStatus is set to `verified` by the editorial workflow.
  */
-const articleRecords: Article[] = [];
+const articleRecords: Article[] = [
+  {
+  "slug": "trump-rejects-irans-seven-day-roadmap-to-reopen-strait-of-hormuz-al-jazeera-1790443891",
+  "category": "india",
+  "headline": "Trump rejects Iran’s seven-day roadmap to reopen Strait of Hormuz - Al Jazeera",
+  "dek": "US President Donald Trump has rejected Iran's proposed seven-day roadmap to reopen the Strait of Hormuz.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-09-26T17:31:31Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1790443889_2622.png",
+  "imageAlt": "Trump rejects Iran’s seven-day roadmap to reopen Strait of Hormuz - Al Jazeera",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Washington has officially turned down a seven-day proposal from Iran aimed at reopening the strategic Strait of Hormuz. The diplomatic rejection highlights persistent geopolitical tensions surrounding the vital maritime trade route. Observers note that the breakdown in discussions could lead to renewed military and economic friction in the region. Markets and international stakeholders are closely monitoring the situation as diplomatic efforts face mounting hurdles."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Trump rejects Iran’s seven-day roadmap to reopen Strait of Hormuz - Al Jazeera"
+    }
+  ],
+  "relatedStories": []
+}
+];
 
 const byNewest = (a: Article, b: Article) =>
   new Date(b.publishedAt).getTime() - new Date(a.publishedAt).getTime();

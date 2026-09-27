@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "ma-baby-meets-kejriwal-ahead-of-india-bloc-meeting-on-election-commission-the-hi-1790540819",
+  "category": "india",
+  "headline": "M.A. Baby meets Kejriwal ahead of INDIA bloc meeting on Election Commission - The Hindu",
+  "dek": "M.A. Baby meets Arvind Kejriwal ahead of the INDIA bloc meeting addressing the Election Commission.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-09-27T20:26:59Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1790540818_8422.png",
+  "imageAlt": "M.A. Baby meets Kejriwal ahead of INDIA bloc meeting on Election Commission - The Hindu",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Communist Party of India (Marxist) leader M.A. Baby has held discussions with Arvind Kejriwal ahead of the scheduled INDIA bloc meeting. The high-level political interaction centers directly on the functioning and recent controversies surrounding the Election Commission of India."
+    },
+    {
+      "type": "paragraph",
+      "text": "The consultations occur as political pressure mounts significantly on the Chief Poll Officer. Opposition parties are currently formulating plans for concerted institutional and political action in response to ongoing concerns about poll panel transparency."
+    },
+    {
+      "type": "paragraph",
+      "text": "Public scrutiny over the poll panel has intensified following disclosures regarding internal dissent. Reports indicate that over a 10-month period, two Election Commissioners objected on record to poll panel steps on 14 separate occasions."
+    },
+    {
+      "type": "paragraph",
+      "text": "Legal and political analysts continue to examine the constitutional provisions governing the removal of the Chief Election Commissioner and other poll panel members. These debates form a critical backdrop to the ongoing opposition strategy sessions."
+    },
+    {
+      "type": "paragraph",
+      "text": "The unfolding developments carry substantial policy and governance implications for the world's largest democracy ahead of future electoral cycles. Market participants and political observers are weighing the potential fallout of institutional friction on policy stability."
+    },
+    {
+      "type": "paragraph",
+      "text": "As the INDIA bloc convenes, attention remains fixed on whether opposition parties will announce a unified course of action regarding the election authority. Observers are closely watching for any formal declarations emerging from the multi-party consultations."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "M.A. Baby meets Kejriwal ahead of INDIA bloc meeting on Election Commission - The Hindu"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "sadc-ministers-meet-amid-growing-global-geopolitical-pressures-sabc-news-1790530768",
   "category": "geopolitics",
   "headline": "SADC ministers meet amid growing global geopolitical pressures - SABC News",

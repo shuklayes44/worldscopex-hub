@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "is-eci-correct-in-saying-supreme-court-upheld-its-new-form-6-declaration-live-la-1790544503",
+  "category": "india",
+  "headline": "Is ECI Correct In Saying Supreme Court Upheld Its New Form 6 Declaration? - Live Law",
+  "dek": "Legal questions arise over the Election Commission of India's claims regarding judicial backing for its new Form 6 declaration.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-09-27T21:28:23Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1790544501_3009.png",
+  "imageAlt": "Is ECI Correct In Saying Supreme Court Upheld Its New Form 6 Declaration? - Live Law",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Questions have been raised regarding whether the Election Commission of India (ECI) is correct in its assertion that the Supreme Court upheld its new Form 6 declaration. The development comes amid ongoing scrutiny of the poll body's administrative procedures and electoral roll revision processes."
+    },
+    {
+      "type": "paragraph",
+      "text": "The debate focuses on the interpretation of judicial pronouncements concerning the updated declaration forms utilized in voter registration. Observers and legal experts are closely examining the precise nature of the Supreme Court's observations regarding the ECI's recent press notes and policy updates."
+    },
+    {
+      "type": "paragraph",
+      "text": "In tandem with the declaration debate, related administrative updates indicate that election officials are scheduled to conduct targeted home visits for individuals who have been issued official notices. These procedural adjustments form part of the broader efforts surrounding electoral roll revisions managed by the commission."
+    },
+    {
+      "type": "paragraph",
+      "text": "The controversy underscores the sensitivity of administrative and legal processes governing voter enrollment in the country. Ensuring transparency and strict adherence to judicial guidelines remains a central concern for institutional stakeholders and the public alike."
+    },
+    {
+      "type": "paragraph",
+      "text": "Further clarity on the matter is expected as legal analysts and institutional representatives respond to the ongoing discussions. Stakeholders will continue to monitor official communications from both the judiciary and the election administration for definitive updates."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Is ECI Correct In Saying Supreme Court Upheld Its New Form 6 Declaration? - Live Law"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "ma-baby-meets-kejriwal-ahead-of-india-bloc-meeting-on-election-commission-the-hi-1790540819",
   "category": "india",
   "headline": "M.A. Baby meets Kejriwal ahead of INDIA bloc meeting on Election Commission - The Hindu",

@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "five-arrested-as-counter-terror-police-investigate-major-incident-near-raf-fairf-1790553475",
+  "category": "world",
+  "headline": "Five arrested as counter-terror police investigate major incident near RAF Fairford - BBC",
+  "dek": "Counter-terror police arrest five men and deploy bomb squads near RAF Fairford, a UK air base used by US forces.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-09-27T23:57:55Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1790553473_4415.png",
+  "imageAlt": "Five arrested as counter-terror police investigate major incident near RAF Fairford - BBC",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Counter-terrorism police in the United Kingdom have arrested five men following a major security incident near RAF Fairford. The arrests occurred during a specialized operation near the air base, which is frequently utilized by United States military forces."
+    },
+    {
+      "type": "paragraph",
+      "text": "Authorities deployed bomb disposal teams to search vans located in the immediate vicinity of the installation as the security operation unfolded. The presence of explosive ordnance disposal units underscored the severity of the threat being investigated by law enforcement."
+    },
+    {
+      "type": "paragraph",
+      "text": "The five suspects were detained on suspicion of terrorism offenses, according to initial reports from law enforcement and news agencies. Details regarding the exact nature of the suspected plot remain limited as the investigation proceeds."
+    },
+    {
+      "type": "paragraph",
+      "text": "A United States Republican representative has publicly expressed the belief that Iran may have been involved in the thwarted terrorist plan targeting the US air base in Britain. This diplomatic and political dimension adds heightened geopolitical scrutiny to the ongoing domestic security probe."
+    },
+    {
+      "type": "paragraph",
+      "text": "The incident has drawn international attention given the strategic importance of RAF Fairford and its role in joint UK-US military operations. Security officials and market observers are watching the situation for any broader implications regarding defense installations and regional stability."
+    },
+    {
+      "type": "paragraph",
+      "text": "Further updates are expected from British counter-terrorism authorities as forensic searches of the seized vehicles continue and the suspects undergo questioning. Investigators are working to determine the full scope of the plot and any potential wider network involved."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Five arrested as counter-terror police investigate major incident near RAF Fairford - BBC"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "powerful-noreaster-lashes-east-coast-with-rain-flooding-and-wind-cnn-1790551791",
   "category": "world",
   "headline": "Powerful nor’easter lashes East Coast with rain, flooding and wind - CNN",

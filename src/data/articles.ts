@@ -92,6 +92,65 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "bomb-squad-searching-vans-near-us-air-base-in-britain-as-five-men-arrested-on-te-1790549783",
+  "category": "world",
+  "headline": "Bomb squad searching vans near U.S. air base in Britain as five men arrested on terror charge - NBC News",
+  "dek": "Five men have been arrested on terrorism charges following a security operation and bomb squad searches near a UK air base used by U.S. bombers.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-09-27T22:56:23Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1790549781_6598.png",
+  "imageAlt": "Bomb squad searching vans near U.S. air base in Britain as five men arrested on terror charge - NBC News",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "British law enforcement authorities have arrested five men on suspicion of terrorism following a major security operation near a United Kingdom air base utilized by United States forces."
+    },
+    {
+      "type": "paragraph",
+      "text": "Bomb disposal units were deployed to the area to conduct thorough searches of multiple vans stationed near the strategic military facility."
+    },
+    {
+      "type": "paragraph",
+      "text": "The targeted air base plays a key role in operations involving U.S. bombers, raising the international profile of the security incident."
+    },
+    {
+      "type": "paragraph",
+      "text": "A U.S. Republican representative publicly stated a belief that Iran may have been involved in the thwarted terrorist plan targeting the allied air base."
+    },
+    {
+      "type": "paragraph",
+      "text": "The convergence of international defense assets and suspected state-backed threats has heightened alert levels across Western military installations in the region."
+    },
+    {
+      "type": "paragraph",
+      "text": "Authorities have not yet released specific details regarding the identities of the five suspects or the exact timeline of the disrupted plot."
+    },
+    {
+      "type": "paragraph",
+      "text": "Security agencies and intelligence officials are expected to release further updates as the investigation into the terror charges and potential foreign involvement progresses."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Bomb squad searching vans near U.S. air base in Britain as five men arrested on terror charge - NBC News"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "3-day-bank-strike-deferred-after-meeting-between-association-unions-ndtv-1790546937",
   "category": "india",
   "headline": "3-Day Bank Strike Deferred After Meeting Between Association, Unions - NDTV",

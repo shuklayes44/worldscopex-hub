@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "sadc-ministers-meet-amid-growing-global-geopolitical-pressures-sabc-news-1790530768",
+  "category": "geopolitics",
+  "headline": "SADC ministers meet amid growing global geopolitical pressures - SABC News",
+  "dek": "Southern African Development Community ministers meet to address mounting international geopolitical and economic pressures.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-09-27T17:39:28Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1790530767_4218.png",
+  "imageAlt": "SADC ministers meet amid growing global geopolitical pressures - SABC News",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "geopolitics"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Ministers from the Southern African Development Community have gathered for high-level discussions aimed at navigating increasing global geopolitical pressures. The regional bloc's assembly underscores growing international strategic complexities affecting developing economies and multilateral trade relationships."
+    },
+    {
+      "type": "paragraph",
+      "text": "The consultations center on formulating coordinated policy approaches to safeguard regional stability amidst shifting global alliances and external economic headwinds. Policymakers are evaluating strategic frameworks to enhance economic resilience and mitigate vulnerabilities linked to broader international market volatility."
+    },
+    {
+      "type": "paragraph",
+      "text": "For emerging markets and trade partners globally, regional diplomatic alignments carry significant implications for supply chain continuity and bilateral commerce. The deliberations reflect broader concerns among developing nations regarding the direct and indirect impacts of intensifying geopolitical realignments."
+    },
+    {
+      "type": "paragraph",
+      "text": "Stakeholders across the region are assessing how these diplomatic engagements will translate into actionable economic and security measures. The outcomes of the ministerial meeting are expected to guide the bloc's collective negotiating stance on international platforms."
+    },
+    {
+      "type": "paragraph",
+      "text": "Market participants and policy analysts continue to monitor the proceedings for indications of strategic shifts in regional trade policy. Observers note that coordinated diplomatic efforts remain essential for managing external pressures and maintaining domestic economic stability."
+    },
+    {
+      "type": "paragraph",
+      "text": "Future updates will depend on official resolutions and policy directives issued by the SADC ministerial council following the conclusion of the talks."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "SADC ministers meet amid growing global geopolitical pressures - SABC News"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "trump-revives-rare-budget-maneuver-to-rescind-810m-in-congressionally-approved-f-1790447779",
   "category": "world",
   "headline": "Trump revives rare budget maneuver to rescind $810M in congressionally approved funds - Fox News",

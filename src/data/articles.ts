@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "powerful-noreaster-lashes-east-coast-with-rain-flooding-and-wind-cnn-1790551791",
+  "category": "world",
+  "headline": "Powerful nor’easter lashes East Coast with rain, flooding and wind - CNN",
+  "dek": "A powerful nor'easter has struck the East Coast, bringing dangerous winds, heavy rain, and coastal flooding to the Northeast.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-09-27T23:29:51Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1790551789_2235.png",
+  "imageAlt": "Powerful nor’easter lashes East Coast with rain, flooding and wind - CNN",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "A powerful nor’easter has lashed the East Coast of the United States, bringing severe weather conditions marked by heavy rain, coastal flooding, and dangerous winds to the region."
+    },
+    {
+      "type": "paragraph",
+      "text": "Live updates and reports from the affected zones indicate that the deadly storm is significantly impacting the Northeast and the broader tri-state area."
+    },
+    {
+      "type": "paragraph",
+      "text": "The severe meteorological event has caused substantial coastal flooding, inundating low-lying areas and disrupting normal activity across the impacted corridor."
+    },
+    {
+      "type": "paragraph",
+      "text": "Emergency services and local authorities are responding to the hazards posed by the high winds and rising waters associated with the storm system."
+    },
+    {
+      "type": "paragraph",
+      "text": "Severe weather disruptions in major economic and logistical hubs can carry broader implications for insurance liabilities, regional supply chains, and travel networks."
+    },
+    {
+      "type": "paragraph",
+      "text": "Observers and safety officials will continue to track the storm's movement and assess the full extent of the property and infrastructure damage as conditions evolve."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Powerful nor’easter lashes East Coast with rain, flooding and wind - CNN"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "bomb-squad-searching-vans-near-us-air-base-in-britain-as-five-men-arrested-on-te-1790549783",
   "category": "world",
   "headline": "Bomb squad searching vans near U.S. air base in Britain as five men arrested on terror charge - NBC News",

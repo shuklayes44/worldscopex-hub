@@ -92,6 +92,65 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "3-day-bank-strike-deferred-after-meeting-between-association-unions-ndtv-1790546937",
+  "category": "india",
+  "headline": "3-Day Bank Strike Deferred After Meeting Between Association, Unions - NDTV",
+  "dek": "A planned three-day nationwide bank strike has been deferred following discussions between the banking association and labor unions.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-09-27T22:08:57Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1790546935_6045.png",
+  "imageAlt": "3-Day Bank Strike Deferred After Meeting Between Association, Unions - NDTV",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "A planned three-day nationwide bank strike has been officially deferred following discussions between the Indian bank association and labor unions, averting potential nationwide disruptions to the financial sector."
+    },
+    {
+      "type": "paragraph",
+      "text": "The proposed industrial action, which had been scheduled to begin on Monday, was put on hold after the latest round of talks between the bank body and employee representatives yielded a temporary resolution."
+    },
+    {
+      "type": "paragraph",
+      "text": "Had the nationwide strike proceeded as originally planned, essential financial services across India—including routine cash withdrawals, cash deposits, and interbank cheque clearing—would have suffered significant delays and operational disruptions."
+    },
+    {
+      "type": "paragraph",
+      "text": "The sudden suspension of the strike notice brings immediate relief to individual customers and commercial enterprises alike, who rely on uninterrupted access to banking infrastructure for daily transactions and liquidity management."
+    },
+    {
+      "type": "paragraph",
+      "text": "The development follows a complex backdrop of labor tensions and regional friction, highlighted by separate debates in areas like Mizoram, where local church bodies and civil society organizations had actively opposed any decisions to keep banks operational under disputed circumstances."
+    },
+    {
+      "type": "paragraph",
+      "text": "With the immediate threat of a three-day shutdown averted, attention now shifts back to the negotiating table as both the banking association and labor unions work toward addressing core employee grievances."
+    },
+    {
+      "type": "paragraph",
+      "text": "Financial markets, commercial stakeholders, and banking customers will closely monitor subsequent announcements from the organizing unions to see whether the strike has been permanently cancelled or merely postponed pending further talks."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "3-Day Bank Strike Deferred After Meeting Between Association, Unions - NDTV"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "is-eci-correct-in-saying-supreme-court-upheld-its-new-form-6-declaration-live-la-1790544503",
   "category": "india",
   "headline": "Is ECI Correct In Saying Supreme Court Upheld Its New Form 6 Declaration? - Live Law",

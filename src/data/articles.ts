@@ -92,6 +92,53 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "mexicos-pacific-coast-braces-for-hurricane-polo-bbccom-1790628231",
+  "category": "world",
+  "headline": "Mexico's Pacific coast braces for Hurricane Polo - bbc.com",
+  "dek": "Mexico's Pacific coast prepares for Hurricane Polo as Baja California faces landfall and flood risks loom.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-09-28T20:43:51Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1790628229_7366.png",
+  "imageAlt": "Mexico's Pacific coast braces for Hurricane Polo - bbc.com",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Mexico's Pacific coastline is bracing for the impact of Hurricane Polo as the weather system advances toward the coast. Coastal communities and regional authorities are preparing for deteriorating conditions and heightened hazards associated with the approaching storm."
+    },
+    {
+      "type": "paragraph",
+      "text": "Forecast projections indicate that Hurricane Polo is on track to make landfall along Baja California near Scorpion Bay. The anticipated impact threatens the surrounding region with hazardous coastal conditions, heavy precipitation, and turbulent seas."
+    },
+    {
+      "type": "paragraph",
+      "text": "Beyond the initial strike zone in Mexico, the storm system is expected to have broader regional consequences. Weather reports project that the remnants of Hurricane Polo will track inland, bringing a serious flood threat to the southwestern and central United States as the broader Pacific weather pattern remains active."
+    },
+    {
+      "type": "paragraph",
+      "text": "Emergency services and meteorological tracking centers continue to observe the trajectory and forward movement of the storm. Coastal residents and municipal agencies in the projected path are maintaining a close watch on advisories as landfall approaches."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Mexico's Pacific coast braces for Hurricane Polo - bbc.com"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "india-remains-among-the-fastest-growing-economies-even-as-growth-slows-amid-midd-1790625193",
   "category": "economy",
   "headline": "India Remains Among the Fastest-Growing Economies Even As Growth Slows Amid Middle East Conflict; Outlook Vulnerable to Risks and Uncertainty - World Bank Group",

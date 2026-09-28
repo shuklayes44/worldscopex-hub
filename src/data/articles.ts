@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "un-ambassador-waltz-says-iran-was-not-negotiating-in-good-faith-to-end-war-the-g-1790559711",
+  "category": "world",
+  "headline": "UN ambassador Waltz says Iran was not negotiating ‘in good faith’ to end war - The Guardian",
+  "dek": "US Ambassador Waltz accuses Iran of bad faith in war termination talks as truce proposals are rejected.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-09-28T01:41:51Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1790559709_3593.png",
+  "imageAlt": "UN ambassador Waltz says Iran was not negotiating ‘in good faith’ to end war - The Guardian",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "US Ambassador Waltz has publicly stated that Iran was not negotiating in good faith to bring an end to the ongoing military conflict. The assessment comes amid a broader diplomatic breakdown regarding proposals to halt hostilities in the region."
+    },
+    {
+      "type": "paragraph",
+      "text": "Alongside the ambassador's remarks, reports indicate that President Trump has officially rejected an Iranian ceasefire proposal. The rejected truce offer also encompassed provisions aimed at reopening the strategic Strait of Hormuz to international shipping."
+    },
+    {
+      "type": "paragraph",
+      "text": "Political analysts note that the administration now anticipates renewed military engagement and bombing following the midterm period. This rejection signals a hardening stance against the diplomatic overtures put forward by Tehran."
+    },
+    {
+      "type": "paragraph",
+      "text": "The impasse carries significant implications for regional security, global shipping lanes, and energy markets dependent on the Strait of Hormuz. Policymakers and market analysts are closely watching how the collapse of these negotiations will affect maritime stability and crude supplies."
+    },
+    {
+      "type": "paragraph",
+      "text": "As diplomatic channels appear increasingly constrained, attention turns to the timing and scale of potential military escalations. Stakeholders across international markets remain on high alert for further developments following the midterm elections."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "UN ambassador Waltz says Iran was not negotiating ‘in good faith’ to end war - The Guardian"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "top-world-leaders-to-attend-india-ai-impact-summit-in-new-delhi-next-week-newson-1790557116",
   "category": "world",
   "headline": "Top world leaders to attend India-AI Impact Summit in New Delhi next week - newsonair.gov.in",

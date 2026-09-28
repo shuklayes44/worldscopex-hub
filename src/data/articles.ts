@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "breaking-rape-cases-in-delhi-ncr-show-systematic-failure-of-police-administratio-1790594471",
+  "category": "india",
+  "headline": "BREAKING | Rape Cases In Delhi-NCR Show Systematic Failure Of Police & Administration : Supreme Court... - Live Law",
+  "dek": "Supreme Court takes suo motu cognisance of Delhi-NCR sexual assault cases, citing systemic administrative failures.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-09-28T11:21:11Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1790594468_7881.png",
+  "imageAlt": "BREAKING | Rape Cases In Delhi-NCR Show Systematic Failure Of Police & Administration : Supreme Court... - Live Law",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "The Supreme Court of India has initiated suo motu proceedings regarding recent sexual assault cases reported in the Delhi-NCR region, addressing critical systemic failures within local law enforcement and administrative bodies."
+    },
+    {
+      "type": "paragraph",
+      "text": "The apex court specifically flagged inadequate and lax patrolling by authorities, drawing sharp comparisons to the institutional lapses witnessed during the Nirbhaya case."
+    },
+    {
+      "type": "paragraph",
+      "text": "This intervention underscores mounting judicial scrutiny over public safety mechanisms and the accountability of law enforcement agencies in the national capital region."
+    },
+    {
+      "type": "paragraph",
+      "text": "Legal and policy analysts are closely watching the proceedings to assess potential directives aimed at reforming administrative protocols and police oversight."
+    },
+    {
+      "type": "paragraph",
+      "text": "Future developments will depend on the court's detailed observations and any mandated corrective measures for regional authorities."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "BREAKING | Rape Cases In Delhi-NCR Show Systematic Failure Of Police & Administration : Supreme Court... - Live Law"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "bill-gates-says-an-ai-kill-switch-isnt-enough-politico-1790590946",
   "category": "world",
   "headline": "Bill Gates says an AI ‘kill switch’ isn’t enough - Politico",

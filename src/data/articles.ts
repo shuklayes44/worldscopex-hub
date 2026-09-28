@@ -92,6 +92,53 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "indias-economic-growth-likely-slowed-to-71-in-april-june-quarter-poll-business-s-1790633946",
+  "category": "economy",
+  "headline": "India's economic growth likely slowed to 7.1% in April-June quarter: Poll - Business Standard",
+  "dek": "India's economic growth is projected to moderate to 7.1% in the April-June quarter.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-09-28T22:19:06Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1790633945_5493.png",
+  "imageAlt": "India's economic growth likely slowed to 7.1% in April-June quarter: Poll - Business Standard",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "economy"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "India's economic growth is expected to have slowed to 7.1% during the April-June quarter, according to a recent poll. The projected figure points to a moderation in the pace of expansion for the Indian economy during the period."
+    },
+    {
+      "type": "paragraph",
+      "text": "Quarterly gross domestic product readings remain a primary indicator for analysts assessing overall economic health and momentum. Policymakers and market observers rely on these metrics to understand shifting trends in domestic output."
+    },
+    {
+      "type": "paragraph",
+      "text": "A deceleration to 7.1% carries implications for broader financial markets, investment planning, and ongoing monetary policy assessments. Observers continue to evaluate how slowing growth may influence upcoming economic strategies."
+    },
+    {
+      "type": "paragraph",
+      "text": "Official data releases are expected to provide definitive figures regarding the quarter's actual performance. Stakeholders will analyze the finalized reports for further insight into India's economic trajectory."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "India's economic growth likely slowed to 7.1% in April-June quarter: Poll - Business Standard"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "trump-open-to-iran-sanctions-relief-for-concrete-progress-on-nuclear-issues-us-o-1790631788",
   "category": "india",
   "headline": "Trump open to Iran sanctions relief for ‘concrete progress’ on nuclear issues, US official says - cnn.com",

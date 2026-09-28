@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "sen-kennedy-says-no-living-politicians-should-have-buildings-named-after-them-af-1790596711",
+  "category": "world",
+  "headline": "Sen Kennedy says no living politicians should have buildings named after them after Trump's moves - Fox News",
+  "dek": "US Senator John Kennedy proposes banning public building names for living politicians amid broader scrutiny over executive branding.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-09-28T11:58:31Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1790596709_8651.png",
+  "imageAlt": "Sen Kennedy says no living politicians should have buildings named after them after Trump's moves - Fox News",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "United States Senator John Kennedy has stated that no living politicians should have public buildings named after them following recent actions involving Donald Trump. The legislative stance arrives amid heightened political discussion concerning the naming conventions of public infrastructure and federal properties."
+    },
+    {
+      "type": "paragraph",
+      "text": "The policy debate intersects with broader scrutiny surrounding taxpayer-funded public service announcements and official media releases. Observers note that administrative communications continue to face rigorous review from lawmakers regarding their use of public funds ahead of upcoming midterms."
+    },
+    {
+      "type": "paragraph",
+      "text": "Federal transparency advocates have frequently raised concerns over the blending of official government communication with political messaging. The latest remarks from Capitol Hill underscore ongoing bipartisan sensitivities surrounding executive branch expenditures and visibility campaigns."
+    },
+    {
+      "type": "paragraph",
+      "text": "As congressional attention focuses on federal oversight, policymakers are weighing potential restrictions on administrative promotions. The discussions highlight systemic questions regarding the appropriate boundaries of state-funded media and public property designations."
+    },
+    {
+      "type": "paragraph",
+      "text": "Further parliamentary debate and committee reviews are anticipated as lawmakers assess potential legislative measures to regulate public building designations and executive communications."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Sen Kennedy says no living politicians should have buildings named after them after Trump's moves - Fox News"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "breaking-rape-cases-in-delhi-ncr-show-systematic-failure-of-police-administratio-1790594471",
   "category": "india",
   "headline": "BREAKING | Rape Cases In Delhi-NCR Show Systematic Failure Of Police & Administration : Supreme Court... - Live Law",

@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "prosecutor-reopens-probe-into-cornell-gang-rape-allegations-after-accuser-files-1790639724",
+  "category": "world",
+  "headline": "Prosecutor reopens probe into Cornell gang rape allegations after accuser files lawsuit - PBS",
+  "dek": "District attorney reopens the 2024 Cornell gang rape probe after the accuser files a lawsuit.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-09-28T23:55:24Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1790639723_9022.png",
+  "imageAlt": "Prosecutor reopens probe into Cornell gang rape allegations after accuser files lawsuit - PBS",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "The district attorney has officially reopened an investigation into gang rape allegations at Cornell University. The decision follows a civil lawsuit filed by the accuser."
+    },
+    {
+      "type": "paragraph",
+      "text": "The renewed inquiry centers on 2024 sexual assault allegations involving a fraternity on campus. The case has drawn intense public scrutiny following investigative media reports."
+    },
+    {
+      "type": "paragraph",
+      "text": "CBS News previously obtained exclusive video footage of a fraternity text chain allegedly connected to the incident. This evidence has added momentum to the ongoing legal and institutional examination."
+    },
+    {
+      "type": "paragraph",
+      "text": "Cornell University has faced mounting pressure regarding its handling of the allegations and campus safety protocols. University statements on the matter remain a point of focus for legal observers."
+    },
+    {
+      "type": "paragraph",
+      "text": "The reopening of the criminal probe alongside the civil litigation increases potential legal exposure for those involved. Stakeholders are monitoring how university administration and local law enforcement will respond."
+    },
+    {
+      "type": "paragraph",
+      "text": "Further updates are anticipated as prosecutors review the file and potential next steps in the legal proceedings unfold."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Prosecutor reopens probe into Cornell gang rape allegations after accuser files lawsuit - PBS"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "new-york-times-executive-fatally-shot-by-his-in-laws-in-bay-area-park-police-say-1790637877",
   "category": "world",
   "headline": "New York Times executive fatally shot by his in-laws in Bay Area park, police say - NBC News",

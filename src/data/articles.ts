@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "new-york-times-executive-fatally-shot-by-his-in-laws-in-bay-area-park-police-say-1790637877",
+  "category": "world",
+  "headline": "New York Times executive fatally shot by his in-laws in Bay Area park, police say - NBC News",
+  "dek": "Dublin police in the Bay Area arrest a married couple for allegedly shooting and killing their son-in-law.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-09-28T23:24:37Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1790637875_3492.png",
+  "imageAlt": "New York Times executive fatally shot by his in-laws in Bay Area park, police say - NBC News",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Dublin police have arrested a married couple following the fatal shooting of their son-in-law at a park in the Bay Area, according to law enforcement officials."
+    },
+    {
+      "type": "paragraph",
+      "text": "The victim has been identified as a New York Times executive who served as the publication's games engineering director."
+    },
+    {
+      "type": "paragraph",
+      "text": "Authorities took the parents-in-law into custody as the primary suspects in connection with the homicide at the public park."
+    },
+    {
+      "type": "paragraph",
+      "text": "The high-profile nature of the victim's employment with The New York Times has drawn widespread national attention to the ongoing local police investigation."
+    },
+    {
+      "type": "paragraph",
+      "text": "Investigators continue to process evidence from the scene as the community awaits further official updates from law enforcement authorities regarding the suspects and the motive behind the shooting."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "New York Times executive fatally shot by his in-laws in Bay Area park, police say - NBC News"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "plea-in-supreme-court-to-suspend-gyanesh-kumar-as-cec-declare-eci-decisions-cann-1790635269",
   "category": "india",
   "headline": "Plea In Supreme Court To Suspend Gyanesh Kumar As CEC, Declare ECI Decisions Cannot Be Taken Unilaterally - Live Law",

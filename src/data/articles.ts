@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "trump-asked-xi-in-white-house-if-china-wants-to-buy-american-weapons-envoy-ndtv-1790619588",
+  "category": "india",
+  "headline": "Trump Asked Xi In White House If China Wants To Buy American Weapons: Envoy - NDTV",
+  "dek": "Former US President Trump reportedly asked Chinese President Xi Jinping if Beijing wanted to buy American weapons during a White House meeting.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-09-28T18:19:48Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1790619586_1798.png",
+  "imageAlt": "Trump Asked Xi In White House If China Wants To Buy American Weapons: Envoy - NDTV",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Former US President Donald Trump reportedly asked Chinese President Xi Jinping during a White House meeting if Beijing wanted to buy American weapons, according to a recent envoy disclosure."
+    },
+    {
+      "type": "paragraph",
+      "text": "The reported overture represents an unusual policy pivot, shifting traditional strategic discourse from containment to potential commercial commerce involving defense technology."
+    },
+    {
+      "type": "paragraph",
+      "text": "The move to potentially sell arms to a geopolitical adversary has raised questions regarding long-standing US security frameworks and export policy guidelines."
+    },
+    {
+      "type": "paragraph",
+      "text": "Analysts are examining how such proposals align with broader diplomatic efforts and whether they indicate a fundamental change in bilateral defense strategy."
+    },
+    {
+      "type": "paragraph",
+      "text": "The reported exchange highlights the complex interplay between commercial interests and national security concerns in US-China relations."
+    },
+    {
+      "type": "paragraph",
+      "text": "Stakeholders and policymakers will continue to monitor bilateral discussions for any further signals regarding defense trade or policy adjustments."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Trump Asked Xi In White House If China Wants To Buy American Weapons: Envoy - NDTV"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "here-is-how-supreme-court-plans-to-recover-unpaid-traffic-challans-bar-and-bench-1790617972",
   "category": "india",
   "headline": "Here is how Supreme Court plans to recover unpaid traffic challans - Bar and Bench",

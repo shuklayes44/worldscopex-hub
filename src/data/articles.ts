@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "white-house-expands-taxpayer-paid-ad-campaign-boosting-trump-the-washington-post-1790588718",
+  "category": "world",
+  "headline": "White House expands taxpayer-paid ad campaign boosting Trump - The Washington Post",
+  "dek": "The White House expands a taxpayer-funded ad campaign to promote President Trump, raising legal and ethical questions.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-09-28T09:45:18Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1790588717_5464.png",
+  "imageAlt": "White House expands taxpayer-paid ad campaign boosting Trump - The Washington Post",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "The White House has officially expanded a taxpayer-funded advertising campaign designed to boost President Trump, drawing immediate scrutiny from legal experts and political observers alike. The initiative utilizes public funds for promotional messaging that critics argue crosses ethical and legal lines regarding the use of government resources for political positioning."
+    },
+    {
+      "type": "paragraph",
+      "text": "The campaign's expansion comes on the heels of a taxpayer-funded video release that portrays the president in a strongman context, further fueling a political storm in Washington. Lawmakers and ethics watchdogs have raised significant questions regarding the legality of financing such promotional efforts with federal revenues."
+    },
+    {
+      "type": "paragraph",
+      "text": "The controversy has also prompted broader legislative reactions, with lawmakers expressing concern over the growing use of political figures in federally funded projects and public spaces. Discussions are now centering on whether existing statutes adequately prevent the partisan use of taxpayer dollars."
+    },
+    {
+      "type": "paragraph",
+      "text": "As the administration defends the initiative, legal scholars are examining potential challenges to the expenditure. The debate highlights ongoing tensions over the appropriate use of public funds for executive branch communications and self-promotion."
+    },
+    {
+      "type": "paragraph",
+      "text": "Monitoring groups and political opponents are expected to escalate their inquiries into the total cost and authorization process behind the ad campaign. Future oversight hearings may address the need for stricter guidelines on federal advertising and promotional budgets."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "White House expands taxpayer-paid ad campaign boosting Trump - The Washington Post"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "ai-bubble-fears-are-starting-to-spill-over-futurism-1790585302",
   "category": "technology",
   "headline": "AI Bubble Fears Are Starting to Spill Over - Futurism",

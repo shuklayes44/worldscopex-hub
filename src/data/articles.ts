@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "trump-open-to-iran-sanctions-relief-for-concrete-progress-on-nuclear-issues-us-o-1790631788",
+  "category": "india",
+  "headline": "Trump open to Iran sanctions relief for ‘concrete progress’ on nuclear issues, US official says - cnn.com",
+  "dek": "US officials confirm Trump is open to Iran sanctions relief for concrete nuclear progress.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-09-28T21:43:08Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1790631786_3268.png",
+  "imageAlt": "Trump open to Iran sanctions relief for ‘concrete progress’ on nuclear issues, US official says - cnn.com",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "United States officials have indicated that Donald Trump is open to providing Iran with economic sanctions relief in exchange for concrete progress on nuclear issues, according to recent reports. The potential diplomatic opening centers on offering economic relief to Iran specifically for concrete nuclear concessions."
+    },
+    {
+      "type": "paragraph",
+      "text": "Despite this openness from the US side, sources involved in the negotiations have cautioned that current gaps between the parties remain wide and the obstacles to a formal agreement are significant. The diplomatic landscape continues to present complex challenges for mediators attempting to bridge differing positions."
+    },
+    {
+      "type": "paragraph",
+      "text": "The possibility of sanctions relief holds substantial implications for global energy markets and geopolitical stability in the Middle East. Shifts in Iranian oil supply resulting from altered sanctions policies typically influence international crude prices and broader economic indicators."
+    },
+    {
+      "type": "paragraph",
+      "text": "Analysts and market watchers are closely tracking the diplomatic efforts to see if either side can overcome the significant obstacles identified by US sources. The trajectory of these talks will likely dictate the immediate future of US-Iran economic and diplomatic relations."
+    },
+    {
+      "type": "paragraph",
+      "text": "Further developments will depend on whether Tehran is willing to implement the concrete progress on nuclear issues demanded by Washington. Stakeholders across global markets remain vigilant as negotiations continue to navigate these wide policy gaps."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Trump open to Iran sanctions relief for ‘concrete progress’ on nuclear issues, US official says - cnn.com"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "stock-market-live-updates-today-bse-sensex-tumbles-over-1000-points-nse-nifty50-1790630212",
   "category": "economy",
   "headline": "Stock market live updates today: BSE Sensex tumbles over 1,000 points, NSE Nifty50 trades below 22,900 - The Times of India",

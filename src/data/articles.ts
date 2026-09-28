@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "bill-gates-says-an-ai-kill-switch-isnt-enough-politico-1790590946",
+  "category": "world",
+  "headline": "Bill Gates says an AI ‘kill switch’ isn’t enough - Politico",
+  "dek": "Bill Gates warns unchecked AI could cause a billion deaths and calls for immediate regulatory safeguards.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-09-28T10:22:26Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1790590945_6068.png",
+  "imageAlt": "Bill Gates says an AI ‘kill switch’ isn’t enough - Politico",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Microsoft co-founder Bill Gates has publicly stated that an artificial intelligence kill switch is insufficient to guarantee safety, warning that unchecked AI development could lead to extreme global consequences."
+    },
+    {
+      "type": "paragraph",
+      "text": "In a significant policy intervention, Gates asserted that the technology carries the potential to cause up to a billion deaths if left entirely unregulated."
+    },
+    {
+      "type": "paragraph",
+      "text": "The prominent technologist used his warnings to directly contradict Donald Trump, arguing that the former president is wrong to hold out against the implementation of formal AI safeguards."
+    },
+    {
+      "type": "paragraph",
+      "text": "Gates maintained that safety concerns surrounding advanced automation and machine intelligence are entirely legitimate rather than a hoax, signaling a sharp division among influential political and business figures."
+    },
+    {
+      "type": "paragraph",
+      "text": "The ongoing debate underscores the widening rift between industry pioneers over how strictly artificial intelligence should be monitored and controlled by governments worldwide."
+    },
+    {
+      "type": "paragraph",
+      "text": "As technology leaders and political figures clash over oversight policies, the focus turns to whether lawmakers will institute mandatory global safety frameworks for the sector."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Bill Gates says an AI ‘kill switch’ isn’t enough - Politico"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "white-house-expands-taxpayer-paid-ad-campaign-boosting-trump-the-washington-post-1790588718",
   "category": "world",
   "headline": "White House expands taxpayer-paid ad campaign boosting Trump - The Washington Post",

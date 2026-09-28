@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "indias-economic-growth-likely-slowed-to-71-in-april-june-quarter-poll-business-s-1790575097",
+  "category": "economy",
+  "headline": "India's economic growth likely slowed to 7.1% in April-June quarter: Poll - Business Standard",
+  "dek": "A recent poll indicates India's economic growth likely moderated to 7.1% during the April-June quarter.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-09-28T05:58:17Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1790575095_6672.png",
+  "imageAlt": "India's economic growth likely slowed to 7.1% in April-June quarter: Poll - Business Standard",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "economy"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "India's economic growth is projected to have slowed to 7.1% in the April-June quarter, according to recent polling data."
+    },
+    {
+      "type": "paragraph",
+      "text": "The estimate points toward a shifting pace of expansion for the broader Indian economy as policymakers monitor incoming indicators."
+    },
+    {
+      "type": "paragraph",
+      "text": "Quarterly gross domestic product figures serve as a critical yardstick for assessing the nation's macroeconomic performance and industrial output."
+    },
+    {
+      "type": "paragraph",
+      "text": "Financial markets and analysts track these updates closely to evaluate the trajectory of domestic demand and business investment."
+    },
+    {
+      "type": "paragraph",
+      "text": "Official reports and forthcoming data releases are expected to provide definitive figures on the quarterly economic performance."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "India's economic growth likely slowed to 7.1% in April-June quarter: Poll - Business Standard"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "un-ambassador-waltz-says-iran-was-not-negotiating-in-good-faith-to-end-war-the-g-1790559711",
   "category": "world",
   "headline": "UN ambassador Waltz says Iran was not negotiating ‘in good faith’ to end war - The Guardian",

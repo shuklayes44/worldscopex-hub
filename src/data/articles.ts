@@ -92,6 +92,65 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "sensex-nifty50-plunge-nifty-bank-drops-over-1000-pts-5-factors-behind-mondays-ma-1790623935",
+  "category": "india",
+  "headline": "SENSEX, NIFTY50 plunge, NIFTY Bank drops over 1,000 pts; 5 factors behind Monday’s market crash - Upstox",
+  "dek": "Indian benchmark indices Sensex and Nifty50 plunge to a six-month low amid mounting geopolitical tensions.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-09-28T19:32:15Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1790623933_2275.png",
+  "imageAlt": "SENSEX, NIFTY50 plunge, NIFTY Bank drops over 1,000 pts; 5 factors behind Monday’s market crash - Upstox",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Indian benchmark indices Sensex and Nifty50 experienced a sharp market crash on Monday, triggered by escalating West Asia worries and mounting investor anxiety."
+    },
+    {
+      "type": "paragraph",
+      "text": "The Sensex crashed 1,124.02 points, while the Nifty Bank index suffered a heavy blow by dropping over 1,000 points in the trading session."
+    },
+    {
+      "type": "paragraph",
+      "text": "This downturn marks the third 1% plunge recorded across the domestic benchmark indices over the last 10 trading sessions."
+    },
+    {
+      "type": "paragraph",
+      "text": "The broader market correction has pushed the Sensex down to a six-month low, with the index tanking 5% over the course of a single month."
+    },
+    {
+      "type": "paragraph",
+      "text": "As a result of the sharp depreciation across equities, investors have collectively lost approximately Rs 17 lakh crore."
+    },
+    {
+      "type": "paragraph",
+      "text": "Market analysts continue to evaluate the five key factors behind Monday's crash as global uncertainties weigh heavily on domestic sentiment."
+    },
+    {
+      "type": "paragraph",
+      "text": "Investors and stakeholders are now watching for further updates on geopolitical developments and upcoming macroeconomic cues to gauge market stability."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "SENSEX, NIFTY50 plunge, NIFTY Bank drops over 1,000 pts; 5 factors behind Monday’s market crash - Upstox"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "record-breaking-heat-and-extreme-weather-continue-world-meteorological-organizat-1790620614",
   "category": "world",
   "headline": "Record-breaking heat and extreme weather continue - World Meteorological Organization WMO",

@@ -92,6 +92,65 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "tear-gas-lathi-charge-in-protesters-vs-cops-over-ujjain-mosque-removal-ndtv-1790580716",
+  "category": "india",
+  "headline": "Tear Gas, Lathi Charge In Protesters vs Cops Over Ujjain Mosque Removal - NDTV",
+  "dek": "Police deploy tear gas and a lathi charge amid protests over a mosque removal in Ujjain.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-09-28T07:31:56Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1790580714_2074.png",
+  "imageAlt": "Tear Gas, Lathi Charge In Protesters vs Cops Over Ujjain Mosque Removal - NDTV",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Clashes broke out between protesters and police forces in Ujjain, prompting law enforcement to deploy tear gas and conduct a lathi charge to control the crowd."
+    },
+    {
+      "type": "paragraph",
+      "text": "The unrest is directly linked to ongoing tensions surrounding the removal of a mosque and a local road-widening project."
+    },
+    {
+      "type": "paragraph",
+      "text": "Reports indicate that stone pelting and security deployments marked a tense night for local residents who gathered ahead of a scheduled court hearing."
+    },
+    {
+      "type": "paragraph",
+      "text": "The Madhya Pradesh Chief Minister's involvement in the road-widening project has further heightened local attention on the development."
+    },
+    {
+      "type": "paragraph",
+      "text": "The incident highlights the sensitive intersection of urban infrastructure projects, heritage sites, and community relations in the region."
+    },
+    {
+      "type": "paragraph",
+      "text": "Authorities continue to maintain a heavy security presence in the area to manage public safety as the situation remains fluid."
+    },
+    {
+      "type": "paragraph",
+      "text": "Observers and residents await further legal developments and official updates regarding the court hearing and the contested project."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Tear Gas, Lathi Charge In Protesters vs Cops Over Ujjain Mosque Removal - NDTV"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "indias-economic-growth-likely-slowed-to-71-in-april-june-quarter-poll-business-s-1790575097",
   "category": "economy",
   "headline": "India's economic growth likely slowed to 7.1% in April-June quarter: Poll - Business Standard",

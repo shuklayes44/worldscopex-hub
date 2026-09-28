@@ -92,6 +92,65 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "here-is-how-supreme-court-plans-to-recover-unpaid-traffic-challans-bar-and-bench-1790617972",
+  "category": "india",
+  "headline": "Here is how Supreme Court plans to recover unpaid traffic challans - Bar and Bench",
+  "dek": "The Supreme Court suggests recovering Rs 20,000 crore in unpaid traffic fines by linking challans to electricity bills.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-09-28T17:52:52Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1790617970_6725.png",
+  "imageAlt": "Here is how Supreme Court plans to recover unpaid traffic challans - Bar and Bench",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "The Supreme Court of India has proposed a novel recovery mechanism to address the accumulation of unpaid e-traffic challans across the country, according to reports from Bar and Bench, The Economic Times, and The Times of India."
+    },
+    {
+      "type": "paragraph",
+      "text": "Under the suggested framework, authorities would recover pending traffic fines by linking them directly to consumers' electricity bills."
+    },
+    {
+      "type": "paragraph",
+      "text": "Reports indicate that approximately Rs 20,000 crore in e-traffic challan dues currently remain pending and uncollected through conventional legal and administrative enforcement channels."
+    },
+    {
+      "type": "paragraph",
+      "text": "The proposed system aims to utilize essential household utility payments to compel the settlement of outstanding municipal and traffic penalties."
+    },
+    {
+      "type": "paragraph",
+      "text": "By integrating traffic fine collection with electricity billing systems, the judiciary intends to streamline revenue recovery and reduce administrative burdens on courts."
+    },
+    {
+      "type": "paragraph",
+      "text": "Legal analysts and policymakers are expected to assess the feasibility and regulatory implications of merging utility services with traffic enforcement mandates."
+    },
+    {
+      "type": "paragraph",
+      "text": "Further details regarding the implementation timeline and operational framework for the electricity bill linkage are anticipated as judicial proceedings continue."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Here is how Supreme Court plans to recover unpaid traffic challans - Bar and Bench"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "sen-kennedy-says-no-living-politicians-should-have-buildings-named-after-them-af-1790596711",
   "category": "world",
   "headline": "Sen Kennedy says no living politicians should have buildings named after them after Trump's moves - Fox News",

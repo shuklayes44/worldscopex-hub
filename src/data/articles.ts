@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "plea-in-supreme-court-to-suspend-gyanesh-kumar-as-cec-declare-eci-decisions-cann-1790635269",
+  "category": "india",
+  "headline": "Plea In Supreme Court To Suspend Gyanesh Kumar As CEC, Declare ECI Decisions Cannot Be Taken Unilaterally - Live Law",
+  "dek": "A new Supreme Court plea seeks to suspend CEC Gyanesh Kumar and mandate collective decision-making within the Election Commission of India.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-09-28T22:41:09Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1790635268_7519.png",
+  "imageAlt": "Plea In Supreme Court To Suspend Gyanesh Kumar As CEC, Declare ECI Decisions Cannot Be Taken Unilaterally - Live Law",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "A significant legal challenge has been lodged in the Supreme Court of India, seeking the suspension of Gyanesh Kumar as Chief Election Commissioner. The plea asks the judiciary to formally declare that decisions by the Election Commission of India (ECI) cannot be taken unilaterally by the leadership."
+    },
+    {
+      "type": "paragraph",
+      "text": "The petition follows heightened scrutiny over the functioning of the poll panel. Records indicate that over a 10-month period, two Election Commissioners objected on record to election panel steps on 14 separate occasions."
+    },
+    {
+      "type": "paragraph",
+      "text": "Beyond the legal filing, the controversy has spilled into the political arena. The Congress party has held protests across Maharashtra demanding the removal of Gyanesh Kumar amid broader concerns over electoral administration."
+    },
+    {
+      "type": "paragraph",
+      "text": "The debate surrounding administrative transparency touches upon sensitive electoral processes. While discussions have involved voter deletions, the core institutional friction centers on whether internal poll panel decisions require broader consensus."
+    },
+    {
+      "type": "paragraph",
+      "text": "As the matter moves toward judicial review, the Supreme Court's response will establish critical legal precedents for the governance and autonomy of India's central electoral machinery."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Plea In Supreme Court To Suspend Gyanesh Kumar As CEC, Declare ECI Decisions Cannot Be Taken Unilaterally - Live Law"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "indias-economic-growth-likely-slowed-to-71-in-april-june-quarter-poll-business-s-1790633946",
   "category": "economy",
   "headline": "India's economic growth likely slowed to 7.1% in April-June quarter: Poll - Business Standard",

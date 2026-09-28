@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "stock-market-live-updates-today-bse-sensex-tumbles-over-1000-points-nse-nifty50-1790630212",
+  "category": "economy",
+  "headline": "Stock market live updates today: BSE Sensex tumbles over 1,000 points, NSE Nifty50 trades below 22,900 - The Times of India",
+  "dek": "Indian benchmark indices tumbled sharply, with the BSE Sensex dropping over 1,000 points and the Nifty50 falling below 22,900.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-09-28T21:16:52Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1790630210_7252.png",
+  "imageAlt": "Stock market live updates today: BSE Sensex tumbles over 1,000 points, NSE Nifty50 trades below 22,900 - The Times of India",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "economy"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Indian financial markets faced significant downward pressure during the trading session, resulting in a steep correction across major benchmark indices."
+    },
+    {
+      "type": "paragraph",
+      "text": "The benchmark BSE Sensex tumbled by more than 1,000 points, driven by heavy selling across multiple heavy-weight sectors."
+    },
+    {
+      "type": "paragraph",
+      "text": "Concurrently, the broader NSE Nifty50 index breached key support levels, sliding below the 22,900 mark amid heightened market volatility."
+    },
+    {
+      "type": "paragraph",
+      "text": "The sharp market downturn reflects prevailing caution among investors as they reassess portfolio risk and market valuations."
+    },
+    {
+      "type": "paragraph",
+      "text": "Market analysts and participants are closely tracking ongoing developments, institutional flows, and broader macroeconomic indicators to gauge near-term market trajectory."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Stock market live updates today: BSE Sensex tumbles over 1,000 points, NSE Nifty50 trades below 22,900 - The Times of India"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "mexicos-pacific-coast-braces-for-hurricane-polo-bbccom-1790628231",
   "category": "world",
   "headline": "Mexico's Pacific coast braces for Hurricane Polo - bbc.com",

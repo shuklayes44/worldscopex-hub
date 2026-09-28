@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "india-remains-among-the-fastest-growing-economies-even-as-growth-slows-amid-midd-1790625193",
+  "category": "economy",
+  "headline": "India Remains Among the Fastest-Growing Economies Even As Growth Slows Amid Middle East Conflict; Outlook Vulnerable to Risks and Uncertainty - World Bank Group",
+  "dek": "World Bank reports India remains among the fastest-growing economies despite a growth slowdown linked to Middle East conflicts.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-09-28T19:53:13Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1790625191_3122.png",
+  "imageAlt": "India Remains Among the Fastest-Growing Economies Even As Growth Slows Amid Middle East Conflict; Outlook Vulnerable to Risks and Uncertainty - World Bank Group",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "economy"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "The World Bank Group has stated that India continues to rank among the fastest-growing major economies globally, according to its latest economic assessments."
+    },
+    {
+      "type": "paragraph",
+      "text": "This resilience persists despite a noticeable deceleration in growth momentum, which the institution links directly to the ongoing conflict in the Middle East."
+    },
+    {
+      "type": "paragraph",
+      "text": "Geopolitical instability and regional tensions are creating headwinds that affect trade, supply chains, and broader economic activity."
+    },
+    {
+      "type": "paragraph",
+      "text": "Even with these moderating growth figures, India's economic output continues to outperform many of its global peers in terms of expansion speed."
+    },
+    {
+      "type": "paragraph",
+      "text": "Nevertheless, the World Bank cautions that the country's overall economic outlook remains vulnerable to persistent external risks and heightened global uncertainty."
+    },
+    {
+      "type": "paragraph",
+      "text": "Analysts and market observers are closely tracking these geopolitical developments to gauge potential impacts on macroeconomic stability and trade flows moving forward."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "India Remains Among the Fastest-Growing Economies Even As Growth Slows Amid Middle East Conflict; Outlook Vulnerable to Risks and Uncertainty - World Bank Group"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "sensex-nifty50-plunge-nifty-bank-drops-over-1000-pts-5-factors-behind-mondays-ma-1790623935",
   "category": "india",
   "headline": "SENSEX, NIFTY50 plunge, NIFTY Bank drops over 1,000 pts; 5 factors behind Monday’s market crash - Upstox",

@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "top-world-leaders-to-attend-india-ai-impact-summit-in-new-delhi-next-week-newson-1790557116",
+  "category": "world",
+  "headline": "Top world leaders to attend India-AI Impact Summit in New Delhi next week - newsonair.gov.in",
+  "dek": "Global leaders will convene in New Delhi next week for the upcoming India-AI Impact Summit.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-09-28T00:58:36Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1790557115_4157.png",
+  "imageAlt": "Top world leaders to attend India-AI Impact Summit in New Delhi next week - newsonair.gov.in",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Top world leaders are scheduled to arrive in New Delhi next week to participate in the India-AI Impact Summit, according to official reports."
+    },
+    {
+      "type": "paragraph",
+      "text": "The high-level international gathering will bring together prominent figures to address critical developments in the artificial intelligence sector."
+    },
+    {
+      "type": "paragraph",
+      "text": "Discussions at the summit are expected to center around the future trajectory of AI technologies and their broader socioeconomic implications."
+    },
+    {
+      "type": "paragraph",
+      "text": "As a major emerging economy, India's hosting of the summit underscores its increasing prominence in international technology policy discussions."
+    },
+    {
+      "type": "paragraph",
+      "text": "Stakeholders and policymakers will be closely watching the proceedings for potential collaborative frameworks and strategic partnerships."
+    },
+    {
+      "type": "paragraph",
+      "text": "Future developments from the summit are anticipated to influence regulatory approaches to artificial intelligence across multiple jurisdictions."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Top world leaders to attend India-AI Impact Summit in New Delhi next week - newsonair.gov.in"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "five-arrested-as-counter-terror-police-investigate-major-incident-near-raf-fairf-1790553475",
   "category": "world",
   "headline": "Five arrested as counter-terror police investigate major incident near RAF Fairford - BBC",

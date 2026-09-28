@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "ai-bubble-fears-are-starting-to-spill-over-futurism-1790585302",
+  "category": "technology",
+  "headline": "AI Bubble Fears Are Starting to Spill Over - Futurism",
+  "dek": "Growing financial concerns surrounding artificial intelligence valuations are beginning to impact broader technology markets and investor sentiment.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-09-28T08:48:22Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1790585300_6087.png",
+  "imageAlt": "AI Bubble Fears Are Starting to Spill Over - Futurism",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "technology"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Financial markets and technology sectors are closely monitoring rising anxiety over artificial intelligence valuations, as initial sector-specific concerns begin to spread into wider economic domains. The development marks a potential shift in how investors and institutions evaluate the sustainability of rapid capital deployment within the technology industry."
+    },
+    {
+      "type": "paragraph",
+      "text": "Market observers note that speculative enthusiasm, which has long driven substantial funding rounds and soaring stock valuations for AI-focused entities, is encountering increased scrutiny. Analysts are evaluating whether current spending levels on infrastructure and computational resources align with immediate revenue generation capabilities."
+    },
+    {
+      "type": "paragraph",
+      "text": "The broader impact of these valuation fears is expected to influence venture capital strategies, corporate research budgets, and broader technology sector performance. Stakeholders across the global digital economy are reassessing risk parameters amid shifting macroeconomic conditions and changing investor expectations."
+    },
+    {
+      "type": "paragraph",
+      "text": "For international technology markets, including hubs tied to global software and hardware supply chains, these valuation corrections could prompt a more conservative approach to funding innovation. Policymakers and industry leaders will likely scrutinize upcoming corporate disclosures and market indicators for further signs of adjustment."
+    },
+    {
+      "type": "paragraph",
+      "text": "As the technology sector navigates these emerging concerns, market participants remain focused on underlying fundamentals and the pace of commercial adoption. Observers will continue tracking financial reports and venture capital trends to gauge the long-term trajectory of artificial intelligence investments."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "AI Bubble Fears Are Starting to Spill Over - Futurism"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "tear-gas-lathi-charge-in-protesters-vs-cops-over-ujjain-mosque-removal-ndtv-1790580716",
   "category": "india",
   "headline": "Tear Gas, Lathi Charge In Protesters vs Cops Over Ujjain Mosque Removal - NDTV",

@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "record-breaking-heat-and-extreme-weather-continue-world-meteorological-organizat-1790620614",
+  "category": "world",
+  "headline": "Record-breaking heat and extreme weather continue - World Meteorological Organization WMO",
+  "dek": "The World Meteorological Organization reports that record-breaking heat and extreme weather are persisting worldwide.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-09-28T18:36:54Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1790620612_9642.png",
+  "imageAlt": "Record-breaking heat and extreme weather continue - World Meteorological Organization WMO",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "The World Meteorological Organization has confirmed that record-breaking heat and extreme weather events are continuing across global regions."
+    },
+    {
+      "type": "paragraph",
+      "text": "This persistence of severe weather underscores ongoing shifts in long-term global climate patterns."
+    },
+    {
+      "type": "paragraph",
+      "text": "Continued high temperatures can exert significant pressure on agricultural yields, water reserves, and energy grids internationally."
+    },
+    {
+      "type": "paragraph",
+      "text": "Economists and policymakers closely analyze these weather trends for their potential disruptions to global markets and supply chains."
+    },
+    {
+      "type": "paragraph",
+      "text": "Such prolonged extremes also raise immediate concerns regarding public safety and infrastructure durability in vulnerable areas."
+    },
+    {
+      "type": "paragraph",
+      "text": "Global stakeholders will continue to observe meteorological updates and impact assessments as these weather conditions evolve."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Record-breaking heat and extreme weather continue - World Meteorological Organization WMO"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "trump-asked-xi-in-white-house-if-china-wants-to-buy-american-weapons-envoy-ndtv-1790619588",
   "category": "india",
   "headline": "Trump Asked Xi In White House If China Wants To Buy American Weapons: Envoy - NDTV",

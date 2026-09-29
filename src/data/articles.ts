@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "trump-says-us-will-win-iran-war-very-soon-reuters-1790717549",
+  "category": "india",
+  "headline": "Trump says US will win Iran war 'very soon' - Reuters",
+  "dek": "US President Trump predicts a swift victory in a potential conflict with Iran alongside new sanctions.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-09-29T21:32:29Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1790717547_9277.png",
+  "imageAlt": "Trump says US will win Iran war 'very soon' - Reuters",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "United States President Donald Trump has declared that the US will win a war with Iran \"very soon,\" doubling down on claims that Washington will secure victory one way or another as diplomatic efforts stall."
+    },
+    {
+      "type": "paragraph",
+      "text": "The pronouncement coincides with the implementation of new US economic sanctions targeting Iran after recent bilateral talks yielded no breakthrough."
+    },
+    {
+      "type": "paragraph",
+      "text": "Alongside his statements regarding the conflict, Trump asserted that domestic gas prices would tumble as a consequence of developments."
+    },
+    {
+      "type": "paragraph",
+      "text": "The escalating geopolitical standoff carries critical implications for international energy markets, with potential disruptions threatening to impact crude oil prices and inflation metrics globally."
+    },
+    {
+      "type": "paragraph",
+      "text": "For major energy-importing economies like India, sustained volatility in the Middle East directly influences domestic fuel pricing, trade stability, and economic import bills."
+    },
+    {
+      "type": "paragraph",
+      "text": "Observers and market participants remain focused on diplomatic uncertainties, sanction enforcement, and further official announcements from Washington regarding the situation."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Trump says US will win Iran war 'very soon' - Reuters"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "supreme-court-allows-trumps-third-country-deportation-policy-nbc-news-1790715949",
   "category": "world",
   "headline": "Supreme Court allows Trump’s ‘third country’ deportation policy - NBC News",

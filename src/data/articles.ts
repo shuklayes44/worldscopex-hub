@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "new-york-times-executive-fatally-shot-by-elderly-in-laws-police-say-bbc-1790679387",
+  "category": "world",
+  "headline": "New York Times executive fatally shot by elderly in-laws, police say - BBC",
+  "dek": "A New York Times executive was fatally shot by his elderly in-laws in a Bay Area park, police say.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-09-29T10:56:27Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1790679385_7362.png",
+  "imageAlt": "New York Times executive fatally shot by elderly in-laws, police say - BBC",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "A New York Times executive has been fatally shot by his elderly in-laws in a Bay Area park, according to statements released by law enforcement authorities. The incident has drawn widespread attention due to the high-profile nature of the victim's professional affiliation."
+    },
+    {
+      "type": "paragraph",
+      "text": "Police have accused the elderly couple of killing their son-in-law during the confrontation at the California location. Details surrounding the exact sequence of events at the park remain under active investigation by local authorities."
+    },
+    {
+      "type": "paragraph",
+      "text": "Court documents and public records related to the parties involved reveal prior claims of domestic violence and child abuse. These background revelations are currently being reviewed by investigators to establish a motive for the fatal shooting."
+    },
+    {
+      "type": "paragraph",
+      "text": "The tragic event highlights ongoing concerns regarding domestic disputes and the escalation of family conflicts into lethal violence. Analysts note that such incidents underscore the critical need for early intervention in high-conflict domestic situations."
+    },
+    {
+      "type": "paragraph",
+      "text": "As the legal process moves forward, further disclosures from police and court filings are anticipated. Observers will be watching closely to see how the judicial system handles the charges against the elderly suspects in this complex case."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "New York Times executive fatally shot by elderly in-laws, police say - BBC"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "a-global-rupture-carney-calls-for-canada-eu-unity-before-g7-summit-al-jazeera-1790677111",
   "category": "world",
   "headline": "‘A global rupture’: Carney calls for Canada-EU unity before G7 summit - Al Jazeera",

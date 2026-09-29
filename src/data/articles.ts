@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "another-arctic-island-is-caught-in-geopolitical-crosshairs-the-week-1790644492",
+  "category": "geopolitics",
+  "headline": "Another Arctic island is caught in geopolitical crosshairs - The Week",
+  "dek": "Another Arctic island has become the focus of escalating geopolitical competition among international powers.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-09-29T01:14:52Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1790644490_8359.png",
+  "imageAlt": "Another Arctic island is caught in geopolitical crosshairs - The Week",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "geopolitics"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "An additional Arctic island has been drawn into geopolitical crosshairs, emerging as a focal point for competing international interests. The development places the territory at the center of overlapping strategic and territorial ambitions in the polar region."
+    },
+    {
+      "type": "paragraph",
+      "text": "The situation underscores the growing importance of Arctic geography in contemporary international relations and great power competition. Control and influence over polar landmasses and surrounding waters carry significant implications for global trade and security."
+    },
+    {
+      "type": "paragraph",
+      "text": "Policy analysts note that heightened friction in the Arctic can influence international maritime routes, resource exploration frameworks, and strategic alliances. These geopolitical shifts often reverberate across global commodity markets and international regulatory bodies."
+    },
+    {
+      "type": "paragraph",
+      "text": "India and other global economies monitor Arctic developments closely due to their indirect effects on global trade corridors, energy security, and environmental policy standards. Shifts in polar governance can alter shipping logistics and affect input costs for internationally traded commodities."
+    },
+    {
+      "type": "paragraph",
+      "text": "Stakeholders across government and industry will be tracking diplomatic communications and policy updates closely in the coming weeks. Observers remain focused on whether international forums can mitigate tensions or if strategic competition in the region will intensify."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Another Arctic island is caught in geopolitical crosshairs - The Week"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "uk-releases-suspects-in-terror-plot-at-base-hosting-us-forces-wsj-1790642383",
   "category": "world",
   "headline": "U.K. Releases Suspects in Terror Plot at Base Hosting U.S. Forces - WSJ",

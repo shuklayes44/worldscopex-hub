@@ -92,6 +92,65 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "bank-strike-will-banks-remain-closed-on-all-saturdays-latest-update-on-bank-five-1790649413",
+  "category": "india",
+  "headline": "Bank Strike: Will banks remain closed on all Saturdays? Latest update on bank five days working week - The Economic Times",
+  "dek": "The Economic Times reports on the latest updates regarding the proposed five-day working week for banks.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-09-29T02:36:53Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1790649411_4218.png",
+  "imageAlt": "Bank Strike: Will banks remain closed on all Saturdays? Latest update on bank five days working week - The Economic Times",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "The Economic Times has published new updates regarding the ongoing discussions concerning a five-day working week for the Indian banking sector."
+    },
+    {
+      "type": "paragraph",
+      "text": "The central focus of the report revolves around whether all Saturdays will officially be designated as non-working days for banks."
+    },
+    {
+      "type": "paragraph",
+      "text": "Such a policy change, if finalized, would represent a significant structural shift in how Indian financial institutions operate on a weekly basis."
+    },
+    {
+      "type": "paragraph",
+      "text": "The potential transition carries implications for both bank employees and retail or corporate customers who rely on scheduled branch services."
+    },
+    {
+      "type": "paragraph",
+      "text": "Industry observers and workforce representatives have closely monitored the discussions surrounding the five-day work model."
+    },
+    {
+      "type": "paragraph",
+      "text": "Further announcements from relevant authorities are expected to clarify the final consensus on the Saturday closure schedule."
+    },
+    {
+      "type": "paragraph",
+      "text": "Stakeholders continue to monitor official channels for definitive updates regarding the operational timeline of the proposed changes."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Bank Strike: Will banks remain closed on all Saturdays? Latest update on bank five days working week - The Economic Times"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "tata-trusts-moots-two-mergers-to-avoid-tata-sons-listing-livemintcom-1790647782",
   "category": "india",
   "headline": "Tata Trusts moots two mergers to avoid Tata Sons listing - livemint.com",

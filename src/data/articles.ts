@@ -92,6 +92,65 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "states-stumped-as-demography-panel-seeks-religion-wise-data-on-vehicles-schools-1790675134",
+  "category": "india",
+  "headline": "States stumped as demography panel seeks religion-wise data on vehicles, schools, voters - The Hindu",
+  "dek": "State authorities are stumped as a central demography panel requests 15 years of religion-wise data on vehicles, schools, and voters.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-09-29T09:45:34Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1790675133_1245.png",
+  "imageAlt": "States stumped as demography panel seeks religion-wise data on vehicles, schools, voters - The Hindu",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "State administrations across the country have reportedly been left stumped following a directive from a central demography panel requesting comprehensive data classified by religion."
+    },
+    {
+      "type": "paragraph",
+      "text": "According to recent reports, the panel is specifically seeking a 15-year accumulation of religion-wise statistics covering various public and administrative sectors."
+    },
+    {
+      "type": "paragraph",
+      "text": "The requested data metrics reportedly encompass sensitive areas including vehicle registrations, educational institutions, and voter lists."
+    },
+    {
+      "type": "paragraph",
+      "text": "The directive has immediately sparked sharp political reactions, with opposition figures from the Congress party condemning the move as a patently diabolical agenda."
+    },
+    {
+      "type": "paragraph",
+      "text": "Critics and regional officials are weighing the implications of such broad demographic data collection across key socio-economic and civic categories."
+    },
+    {
+      "type": "paragraph",
+      "text": "As states deliberate on how to address the unexpected mandate, political scrutiny over the panel's objectives and methods continues to intensify."
+    },
+    {
+      "type": "paragraph",
+      "text": "Further developments are expected as state governments determine their official responses and navigate the administrative requirements of the panel's request."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "States stumped as demography panel seeks religion-wise data on vehicles, schools, voters - The Hindu"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "eci-row-supreme-court-to-hear-next-week-plea-against-cec-gyanesh-kumar-sir-decis-1790671475",
   "category": "india",
   "headline": "ECI Row : Supreme Court To Hear Next Week Plea Against CEC Gyanesh Kumar & SIR Decisions - Live Law",

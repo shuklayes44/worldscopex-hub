@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "indias-ambition-of-becoming-developed-economy-demands-policy-certainty-business-1790710357",
+  "category": "economy",
+  "headline": "India's ambition of becoming developed economy demands policy certainty - Business Standard",
+  "dek": "Policy certainty is vital for India's transition to a developed economy.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-09-29T19:32:37Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1790710355_5038.png",
+  "imageAlt": "India's ambition of becoming developed economy demands policy certainty - Business Standard",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "economy"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "India's strategic ambition of transforming into a developed economy is fundamentally dependent on maintaining strict policy certainty, according to recent analysis from the Business Standard."
+    },
+    {
+      "type": "paragraph",
+      "text": "The requirement for stable regulatory frameworks underpins broader national economic development goals and long-term growth projections."
+    },
+    {
+      "type": "paragraph",
+      "text": "Consistent policy implementation directly influences investor sentiment, capital allocation, and corporate planning across major industrial sectors."
+    },
+    {
+      "type": "paragraph",
+      "text": "A predictable regulatory environment remains essential for mitigating risk and encouraging sustained domestic and foreign investment."
+    },
+    {
+      "type": "paragraph",
+      "text": "Policymakers face the ongoing challenge of balancing structural economic reforms with the need for stable, long-term governance."
+    },
+    {
+      "type": "paragraph",
+      "text": "Observers will continue tracking legislative and regulatory announcements to gauge the trajectory of India's economic modernization agenda."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "India's ambition of becoming developed economy demands policy certainty - Business Standard"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "rubio-confirms-foreign-actor-involved-in-uk-terror-plot-foxnewscom-1790708125",
   "category": "world",
   "headline": "Rubio confirms 'foreign actor' involved in UK terror plot - foxnews.com",

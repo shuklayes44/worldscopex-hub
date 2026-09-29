@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "jawan-opens-fire-kills-4-colleagues-including-an-officer-in-jks-kathua-ndtv-1790712315",
+  "category": "india",
+  "headline": "Jawan Opens Fire, Kills 4 Colleagues, Including An Officer In J&K's Kathua - NDTV",
+  "dek": "Four CISF personnel, including an officer, were killed in a fratricide shooting in J&K's Kathua district.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-09-29T20:05:15Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1790712313_4764.png",
+  "imageAlt": "Jawan Opens Fire, Kills 4 Colleagues, Including An Officer In J&K's Kathua - NDTV",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Four personnel belonging to the Central Industrial Security Force have been killed in a fratricide incident in Jammu and Kashmir's Kathua district."
+    },
+    {
+      "type": "paragraph",
+      "text": "The shooting occurred when a CISF jawan opened fire on his colleagues at the installation."
+    },
+    {
+      "type": "paragraph",
+      "text": "The casualties include an officer holding the rank of assistant commandant, alongside three other personnel."
+    },
+    {
+      "type": "paragraph",
+      "text": "Details regarding the exact trigger for the shooting remain limited as initial reports emerged from the region."
+    },
+    {
+      "type": "paragraph",
+      "text": "Incidents of fratricide within security forces deployed in sensitive regions raise serious concerns regarding internal stress management and troop welfare."
+    },
+    {
+      "type": "paragraph",
+      "text": "Further updates from security authorities are awaited as investigations into the Kathua shooting continue."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Jawan Opens Fire, Kills 4 Colleagues, Including An Officer In J&K's Kathua - NDTV"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "indias-ambition-of-becoming-developed-economy-demands-policy-certainty-business-1790710357",
   "category": "economy",
   "headline": "India's ambition of becoming developed economy demands policy certainty - Business Standard",

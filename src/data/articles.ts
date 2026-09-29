@@ -92,6 +92,53 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "openai-cancels-release-of-ai-model-gpt-61-astra-citing-safety-concerns-al-jazeer-1790720927",
+  "category": "technology",
+  "headline": "OpenAI cancels release of AI model GPT-6.1 Astra, citing safety concerns - Al Jazeera",
+  "dek": "OpenAI halts GPT-6.1 Astra deployment to address safety priorities.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-09-29T22:28:47Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1790720924_5507.png",
+  "imageAlt": "OpenAI cancels release of AI model GPT-6.1 Astra, citing safety concerns - Al Jazeera",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "technology"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "OpenAI has officially canceled the scheduled release of its GPT-6.1 Astra artificial intelligence model, according to reports from Al Jazeera. The decision to halt the rollout was driven directly by safety concerns surrounding the system's capabilities."
+    },
+    {
+      "type": "paragraph",
+      "text": "The cancellation highlights the delicate balance technology firms must maintain between accelerating innovation and ensuring rigorous safety compliance. Such pauses can impact enterprise adoption strategies globally, including within technology markets in India."
+    },
+    {
+      "type": "paragraph",
+      "text": "As organizations increasingly integrate advanced language models into their operational workflows, safety benchmarks have become a primary focal point for developers and regulatory bodies alike. The decision by OpenAI underscores the growing caution within the artificial intelligence sector."
+    },
+    {
+      "type": "paragraph",
+      "text": "Industry analysts will closely observe how this cancellation affects future product roadmaps and testing methodologies across the artificial intelligence landscape. Stakeholders await further updates regarding when or if the model will be reconsidered for future deployment."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "OpenAI cancels release of AI model GPT-6.1 Astra, citing safety concerns - Al Jazeera"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "trump-says-us-will-win-iran-war-very-soon-reuters-1790717549",
   "category": "india",
   "headline": "Trump says US will win Iran war 'very soon' - Reuters",

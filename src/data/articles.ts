@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "stock-market-crash-today-bse-sensex-crashes-over-1100-points-investors-lose-rs-8-1790690815",
+  "category": "economy",
+  "headline": "Stock market crash today: BSE Sensex crashes over 1,100 points, investors lose Rs 8.92 lakh crore - top r - The Times of India",
+  "dek": "The BSE Sensex plummeted over 1,100 points in a sharp session, eroding Rs 8.92 lakh crore in investor wealth.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-09-29T14:06:55Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1790690812_9785.png",
+  "imageAlt": "Stock market crash today: BSE Sensex crashes over 1,100 points, investors lose Rs 8.92 lakh crore - top r - The Times of India",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "economy"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Indian equity markets experienced a severe downturn during today's trading session, driven by heavy selling pressure across multiple sectors. The benchmark BSE Sensex crashed by more than 1,100 points, reflecting deep apprehension among market participants."
+    },
+    {
+      "type": "paragraph",
+      "text": "The sharp correction resulted in an immediate erosion of investor wealth, with total market capitalization dropping by Rs 8.92 lakh crore. Such substantial losses in a single session highlight the heightened volatility currently affecting domestic bourses."
+    },
+    {
+      "type": "paragraph",
+      "text": "Market observers note that the steep decline reflects a combination of domestic factors and cautious global sentiment. Investors appear to be reducing their exposure to risk assets amid prevailing economic uncertainties."
+    },
+    {
+      "type": "paragraph",
+      "text": "The widespread nature of the sell-off impacted major sectoral indices, leading to broad-based losses rather than isolated dips. Analysts emphasize that such aggressive downward movements require close tracking of institutional trading patterns."
+    },
+    {
+      "type": "paragraph",
+      "text": "As trading concludes for the day, attention shifts toward how regulatory bodies, institutional investors, and corporate stakeholders will respond. Market participants will be closely watching upcoming sessions for signs of stabilization or further correction."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Stock market crash today: BSE Sensex crashes over 1,100 points, investors lose Rs 8.92 lakh crore - top r - The Times of India"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "supreme-court-agrees-to-list-next-week-plea-to-suspend-cec-gyanesh-kumar-from-of-1790687658",
   "category": "india",
   "headline": "Supreme Court agrees to list next week plea to suspend CEC Gyanesh Kumar from office - The Hindu",

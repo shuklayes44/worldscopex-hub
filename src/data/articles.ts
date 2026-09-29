@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "indian-firm-building-15bn-trump-announced-steel-mill-has-deep-russia-ties-al-jaz-1790699970",
+  "category": "india",
+  "headline": "Indian firm building $15bn Trump-announced steel mill has deep Russia ties - Al Jazeera",
+  "dek": "Al Jazeera reveals deep Russia ties for the Indian firm behind a Trump-announced multi-billion dollar US steel project.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-09-29T16:39:30Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1790699968_2021.png",
+  "imageAlt": "Indian firm building $15bn Trump-announced steel mill has deep Russia ties - Al Jazeera",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Al Jazeera has reported that the Indian firm backing a major Trump-announced steel mill project maintains deep connections to Russia, drawing fresh scrutiny to the cross-border venture."
+    },
+    {
+      "type": "paragraph",
+      "text": "The investment, spearheaded by the Essar-backed group led by brothers Shashi and Ravi Ruia, involves an initiative valued between $15 billion and $18 billion to build an integrated US steel company."
+    },
+    {
+      "type": "paragraph",
+      "text": "While the project has been hailed as a significant private investment milestone, its underlying corporate architecture includes extensive ties linked to Russia, according to the investigative findings."
+    },
+    {
+      "type": "paragraph",
+      "text": "The revelation has also sparked domestic political discussion in India, with the Congress party raising questions regarding private investment trends and government policies."
+    },
+    {
+      "type": "paragraph",
+      "text": "As international corporate strategies navigate complex geopolitical landscapes, the intersection of Indian capital, US market expansion, and Russian business ties presents notable policy and compliance considerations."
+    },
+    {
+      "type": "paragraph",
+      "text": "Financial analysts and market observers will monitor how regulatory bodies and international stakeholders evaluate the venture moving forward."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Indian firm building $15bn Trump-announced steel mill has deep Russia ties - Al Jazeera"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "why-not-cap-medicines-mrps-at-16-above-retailer-prices-supreme-court-asks-live-l-1790698029",
   "category": "india",
   "headline": "Why Not Cap Medicines' MRPs At 16% Above Retailer Prices? Supreme Court Asks - Live Law",

@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "supreme-court-agrees-to-list-next-week-plea-to-suspend-cec-gyanesh-kumar-from-of-1790687658",
+  "category": "india",
+  "headline": "Supreme Court agrees to list next week plea to suspend CEC Gyanesh Kumar from office - The Hindu",
+  "dek": "The Supreme Court will hear a plea next week seeking the suspension of Chief Election Commissioner Gyanesh Kumar.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-09-29T13:14:18Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1790687656_6816.png",
+  "imageAlt": "Supreme Court agrees to list next week plea to suspend CEC Gyanesh Kumar from office - The Hindu",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "The Supreme Court of India has agreed to list a petition next week seeking the suspension of Chief Election Commissioner Gyanesh Kumar from his official position. The legal move places the nation's premier poll panel directly under judicial scrutiny amid heightened political tensions."
+    },
+    {
+      "type": "paragraph",
+      "text": "The development coincides with sharp political friction surrounding the election commission's leadership and administrative conduct. Opposition leaders have stepped up their rhetoric against the poll body in recent public forums and party meetings."
+    },
+    {
+      "type": "paragraph",
+      "text": "During a recent Congress meeting, party leader M. Kharge publicly criticized the poll panel chief, referring to him as a 'puppet' and outlining five specific demands regarding electoral oversight. Such high-level political friction underscores the growing sensitivity surrounding independent constitutional offices in India."
+    },
+    {
+      "type": "paragraph",
+      "text": "The Supreme Court's decision to list the suspension plea next week brings institutional governance and accountability procedures into sharp focus. Markets, policymakers, and legal observers will closely monitor the court's preliminary observations for any potential impact on institutional stability."
+    },
+    {
+      "type": "paragraph",
+      "text": "As the matter proceeds to a hearing, stakeholders await the bench's decision on whether to admit the petition for a detailed examination. The upcoming proceedings are expected to set the tone for judicial oversight of election administration officials moving forward."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Supreme Court agrees to list next week plea to suspend CEC Gyanesh Kumar from office - The Hindu"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "ksp-trooper-shot-killed-in-line-of-duty-suspect-charged-with-murder-wlwtcom-1790681610",
   "category": "world",
   "headline": "KSP: Trooper shot, killed in line of duty; suspect charged with murder - wlwt.com",

@@ -92,6 +92,65 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "rubio-says-incident-at-uk-air-base-raf-fairford-clearly-involved-a-foreign-actor-1790714063",
+  "category": "world",
+  "headline": "Rubio Says Incident at UK Air Base RAF Fairford ‘Clearly Involved’ a Foreign Actor - The New York Times",
+  "dek": "US official states a foreign actor was clearly involved in an incident at the UK air base.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-09-29T20:34:23Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1790714061_5500.png",
+  "imageAlt": "Rubio Says Incident at UK Air Base RAF Fairford ‘Clearly Involved’ a Foreign Actor - The New York Times",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "US official Marco Rubio stated that the recent incident at the UK air base RAF Fairford clearly involved a foreign actor."
+    },
+    {
+      "type": "paragraph",
+      "text": "The security breach has triggered multi-agency investigations and raised concerns regarding critical defense installations."
+    },
+    {
+      "type": "paragraph",
+      "text": "As part of the emergency response, some evacuated residents have been allowed to return to their homes near the facility."
+    },
+    {
+      "type": "paragraph",
+      "text": "UK police confirmed during their ongoing probe that no explosive devices have been found so far at the airbase."
+    },
+    {
+      "type": "paragraph",
+      "text": "Meanwhile, the mystery surrounding the event deepened after reported suspects were initially freed."
+    },
+    {
+      "type": "paragraph",
+      "text": "Observers and international policy analysts continue to monitor developments surrounding the security incident closely."
+    },
+    {
+      "type": "paragraph",
+      "text": "Further official statements are expected as authorities work to clarify the nature of the involvement by the foreign actor."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Rubio Says Incident at UK Air Base RAF Fairford ‘Clearly Involved’ a Foreign Actor - The New York Times"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "jawan-opens-fire-kills-4-colleagues-including-an-officer-in-jks-kathua-ndtv-1790712315",
   "category": "india",
   "headline": "Jawan Opens Fire, Kills 4 Colleagues, Including An Officer In J&K's Kathua - NDTV",

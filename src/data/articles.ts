@@ -92,6 +92,53 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "eci-row-supreme-court-to-hear-next-week-plea-against-cec-gyanesh-kumar-sir-decis-1790671475",
+  "category": "india",
+  "headline": "ECI Row : Supreme Court To Hear Next Week Plea Against CEC Gyanesh Kumar & SIR Decisions - Live Law",
+  "dek": "Supreme Court schedules hearing next week on a petition seeking to suspend CEC Gyanesh Kumar over SIR decisions.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-09-29T08:44:35Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1790671473_1960.png",
+  "imageAlt": "ECI Row : Supreme Court To Hear Next Week Plea Against CEC Gyanesh Kumar & SIR Decisions - Live Law",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "The Supreme Court of India has agreed to list for hearing next week a petition seeking the suspension of Chief Election Commissioner Gyanesh Kumar from office. The legal challenge specifically targets decisions made by the CEC alongside recent SIR measures implemented by the poll panel."
+    },
+    {
+      "type": "paragraph",
+      "text": "The judicial scrutiny comes amid heightened political friction between the opposition and election authorities. Congress leader M Kharge recently criticized the poll panel chief during a party meet, labeling him a puppet while outlining five distinct demands."
+    },
+    {
+      "type": "paragraph",
+      "text": "Among the central demands raised by the opposition is a call for the full disclosure of all electoral roll changes. The broader controversy highlights growing tensions surrounding transparency, administrative procedures, and the oversight of electoral processes in India."
+    },
+    {
+      "type": "paragraph",
+      "text": "The upcoming court proceedings are expected to examine the legal arguments surrounding the petition and the disputed decisions. Observers and political stakeholders will monitor the scheduled hearing for potential implications on the functioning of the Election Commission of India."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "ECI Row : Supreme Court To Hear Next Week Plea Against CEC Gyanesh Kumar & SIR Decisions - Live Law"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "mediators-are-working-to-broker-a-us-iran-deal-but-major-hurdles-remain-ap-news-1790666792",
   "category": "world",
   "headline": "Mediators are working to broker a US-Iran deal, but major hurdles remain - AP News",

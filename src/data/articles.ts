@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "why-not-cap-medicines-mrps-at-16-above-retailer-prices-supreme-court-asks-live-l-1790698029",
+  "category": "india",
+  "headline": "Why Not Cap Medicines' MRPs At 16% Above Retailer Prices? Supreme Court Asks - Live Law",
+  "dek": "The Supreme Court questioned steep mark-ups on cancer drugs and essential medicines, calling the pricing disparity \"carnage.\"",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-09-29T16:07:09Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1790698027_5246.png",
+  "imageAlt": "Why Not Cap Medicines' MRPs At 16% Above Retailer Prices? Supreme Court Asks - Live Law",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "The Supreme Court of India has questioned steep mark-ups on essential medicines, specifically highlighting exorbitant prices charged for cancer drugs. The bench strongly criticized current industry practices, describing the widespread pricing disparity as \"carnage\" while examining the cost burden placed on patients."
+    },
+    {
+      "type": "paragraph",
+      "text": "During the proceedings, the court specifically scrutinized corporate hospitals and market pricing structures. Judicial observations noted that corporate healthcare entities often fail to spare patients from inflated costs, prompting the bench to seek structural reforms in retail pricing."
+    },
+    {
+      "type": "paragraph",
+      "text": "The court specifically raised the question of why maximum retail prices (MRPs) for medicines should not be capped at 16% above retailer purchase prices. This proposed cap aims to curb excessive profit margins and ensure greater affordability for critical treatments."
+    },
+    {
+      "type": "paragraph",
+      "text": "The intervention underscores regulatory and judicial concerns regarding healthcare economics and pharmaceutical pricing transparency in India. High medicine costs have long been a pressing issue for patients, particularly those requiring specialized therapies and oncology drugs."
+    },
+    {
+      "type": "paragraph",
+      "text": "Legal experts and industry observers are closely monitoring the proceedings to gauge potential policy shifts. The court's deliberations could pave the way for stricter regulatory caps on pharmaceutical retail margins nationwide."
+    },
+    {
+      "type": "paragraph",
+      "text": "Future hearings are expected to address responses from relevant stakeholders and examine feasible frameworks for implementing margin restrictions. The outcome may significantly impact retail drug pricing and healthcare affordability across the country."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Why Not Cap Medicines' MRPs At 16% Above Retailer Prices? Supreme Court Asks - Live Law"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "the-rural-english-villages-around-raf-fairford-at-the-center-of-a-possible-terro-1790694413",
   "category": "world",
   "headline": "The Rural English Villages Around RAF Fairford at the Center of a Possible Terrorist Plot - The New York Times",

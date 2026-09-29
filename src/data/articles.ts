@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "suo-motu-case-on-delhi-rapes-supreme-court-issues-directions-to-make-public-spac-1790657726",
+  "category": "india",
+  "headline": "Suo Motu Case On Delhi Rapes | Supreme Court Issues Directions To Make Public Spaces Safer; Orders Safety Audit Within 4 Weeks - Live Law",
+  "dek": "Supreme Court orders Delhi safety audit within four weeks after taking suo motu cognisance of recent rapes.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-09-29T04:55:26Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1790657723_4862.png",
+  "imageAlt": "Suo Motu Case On Delhi Rapes | Supreme Court Issues Directions To Make Public Spaces Safer; Orders Safety Audit Within 4 Weeks - Live Law",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "The Supreme Court of India has initiated suo motu proceedings following recent sexual assault cases in Delhi, addressing mounting concerns over public safety and law enforcement efficacy."
+    },
+    {
+      "type": "paragraph",
+      "text": "In its directives, the apex court formally declared that both police and the government have failed to ensure adequate public safety in the national capital."
+    },
+    {
+      "type": "paragraph",
+      "text": "As part of the court-mandated measures, authorities have been ordered to conduct a comprehensive safety audit of all public spaces within four weeks."
+    },
+    {
+      "type": "paragraph",
+      "text": "The judicial intervention aims to compel systemic administrative and policing reforms to make public areas safer for citizens."
+    },
+    {
+      "type": "paragraph",
+      "text": "Legal observers will closely monitor the execution of the mandated safety audits and the subsequent compliance reports submitted by the government and police."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Suo Motu Case On Delhi Rapes | Supreme Court Issues Directions To Make Public Spaces Safer; Orders Safety Audit Within 4 Weeks - Live Law"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "bank-strike-will-banks-remain-closed-on-all-saturdays-latest-update-on-bank-five-1790649413",
   "category": "india",
   "headline": "Bank Strike: Will banks remain closed on all Saturdays? Latest update on bank five days working week - The Economic Times",

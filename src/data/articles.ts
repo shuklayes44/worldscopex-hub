@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "gold-silver-rate-today-live-updates-gold-tumbles-over-2-mcx-plunges-rs-3171-as-g-1790662931",
+  "category": "india",
+  "headline": "Gold, Silver rate today live updates: Gold tumbles over 2%; MCX plunges Rs 3,171 as global prices slide - The Times of India",
+  "dek": "Gold tumbles over 2% and MCX plunges Rs 3,171 as global prices slide.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-09-29T06:22:11Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1790662930_9683.png",
+  "imageAlt": "Gold, Silver rate today live updates: Gold tumbles over 2%; MCX plunges Rs 3,171 as global prices slide - The Times of India",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Precious metals experienced a sharp correction during today's trading session, driven by declining international bullion prices."
+    },
+    {
+      "type": "paragraph",
+      "text": "Gold tumbled by more than 2 percent in global markets, triggering a swift downward adjustment across domestic trading platforms."
+    },
+    {
+      "type": "paragraph",
+      "text": "Reflecting the international sell-off, the Multi Commodity Exchange recorded a substantial plunge of Rs 3,171 in domestic gold valuations."
+    },
+    {
+      "type": "paragraph",
+      "text": "The sharp drop highlights the direct correlation between domestic commodity pricing and broader macroeconomic trends affecting global bullion."
+    },
+    {
+      "type": "paragraph",
+      "text": "Traders and market analysts are closely observing international price trajectories to gauge near-term direction for precious metals."
+    },
+    {
+      "type": "paragraph",
+      "text": "Further updates are expected as global markets react to ongoing economic shifts and currency fluctuations."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Gold, Silver rate today live updates: Gold tumbles over 2%; MCX plunges Rs 3,171 as global prices slide - The Times of India"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "suo-motu-case-on-delhi-rapes-supreme-court-issues-directions-to-make-public-spac-1790657726",
   "category": "india",
   "headline": "Suo Motu Case On Delhi Rapes | Supreme Court Issues Directions To Make Public Spaces Safer; Orders Safety Audit Within 4 Weeks - Live Law",

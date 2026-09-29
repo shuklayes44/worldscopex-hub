@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "live-updates-iran-says-trump-must-choose-between-war-or-diplomacy-as-talks-resum-1790641250",
+  "category": "world",
+  "headline": "Live Updates: Iran says Trump must choose between war or diplomacy as talks resume - CBS News",
+  "dek": "Iran tells Trump to choose between war or diplomacy as indirect peace talks resume through mediators.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-09-29T00:20:50Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1790641248_2203.png",
+  "imageAlt": "Live Updates: Iran says Trump must choose between war or diplomacy as talks resume - CBS News",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Iran has formally stated that U.S. President Trump must choose between war or diplomacy as indirect talks resume through international mediators."
+    },
+    {
+      "type": "paragraph",
+      "text": "The diplomatic push involves the United States and Iran separately engaging with mediators in the latest bid to end the ongoing conflict."
+    },
+    {
+      "type": "paragraph",
+      "text": "Reports indicate that Iran is being pressed to make specific nuclear concessions to successfully revive peace talks with the United States."
+    },
+    {
+      "type": "paragraph",
+      "text": "Meanwhile, analysis notes that while Trump claims to have an off-ramp to his most significant political challenge, he has thus far refused to take it."
+    },
+    {
+      "type": "paragraph",
+      "text": "For emerging markets and major energy importers like India, heightened diplomatic uncertainty in the Middle East carries critical implications for global crude prices, macroeconomic stability, and inflation management."
+    },
+    {
+      "type": "paragraph",
+      "text": "Observers and market participants will continue to monitor the mediation efforts closely to gauge whether a diplomatic breakthrough or further escalation is imminent."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Live Updates: Iran says Trump must choose between war or diplomacy as talks resume - CBS News"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "prosecutor-reopens-probe-into-cornell-gang-rape-allegations-after-accuser-files-1790639724",
   "category": "world",
   "headline": "Prosecutor reopens probe into Cornell gang rape allegations after accuser files lawsuit - PBS",

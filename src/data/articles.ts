@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "mediators-are-working-to-broker-a-us-iran-deal-but-major-hurdles-remain-ap-news-1790666792",
+  "category": "world",
+  "headline": "Mediators are working to broker a US-Iran deal, but major hurdles remain - AP News",
+  "dek": "Mediators are working to broker a US-Iran deal as Mideast oil exports reach wartime highs.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-09-29T07:26:32Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1790666790_3713.png",
+  "imageAlt": "Mediators are working to broker a US-Iran deal, but major hurdles remain - AP News",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "International mediators are actively working to broker a diplomatic agreement between the United States and Iran in a renewed effort to end the ongoing conflict, though significant hurdles remain in the negotiation process."
+    },
+    {
+      "type": "paragraph",
+      "text": "The diplomatic push involves separate talks held by both the US and Iran with international mediators, marking a crucial juncture in ongoing regional tensions."
+    },
+    {
+      "type": "paragraph",
+      "text": "The negotiations coincide with Middle East oil exports reaching a wartime high, placing intense focus on global energy security and supply chain stability."
+    },
+    {
+      "type": "paragraph",
+      "text": "Complicating the diplomatic efforts, Iran has issued warnings of a severe conflict following the rejection of a peace proposal by Donald Trump, while also facing mounting pressure to make concessions regarding its nuclear program."
+    },
+    {
+      "type": "paragraph",
+      "text": "The outcome of these mediator-led talks carries significant implications for global energy markets, shipping routes, and international diplomatic relations as stakeholders assess the risks of further escalation."
+    },
+    {
+      "type": "paragraph",
+      "text": "Observers and market participants will continue to monitor the diplomatic channels closely to determine whether the remaining hurdles can be overcome to achieve a lasting resolution."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Mediators are working to broker a US-Iran deal, but major hurdles remain - AP News"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "gold-silver-rate-today-live-updates-gold-tumbles-over-2-mcx-plunges-rs-3171-as-g-1790662931",
   "category": "india",
   "headline": "Gold, Silver rate today live updates: Gold tumbles over 2%; MCX plunges Rs 3,171 as global prices slide - The Times of India",

@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "rubio-confirms-foreign-actor-involved-in-uk-terror-plot-foxnewscom-1790708125",
+  "category": "world",
+  "headline": "Rubio confirms 'foreign actor' involved in UK terror plot - foxnews.com",
+  "dek": "Rubio confirms a foreign actor was involved in a UK terror plot near a U.S.-run base.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-09-29T18:55:25Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1790708124_2826.png",
+  "imageAlt": "Rubio confirms 'foreign actor' involved in UK terror plot - foxnews.com",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Official statements confirm that a foreign actor was involved in a security terror plot in the United Kingdom. The development has drawn international attention following a security incident near a U.S.-run military installation."
+    },
+    {
+      "type": "paragraph",
+      "text": "British police conducted searches of three vehicles in connection with the incident, focusing on security at the site. Authorities subsequently confirmed that no explosives were found in the vans searched near RAF Fairford."
+    },
+    {
+      "type": "paragraph",
+      "text": "The confirmation by officials adds a complex geopolitical dimension to the U.S.-run base incident. The involvement of external actors raises questions regarding transnational security threats to critical defense infrastructure."
+    },
+    {
+      "type": "paragraph",
+      "text": "Security analysts are closely monitoring the unfolding situation to determine the extent of foreign interference. The incident underscores ongoing vulnerabilities surrounding sensitive military installations in the region."
+    },
+    {
+      "type": "paragraph",
+      "text": "Investigations into the alleged terror plot remain ongoing as law enforcement agencies review evidence. Further updates from officials are expected as the security assessment continues."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Rubio confirms 'foreign actor' involved in UK terror plot - foxnews.com"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "stock-market-crash-today-bse-sensex-continues-to-be-in-bear-grip-nifty50-below-2-1790705903",
   "category": "economy",
   "headline": "Stock market crash today: BSE Sensex continues to be in bear grip; Nifty50 below 22,600 - top reasons for - The Times of India",

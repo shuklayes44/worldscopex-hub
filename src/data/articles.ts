@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "when-we-go-you-will-come-rahul-gandhi-says-pm-told-him-only-congress-can-defeat-1790704515",
+  "category": "india",
+  "headline": "‘When we go, you will come’: Rahul Gandhi says PM told him only Congress can defeat BJP - The Hindu",
+  "dek": "Rahul Gandhi claims Prime Minister Narendra Modi acknowledged Congress as the sole challenger to the BJP.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-09-29T17:55:15Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1790704512_4725.png",
+  "imageAlt": "‘When we go, you will come’: Rahul Gandhi says PM told him only Congress can defeat BJP - The Hindu",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Senior Congress leader Rahul Gandhi disclosed that Prime Minister Narendra Modi privately remarked to him that only the Congress party is capable of defeating the BJP. The statement was made public during a meeting of the Congress Working Committee, adding a significant political dimension to ongoing debates regarding national leadership and electoral opposition."
+    },
+    {
+      "type": "paragraph",
+      "text": "During the high-level party deliberations, Gandhi utilized the context of these reported remarks to frame the Congress as the central force of political resistance. His comments underscore the shifting dynamics between the ruling government and the principal opposition as both sides prepare for future electoral contests and policy battles."
+    },
+    {
+      "type": "paragraph",
+      "text": "The CWC meeting also addressed broader allegations and concerns regarding electoral processes, with Gandhi touching upon controversies involving the Election Commission and electronic voting systems. The party leadership emphasized a unified approach to confront perceived institutional challenges while maintaining its identity as a party of resistance."
+    },
+    {
+      "type": "paragraph",
+      "text": "Political analysts are examining the implications of Gandhi's public revelation regarding his interaction with the Prime Minister. While the ruling party has not immediately issued a formal counter-statement to this specific claim, the disclosure brings intra-political dynamics into sharp public focus."
+    },
+    {
+      "type": "paragraph",
+      "text": "The Congress party's leadership intends to sustain its pressure on the central administration through coordinated opposition efforts. Observers will be watching to see how these strategic alignments develop across the national political landscape in the coming months."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "‘When we go, you will come’: Rahul Gandhi says PM told him only Congress can defeat BJP - The Hindu"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "jonathan-mckinsey-new-york-times-documents-reveal-child-abuse-domestic-violence-1790701093",
   "category": "world",
   "headline": "Jonathan McKinsey, New York Times: Documents reveal child abuse, domestic violence claims of Dublin man shot, killed by in-laws - ABC7 San Francisco",

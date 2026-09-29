@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "ksp-trooper-shot-killed-in-line-of-duty-suspect-charged-with-murder-wlwtcom-1790681610",
+  "category": "world",
+  "headline": "KSP: Trooper shot, killed in line of duty; suspect charged with murder - wlwt.com",
+  "dek": "A Kentucky State Police trooper was shot and killed during a traffic stop, leading to a manhunt and a murder charge.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-09-29T11:33:30Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1790681608_2156.png",
+  "imageAlt": "KSP: Trooper shot, killed in line of duty; suspect charged with murder - wlwt.com",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Kentucky State Police have confirmed that a trooper was shot and killed in the line of duty during an interstate traffic stop. The fatal shooting triggered an intensive law enforcement response and manhunt across the region."
+    },
+    {
+      "type": "paragraph",
+      "text": "The fallen officer has been identified as a Kentucky State Police trooper and a father of three children. The incident occurred during a routine traffic stop on an interstate."
+    },
+    {
+      "type": "paragraph",
+      "text": "Following the shooting, a suspect was apprehended following a manhunt. Law enforcement officials confirmed that the suspect has now been formally charged with murder in connection with the trooper's death."
+    },
+    {
+      "type": "paragraph",
+      "text": "In the wake of the incident, solemn honors were rendered as the trooper's remains were transported and escorted to the state medical examiner's office located in Louisville."
+    },
+    {
+      "type": "paragraph",
+      "text": "The investigation into the circumstances surrounding the interstate shooting remains active as local and state authorities gather further evidence and process the crime scene."
+    },
+    {
+      "type": "paragraph",
+      "text": "Legal proceedings against the charged suspect are expected to advance as the judicial system addresses the murder charge filed by prosecutors following the manhunt and capture."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "KSP: Trooper shot, killed in line of duty; suspect charged with murder - wlwt.com"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "new-york-times-executive-fatally-shot-by-elderly-in-laws-police-say-bbc-1790679387",
   "category": "world",
   "headline": "New York Times executive fatally shot by elderly in-laws, police say - BBC",

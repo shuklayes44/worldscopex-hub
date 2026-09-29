@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "jawan-opens-fire-kills-4-colleagues-including-an-officer-in-jks-kathua-ndtv-1790722906",
+  "category": "india",
+  "headline": "Jawan Opens Fire, Kills 4 Colleagues, Including An Officer In J&K's Kathua - NDTV",
+  "dek": "Four CISF personnel, including an officer, were killed after a jawan opened fire in J&K's Kathua.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-09-29T23:01:46Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1790722904_9891.png",
+  "imageAlt": "Jawan Opens Fire, Kills 4 Colleagues, Including An Officer In J&K's Kathua - NDTV",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "A tragic shooting incident occurred in Jammu and Kashmir's Kathua district involving personnel from the Central Industrial Security Force (CISF)."
+    },
+    {
+      "type": "paragraph",
+      "text": "According to initial reports, a CISF constable opened fire on his colleagues, resulting in multiple casualties."
+    },
+    {
+      "type": "paragraph",
+      "text": "The incident left four CISF personnel dead, including an officer holding the rank of assistant commandant."
+    },
+    {
+      "type": "paragraph",
+      "text": "The confrontation highlights critical internal security challenges within armed formations deployed in sensitive regions."
+    },
+    {
+      "type": "paragraph",
+      "text": "Authorities are expected to conduct a thorough inquiry to uncover the underlying cause of the fatal dispute."
+    },
+    {
+      "type": "paragraph",
+      "text": "Further updates regarding the investigation and official administrative responses will be monitored as details emerge."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Jawan Opens Fire, Kills 4 Colleagues, Including An Officer In J&K's Kathua - NDTV"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "openai-cancels-release-of-ai-model-gpt-61-astra-citing-safety-concerns-al-jazeer-1790720927",
   "category": "technology",
   "headline": "OpenAI cancels release of AI model GPT-6.1 Astra, citing safety concerns - Al Jazeera",

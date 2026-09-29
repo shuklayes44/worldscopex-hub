@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "tata-trusts-moots-two-mergers-to-avoid-tata-sons-listing-livemintcom-1790647782",
+  "category": "india",
+  "headline": "Tata Trusts moots two mergers to avoid Tata Sons listing - livemint.com",
+  "dek": "Tata Trusts has proposed a structural shake-up involving two mergers to avoid a mandatory stock market listing for Tata Sons.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-09-29T02:09:42Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1790647780_3264.png",
+  "imageAlt": "Tata Trusts moots two mergers to avoid Tata Sons listing - livemint.com",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Tata Trusts has proposed a major corporate restructuring involving two mergers to sidestep the public listing of Tata Sons. The proposed changes are designed to serve as an escape hatch, allowing the conglomerate to avoid the regulatory requirements associated with a stock market debut."
+    },
+    {
+      "type": "paragraph",
+      "text": "The restructuring plan, led by Noel Tata, outlines a new route for the group to maintain its current ownership structure without entering the public markets. By consolidating operations through the proposed mergers, the leadership aims to bypass the listing mandates that had been anticipated by market observers."
+    },
+    {
+      "type": "paragraph",
+      "text": "This strategic shift is of considerable significance for India's corporate sector, given the scale and influence of the Tata group within the domestic economy. Market participants and analysts have been tracking potential pathways for the conglomerate to navigate regulatory listing thresholds."
+    },
+    {
+      "type": "paragraph",
+      "text": "The proposed framework reflects ongoing strategic evaluations at the highest levels of the organization regarding governance and market participation. Avoiding a public listing alters the anticipated timeline and exposure for one of the country's most prominent business entities."
+    },
+    {
+      "type": "paragraph",
+      "text": "Observers and stakeholders will be watching for further details on how the proposed mergers will be structured and executed. The ultimate implementation of the plan will depend on regulatory acceptance and internal approvals within the Tata ecosystem."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Tata Trusts moots two mergers to avoid Tata Sons listing - livemint.com"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "another-arctic-island-is-caught-in-geopolitical-crosshairs-the-week-1790644492",
   "category": "geopolitics",
   "headline": "Another Arctic island is caught in geopolitical crosshairs - The Week",

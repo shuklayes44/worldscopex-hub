@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "a-global-rupture-carney-calls-for-canada-eu-unity-before-g7-summit-al-jazeera-1790677111",
+  "category": "world",
+  "headline": "‘A global rupture’: Carney calls for Canada-EU unity before G7 summit - Al Jazeera",
+  "dek": "Carney urges Canada-EU alignment to address a growing global rupture ahead of the G7 summit.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-09-29T10:18:31Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1790677109_4369.png",
+  "imageAlt": "‘A global rupture’: Carney calls for Canada-EU unity before G7 summit - Al Jazeera",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Ahead of the upcoming G7 summit, Carney has called for urgent unity between Canada and the European Union."
+    },
+    {
+      "type": "paragraph",
+      "text": "The high-level appeal emphasizes the emergence of what has been characterized as a profound global rupture in international affairs."
+    },
+    {
+      "type": "paragraph",
+      "text": "Such diplomatic overtures reflect mounting concerns among allied nations regarding multilateral stability and economic resilience."
+    },
+    {
+      "type": "paragraph",
+      "text": "Cohesion between Canada and European partners is seen as critical for navigating complex geopolitical challenges at the summit."
+    },
+    {
+      "type": "paragraph",
+      "text": "Policy makers and global markets will monitor how these bilateral discussions influence broader multilateral negotiations."
+    },
+    {
+      "type": "paragraph",
+      "text": "Future developments hinge on whether allied leaders can forge a unified stance on pressing international issues during the meetings."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "‘A global rupture’: Carney calls for Canada-EU unity before G7 summit - Al Jazeera"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "states-stumped-as-demography-panel-seeks-religion-wise-data-on-vehicles-schools-1790675134",
   "category": "india",
   "headline": "States stumped as demography panel seeks religion-wise data on vehicles, schools, voters - The Hindu",

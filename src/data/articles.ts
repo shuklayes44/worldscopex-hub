@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "jonathan-mckinsey-new-york-times-documents-reveal-child-abuse-domestic-violence-1790701093",
+  "category": "world",
+  "headline": "Jonathan McKinsey, New York Times: Documents reveal child abuse, domestic violence claims of Dublin man shot, killed by in-laws - ABC7 San Francisco",
+  "dek": "Documents show child abuse and domestic violence claims involving a New York Times executive shot by his in-laws.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-09-29T16:58:13Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1790701091_1379.png",
+  "imageAlt": "Jonathan McKinsey, New York Times: Documents reveal child abuse, domestic violence claims of Dublin man shot, killed by in-laws - ABC7 San Francisco",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Newly revealed documents detail serious child abuse and domestic violence claims involving a New York Times executive who was shot and killed by his in-laws in a Bay Area park. The fatal confrontation occurred amid a bitter custody dispute, according to reports from outlets including ABC7 San Francisco and Fox News."
+    },
+    {
+      "type": "paragraph",
+      "text": "The victim, identified as a New York Times Games executive, had reportedly accused his in-laws of years of abuse as the custody battle escalated. The context surrounding the incident underscores the severe legal and personal stakes often present in contested family law matters."
+    },
+    {
+      "type": "paragraph",
+      "text": "Reports indicate the executive's in-laws are accused of carrying out the fatal shooting in a public park in California. The tragedy has drawn intense media scrutiny due to the prominent professional roles involved and the underlying domestic conflict."
+    },
+    {
+      "type": "paragraph",
+      "text": "The case brings renewed attention to the potential dangers and volatility surrounding high-conflict custody litigation and domestic abuse allegations. Legal experts and observers are monitoring the ongoing investigation into the shooting and the surrounding family court records."
+    },
+    {
+      "type": "paragraph",
+      "text": "As authorities continue their examination of the events leading up to the killing, further details regarding the custody dispute and the abuse allegations are anticipated. The unfolding legal process will determine the formal charges and subsequent proceedings for the individuals involved."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Jonathan McKinsey, New York Times: Documents reveal child abuse, domestic violence claims of Dublin man shot, killed by in-laws - ABC7 San Francisco"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "indian-firm-building-15bn-trump-announced-steel-mill-has-deep-russia-ties-al-jaz-1790699970",
   "category": "india",
   "headline": "Indian firm building $15bn Trump-announced steel mill has deep Russia ties - Al Jazeera",

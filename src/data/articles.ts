@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "uk-releases-suspects-in-terror-plot-at-base-hosting-us-forces-wsj-1790642383",
+  "category": "world",
+  "headline": "U.K. Releases Suspects in Terror Plot at Base Hosting U.S. Forces - WSJ",
+  "dek": "Five suspects arrested over an alleged terror plot at RAF Fairford have been released on police bail.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-09-29T00:39:43Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1790642381_9738.png",
+  "imageAlt": "U.K. Releases Suspects in Terror Plot at Base Hosting U.S. Forces - WSJ",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "United Kingdom authorities have released five suspects who were previously arrested in connection with an alleged terror plot targeting a military base hosting United States forces. The individuals, detained following an incident at RAF Fairford, were freed on police bail as the investigation remains active."
+    },
+    {
+      "type": "paragraph",
+      "text": "The arrests and subsequent release have sparked widespread public interest and raised questions regarding security protocols at military installations utilized by allied foreign personnel. Questions continue to swirl across local communities and media outlets as the exact nature of the threat remains under close evaluation."
+    },
+    {
+      "type": "paragraph",
+      "text": "British security services are currently examining a range of possibilities, including potential foreign state involvement in the suspected plot. The involvement of foreign actors remains a central line of inquiry for investigators reviewing the circumstances surrounding the incident at the airbase."
+    },
+    {
+      "type": "paragraph",
+      "text": "The case highlights ongoing security sensitivities surrounding military sites shared by international partners. Authorities have not yet disclosed further specific details regarding the suspects or the exact nature of the alleged plot as inquiries proceed."
+    },
+    {
+      "type": "paragraph",
+      "text": "Law enforcement agencies are expected to release further information as the investigation progresses. Observers will continue to monitor the proceedings closely for any official updates concerning security measures and potential legal developments."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "U.K. Releases Suspects in Terror Plot at Base Hosting U.S. Forces - WSJ"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "live-updates-iran-says-trump-must-choose-between-war-or-diplomacy-as-talks-resum-1790641250",
   "category": "world",
   "headline": "Live Updates: Iran says Trump must choose between war or diplomacy as talks resume - CBS News",

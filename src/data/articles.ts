@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "non-cognisable-report-filed-against-delhi-minister-parvesh-verma-over-slap-incid-1790692947",
+  "category": "india",
+  "headline": "Non-cognisable report filed against Delhi minister Parvesh Verma over slap incident | India News - Hindustan Times",
+  "dek": "Legal proceedings initiated following an altercation involving a Delhi minister and police personnel.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-09-29T14:42:27Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1790692944_2822.png",
+  "imageAlt": "Non-cognisable report filed against Delhi minister Parvesh Verma over slap incident | India News - Hindustan Times",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "A non-cognisable report has been formally filed against Delhi minister Parvesh Verma in connection with a reported slap incident in the national capital. The legal development marks an escalation in ongoing tensions involving political figures and law enforcement authorities in Delhi."
+    },
+    {
+      "type": "paragraph",
+      "text": "In a parallel development, an FIR has been registered against AAP leaders Saurabh Bharadwaj and Jarnail Singh. The case against the opposition politicians stems from an alleged assault on a Delhi Police head constable."
+    },
+    {
+      "type": "paragraph",
+      "text": "These simultaneous legal actions underscore a deteriorating environment of political confrontation and public order challenges in the region. Law enforcement agencies are examining the respective complaints filed by the involved parties to determine subsequent procedural steps."
+    },
+    {
+      "type": "paragraph",
+      "text": "The involvement of high-profile political figures and police personnel has drawn significant public and institutional attention. Authorities are expected to review available evidence and testimonies to establish the sequence of events leading to both incidents."
+    },
+    {
+      "type": "paragraph",
+      "text": "Stakeholders and political analysts will closely track the progress of these investigations for potential impacts on governance and inter-party dynamics. Further updates from law enforcement agencies are anticipated as the legal process moves forward."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Non-cognisable report filed against Delhi minister Parvesh Verma over slap incident | India News - Hindustan Times"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "stock-market-crash-today-bse-sensex-crashes-over-1100-points-investors-lose-rs-8-1790690815",
   "category": "economy",
   "headline": "Stock market crash today: BSE Sensex crashes over 1,100 points, investors lose Rs 8.92 lakh crore - top r - The Times of India",

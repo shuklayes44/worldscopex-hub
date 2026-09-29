@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "supreme-court-allows-trumps-third-country-deportation-policy-nbc-news-1790715949",
+  "category": "world",
+  "headline": "Supreme Court allows Trump’s ‘third country’ deportation policy - NBC News",
+  "dek": "The U.S. Supreme Court has permitted the implementation of rapid deportations to unrelated third countries.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-09-29T21:05:49Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1790715946_3164.png",
+  "imageAlt": "Supreme Court allows Trump’s ‘third country’ deportation policy - NBC News",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "The U.S. Supreme Court has allowed the Trump administration's controversial \"third country\" deportation policy to proceed, at least temporarily. This decision enables authorities to execute rapid deportations of individuals to nations with which they have no prior connection or personal ties."
+    },
+    {
+      "type": "paragraph",
+      "text": "The ruling reverses or stays lower restrictions, granting the administration a notable legal advantage in its pursuit of sweeping immigration enforcement measures. Human rights organizations and legal defenders have consistently opposed the policy, arguing it places vulnerable individuals at risk in unfamiliar jurisdictions."
+    },
+    {
+      "type": "paragraph",
+      "text": "The policy fundamentally alters standard removal protocols by bypassing traditional home-country deportation channels. Critics and advocacy groups maintain that sending migrants to third-party nations violates established international and domestic legal protections regarding asylum."
+    },
+    {
+      "type": "paragraph",
+      "text": "For policy analysts and stakeholders, the decision underscores the ongoing legal battles surrounding executive immigration authority in federal courts. The outcome has immediate ramifications for federal immigration enforcement agencies tasked with operationalizing the rapid removal protocols."
+    },
+    {
+      "type": "paragraph",
+      "text": "As legal challenges continue to wind through the judicial system, the long-term enforceability of the third-country policy remains uncertain. Observers will closely monitor upcoming lower court hearings to gauge how federal judges respond to the expedited removal framework."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Supreme Court allows Trump’s ‘third country’ deportation policy - NBC News"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "rubio-says-incident-at-uk-air-base-raf-fairford-clearly-involved-a-foreign-actor-1790714063",
   "category": "world",
   "headline": "Rubio Says Incident at UK Air Base RAF Fairford ‘Clearly Involved’ a Foreign Actor - The New York Times",

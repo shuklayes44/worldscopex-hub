@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "republicans-wanted-jack-smith-to-give-them-a-smoking-gun-they-got-a-gaffe-instea-1790724666",
+  "category": "world",
+  "headline": "Republicans wanted Jack Smith to give them a smoking gun. They got a gaffe instead. - politico.com",
+  "dek": "Former special counsel Jack Smith defended Trump probes during a contentious Senate hearing marked by sharp Republican criticism.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-09-29T23:31:06Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1790724664_7731.png",
+  "imageAlt": "Republicans wanted Jack Smith to give them a smoking gun. They got a gaffe instead. - politico.com",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Former special counsel Jack Smith defended his investigations into Donald Trump during a tense Senate hearing that saw heated clashes with Republican lawmakers."
+    },
+    {
+      "type": "paragraph",
+      "text": "The proceedings featured sharp attacks from GOP members, with one senator telling Smith that his actions made them want to throw up."
+    },
+    {
+      "type": "paragraph",
+      "text": "Despite the hostile reception from Republican questioners, Smith maintained a confident demeanor while defending the integrity of the probes."
+    },
+    {
+      "type": "paragraph",
+      "text": "The hearing also included a notable gaffe, highlighted by Senator Eric Schmitt’s basketball mixup during questioning."
+    },
+    {
+      "type": "paragraph",
+      "text": "The contentious session underscored the deep political divisions that continue to surround the federal investigations involving the former president."
+    },
+    {
+      "type": "paragraph",
+      "text": "Analysts are watching closely to see how the exchanges impact ongoing legislative oversight and political rhetoric surrounding the special counsel's work."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Republicans wanted Jack Smith to give them a smoking gun. They got a gaffe instead. - politico.com"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "jawan-opens-fire-kills-4-colleagues-including-an-officer-in-jks-kathua-ndtv-1790722906",
   "category": "india",
   "headline": "Jawan Opens Fire, Kills 4 Colleagues, Including An Officer In J&K's Kathua - NDTV",

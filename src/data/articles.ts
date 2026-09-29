@@ -92,6 +92,65 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "the-rural-english-villages-around-raf-fairford-at-the-center-of-a-possible-terro-1790694413",
+  "category": "world",
+  "headline": "The Rural English Villages Around RAF Fairford at the Center of a Possible Terrorist Plot - The New York Times",
+  "dek": "Rural English villages near RAF Fairford are at the center of an alleged terrorist plot involving a foreign state.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-09-29T15:06:53Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1790694411_3817.png",
+  "imageAlt": "The Rural English Villages Around RAF Fairford at the Center of a Possible Terrorist Plot - The New York Times",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Rural English villages surrounding the RAF Fairford air base have become the focal point of a security investigation concerning a possible terrorist plot."
+    },
+    {
+      "type": "paragraph",
+      "text": "The incident at the United States bomber base in the United Kingdom reportedly involves foreign state actors, according to remarks attributed to officials such as Rubio."
+    },
+    {
+      "type": "paragraph",
+      "text": "The unfolding situation has left the small English town near the U.S. bomber base rattled by the severity of the allegations."
+    },
+    {
+      "type": "paragraph",
+      "text": "However, legal developments have introduced complexity to the official narrative, with bail granted to the RAF base suspects leading analysts to indicate a current lack of definitive evidence pointing directly to terrorism."
+    },
+    {
+      "type": "paragraph",
+      "text": "The intersection of military installations, foreign state actions, and local community safety highlights ongoing geopolitical vulnerabilities in domestic security frameworks."
+    },
+    {
+      "type": "paragraph",
+      "text": "Stakeholders and security analysts continue to assess the broader implications of the incident for defense infrastructure and intelligence sharing among allies."
+    },
+    {
+      "type": "paragraph",
+      "text": "Further developments will depend on the progression of legal proceedings and any subsequent official clarifications regarding the nature of the alleged plot."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "The Rural English Villages Around RAF Fairford at the Center of a Possible Terrorist Plot - The New York Times"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "non-cognisable-report-filed-against-delhi-minister-parvesh-verma-over-slap-incid-1790692947",
   "category": "india",
   "headline": "Non-cognisable report filed against Delhi minister Parvesh Verma over slap incident | India News - Hindustan Times",

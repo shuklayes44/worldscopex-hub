@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "stock-market-crash-today-bse-sensex-continues-to-be-in-bear-grip-nifty50-below-2-1790705903",
+  "category": "economy",
+  "headline": "Stock market crash today: BSE Sensex continues to be in bear grip; Nifty50 below 22,600 - top reasons for - The Times of India",
+  "dek": "BSE Sensex stays in a bear grip as Nifty50 drops below the 22,600 mark during today's trading session.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-09-29T18:18:23Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1790705901_5263.png",
+  "imageAlt": "Stock market crash today: BSE Sensex continues to be in bear grip; Nifty50 below 22,600 - top reasons for - The Times of India",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "economy"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "The Indian stock market experienced a sharp downturn today, with the BSE Sensex continuing to trade under sustained bear pressure."
+    },
+    {
+      "type": "paragraph",
+      "text": "Benchmark indices faced heavy selling pressure throughout the session, reflecting a pessimistic sentiment among investors on domestic exchanges."
+    },
+    {
+      "type": "paragraph",
+      "text": "The Nifty50 index notably breached a crucial psychological level, falling below the 22,600 threshold amid persistent market weakness."
+    },
+    {
+      "type": "paragraph",
+      "text": "Market analysts note that the current correction stems from a combination of prevailing bearish momentum and broader economic factors impacting investor confidence."
+    },
+    {
+      "type": "paragraph",
+      "text": "The ongoing market crash has triggered heightened volatility across various sectors listed on Indian bourses, affecting overall portfolio valuations."
+    },
+    {
+      "type": "paragraph",
+      "text": "Financial stakeholders and market participants will closely watch subsequent sessions to gauge whether the indices can establish a floor or if the downward trend will persist."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Stock market crash today: BSE Sensex continues to be in bear grip; Nifty50 below 22,600 - top reasons for - The Times of India"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "when-we-go-you-will-come-rahul-gandhi-says-pm-told-him-only-congress-can-defeat-1790704515",
   "category": "india",
   "headline": "‘When we go, you will come’: Rahul Gandhi says PM told him only Congress can defeat BJP - The Hindu",

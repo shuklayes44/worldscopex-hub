@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "jack-smith-clashes-with-senators-over-trump-probes-says-he-will-not-be-silenced-1790729296",
+  "category": "world",
+  "headline": "Jack Smith clashes with senators over Trump probes, says he will not be silenced - The Washington Post",
+  "dek": "Special Counsel Jack Smith defended the integrity of federal probes against Donald Trump during a tense congressional hearing.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-09-30T00:48:16Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1790729295_1090.png",
+  "imageAlt": "Jack Smith clashes with senators over Trump probes, says he will not be silenced - The Washington Post",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Special Counsel Jack Smith engaged in a sharp clash with US senators during a highly anticipated congressional hearing focused on federal probes involving former President Donald Trump."
+    },
+    {
+      "type": "paragraph",
+      "text": "Lawmakers on Capitol Hill pressed the special counsel regarding the trajectory and oversight of the ongoing investigations, leading to contentious exchanges in the committee room."
+    },
+    {
+      "type": "paragraph",
+      "text": "During the proceedings, Smith firmly stated that he will not be silenced, pushing back against aggressive questioning from Republican senators."
+    },
+    {
+      "type": "paragraph",
+      "text": "The hearing highlighted the intense political polarization surrounding the federal prosecutions, with debates touching upon investigative procedures and institutional independence."
+    },
+    {
+      "type": "paragraph",
+      "text": "Observers note that the sharp confrontation underscores the broader legal and political stakes involved as federal authorities continue their scrutiny."
+    },
+    {
+      "type": "paragraph",
+      "text": "Markets and legal experts will closely watch upcoming legislative and judicial developments to gauge the potential fallout for the high-profile probes."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Jack Smith clashes with senators over Trump probes, says he will not be silenced - The Washington Post"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "the-week-that-was-in-international-affairs-zelenskyys-peace-bid-rejected-iran-ir-1790726663",
   "category": "geopolitics",
   "headline": "The week that was in international affairs : Zelenskyy's peace bid rejected, Iran-Iraq war escalates, Wor - The Times of India",

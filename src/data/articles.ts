@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "execution-of-us-murderer-christa-pike-halted-an-hour-before-it-was-due-to-happen-1790791781",
+  "category": "world",
+  "headline": "Execution of US murderer Christa Pike halted an hour before it was due to happen - bbc.com",
+  "dek": "A court order halted the execution of Christa Pike in Tennessee just an hour before it was scheduled to occur.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-09-30T18:09:41Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1790791779_7801.png",
+  "imageAlt": "Execution of US murderer Christa Pike halted an hour before it was due to happen - bbc.com",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "The scheduled execution of Christa Pike, Tennessee's lone woman on death row, was abruptly halted by a court order approximately an hour before it was due to take place, according to reports from BBC and other major outlets."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pike was convicted for a murder she committed at the age of 18, a detail that has heavily factored into the legal arguments surrounding her capital punishment case."
+    },
+    {
+      "type": "paragraph",
+      "text": "The eleventh-hour stay was granted by the court, pausing the implementation of Tennessee’s execution protocol for the high-profile death row inmate."
+    },
+    {
+      "type": "paragraph",
+      "text": "Legal analysts note that such last-minute stays often underscore complex constitutional questions and ongoing debates regarding capital punishment, particularly involving offenders convicted as young adults."
+    },
+    {
+      "type": "paragraph",
+      "text": "While the immediate execution has been blocked, the legal status of the case remains subject to further judicial review and procedural developments."
+    },
+    {
+      "type": "paragraph",
+      "text": "As the legal teams prepare for subsequent hearings, observers and stakeholders will be watching to see how the courts handle the remaining appeals in this closely watched capital case."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Execution of US murderer Christa Pike halted an hour before it was due to happen - bbc.com"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "uk-believes-iran-involved-in-raf-fairford-incident-burnham-says-bbc-1790790759",
   "category": "world",
   "headline": "UK believes Iran involved in RAF Fairford incident, Burnham says - BBC",

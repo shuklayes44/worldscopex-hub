@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "gyanesh-kumar-indias-election-chief-at-the-centre-of-a-growing-political-storm-b-1790734147",
+  "category": "india",
+  "headline": "Gyanesh Kumar: India's election chief at the centre of a growing political storm - BBC",
+  "dek": "India's election chief Gyanesh Kumar faces intense political pressure as the opposition demands resignations over voter roll deletions.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-09-30T02:09:07Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1790734146_6361.png",
+  "imageAlt": "Gyanesh Kumar: India's election chief at the centre of a growing political storm - BBC",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "India's Chief Election Commissioner, Gyanesh Kumar, has become the central figure in a rapidly intensifying political storm concerning the Special Intensive Revision (SIR) of voter lists."
+    },
+    {
+      "type": "paragraph",
+      "text": "The controversy escalated as the opposition Congress party widened its calls for Kumar's resignation, extending accountability demands to Prime Minister Narendra Modi and Home Minister Amit Shah."
+    },
+    {
+      "type": "paragraph",
+      "text": "Senior opposition leader Rahul Gandhi reportedly posed uncomfortable questions regarding the SIR deletions during a recent party meeting, drawing sharp focus to the election administration."
+    },
+    {
+      "type": "paragraph",
+      "text": "The mounting political confrontation underscores deep tensions surrounding electoral processes and institutional oversight in the country."
+    },
+    {
+      "type": "paragraph",
+      "text": "Legal scrutiny is set to intensify next week as the Supreme Court prepares to hear a petition seeking the suspension of CEC Gyanesh Kumar."
+    },
+    {
+      "type": "paragraph",
+      "text": "Observers will be closely monitoring the upcoming Supreme Court proceedings and the government's response as the political standoff continues to develop."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Gyanesh Kumar: India's election chief at the centre of a growing political storm - BBC"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "supreme-court-agrees-to-list-next-week-plea-to-suspend-cec-gyanesh-kumar-from-of-1790731301",
   "category": "india",
   "headline": "Supreme Court agrees to list next week plea to suspend CEC Gyanesh Kumar from office - The Hindu",

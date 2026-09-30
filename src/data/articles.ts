@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "pete-hegseth-appoints-elon-musk-to-us-taskforce-on-future-of-warfare-the-guardia-1790809307",
+  "category": "world",
+  "headline": "Pete Hegseth appoints Elon Musk to US taskforce on future of warfare - The Guardian",
+  "dek": "Pete Hegseth appoints Elon Musk to a US defense taskforce focused on AI, drones, and the future of warfare.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-09-30T23:01:47Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1790809305_1929.png",
+  "imageAlt": "Pete Hegseth appoints Elon Musk to US taskforce on future of warfare - The Guardian",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "US defense leadership has appointed technology executive Elon Musk to a newly established taskforce focused on the future of warfare, according to recent announcements."
+    },
+    {
+      "type": "paragraph",
+      "text": "The appointment was detailed during an address to troops, highlighting shifting priorities within the defense apparatus toward rapid technological integration."
+    },
+    {
+      "type": "paragraph",
+      "text": "Alongside the taskforce appointment, the Pentagon has created a new entity designated 'Autowarcom' to expand artificial intelligence and drone capabilities."
+    },
+    {
+      "type": "paragraph",
+      "text": "The initiatives mark a significant push to incorporate private-sector technological advancements directly into American military strategy and operations."
+    },
+    {
+      "type": "paragraph",
+      "text": "The integration of civilian technology leaders into defense planning raises important questions regarding procurement processes and future defense capabilities."
+    },
+    {
+      "type": "paragraph",
+      "text": "Industry analysts and international observers will be closely monitoring how these new structures alter US military development and global strategic positioning."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Pete Hegseth appoints Elon Musk to US taskforce on future of warfare - The Guardian"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "israeli-pm-hails-indian-pilot-wounded-in-diverted-flydubai-flight-the-hindu-1790807042",
   "category": "india",
   "headline": "Israeli PM hails Indian pilot wounded in diverted flydubai flight - The Hindu",

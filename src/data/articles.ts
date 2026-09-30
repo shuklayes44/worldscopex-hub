@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "israeli-pm-hails-indian-pilot-wounded-in-diverted-flydubai-flight-the-hindu-1790807042",
+  "category": "india",
+  "headline": "Israeli PM hails Indian pilot wounded in diverted flydubai flight - The Hindu",
+  "dek": "Israeli Prime Minister Netanyahu praises the Indian pilot wounded in a diverted flydubai flight after a co-pilot attack.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-09-30T22:24:02Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1790807040_9337.png",
+  "imageAlt": "Israeli PM hails Indian pilot wounded in diverted flydubai flight - The Hindu",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Israeli Prime Minister Benjamin Netanyahu has publicly hailed an Indian pilot who was wounded during a diverted flydubai flight operating from Dubai to Tel Aviv. Captain Smit Machchhar was injured after being stabbed by the co-pilot during the mid-air incident, which forced an emergency diversion."
+    },
+    {
+      "type": "paragraph",
+      "text": "According to official reports, passengers aboard the aircraft intervened to foil a bid to crash the plane during the confrontation. The timely intervention by the passengers prevented a potential catastrophic disaster in mid-air."
+    },
+    {
+      "type": "paragraph",
+      "text": "Following the incident, global leaders, including Donald Trump, strongly condemned the co-pilot, characterizing the attack on the captain as an act of terror. The serious nature of the cockpit breach has raised international aviation security concerns regarding flight deck protocols."
+    },
+    {
+      "type": "paragraph",
+      "text": "Passengers involved in subduing the attacker have since arrived safely back in Israel, where authorities are continuing their formal debriefing and investigation. The wounded captain's bravery and the passengers' swift response have been central to official statements regarding the safe outcome of the flight."
+    },
+    {
+      "type": "paragraph",
+      "text": "Aviation safety regulators and security agencies are expected to review screening procedures and cockpit access protocols for regional carriers in the wake of the incident. Further updates on the injured pilot's condition and the ongoing security probe will be monitored as investigations proceed."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Israeli PM hails Indian pilot wounded in diverted flydubai flight - The Hindu"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "sensex-falls-49-points-nifty-ends-below-22650-as-market-continues-to-bleed-what-1790804094",
   "category": "economy",
   "headline": "Sensex falls 49 points, Nifty ends below 22,650 as market continues to bleed. What lies ahead? - The Economic Times",

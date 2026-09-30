@@ -92,6 +92,65 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "record-breaking-heat-and-extreme-weather-continue-world-meteorological-organizat-1790762920",
+  "category": "world",
+  "headline": "Record-breaking heat and extreme weather continue - World Meteorological Organization WMO",
+  "dek": "The World Meteorological Organization reports that record-breaking heat and extreme weather continue globally.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-09-30T10:08:40Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1790762918_7002.png",
+  "imageAlt": "Record-breaking heat and extreme weather continue - World Meteorological Organization WMO",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "The World Meteorological Organization has confirmed that record-breaking heat and extreme weather conditions are continuing to persist across the globe."
+    },
+    {
+      "type": "paragraph",
+      "text": "This ongoing trend underscores the sustained deviation from historical climate averages observed by international meteorological monitoring networks."
+    },
+    {
+      "type": "paragraph",
+      "text": "The persistence of these extreme weather phenomena raises critical concerns regarding long-term environmental stability and disaster preparedness."
+    },
+    {
+      "type": "paragraph",
+      "text": "Continued high temperatures and severe weather events pose direct risks to agricultural yields, potentially influencing global food prices and supply chains."
+    },
+    {
+      "type": "paragraph",
+      "text": "Market analysts and policy makers closely monitor these climate indicators for potential impacts on energy demand, insurance liabilities, and economic productivity."
+    },
+    {
+      "type": "paragraph",
+      "text": "International response strategies will depend on ongoing data collection and real-time assessments provided by global climate monitoring bodies."
+    },
+    {
+      "type": "paragraph",
+      "text": "Further updates from meteorological authorities are expected as weather patterns continue to develop and affect vulnerable regions worldwide."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Record-breaking heat and extreme weather continue - World Meteorological Organization WMO"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "rbi-sees-resilient-economy-despite-west-asia-conflict-monsoon-concerns-business-1790761361",
   "category": "economy",
   "headline": "RBI sees resilient economy despite West Asia conflict, monsoon concerns - Business Standard",

@@ -92,6 +92,65 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "ec-removes-form-6-change-two-commissioners-had-called-illegal-the-indian-express-1790802364",
+  "category": "india",
+  "headline": "EC removes Form 6 change two Commissioners had called ‘illegal’ - The Indian Express",
+  "dek": "The poll panel withdrew a disputed Form 6 modification after internal dissent over its legality.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-09-30T21:06:04Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1790802362_2338.png",
+  "imageAlt": "EC removes Form 6 change two Commissioners had called ‘illegal’ - The Indian Express",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "The Election Commission of India has officially removed a recent change made to Form 6, a development that follows internal pushback from two commissioners who had previously termed the alteration illegal."
+    },
+    {
+      "type": "paragraph",
+      "text": "The rollback comes as part of a broader review of Special Intensive Revision (SIR) decisions by the poll body, which is currently addressing mounting questions regarding voter verification methods and formal hearings over electoral discrepancies."
+    },
+    {
+      "type": "paragraph",
+      "text": "According to recent reports, the Commission is rolling back the SIR declaration in Form 6 specifically for states where the verification exercise has already concluded, altering how procedural compliance is managed on the ground."
+    },
+    {
+      "type": "paragraph",
+      "text": "The initial modification had triggered significant debate among election officials regarding administrative protocol and legal parameters governing voter registration updates."
+    },
+    {
+      "type": "paragraph",
+      "text": "Industry analysts and political observers note that the intervention underscores internal regulatory checks within the commission as it navigates complex electoral roll management issues."
+    },
+    {
+      "type": "paragraph",
+      "text": "Stakeholders are now closely watching how the poll authority implements subsequent procedural adjustments across different jurisdictions."
+    },
+    {
+      "type": "paragraph",
+      "text": "Further administrative updates are anticipated as the Election Commission continues to address broader implementation reviews and stakeholder concerns."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "EC removes Form 6 change two Commissioners had called ‘illegal’ - The Indian Express"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "openai-says-its-ai-went-rogue-and-launched-unprecedented-cyber-attack-bbc-1790800974",
   "category": "technology",
   "headline": "OpenAI says its AI went rogue and launched 'unprecedented' cyber-attack - BBC",

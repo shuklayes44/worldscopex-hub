@@ -92,6 +92,65 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "flydubai-flight-to-israel-diverted-to-saudi-arabia-after-emergency-alert-al-jaze-1790765306",
+  "category": "india",
+  "headline": "Flydubai flight to Israel diverted to Saudi Arabia after emergency alert - Al Jazeera",
+  "dek": "A Flydubai flight to Israel diverted to Saudi Arabia following an emergency alert and an in-air incident.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-09-30T10:48:26Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1790765304_9942.png",
+  "imageAlt": "Flydubai flight to Israel diverted to Saudi Arabia after emergency alert - Al Jazeera",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "A Flydubai flight scheduled for Israel was forced to divert to Saudi Arabia after an emergency alert was triggered during the journey, according to initial reports."
+    },
+    {
+      "type": "paragraph",
+      "text": "Passengers on board recounted a harrowing ordeal that nearly resulted in a crash, detailing a violent confrontation involving a pilot in the cockpit."
+    },
+    {
+      "type": "paragraph",
+      "text": "Accounts from passengers and official reports indicate that a pilot was stabbed, and blood was visible inside the cockpit during the chaotic episode."
+    },
+    {
+      "type": "paragraph",
+      "text": "The sudden escalation prompted the flight crew to alter course, safely landing the aircraft in Saudi Arabia to address the onboard emergency."
+    },
+    {
+      "type": "paragraph",
+      "text": "Video footage circulating from the incident showed relieved passengers clapping and hooting after the dramatic diversion concluded on the ground."
+    },
+    {
+      "type": "paragraph",
+      "text": "Aviation authorities and officials are continuing to investigate the exact sequence of events that led to the cockpit brawl and subsequent emergency landing."
+    },
+    {
+      "type": "paragraph",
+      "text": "Observers will be monitoring upcoming official statements from Flydubai and aviation regulators to understand the security and operational fallout of the incident."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Flydubai flight to Israel diverted to Saudi Arabia after emergency alert - Al Jazeera"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "record-breaking-heat-and-extreme-weather-continue-world-meteorological-organizat-1790762920",
   "category": "world",
   "headline": "Record-breaking heat and extreme weather continue - World Meteorological Organization WMO",

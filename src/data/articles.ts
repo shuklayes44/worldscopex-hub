@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "sensex-falls-49-points-nifty-ends-below-22650-as-market-continues-to-bleed-what-1790804094",
+  "category": "economy",
+  "headline": "Sensex falls 49 points, Nifty ends below 22,650 as market continues to bleed. What lies ahead? - The Economic Times",
+  "dek": "Benchmark indices extended losses as the Sensex slipped and the Nifty finished under 22,650 amid persistent selling.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-09-30T21:34:54Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1790804092_8743.png",
+  "imageAlt": "Sensex falls 49 points, Nifty ends below 22,650 as market continues to bleed. What lies ahead? - The Economic Times",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "economy"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Indian benchmark indices extended their downward trajectory on Friday, with the Sensex dropping 49 points and the Nifty settling below the 22,650 level as selling pressure persisted in the market."
+    },
+    {
+      "type": "paragraph",
+      "text": "The persistent decline highlights the cautious sentiment currently prevailing among domestic investors amid a continuous bleeding of equities."
+    },
+    {
+      "type": "paragraph",
+      "text": "Market participants are closely evaluating technical indicators and broader macroeconomic trends to determine the underlying strength of the indices."
+    },
+    {
+      "type": "paragraph",
+      "text": "The ongoing market correction has raised questions among traders regarding short-term support zones and potential triggers for a recovery."
+    },
+    {
+      "type": "paragraph",
+      "text": "Analysts continue to monitor institutional flows, global market directions, and upcoming domestic economic data for further clarity on the market trajectory."
+    },
+    {
+      "type": "paragraph",
+      "text": "As the indices navigate this phase of sustained weakness, upcoming trading sessions will test crucial support thresholds across major sectors."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Sensex falls 49 points, Nifty ends below 22,650 as market continues to bleed. What lies ahead? - The Economic Times"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "ec-removes-form-6-change-two-commissioners-had-called-illegal-the-indian-express-1790802364",
   "category": "india",
   "headline": "EC removes Form 6 change two Commissioners had called ‘illegal’ - The Indian Express",

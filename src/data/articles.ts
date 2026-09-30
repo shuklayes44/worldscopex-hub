@@ -92,6 +92,65 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "sensex-today-trades-203-points-higher-nifty-below-22700-bajaj-finance-kotak-mahi-1790767576",
+  "category": "economy",
+  "headline": "Sensex Today Trades 203 Points Higher | Nifty Below 22,700 | Bajaj Finance & Kotak Mahindra Top Losers - Equitymaster",
+  "dek": "Sensex gains 203 points while Nifty trades below 22,700, led down by Bajaj Finance and Kotak Mahindra.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-09-30T11:26:16Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1790767575_7561.png",
+  "imageAlt": "Sensex Today Trades 203 Points Higher | Nifty Below 22,700 | Bajaj Finance & Kotak Mahindra Top Losers - Equitymaster",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "economy"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Indian benchmark indices displayed a mixed trend during the trading session, with the BSE Sensex advancing 203 points."
+    },
+    {
+      "type": "paragraph",
+      "text": "Meanwhile, the broader Nifty index remained under pressure, slipping below the crucial 22,700 mark."
+    },
+    {
+      "type": "paragraph",
+      "text": "Market performance was heavily influenced by losses in select financial heavyweights, weighing on the broader market mood."
+    },
+    {
+      "type": "paragraph",
+      "text": "Bajaj Finance and Kotak Mahindra featured among the top losers during the session, driving the downward pressure on indices."
+    },
+    {
+      "type": "paragraph",
+      "text": "The divergence between the Sensex and Nifty highlights localized selling in specific sectoral heavyweights."
+    },
+    {
+      "type": "paragraph",
+      "text": "Investors continue to track constituent movements closely as indices navigate key technical thresholds."
+    },
+    {
+      "type": "paragraph",
+      "text": "Market participants will observe whether the benchmarks can sustain momentum or face extended selling pressure."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Sensex Today Trades 203 Points Higher | Nifty Below 22,700 | Bajaj Finance & Kotak Mahindra Top Losers - Equitymaster"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "flydubai-flight-to-israel-diverted-to-saudi-arabia-after-emergency-alert-al-jaze-1790765306",
   "category": "india",
   "headline": "Flydubai flight to Israel diverted to Saudi Arabia after emergency alert - Al Jazeera",

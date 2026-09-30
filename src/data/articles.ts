@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "bbc-reveals-record-breaking-global-audience-figures-of-over-half-a-billion-bbcco-1790784443",
+  "category": "world",
+  "headline": "BBC reveals record-breaking global audience figures of over half a billion - bbc.com",
+  "dek": "The British public broadcaster has reached a historic milestone in its global reach.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-09-30T16:07:23Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1790784441_8019.png",
+  "imageAlt": "BBC reveals record-breaking global audience figures of over half a billion - bbc.com",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "The BBC has revealed record-breaking global audience figures exceeding half a billion people, according to recent announcements from the broadcaster."
+    },
+    {
+      "type": "paragraph",
+      "text": "The milestone reflects the widespread international consumption of the network's news and programming across multiple platforms."
+    },
+    {
+      "type": "paragraph",
+      "text": "Reaching over half a billion individuals highlights the continued demand for verified, accessible journalism on a global scale."
+    },
+    {
+      "type": "paragraph",
+      "text": "Media analysts and industry observers closely track such metrics to understand shifting consumer habits in the competitive international media landscape."
+    },
+    {
+      "type": "paragraph",
+      "text": "The figures emphasize the broadcaster's significant footprint outside its domestic market, reinforcing its position as a major global information provider."
+    },
+    {
+      "type": "paragraph",
+      "text": "Future updates from the organization are expected to provide further insights into regional viewership trends and platform engagement."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "BBC reveals record-breaking global audience figures of over half a billion - bbc.com"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "trump-signs-executive-order-renaming-ai-to-super-intelligenceheres-what-it-chang-1790781711",
   "category": "india",
   "headline": "Trump Signs Executive Order Renaming AI To ‘Super Intelligence’—Here’s What It Changes - forbes.com",

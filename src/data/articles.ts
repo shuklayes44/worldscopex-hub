@@ -92,6 +92,65 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "pakistan-airspace-closed-india-eyes-china-skies-the-times-of-india-1790776005",
+  "category": "india",
+  "headline": "Pakistan airspace closed, India eyes China skies - The Times of India",
+  "dek": "Pakistan airspace closure forces India to explore alternative routes through Chinese skies, impacting regional aviation.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-09-30T13:46:45Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1790776003_1319.png",
+  "imageAlt": "Pakistan airspace closed, India eyes China skies - The Times of India",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Pakistan has officially closed its airspace, according to reports from The Times of India, creating immediate operational challenges for regional and international carriers."
+    },
+    {
+      "type": "paragraph",
+      "text": "The sudden closure has forced Indian aviation authorities and airlines to look toward Chinese skies as an alternative routing option to maintain flight schedules."
+    },
+    {
+      "type": "paragraph",
+      "text": "Rerouting flights through Chinese airspace involves complex diplomatic coordination and technical adjustments for carriers operating in the region."
+    },
+    {
+      "type": "paragraph",
+      "text": "The shift in flight paths carries potential cost and logistical implications for the airline industry, affecting fuel consumption and journey times."
+    },
+    {
+      "type": "paragraph",
+      "text": "Market analysts and aviation stakeholders are closely observing how policy adjustments and airspace negotiations will unfold."
+    },
+    {
+      "type": "paragraph",
+      "text": "Authorities continue to evaluate the situation as carriers adapt their flight plans to bypass the closed Pakistani corridor."
+    },
+    {
+      "type": "paragraph",
+      "text": "Further developments are anticipated regarding official coordination between the concerned regional aviation authorities."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Pakistan airspace closed, India eyes China skies - The Times of India"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "the-us-military-says-its-withdrawal-of-troops-from-iraq-is-complete-ap-news-1790772657",
   "category": "world",
   "headline": "The US military says its withdrawal of troops from Iraq is complete - AP News",

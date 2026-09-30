@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "christa-pike-execution-on-pause-as-tennessee-asks-supreme-court-to-intervene-wzt-1790811223",
+  "category": "world",
+  "headline": "Christa Pike execution on pause as Tennessee asks Supreme Court to intervene - WZTV",
+  "dek": "Tennessee halts the execution of Christa Pike as the state appeals to the Supreme Court for intervention.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-09-30T23:33:43Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1790811221_1462.png",
+  "imageAlt": "Christa Pike execution on pause as Tennessee asks Supreme Court to intervene - WZTV",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "The scheduled execution of Christa Pike in Tennessee has been temporarily halted following a series of conflicting legal decisions from federal courts. State authorities have officially petitioned the U.S. Supreme Court to intervene in the case, creating a temporary pause in the capital punishment process."
+    },
+    {
+      "type": "paragraph",
+      "text": "The legal battle highlights deep divisions within the judicial system regarding the handling of death row cases. While lower federal appeals courts have issued differing rulings on whether the execution could proceed, the ultimate decision now rests with the nation's highest court."
+    },
+    {
+      "type": "paragraph",
+      "text": "The case has drawn widespread national attention due to the complex constitutional and procedural questions involved. Legal analysts are reviewing the arguments presented by state prosecutors and defense counsels as the Supreme Court considers its next steps."
+    },
+    {
+      "type": "paragraph",
+      "text": "The outcome of this petition will likely establish critical precedent for future capital punishment cases within the jurisdiction. Stakeholders on both sides of the legal debate are preparing for expedited proceedings as the judicial review unfolds."
+    },
+    {
+      "type": "paragraph",
+      "text": "Observers and legal scholars will be closely watching for any official orders or scheduling updates from the Supreme Court. The impending decision will determine the immediate timeline for the execution proceedings and shape ongoing debates over capital punishment policy."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Christa Pike execution on pause as Tennessee asks Supreme Court to intervene - WZTV"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "pete-hegseth-appoints-elon-musk-to-us-taskforce-on-future-of-warfare-the-guardia-1790809307",
   "category": "world",
   "headline": "Pete Hegseth appoints Elon Musk to US taskforce on future of warfare - The Guardian",

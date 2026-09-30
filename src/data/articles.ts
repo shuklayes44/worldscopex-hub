@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "senate-democrats-block-house-passed-bill-restricting-member-stock-trading-politi-1790796579",
+  "category": "world",
+  "headline": "Senate Democrats block House-passed bill restricting member stock trading - Politico",
+  "dek": "Senate Democrats block House-passed bill restricting lawmaker stock trading ahead of midterms.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-09-30T19:29:39Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1790796577_1451.png",
+  "imageAlt": "Senate Democrats block House-passed bill restricting member stock trading - Politico",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Senate Democrats have officially blocked a House-passed bill that sought to restrict stock trading by members of Congress."
+    },
+    {
+      "type": "paragraph",
+      "text": "The legislative move halts a popular insider trading ban, effectively denying Republicans a key political victory ahead of the midterm elections."
+    },
+    {
+      "type": "paragraph",
+      "text": "According to reports from Politico and other outlets, the action was part of a broader partisan effort by Democrats to derail the opposition party's agenda."
+    },
+    {
+      "type": "paragraph",
+      "text": "The failure to advance the measure also affected related legislative items, including data center bills that stalled before the deadline."
+    },
+    {
+      "type": "paragraph",
+      "text": "The development underscores the deep political divisions surrounding congressional ethics and financial transparency rules."
+    },
+    {
+      "type": "paragraph",
+      "text": "As the legislative session progresses, attention will turn to whether lawmakers attempt to revive transparency measures in subsequent debates."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Senate Democrats block House-passed bill restricting member stock trading - Politico"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "actionable-intelligence-led-to-killing-of-most-wanted-let-terrorist-hashim-moosa-1790793383",
   "category": "india",
   "headline": "Actionable intelligence led to killing of most-wanted LeT terrorist Hashim Moosa | India News - Hindustan Times",

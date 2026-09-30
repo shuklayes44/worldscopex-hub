@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "live-updates-iran-says-it-has-received-us-counterproposal-to-7-day-ceasefire-pla-1790798730",
+  "category": "world",
+  "headline": "Live Updates: Iran says it has received U.S. counterproposal to 7-day ceasefire plan rejected by Trump - CBS News",
+  "dek": "Iran acknowledges receiving a U.S. counterproposal on a trust-building ceasefire plan following the rejection of a previous 7-day initiative.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-09-30T20:05:30Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1790798728_5225.png",
+  "imageAlt": "Live Updates: Iran says it has received U.S. counterproposal to 7-day ceasefire plan rejected by Trump - CBS News",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Iran has officially confirmed receiving a United States counterproposal regarding a proposed ceasefire plan. The development follows the earlier rejection by President Trump of a 7-day ceasefire framework aimed at trust-building."
+    },
+    {
+      "type": "paragraph",
+      "text": "The diplomatic exchange comes as Washington simultaneously executes a withdrawal of its forces from Iraq. The dual developments highlight shifting strategic postures in the Middle East."
+    },
+    {
+      "type": "paragraph",
+      "text": "The newly received U.S. response represents the latest formal feedback on Tehran's ongoing offers to end the broader conflict. International observers are closely monitoring the precise terms of the counterproposal."
+    },
+    {
+      "type": "paragraph",
+      "text": "For global energy markets and regional stability, the continuation of diplomatic channels remains a critical variable. Stakeholders are assessing whether the latest U.S. communication can bridge existing gaps."
+    },
+    {
+      "type": "paragraph",
+      "text": "Negotiators on both sides face mounting pressure to prevent further escalation as military positions shift across the region. The U.S. drawdown in Iraq further complicates the strategic calculus for all involved parties."
+    },
+    {
+      "type": "paragraph",
+      "text": "Future updates are expected as Iranian officials review the U.S. feedback in detail. Markets and policymakers will continue to watch for official statements from both capitals regarding the next steps in the peace process."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Live Updates: Iran says it has received U.S. counterproposal to 7-day ceasefire plan rejected by Trump - CBS News"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "senate-democrats-block-house-passed-bill-restricting-member-stock-trading-politi-1790796579",
   "category": "world",
   "headline": "Senate Democrats block House-passed bill restricting member stock trading - Politico",

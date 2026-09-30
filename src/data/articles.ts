@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "actionable-intelligence-led-to-killing-of-most-wanted-let-terrorist-hashim-moosa-1790793383",
+  "category": "india",
+  "headline": "Actionable intelligence led to killing of most-wanted LeT terrorist Hashim Moosa | India News - Hindustan Times",
+  "dek": "Actionable intelligence leads to the killing of most-wanted LeT terrorist Hashim Moosa in Jammu and Kashmir.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-09-30T18:36:23Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1790793379_1237.png",
+  "imageAlt": "Actionable intelligence led to killing of most-wanted LeT terrorist Hashim Moosa | India News - Hindustan Times",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Indian security forces successfully eliminated most-wanted Lashkar-e-Taiba terrorist Hashim Moosa in Jammu and Kashmir following precise actionable intelligence."
+    },
+    {
+      "type": "paragraph",
+      "text": "The high-profile counter-terrorism operation also resulted in the killing of LeT terrorist Mohammad Asif, whose body was recovered alongside war-like stores."
+    },
+    {
+      "type": "paragraph",
+      "text": "According to the Ministry of Home Affairs, the neutralization of Moosa serves as a serious blow to the broader LeT operational ecosystem in the region."
+    },
+    {
+      "type": "paragraph",
+      "text": "Historical background notes indicate Moosa previously served as a guard to former figures before rising through the ranks to become a key LeT commander."
+    },
+    {
+      "type": "paragraph",
+      "text": "Security analysts view the coordinated strike as a significant tactical victory that degrades local insurgent capabilities and command structures."
+    },
+    {
+      "type": "paragraph",
+      "text": "Federal and local authorities are expected to maintain heightened surveillance protocols across Jammu and Kashmir to manage ongoing security dynamics."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Actionable intelligence led to killing of most-wanted LeT terrorist Hashim Moosa | India News - Hindustan Times"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "execution-of-us-murderer-christa-pike-halted-an-hour-before-it-was-due-to-happen-1790791781",
   "category": "world",
   "headline": "Execution of US murderer Christa Pike halted an hour before it was due to happen - bbc.com",

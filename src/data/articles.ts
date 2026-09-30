@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "supreme-court-agrees-to-list-next-week-plea-to-suspend-cec-gyanesh-kumar-from-of-1790731301",
+  "category": "india",
+  "headline": "Supreme Court agrees to list next week plea to suspend CEC Gyanesh Kumar from office - The Hindu",
+  "dek": "The Supreme Court will hear a petition next week seeking the suspension of CEC Gyanesh Kumar.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-09-30T01:21:41Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1790731299_2576.png",
+  "imageAlt": "Supreme Court agrees to list next week plea to suspend CEC Gyanesh Kumar from office - The Hindu",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "The Supreme Court of India has officially agreed to list a petition next week that seeks the suspension of Chief Election Commissioner (CEC) Gyanesh Kumar from office."
+    },
+    {
+      "type": "paragraph",
+      "text": "The legal plea places the head of the election commission directly under judicial scrutiny, marking a significant development in ongoing institutional and political discourse."
+    },
+    {
+      "type": "paragraph",
+      "text": "The timing of the Supreme Court's decision coincides with heightened political activity regarding SIR and related opposition strategies, with the INDIA bloc scheduling meetings to finalize anti-SIR agitation plans."
+    },
+    {
+      "type": "paragraph",
+      "text": "Such high-profile petitions involving constitutional authorities carry vital policy implications for governance, administrative stability, and regulatory oversight in the country."
+    },
+    {
+      "type": "paragraph",
+      "text": "Stakeholders, legal analysts, and political parties will closely watch the apex court's proceedings next week for any formal notices or initial directives regarding the petition."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Supreme Court agrees to list next week plea to suspend CEC Gyanesh Kumar from office - The Hindu"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "jack-smith-clashes-with-senators-over-trump-probes-says-he-will-not-be-silenced-1790729296",
   "category": "world",
   "headline": "Jack Smith clashes with senators over Trump probes, says he will not be silenced - The Washington Post",

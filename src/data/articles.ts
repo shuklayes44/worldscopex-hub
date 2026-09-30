@@ -92,6 +92,65 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "the-week-that-was-in-international-affairs-zelenskyys-peace-bid-rejected-iran-ir-1790726663",
+  "category": "geopolitics",
+  "headline": "The week that was in international affairs : Zelenskyy's peace bid rejected, Iran-Iraq war escalates, Wor - The Times of India",
+  "dek": "International affairs see diplomatic setbacks with a rejected peace bid and escalating regional conflict.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-09-30T00:04:23Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1790726661_1153.png",
+  "imageAlt": "The week that was in international affairs : Zelenskyy's peace bid rejected, Iran-Iraq war escalates, Wor - The Times of India",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "geopolitics"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "International affairs experienced a turbulent week marked by significant diplomatic setbacks and expanding regional conflict."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ukrainian President Volodymyr Zelenskyy's recent peace bid was formally rejected, stalling ongoing diplomatic efforts to resolve the conflict."
+    },
+    {
+      "type": "paragraph",
+      "text": "Simultaneously, the escalation of the Iran-Iraq conflict introduced new layers of instability to regional security and global stability."
+    },
+    {
+      "type": "paragraph",
+      "text": "Markets and international policymakers are closely monitoring these developments for potential impacts on global trade, security, and economic stability."
+    },
+    {
+      "type": "paragraph",
+      "text": "The confluence of these geopolitical events underscores the fragility of current international diplomatic frameworks."
+    },
+    {
+      "type": "paragraph",
+      "text": "Stakeholders across global sectors await further developments as international bodies deliberate on potential responses to the escalating crises."
+    },
+    {
+      "type": "paragraph",
+      "text": "Future diplomatic engagements and security updates will dictate the trajectory of international relations in the coming weeks."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "The week that was in international affairs : Zelenskyy's peace bid rejected, Iran-Iraq war escalates, Wor - The Times of India"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "republicans-wanted-jack-smith-to-give-them-a-smoking-gun-they-got-a-gaffe-instea-1790724666",
   "category": "world",
   "headline": "Republicans wanted Jack Smith to give them a smoking gun. They got a gaffe instead. - politico.com",

@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "uk-believes-iran-involved-in-raf-fairford-incident-burnham-says-bbc-1790790759",
+  "category": "world",
+  "headline": "UK believes Iran involved in RAF Fairford incident, Burnham says - BBC",
+  "dek": "UK authorities state belief that Iran was involved in an incident at the RAF Fairford air base.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-09-30T17:52:39Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1790790757_8525.png",
+  "imageAlt": "UK believes Iran involved in RAF Fairford incident, Burnham says - BBC",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "UK officials have indicated a belief that Iran was involved in an incident at the RAF Fairford air base, according to reports by the BBC."
+    },
+    {
+      "type": "paragraph",
+      "text": "The assessment links state-backed actors to a security event at a key military installation, drawing international attention to potential vulnerabilities."
+    },
+    {
+      "type": "paragraph",
+      "text": "Broader geopolitical tensions involving Iran continue to unfold alongside diplomatic mediation and review of proposals by the United States and other global partners."
+    },
+    {
+      "type": "paragraph",
+      "text": "Global markets and policymakers are monitoring the situation as security evaluations and intelligence sharing proceed among allied nations."
+    },
+    {
+      "type": "paragraph",
+      "text": "The unfolding developments highlight ongoing concerns regarding regional stability and the protection of critical military infrastructure."
+    },
+    {
+      "type": "paragraph",
+      "text": "Further updates are anticipated as diplomatic and defense officials release additional findings related to the investigation."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "UK believes Iran involved in RAF Fairford incident, Burnham says - BBC"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "pilot-attacked-in-flydubai-altercation-indian-say-sources-the-hindu-1790787227",
   "category": "india",
   "headline": "Pilot attacked in flydubai altercation Indian, say sources - The Hindu",

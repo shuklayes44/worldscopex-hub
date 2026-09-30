@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "supreme-court-allows-third-country-deportations-to-resume-for-now-the-washington-1790743643",
+  "category": "world",
+  "headline": "Supreme Court allows ‘third country’ deportations to resume for now - The Washington Post",
+  "dek": "The U.S. Supreme Court has permitted the implementation of controversial third-country deportation policies to move forward temporarily.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-09-30T04:47:23Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1790743642_4906.png",
+  "imageAlt": "Supreme Court allows ‘third country’ deportations to resume for now - The Washington Post",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "The United States Supreme Court has issued a ruling allowing the administration's \"third country\" deportations to resume for the time being, according to recent legal updates."
+    },
+    {
+      "type": "paragraph",
+      "text": "The decision enables federal authorities to proceed with deporting migrants to nations other than their countries of origin while broader legal challenges play out in the courts."
+    },
+    {
+      "type": "paragraph",
+      "text": "This policy shift forms a significant component of broader immigration enforcement measures pursued by the administration."
+    },
+    {
+      "type": "paragraph",
+      "text": "Legal scholars and immigration advocates continue to monitor the implications of the high court's procedural action on pending litigation."
+    },
+    {
+      "type": "paragraph",
+      "text": "Further developments are expected in lower courts as the fundamental legal questions surrounding the third-country deportation framework are formally addressed."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Supreme Court allows ‘third country’ deportations to resume for now - The Washington Post"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "gyanesh-kumar-indias-election-chief-at-the-centre-of-a-growing-political-storm-b-1790734147",
   "category": "india",
   "headline": "Gyanesh Kumar: India's election chief at the centre of a growing political storm - BBC",

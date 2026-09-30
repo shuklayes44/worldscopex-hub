@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "brazil-launches-ai-supercomputer-push-while-balancing-us-and-chinese-tech-al-jaz-1790785640",
+  "category": "technology",
+  "headline": "Brazil launches AI supercomputer push while balancing US and Chinese tech - Al Jazeera",
+  "dek": "Brazil is advancing a new AI supercomputing initiative while balancing technological partnerships between the US and China.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-09-30T16:27:20Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1790785638_1521.png",
+  "imageAlt": "Brazil launches AI supercomputer push while balancing US and Chinese tech - Al Jazeera",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "technology"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Brazil has officially launched a major initiative focused on artificial intelligence supercomputing, marking a significant step in the nation's technological development. The announcement highlights a deliberate strategy to build domestic computing power while actively balancing ties with both the United States and China."
+    },
+    {
+      "type": "paragraph",
+      "text": "The push for supercomputing infrastructure is designed to bolster Brazil's technological capabilities in advanced digital sectors. By developing domestic compute resources, the country aims to reduce its reliance on foreign digital infrastructure while participating in the global artificial intelligence boom."
+    },
+    {
+      "type": "paragraph",
+      "text": "In navigating this technological expansion, Brazilian authorities are required to carefully manage diplomatic and economic relationships with the world's leading tech superpowers. Both the US and China are competing fiercely for global influence in artificial intelligence and semiconductor supply chains."
+    },
+    {
+      "type": "paragraph",
+      "text": "For international markets and emerging economies alike, Brazil's balancing act underscores the growing geopolitical importance of digital sovereignty. Nations are increasingly seeking to forge independent technological paths while engaging with competing global standards and suppliers."
+    },
+    {
+      "type": "paragraph",
+      "text": "As the initiative moves from planning to execution, analysts will be watching to see how infrastructure contracts are awarded. The trajectory of Brazil's supercomputer project could serve as a model for other developing nations navigating US-China technology competition."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Brazil launches AI supercomputer push while balancing US and Chinese tech - Al Jazeera"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "bbc-reveals-record-breaking-global-audience-figures-of-over-half-a-billion-bbcco-1790784443",
   "category": "world",
   "headline": "BBC reveals record-breaking global audience figures of over half a billion - bbc.com",

@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "trump-top-ai-leaders-agree-to-voluntary-ai-standards-axios-1790758162",
+  "category": "world",
+  "headline": "Trump, top AI leaders agree to voluntary ​AI ​standards - Axios",
+  "dek": "Donald Trump and leading artificial intelligence executives have agreed to a voluntary pact establishing safety standards for the technology sector.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-09-30T08:49:22Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1790758160_8421.png",
+  "imageAlt": "Trump, top AI leaders agree to voluntary ​AI ​standards - Axios",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "United States leadership and prominent artificial intelligence figures have formalized a new voluntary agreement establishing operational and safety standards for the industry. The accord involves major technology executives signing a framework pledging robust oversight of AI development."
+    },
+    {
+      "type": "paragraph",
+      "text": "The development unfolds alongside ongoing discussions about the political and regulatory trajectory of advanced technology systems. Observers note the framework relies on voluntary compliance rather than mandatory statutory enforcement mechanisms."
+    },
+    {
+      "type": "paragraph",
+      "text": "Discussions surrounding the initiative also highlight broader branding and policy efforts concerning the future terminology and governance of artificial intelligence. Critics and supporters alike continue to debate whether voluntary industry pacts provide sufficient oversight for rapidly scaling capabilities."
+    },
+    {
+      "type": "paragraph",
+      "text": "Market participants and policymakers are closely examining the implementation details of the signed commitments. The agreement signals an ongoing reliance on industry-led standards as governments grapple with the pace of technological innovation."
+    },
+    {
+      "type": "paragraph",
+      "text": "Future developments will likely focus on whether these voluntary guidelines evolve into formal regulatory mandates or if additional corporate signatories will adopt the pact. Analysts will continue to monitor the intersection of political strategy and artificial intelligence governance."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Trump, top AI leaders agree to voluntary ​AI ​standards - Axios"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "hijacking-scare-on-dubai-tel-aviv-flight-emergency-code-triggered-plane-diverted-1790752686",
   "category": "india",
   "headline": "Hijacking scare on Dubai-Tel Aviv flight; emergency code triggered, plane diverted to Saudi Arabia - The Times of India",

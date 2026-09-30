@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "trump-signs-executive-order-renaming-ai-to-super-intelligenceheres-what-it-chang-1790781711",
+  "category": "india",
+  "headline": "Trump Signs Executive Order Renaming AI To ‘Super Intelligence’—Here’s What It Changes - forbes.com",
+  "dek": "President Trump signs an executive order renaming artificial intelligence to Super Intelligence alongside an AI safety accord.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-09-30T15:21:51Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1790781709_4890.png",
+  "imageAlt": "Trump Signs Executive Order Renaming AI To ‘Super Intelligence’—Here’s What It Changes - forbes.com",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "United States President Donald Trump has signed an executive order officially renaming artificial intelligence to \"Super Intelligence,\" according to recent reports. The executive action establishes the new terminology for federal technology frameworks and regulatory documents."
+    },
+    {
+      "type": "paragraph",
+      "text": "Alongside the renaming decree, top technology CEOs signed a new AI safety accord during the administration event. The agreement outlines shared commitments among major technology leaders regarding future development and safety standards."
+    },
+    {
+      "type": "paragraph",
+      "text": "However, official documents associated with the signing ceremony drew immediate attention due to a prominent typo. The physical accord featured the phrase \"Unites States\" appearing directly beneath the president's name."
+    },
+    {
+      "type": "paragraph",
+      "text": "The oversight in the official paperwork was quickly noted by observers as the administration rolled out its updated nomenclature. The terminology shift impacts how federal agencies officially reference artificial intelligence systems moving forward."
+    },
+    {
+      "type": "paragraph",
+      "text": "Industry participants and legal experts are now assessing the practical implications of the terminology change on ongoing technology policy. Observers will watch for potential document corrections and subsequent administrative guidance from the White House."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Trump Signs Executive Order Renaming AI To ‘Super Intelligence’—Here’s What It Changes - forbes.com"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "israel-bound-flydubai-flight-diverted-to-saudi-arabia-pilots-injured-hospitalise-1790779154",
   "category": "india",
   "headline": "Israel-bound flydubai flight diverted to Saudi Arabia; pilots injured, hospitalised - thehindu.com",

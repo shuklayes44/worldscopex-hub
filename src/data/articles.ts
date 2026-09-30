@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "rbi-sees-resilient-economy-despite-west-asia-conflict-monsoon-concerns-business-1790761361",
+  "category": "economy",
+  "headline": "RBI sees resilient economy despite West Asia conflict, monsoon concerns - Business Standard",
+  "dek": "The Reserve Bank of India maintains that the national economy remains resilient amid global and domestic headwinds.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-09-30T09:42:41Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1790761359_1797.png",
+  "imageAlt": "RBI sees resilient economy despite West Asia conflict, monsoon concerns - Business Standard",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "economy"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "The Reserve Bank of India has expressed confidence in the enduring strength of the domestic economy. This positive assessment comes despite the persistence of geopolitical tensions in West Asia and mounting concerns over monsoon progress. Central bank evaluations suggest underlying economic fundamentals are holding firm against external pressures."
+    },
+    {
+      "type": "paragraph",
+      "text": "Geopolitical disruptions in West Asia remain a critical variable for global trade, energy supplies, and financial markets. The Reserve Bank continues to factor these external risks into its broader macroeconomic outlook. However, domestic activity indicators point toward continued stability."
+    },
+    {
+      "type": "paragraph",
+      "text": "Monsoon performance is another vital determinant for agricultural output, rural demand, and overall price stability. Shifts in weather patterns and precipitation levels are closely tracked by policymakers for potential impacts on food inflation. Despite these variables, the RBI's economic resilience thesis remains intact."
+    },
+    {
+      "type": "paragraph",
+      "text": "Market participants and economic analysts view the central bank's stance as an important signal of domestic buffering capacity. Robust internal demand helps mitigate the transmission of external shocks to the broader financial system. Financial institutions and investors continue to assess asset quality and liquidity conditions in light of these developments."
+    },
+    {
+      "type": "paragraph",
+      "text": "Policymakers remain vigilant regarding commodity price volatility and supply chain disruptions originating from the West Asian conflict zone. Monitoring domestic weather developments will remain central to upcoming agricultural and inflation assessments. Markets will closely watch subsequent policy statements and economic data releases for further guidance on the macroeconomic trajectory."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "RBI sees resilient economy despite West Asia conflict, monsoon concerns - Business Standard"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "trump-top-ai-leaders-agree-to-voluntary-ai-standards-axios-1790758162",
   "category": "world",
   "headline": "Trump, top AI leaders agree to voluntary ​AI ​standards - Axios",

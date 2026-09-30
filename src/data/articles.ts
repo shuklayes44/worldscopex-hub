@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "the-us-military-says-its-withdrawal-of-troops-from-iraq-is-complete-ap-news-1790772657",
+  "category": "world",
+  "headline": "The US military says its withdrawal of troops from Iraq is complete - AP News",
+  "dek": "The United States military has completed its troop withdrawal from Iraq, 23 years after the initial invasion.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-09-30T12:50:57Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1790772655_7384.png",
+  "imageAlt": "The US military says its withdrawal of troops from Iraq is complete - AP News",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "The United States military has officially announced the complete withdrawal of its forces from Iraq. The historic drawdown brings a definitive end to the American military mission that began over two decades ago."
+    },
+    {
+      "type": "paragraph",
+      "text": "Chief Pentagon Spokesman Sean Parnell issued the formal statement detailing the conclusion of operations. The milestone marks exactly 23 years since U.S. forces first invaded the nation in 2003, fundamentally shifting Middle Eastern geopolitics."
+    },
+    {
+      "type": "paragraph",
+      "text": "The official end of the U.S. military footprint in Iraq carries significant implications for regional stability. Analysts and policymakers are reviewing the operational shift, particularly regarding long-term security arrangements and regional defense dynamics."
+    },
+    {
+      "type": "paragraph",
+      "text": "Questions regarding the management of Iraq's vital oil revenues remain a key point of international focus. The mechanisms by which Baghdad controls its petroleum income have long been intertwined with foreign presence and economic advisory frameworks."
+    },
+    {
+      "type": "paragraph",
+      "text": "Market participants and energy analysts will continue to observe how the leadership vacuum affects domestic governance and foreign investment. The transition represents a major structural change in how international actors interact with the Iraqi state."
+    },
+    {
+      "type": "paragraph",
+      "text": "Future developments will center on bilateral diplomatic ties and economic cooperation between Washington and Baghdad. Observers will watch closely to see how local security forces maintain stability in the post-withdrawal era."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "The US military says its withdrawal of troops from Iraq is complete - AP News"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "sensex-today-trades-203-points-higher-nifty-below-22700-bajaj-finance-kotak-mahi-1790767576",
   "category": "economy",
   "headline": "Sensex Today Trades 203 Points Higher | Nifty Below 22,700 | Bajaj Finance & Kotak Mahindra Top Losers - Equitymaster",

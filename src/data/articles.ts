@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "pilot-attacked-in-flydubai-altercation-indian-say-sources-the-hindu-1790787227",
+  "category": "india",
+  "headline": "Pilot attacked in flydubai altercation Indian, say sources - The Hindu",
+  "dek": "An Indian pilot was reportedly involved in an altercation aboard a flydubai flight, according to news sources.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-09-30T16:53:47Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1790787226_6862.png",
+  "imageAlt": "Pilot attacked in flydubai altercation Indian, say sources - The Hindu",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Sources have identified an Indian pilot as being involved in an altercation aboard a flydubai flight, drawing significant attention to cockpit safety and crew dynamics."
+    },
+    {
+      "type": "paragraph",
+      "text": "According to reports from multiple outlets, the incident involved a confrontation between flight crew members while the aircraft was airborne."
+    },
+    {
+      "type": "paragraph",
+      "text": "Reports indicate that passengers, along with off-roster pilots who were on board, successfully intervened to assist during the flight drama."
+    },
+    {
+      "type": "paragraph",
+      "text": "The situation underscores the critical role of passenger intervention and crew resource management in unexpected in-flight emergencies."
+    },
+    {
+      "type": "paragraph",
+      "text": "Aviation authorities and the airline are reviewing the circumstances surrounding the altercation to ensure safety protocols are strictly maintained."
+    },
+    {
+      "type": "paragraph",
+      "text": "Further updates from official sources are anticipated as the investigation into the flydubai flight incident progresses."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Pilot attacked in flydubai altercation Indian, say sources - The Hindu"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "brazil-launches-ai-supercomputer-push-while-balancing-us-and-chinese-tech-al-jaz-1790785640",
   "category": "technology",
   "headline": "Brazil launches AI supercomputer push while balancing US and Chinese tech - Al Jazeera",

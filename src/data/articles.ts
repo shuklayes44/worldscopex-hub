@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "trump-signs-executive-order-rebranding-ai-as-super-intelligence-as-tech-titans-i-1790748341",
+  "category": "world",
+  "headline": "Trump signs executive order rebranding AI as 'Super Intelligence' as tech titans ink separate SI accord - Fox Business",
+  "dek": "US President Trump signs executive order rebranding artificial intelligence as Super Intelligence alongside a voluntary industry safety pact.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-09-30T06:05:41Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1790748339_6769.png",
+  "imageAlt": "Trump signs executive order rebranding AI as 'Super Intelligence' as tech titans ink separate SI accord - Fox Business",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "United States President Trump has signed a new executive order officially rebranding artificial intelligence as \"Super Intelligence,\" according to recent reports. The directive alters the official terminology used by the administration to describe advanced computing and automated systems."
+    },
+    {
+      "type": "paragraph",
+      "text": "Simultaneously, prominent technology executives have signed a separate voluntary accord. This agreement involves pledges by industry leaders to maintain robust safeguards surrounding the deployment and development of these advanced systems."
+    },
+    {
+      "type": "paragraph",
+      "text": "The policy announcements come at a time of heightened political scrutiny. Public polling data indicates shifting voter sentiment regarding technology governance and oversight as a key issue for the administration."
+    },
+    {
+      "type": "paragraph",
+      "text": "While the executive order renames the technology and tech bosses have committed to voluntary oversight measures, analysts are watching to see how these developments affect broader regulatory compliance. The interaction between government directives and industry-led pacts remains a critical area for technology markets."
+    },
+    {
+      "type": "paragraph",
+      "text": "The long-term impact of the newly signed accord on international technology standards and domestic policy continues to unfold. Observers will monitor upcoming legislative and administrative actions to assess whether voluntary safeguards evolve into mandatory requirements."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Trump signs executive order rebranding AI as 'Super Intelligence' as tech titans ink separate SI accord - Fox Business"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "supreme-court-allows-third-country-deportations-to-resume-for-now-the-washington-1790743643",
   "category": "world",
   "headline": "Supreme Court allows ‘third country’ deportations to resume for now - The Washington Post",

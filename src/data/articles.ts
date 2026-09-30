@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "israel-bound-flydubai-flight-diverted-to-saudi-arabia-pilots-injured-hospitalise-1790779154",
+  "category": "india",
+  "headline": "Israel-bound flydubai flight diverted to Saudi Arabia; pilots injured, hospitalised - thehindu.com",
+  "dek": "An Israel-bound flydubai flight was diverted to Saudi Arabia after an Indian pilot fought off a colleague who attempted to stab him and crash the plane.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-09-30T14:39:14Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1790779152_3386.png",
+  "imageAlt": "Israel-bound flydubai flight diverted to Saudi Arabia; pilots injured, hospitalised - thehindu.com",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "An Israel-bound flydubai flight was forced to divert to Saudi Arabia following a severe security incident in the cockpit. According to initial reports from sources, an Indian pilot who was on board acted heroically to fight off a colleague who had attacked and stabbed him mid-flight."
+    },
+    {
+      "type": "paragraph",
+      "text": "The altercation escalated as the co-pilot reportedly attempted to crash the flydubai aircraft. Quick-thinking passengers intervened in the cabin, managing to overcome the co-pilot and secure the aircraft before catastrophe struck."
+    },
+    {
+      "type": "paragraph",
+      "text": "Following the emergency landing in Saudi Arabia, both injured pilots were immediately hospitalised for medical treatment. Authorities have not yet released the identities of the individuals involved or the exact timeline of the mid-air struggle."
+    },
+    {
+      "type": "paragraph",
+      "text": "In response to the incident and surrounding geopolitical concerns, Israeli Prime Minister Benjamin Netanyahu announced that Israel is actively preparing for other potential threats. The developments have raised international alarm regarding cockpit security and flight safety protocols on regional carriers."
+    },
+    {
+      "type": "paragraph",
+      "text": "Aviation security experts and regulatory bodies are expected to review the incident closely to determine how a co-pilot gained the opportunity to attempt such an attack. Further updates on the injured pilots' conditions and the ongoing investigation are anticipated as regional authorities coordinate with the airline."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Israel-bound flydubai flight diverted to Saudi Arabia; pilots injured, hospitalised - thehindu.com"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "pakistan-airspace-closed-india-eyes-china-skies-the-times-of-india-1790776005",
   "category": "india",
   "headline": "Pakistan airspace closed, India eyes China skies - The Times of India",

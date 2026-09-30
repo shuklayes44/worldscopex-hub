@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "hijacking-scare-on-dubai-tel-aviv-flight-emergency-code-triggered-plane-diverted-1790752686",
+  "category": "india",
+  "headline": "Hijacking scare on Dubai-Tel Aviv flight; emergency code triggered, plane diverted to Saudi Arabia - The Times of India",
+  "dek": "A Flydubai flight en route to Tel Aviv was diverted to Saudi Arabia after triggering an emergency code.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-09-30T07:18:06Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1790752684_7065.png",
+  "imageAlt": "Hijacking scare on Dubai-Tel Aviv flight; emergency code triggered, plane diverted to Saudi Arabia - The Times of India",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "A Flydubai aircraft traveling on a route from Dubai to Tel Aviv was forced to divert to Saudi Arabia following the activation of an emergency code."
+    },
+    {
+      "type": "paragraph",
+      "text": "The flight triggered a hijack-related code while en route, prompting immediate security protocols and an unplanned diversion."
+    },
+    {
+      "type": "paragraph",
+      "text": "Despite the initial alarm raised by the emergency signal, subsequent updates have explicitly ruled out any actual hijacking event."
+    },
+    {
+      "type": "paragraph",
+      "text": "The diverted flight is expected to land safely in Saudi Arabia within minutes as authorities manage the operational response."
+    },
+    {
+      "type": "paragraph",
+      "text": "Aviation and regional transport authorities are continuing to oversee the situation to ensure passenger safety and clarity on the emergency activation."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Hijacking scare on Dubai-Tel Aviv flight; emergency code triggered, plane diverted to Saudi Arabia - The Times of India"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "trump-signs-executive-order-rebranding-ai-as-super-intelligence-as-tech-titans-i-1790748341",
   "category": "world",
   "headline": "Trump signs executive order rebranding AI as 'Super Intelligence' as tech titans ink separate SI accord - Fox Business",

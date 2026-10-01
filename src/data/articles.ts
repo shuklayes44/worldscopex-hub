@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "inside-zuckerberg-huangs-push-for-white-house-ai-pact-politicocom-1790853218",
+  "category": "world",
+  "headline": "Inside Zuckerberg, Huang’s push for White House AI pact - politico.com",
+  "dek": "Tech leaders including Mark Zuckerberg and Jensen Huang push for a White House AI pact amid new safety agreements.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-01T11:13:38Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1790853216_8114.png",
+  "imageAlt": "Inside Zuckerberg, Huang’s push for White House AI pact - politico.com",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Major technology leaders, including Meta CEO Mark Zuckerberg and Nvidia CEO Jensen Huang, are actively engaging with the White House regarding a new artificial intelligence pact. The discussions coincide with the signing of a landmark safety agreement among industry leaders, marking a significant development in technology governance."
+    },
+    {
+      "type": "paragraph",
+      "text": "Alongside the pact, the Trump administration has reportedly introduced a rebranding of artificial intelligence to 'Super Intelligence'. This effort reflects a broader strategy by executives and policymakers to address and shed the increasingly toxic branding currently associated with the AI sector."
+    },
+    {
+      "type": "paragraph",
+      "text": "The newly introduced voluntary policing framework closely mirrors previous approaches established under the Biden administration. However, policy analysts and industry observers continue to debate whether voluntary guidelines are adequate to address modern technological advancements and risks."
+    },
+    {
+      "type": "paragraph",
+      "text": "The official White House AI framework, detailed in a 308-word document, outlines the foundational parameters of this latest agreement. Observers note that while the voluntary measures offer immediate coordination between government and industry, long-term regulatory certainty remains a key concern for global markets."
+    },
+    {
+      "type": "paragraph",
+      "text": "As tech executives coordinate with federal officials on these safety standards, the impact on international technology policy and corporate compliance will be closely watched. Markets and industry stakeholders will assess how these domestic policy shifts influence global artificial intelligence development and deployment."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Inside Zuckerberg, Huang’s push for White House AI pact - politico.com"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "us-death-row-inmate-survives-execution-attempt-after-two-lethal-injections-bbc-1790850981",
   "category": "world",
   "headline": "US death row inmate survives execution attempt after two lethal injections - BBC",

@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "live-updates-netanyahu-says-pilot-who-fought-back-in-flydubai-flight-avoided-dis-1790815701",
+  "category": "world",
+  "headline": "Live updates: Netanyahu says pilot who fought back in Flydubai flight avoided ‘disaster for Israel’ - CNN",
+  "dek": "Israeli Prime Minister Netanyahu credits a pilot who fought back on a Flydubai flight with preventing a major disaster.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-01T00:48:21Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1790815699_6403.png",
+  "imageAlt": "Live updates: Netanyahu says pilot who fought back in Flydubai flight avoided ‘disaster for Israel’ - CNN",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Israeli Prime Minister Benjamin Netanyahu stated that a pilot who intervened during an in-flight altercation aboard a Flydubai aircraft successfully avoided a severe security disaster for Israel."
+    },
+    {
+      "type": "paragraph",
+      "text": "The incident unfolded during a flight headed to Israel when one pilot reportedly stabbed a fellow pilot inside the cockpit."
+    },
+    {
+      "type": "paragraph",
+      "text": "The violent confrontation led to a terrifying plunge of the aircraft before passengers rushed forward to intervene and stop the mid-air attack."
+    },
+    {
+      "type": "paragraph",
+      "text": "Exclusive interviews with passengers describe the frantic moments as travelers ran toward the cockpit to assist the crew in subduing the attacker."
+    },
+    {
+      "type": "paragraph",
+      "text": "Aviation safety authorities and security experts are reviewing the event to determine how the cockpit security breach occurred on a commercial carrier."
+    },
+    {
+      "type": "paragraph",
+      "text": "Further updates are expected as international aviation bodies and airline officials continue their investigation into the circumstances surrounding the flight."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Live updates: Netanyahu says pilot who fought back in Flydubai flight avoided ‘disaster for Israel’ - CNN"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "brazil-launches-ai-supercomputer-push-while-balancing-us-and-chinese-tech-al-jaz-1790813821",
   "category": "technology",
   "headline": "Brazil launches AI supercomputer push while balancing US and Chinese tech - Al Jazeera",

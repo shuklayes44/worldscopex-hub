@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "brazil-launches-ai-supercomputer-push-while-balancing-us-and-chinese-tech-al-jaz-1790813821",
+  "category": "technology",
+  "headline": "Brazil launches AI supercomputer push while balancing US and Chinese tech - Al Jazeera",
+  "dek": "Brazil advances AI supercomputing capabilities while navigating diplomatic technology ties between the United States and China.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-01T00:17:01Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1790813820_5982.png",
+  "imageAlt": "Brazil launches AI supercomputer push while balancing US and Chinese tech - Al Jazeera",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "technology"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Brazil has officially launched a new artificial intelligence supercomputer push, marking a significant step in the nation's technological development."
+    },
+    {
+      "type": "paragraph",
+      "text": "The newly announced initiative is designed to bolster domestic computational power and accelerate homegrown AI research capabilities."
+    },
+    {
+      "type": "paragraph",
+      "text": "In rolling out the infrastructure push, Brazilian authorities are consciously balancing diplomatic and technological ties with both the United States and China."
+    },
+    {
+      "type": "paragraph",
+      "text": "The approach reflects broader global trends where emerging economies seek to avoid strict technological alignment with either major superpower."
+    },
+    {
+      "type": "paragraph",
+      "text": "Managing dual relationships with competing tech ecosystems remains a central challenge for developing nations investing in advanced computing."
+    },
+    {
+      "type": "paragraph",
+      "text": "Analysts will continue to track how Brazil's hardware acquisition and infrastructure strategy impacts broader international technology partnerships."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Brazil launches AI supercomputer push while balancing US and Chinese tech - Al Jazeera"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "christa-pike-execution-on-pause-as-tennessee-asks-supreme-court-to-intervene-wzt-1790811223",
   "category": "world",
   "headline": "Christa Pike execution on pause as Tennessee asks Supreme Court to intervene - WZTV",

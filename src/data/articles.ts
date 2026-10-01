@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "balaghat-madhya-pradesh-the-children-dying-in-indias-remote-tribal-heartland-bbc-1790886180",
+  "category": "india",
+  "headline": "Balaghat, Madhya Pradesh: The children dying in India's remote tribal heartland - BBC",
+  "dek": "Rahul Gandhi visits Balaghat in Madhya Pradesh following the deaths of over 30 tribal children.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-01T20:23:00Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1790886178_4478.png",
+  "imageAlt": "Balaghat, Madhya Pradesh: The children dying in India's remote tribal heartland - BBC",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Indian opposition leader Rahul Gandhi has traveled to Balaghat in Madhya Pradesh following reports concerning the deaths of children in the remote tribal heartland."
+    },
+    {
+      "type": "paragraph",
+      "text": "According to statements highlighted during the visit, more than 30 tribal children have died in the area under circumstances drawing national attention."
+    },
+    {
+      "type": "paragraph",
+      "text": "Meeting with grieving families in the district, Gandhi stated that the local government effectively does not exist in the remote region."
+    },
+    {
+      "type": "paragraph",
+      "text": "The incident underscores severe questions regarding the adequacy of healthcare infrastructure and administrative outreach in vulnerable tribal communities across India."
+    },
+    {
+      "type": "paragraph",
+      "text": "Local families have reported a lack of prior high-level political visits to address the ongoing situation in the affected heartland."
+    },
+    {
+      "type": "paragraph",
+      "text": "The development is expected to increase pressure on state authorities to address systemic health and administrative gaps in remote rural districts."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Balaghat, Madhya Pradesh: The children dying in India's remote tribal heartland - BBC"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "supreme-court-judges-not-meeting-one-nation-one-election-committee-live-law-1790883794",
   "category": "india",
   "headline": "Supreme Court Judges Not Meeting 'One Nation One Election' Committee - Live Law",

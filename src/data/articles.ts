@@ -92,6 +92,65 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "captain-smit-machchhar-the-flydubai-hero-indian-pilot-who-saved-174-lives-ndtv-1790848944",
+  "category": "india",
+  "headline": "Captain Smit Machchhar: The flydubai \"Hero\" Indian Pilot Who Saved 174 Lives - NDTV",
+  "dek": "Indian flydubai pilot Smit Machchhar to receive the Visisht Gujarat Garima Award for saving 174 lives.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-01T10:02:24Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1790848942_1608.png",
+  "imageAlt": "Captain Smit Machchhar: The flydubai \"Hero\" Indian Pilot Who Saved 174 Lives - NDTV",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Indian pilot Smit Machchhar has been selected to receive the Visisht Gujarat Garima Award in recognition of his indomitable bravery during a critical flight incident."
+    },
+    {
+      "type": "paragraph",
+      "text": "Captain Machchhar was flying a flydubai route from Dubai to Tel Aviv when an onboard emergency threatened the aircraft."
+    },
+    {
+      "type": "paragraph",
+      "text": "According to reports from Israel, passengers onboard foiled a bid to crash the flight after a co-pilot allegedly stabbed the pilot."
+    },
+    {
+      "type": "paragraph",
+      "text": "Through decisive action, the crew and passengers managed to neutralize the threat and safely secure the aircraft."
+    },
+    {
+      "type": "paragraph",
+      "text": "The incident averted a major aviation disaster, ensuring the safety of all 174 passengers on board the flight."
+    },
+    {
+      "type": "paragraph",
+      "text": "The recognition underscores the vital role of crew intervention and passenger assistance in mitigating extreme mid-air security threats."
+    },
+    {
+      "type": "paragraph",
+      "text": "Further updates are expected as international aviation authorities and security agencies conclude their ongoing reviews of the incident."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Captain Smit Machchhar: The flydubai \"Hero\" Indian Pilot Who Saved 174 Lives - NDTV"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "joy-mixed-with-fear-as-us-forces-quit-iraq-leaving-potential-security-vacuum-reu-1790845701",
   "category": "india",
   "headline": "Joy mixed with fear as US forces quit Iraq leaving potential security vacuum - Reuters",

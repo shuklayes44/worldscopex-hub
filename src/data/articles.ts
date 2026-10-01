@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "another-stock-market-crash-nifty-sensex-tank-fii-selling-high-bond-yields-among-1790865259",
+  "category": "economy",
+  "headline": "Another stock market crash: Nifty, Sensex tank - FII selling, high bond yields, among 5 reasons behind big plunge - Livemint",
+  "dek": "Nifty and Sensex register a sharp decline amid foreign institutional investor outflows and high bond yields.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-01T14:34:19Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1790865257_7277.png",
+  "imageAlt": "Another stock market crash: Nifty, Sensex tank - FII selling, high bond yields, among 5 reasons behind big plunge - Livemint",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "economy"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Indian benchmark indices Nifty and Sensex have experienced a severe downturn in another notable stock market crash."
+    },
+    {
+      "type": "paragraph",
+      "text": "The sharp depreciation in domestic equities reflects heightened pressure across major trading desks."
+    },
+    {
+      "type": "paragraph",
+      "text": "Market analysts note that foreign institutional investor selling has been a primary driver behind the steep plunge."
+    },
+    {
+      "type": "paragraph",
+      "text": "Additionally, elevated bond yields have significantly altered asset allocation dynamics and investor risk appetite."
+    },
+    {
+      "type": "paragraph",
+      "text": "The broader sell-off is attributed to a combination of five distinct macroeconomic and market factors."
+    },
+    {
+      "type": "paragraph",
+      "text": "Investors and analysts remain focused on upcoming global and domestic economic indicators to assess further market direction."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Another stock market crash: Nifty, Sensex tank - FII selling, high bond yields, among 5 reasons behind big plunge - Livemint"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "indian-benchmark-shares-post-longest-weekly-losing-run-in-25-years-reuters-1790861903",
   "category": "india",
   "headline": "Indian benchmark shares post longest weekly losing run in 25 years - Reuters",

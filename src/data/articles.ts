@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "macro-view-indian-economy-to-grow-steadily-but-risks-loom-says-economic-survey-t-1790867309",
+  "category": "economy",
+  "headline": "Macro View: Indian economy to grow steadily, but risks loom, says Economic Survey - The Economic Times",
+  "dek": "The latest Economic Survey projects steady growth for the Indian economy while cautioning that lingering risks require careful monitoring.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-01T15:08:29Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1790867306_1186.png",
+  "imageAlt": "Macro View: Indian economy to grow steadily, but risks loom, says Economic Survey - The Economic Times",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "economy"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "The Economic Survey has released its latest macro view on the Indian economy, indicating a trajectory of steady growth ahead for the nation."
+    },
+    {
+      "type": "paragraph",
+      "text": "According to the assessment published by The Economic Times, this positive growth outlook is tempered by an acknowledgment that various economic risks continue to loom over the financial landscape."
+    },
+    {
+      "type": "paragraph",
+      "text": "For policymakers and market participants, the report serves as a vital macroeconomic compass outlining both underlying economic resilience and potential headwinds."
+    },
+    {
+      "type": "paragraph",
+      "text": "The analysis remains a key reference point for understanding the current state of India's development, policy direction, and broader market conditions."
+    },
+    {
+      "type": "paragraph",
+      "text": "Observers and analysts will closely watch upcoming official responses and policy adjustments designed to navigate these identified risks while sustaining growth momentum."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Macro View: Indian economy to grow steadily, but risks loom, says Economic Survey - The Economic Times"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "another-stock-market-crash-nifty-sensex-tank-fii-selling-high-bond-yields-among-1790865259",
   "category": "economy",
   "headline": "Another stock market crash: Nifty, Sensex tank - FII selling, high bond yields, among 5 reasons behind big plunge - Livemint",

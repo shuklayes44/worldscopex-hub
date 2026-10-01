@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "live-updates-tennessee-inmate-in-critical-condition-after-torturous-botched-exec-1790895125",
+  "category": "world",
+  "headline": "Live Updates: Tennessee Inmate in Critical Condition After ‘Torturous’ Botched Execution, Lawyer Says - nytimes.com",
+  "dek": "Tennessee inmate Christa Pike survives a botched execution, prompting renewed scrutiny over lethal injection protocols.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-01T22:52:05Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1790895123_4606.png",
+  "imageAlt": "Live Updates: Tennessee Inmate in Critical Condition After ‘Torturous’ Botched Execution, Lawyer Says - nytimes.com",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Tennessee authorities have failed to execute an inmate, leaving Christa Pike in critical condition following what her legal representation describes as a torturous botched lethal injection procedure."
+    },
+    {
+      "type": "paragraph",
+      "text": "The incident involving Christa Pike marks a renewed controversy surrounding capital punishment protocols, building on a history of complications associated with lethal injection methods."
+    },
+    {
+      "type": "paragraph",
+      "text": "Legal representatives characterized the survival of the execution as unparalleled, raising immediate scrutiny over state execution procedures and human rights concerns."
+    },
+    {
+      "type": "paragraph",
+      "text": "The failure highlights ongoing institutional and legal challenges regarding the administration of capital punishment, prompting broader debates across legal systems."
+    },
+    {
+      "type": "paragraph",
+      "text": "Observers and legal experts are closely monitoring upcoming judicial evaluations and potential policy revisions regarding state execution protocols."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Live Updates: Tennessee Inmate in Critical Condition After ‘Torturous’ Botched Execution, Lawyer Says - nytimes.com"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "school-assembly-news-headlines-today-august-22-top-national-sports-and-world-new-1790892056",
   "category": "world",
   "headline": "School assembly news headlines today- August 22: Top national, sports and world news curated for you - India Today",

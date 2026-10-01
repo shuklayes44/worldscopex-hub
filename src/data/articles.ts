@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "the-week-that-was-in-international-affairs-zelenskyys-peace-bid-rejected-iran-ir-1790890091",
+  "category": "geopolitics",
+  "headline": "The week that was in international affairs : Zelenskyy's peace bid rejected, Iran-Iraq war escalates, Wor - The Times of India",
+  "dek": "International affairs face heightened tension as Zelenskyy's peace bid is rejected and regional conflicts escalate.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-01T21:28:11Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1790890088_7527.png",
+  "imageAlt": "The week that was in international affairs : Zelenskyy's peace bid rejected, Iran-Iraq war escalates, Wor - The Times of India",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "geopolitics"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Recent international developments have highlighted deep divisions in global diplomacy, centered on the rejection of Ukrainian President Volodymyr Zelenskyy's peace bid. The diplomatic setback underscores the ongoing challenges facing international conflict resolution mechanisms in active war zones."
+    },
+    {
+      "type": "paragraph",
+      "text": "Alongside the diplomatic impasse, the geopolitical landscape has been further strained by an escalation in the Iran-Iraq conflict. The intensification of hostilities serves as a reminder of the fragility of regional stability in the Middle East."
+    },
+    {
+      "type": "paragraph",
+      "text": "These events carry broad implications for global security, international trade routes, and diplomatic alliances. Policymakers and international organizations are assessing the potential fallout from these compounding geopolitical pressures."
+    },
+    {
+      "type": "paragraph",
+      "text": "The intersection of stalled peace negotiations and escalating regional conflicts presents complex challenges for international governance and security cooperation. Markets and global stakeholders remain watchful of further diplomatic developments."
+    },
+    {
+      "type": "paragraph",
+      "text": "As the international community navigates this volatile period, attention turns toward potential multilateral interventions. Future diplomatic engagement will likely depend on shifts in strategic positioning among key global actors."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "The week that was in international affairs : Zelenskyy's peace bid rejected, Iran-Iraq war escalates, Wor - The Times of India"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "motionless-bodies-desperate-hands-heartbreaking-scenes-at-diveagar-beach-as-loca-1790888227",
   "category": "india",
   "headline": "Motionless bodies, desperate hands: Heartbreaking scenes at Diveagar beach as locals fight to save Pune s - The Times of India",

@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "us-supreme-court-allows-execution-of-christa-pike-to-go-ahead-bbccom-1790820702",
+  "category": "world",
+  "headline": "US Supreme Court allows execution of Christa Pike to go ahead - bbc.com",
+  "dek": "The US Supreme Court clears the path for Tennessee death row inmate Christa Pike to face execution.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-01T02:11:42Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1790820700_3903.png",
+  "imageAlt": "US Supreme Court allows execution of Christa Pike to go ahead - bbc.com",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "The United States Supreme Court has cleared the way for the execution of Christa Pike to go ahead, according to recent reports. Pike currently stands as Tennessee's lone woman on death row."
+    },
+    {
+      "type": "paragraph",
+      "text": "The high court's decision follows a series of previous legal halts and delays surrounding the case. State authorities in Tennessee have faced complex legal challenges regarding the scheduled capital punishment."
+    },
+    {
+      "type": "paragraph",
+      "text": "The development highlights ongoing legal debates and procedures surrounding capital punishment in the United States. Courts have reviewed various petitions leading up to the current judicial outcome."
+    },
+    {
+      "type": "paragraph",
+      "text": "Legal analysts and advocacy groups continue to observe the procedural updates closely. The case involves significant state-level legal history regarding female inmates on death row in Tennessee."
+    },
+    {
+      "type": "paragraph",
+      "text": "Further developments depend on the final administrative and legal steps taken by state officials and the judiciary. Observers will track the implementation of the Supreme Court's decision as the scheduled execution approaches."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "US Supreme Court allows execution of Christa Pike to go ahead - bbc.com"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "trump-says-flydubai-pilot-a-hero-plumber-steadied-plunging-aircraft-the-hindu-1790817861",
   "category": "india",
   "headline": "Trump says flydubai pilot 'a hero', plumber steadied plunging aircraft - The Hindu",

@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "indias-trade-deals-will-matter-more-than-ever-amid-uncertainties-deloitte-1790869355",
+  "category": "economy",
+  "headline": "India’s trade deals will matter more than ever amid uncertainties - Deloitte",
+  "dek": "Deloitte highlights the growing strategic importance of international trade agreements for India amid macroeconomic uncertainties.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-01T15:42:35Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1790869353_3533.png",
+  "imageAlt": "India’s trade deals will matter more than ever amid uncertainties - Deloitte",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "economy"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "International trade agreements are becoming increasingly vital for India as the nation navigates a period of heightened global economic uncertainty, according to a recent assessment by Deloitte."
+    },
+    {
+      "type": "paragraph",
+      "text": "The professional services firm indicates that bilateral and multilateral commercial pacts will play a more crucial role than ever in safeguarding economic stability and fostering growth."
+    },
+    {
+      "type": "paragraph",
+      "text": "Amid ongoing geopolitical realignments and fluctuating external demand, strengthening trade partnerships remains a key policy priority for the country."
+    },
+    {
+      "type": "paragraph",
+      "text": "Market analysts note that proactive trade diplomacy is essential for securing supply chains, mitigating external shocks, and supporting long-term domestic expansion."
+    },
+    {
+      "type": "paragraph",
+      "text": "Stakeholders across various sectors will be watching upcoming policy announcements and trade negotiation outcomes to gauge the trajectory of India's external commerce."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "India’s trade deals will matter more than ever amid uncertainties - Deloitte"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "macro-view-indian-economy-to-grow-steadily-but-risks-loom-says-economic-survey-t-1790867309",
   "category": "economy",
   "headline": "Macro View: Indian economy to grow steadily, but risks loom, says Economic Survey - The Economic Times",

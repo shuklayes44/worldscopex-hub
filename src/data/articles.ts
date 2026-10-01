@@ -92,6 +92,53 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "hegseth-confirms-plan-to-cut-20-of-us-top-military-brass-and-rails-at-beardos-we-1790840627",
+  "category": "world",
+  "headline": "Hegseth confirms plan to cut 20% of US top military brass and rails at ‘beardos, weirdos and wimps’ - The Guardian",
+  "dek": "US Secretary Hegseth announces plans to cut 20% of top military brass and details new initiatives at Quantico.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-01T07:43:47Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1790840625_5841.png",
+  "imageAlt": "Hegseth confirms plan to cut 20% of US top military brass and rails at ‘beardos, weirdos and wimps’ - The Guardian",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "US Secretary Hegseth has officially confirmed a sweeping plan to cut 20% of the country's top military brass. The announcement was made during a partisan address to troops at Quantico, where the Secretary detailed six major initiatives."
+    },
+    {
+      "type": "paragraph",
+      "text": "Alongside the proposed reduction in senior leadership, Hegseth sharply criticized military personnel, using strong language to describe them. The address covered several key themes including the future of warfare, faith, and infrastructure developments."
+    },
+    {
+      "type": "paragraph",
+      "text": "The speech outlined broader strategic shifts for the United States defense apparatus. These initiatives mark a notable change in direction for military policy and organizational structure under the current administration."
+    },
+    {
+      "type": "paragraph",
+      "text": "Observers and defense analysts are closely tracking the unfolding developments regarding the proposed leadership cuts. The practical implementation of the six announced initiatives remains a critical area to watch for upcoming strategic shifts in the defense sector."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Hegseth confirms plan to cut 20% of US top military brass and rails at ‘beardos, weirdos and wimps’ - The Guardian"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "why-is-hegseth-cutting-20-percent-of-us-general-and-admiral-positions-al-jazeera-1790836785",
   "category": "world",
   "headline": "Why is Hegseth cutting 20 percent of US general and admiral positions? - Al Jazeera",

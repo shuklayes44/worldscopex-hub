@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "school-assembly-news-headlines-today-august-22-top-national-sports-and-world-new-1790892056",
+  "category": "world",
+  "headline": "School assembly news headlines today- August 22: Top national, sports and world news curated for you - India Today",
+  "dek": "India Today curates national, sports, and world news headlines for August 22 school assemblies.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-01T22:00:56Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1790892053_7697.png",
+  "imageAlt": "School assembly news headlines today- August 22: Top national, sports and world news curated for you - India Today",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "India Today has published its curated news headlines for school assemblies on August 22, encompassing key national, sports, and world news stories."
+    },
+    {
+      "type": "paragraph",
+      "text": "The curated briefings are specifically designed for educational institutions to present concise updates during morning school assemblies."
+    },
+    {
+      "type": "paragraph",
+      "text": "These updates span multiple categories, offering students a comprehensive overview of current events within India and internationally."
+    },
+    {
+      "type": "paragraph",
+      "text": "Access to structured daily news helps educational institutions facilitate awareness of current affairs and global developments among students."
+    },
+    {
+      "type": "paragraph",
+      "text": "The curation serves as a standardized reference point for schools seeking verified updates for student broadcasts and educational discussions."
+    },
+    {
+      "type": "paragraph",
+      "text": "Continued monitoring of these updates will provide further insight into the specific stories featured in the August 22 briefing."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "School assembly news headlines today- August 22: Top national, sports and world news curated for you - India Today"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "the-week-that-was-in-international-affairs-zelenskyys-peace-bid-rejected-iran-ir-1790890091",
   "category": "geopolitics",
   "headline": "The week that was in international affairs : Zelenskyy's peace bid rejected, Iran-Iraq war escalates, Wor - The Times of India",

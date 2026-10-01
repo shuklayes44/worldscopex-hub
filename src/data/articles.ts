@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "why-is-hegseth-cutting-20-percent-of-us-general-and-admiral-positions-al-jazeera-1790836785",
+  "category": "world",
+  "headline": "Why is Hegseth cutting 20 percent of US general and admiral positions? - Al Jazeera",
+  "dek": "Leadership confirms plans to reduce top US military brass by one-fifth amid sweeping organizational changes.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-01T06:39:45Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1790836782_8773.png",
+  "imageAlt": "Why is Hegseth cutting 20 percent of US general and admiral positions? - Al Jazeera",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "United States defense officials have confirmed a restructuring plan that will cut twenty percent of all general and admiral positions within the armed forces. The announcement forms part of a broader address to troops detailing new initiatives regarding the future of warfare, faith, and base structures."
+    },
+    {
+      "type": "paragraph",
+      "text": "In the address, leadership outlined several upcoming changes while directing sharp rhetorical criticism toward existing senior personnel. The reduction specifically targets the highest echelons of the military command structure, marking a substantial shift in personnel management."
+    },
+    {
+      "type": "paragraph",
+      "text": "The newly detailed initiatives come as the administration seeks to reshape the strategic focus and operational readiness of the armed forces. Observers note that downsizing the top tier of leadership could substantially alter internal command dynamics and administrative oversight."
+    },
+    {
+      "type": "paragraph",
+      "text": "Market analysts and defense sector watchers are tracking the potential implications of the restructuring on long-term procurement and policy execution. The scale of the proposed reduction represents a notable departure from traditional military staffing models."
+    },
+    {
+      "type": "paragraph",
+      "text": "Further details regarding the timeline for the personnel reductions and the specific criteria for the cuts remain under review. Stakeholders across the defense sector are watching for subsequent implementation orders to gauge the full extent of the restructuring."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Why is Hegseth cutting 20 percent of US general and admiral positions? - Al Jazeera"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "iran-indicates-it-received-official-us-response-to-latest-offer-on-ending-war-th-1790830622",
   "category": "india",
   "headline": "Iran indicates it received official US response to latest offer on ending war - The Times of Israel",

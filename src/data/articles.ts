@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "trump-says-flydubai-pilot-a-hero-plumber-steadied-plunging-aircraft-the-hindu-1790817861",
+  "category": "india",
+  "headline": "Trump says flydubai pilot 'a hero', plumber steadied plunging aircraft - The Hindu",
+  "dek": "US and Israeli leaders praise Indian co-pilot Smit Machchhar as a hero following a thwarted Dubai-Tel Aviv flight.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-01T01:24:21Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1790817859_6537.png",
+  "imageAlt": "Trump says flydubai pilot 'a hero', plumber steadied plunging aircraft - The Hindu",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "United States President Donald Trump and Israeli Prime Minister Benjamin Netanyahu have publicly commended an Indian pilot, identifying him as a hero following a serious security incident aboard a commercial flight."
+    },
+    {
+      "type": "paragraph",
+      "text": "The event involved a Dubai-Tel Aviv flight that faced a mid-air crisis after a co-pilot was stabbed during an apparent attempt to compromise the aircraft."
+    },
+    {
+      "type": "paragraph",
+      "text": "Despite sustaining injuries, Indian co-pilot Smit Machchhar, alongside a plumber who stepped in to assist, managed to steady the plunging aircraft and foil the bid to crash the plane."
+    },
+    {
+      "type": "paragraph",
+      "text": "In response to the gravity of the incident, Israeli Prime Minister Benjamin Netanyahu has officially ordered tighter security protocols across all Israeli and foreign carriers operating in the region."
+    },
+    {
+      "type": "paragraph",
+      "text": "The extraordinary bravery displayed by the flight crew has drawn international acclaim, highlighting critical vulnerabilities in cockpit security and mid-air crisis management."
+    },
+    {
+      "type": "paragraph",
+      "text": "Aviation authorities and international carriers are now expected to evaluate existing security frameworks to prevent similar threats on cross-border commercial routes."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Trump says flydubai pilot 'a hero', plumber steadied plunging aircraft - The Hindu"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "live-updates-netanyahu-says-pilot-who-fought-back-in-flydubai-flight-avoided-dis-1790815701",
   "category": "world",
   "headline": "Live updates: Netanyahu says pilot who fought back in Flydubai flight avoided ‘disaster for Israel’ - CNN",

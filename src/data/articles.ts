@@ -92,6 +92,65 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "us-death-row-inmate-survives-execution-attempt-after-two-lethal-injections-bbc-1790850981",
+  "category": "world",
+  "headline": "US death row inmate survives execution attempt after two lethal injections - BBC",
+  "dek": "Tennessee governor halts executions following a second botched lethal injection attempt involving death row inmate Christa Pike.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-01T10:36:21Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1790850979_1580.png",
+  "imageAlt": "US death row inmate survives execution attempt after two lethal injections - BBC",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "A US death row inmate has survived an execution attempt after authorities administered two lethal injections, prompting immediate legal and administrative responses."
+    },
+    {
+      "type": "paragraph",
+      "text": "Lawyers representing Tennessee death row inmate Christa Pike confirmed that she is still alive following the failed execution attempts."
+    },
+    {
+      "type": "paragraph",
+      "text": "In response to the incident, the Tennessee governor has halted all pending executions following the second botched lethal injection attempt recorded this year."
+    },
+    {
+      "type": "paragraph",
+      "text": "The case has brought renewed attention to the methods and protocols used in capital punishment across various US jurisdictions."
+    },
+    {
+      "type": "paragraph",
+      "text": "Legal experts and human rights advocates are closely monitoring the developments surrounding the state's suspension of executions."
+    },
+    {
+      "type": "paragraph",
+      "text": "Further judicial reviews and challenges regarding the constitutionality of the lethal injection procedures are anticipated in the coming weeks."
+    },
+    {
+      "type": "paragraph",
+      "text": "Observers will continue to watch for official updates from state authorities regarding the permanent status of capital punishment protocols in Tennessee."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "US death row inmate survives execution attempt after two lethal injections - BBC"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "captain-smit-machchhar-the-flydubai-hero-indian-pilot-who-saved-174-lives-ndtv-1790848944",
   "category": "india",
   "headline": "Captain Smit Machchhar: The flydubai \"Hero\" Indian Pilot Who Saved 174 Lives - NDTV",

@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "iran-indicates-it-received-official-us-response-to-latest-offer-on-ending-war-th-1790830622",
+  "category": "india",
+  "headline": "Iran indicates it received official US response to latest offer on ending war - The Times of Israel",
+  "dek": "Iran acknowledges receiving official US response to latest proposal on ending ongoing military conflict.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-01T04:57:02Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1790830620_5147.png",
+  "imageAlt": "Iran indicates it received official US response to latest offer on ending war - The Times of Israel",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Iran has indicated that it has received an official US response to the latest offer aimed at ending the war. The development marks a new phase in diplomatic communications between the two nations regarding a potential resolution to the ongoing conflict."
+    },
+    {
+      "type": "paragraph",
+      "text": "According to reports, the official US response addresses the latest proposal, which includes feedback on a seven-day trust-building plan. This exchange is a key component of ongoing efforts by international and regional actors to de-escalate tensions."
+    },
+    {
+      "type": "paragraph",
+      "text": "The diplomatic movement comes at a time when Gulf shipping shows signs of recovery following previous disruptions caused by regional hostilities. Ensuring the safety of maritime trade in the Gulf remains a primary concern for global markets and energy security."
+    },
+    {
+      "type": "paragraph",
+      "text": "Analysts note that while the receipt of the US response opens a channel for further review, significant diplomatic hurdles remain before any formal agreement can be reached. The effectiveness of the seven-day trust-building plan will likely depend on mutual compliance and further verification measures."
+    },
+    {
+      "type": "paragraph",
+      "text": "Market participants and policymakers are closely watching how both governments will interpret the feedback and whether formal negotiations will resume. Further updates from official sources are expected as both sides evaluate the latest terms."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Iran indicates it received official US response to latest offer on ending war - The Times of Israel"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "us-supreme-court-allows-execution-of-christa-pike-to-go-ahead-bbccom-1790820702",
   "category": "world",
   "headline": "US Supreme Court allows execution of Christa Pike to go ahead - bbc.com",

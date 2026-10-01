@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "indian-benchmark-shares-post-longest-weekly-losing-run-in-25-years-reuters-1790861903",
+  "category": "india",
+  "headline": "Indian benchmark shares post longest weekly losing run in 25 years - Reuters",
+  "dek": "Indian benchmark shares suffer their longest weekly losing streak in a quarter-century amid heavy foreign institutional selling.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-01T13:38:23Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1790861901_6706.png",
+  "imageAlt": "Indian benchmark shares post longest weekly losing run in 25 years - Reuters",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Indian benchmark shares have officially posted their longest weekly losing run in 25 years, marking a historic downturn for the domestic equities market. The prolonged negative trajectory highlights severe investor apprehension and a notable shift in market sentiment over recent weeks."
+    },
+    {
+      "type": "paragraph",
+      "text": "The sharp market correction intensified as the Sensex crashed over 1,000 points in a single session, reflecting deep-seated vulnerability. This steep decline compounded broader losses, resulting in a staggering Rs 9 lakh crore being wiped out from investor portfolios."
+    },
+    {
+      "type": "paragraph",
+      "text": "Market analysts note that the Nifty has now endured an eight-week downward spiral, a duration not witnessed in a quarter-century. This sustained decline has officially fueled widespread bear market fears across the financial sector."
+    },
+    {
+      "type": "paragraph",
+      "text": "The aggressive sell-off has been heavily driven by foreign investors offloading Indian stocks en-masse. Such massive capital outflows have placed sustained downward pressure on major indices, overwhelming domestic buying support."
+    },
+    {
+      "type": "paragraph",
+      "text": "As the market absorbs these historic losses, policymakers and analysts will closely watch for any shift in foreign institutional investment patterns. The trajectory of upcoming global economic indicators and domestic corporate earnings will also be critical in determining whether the market can find a floor."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Indian benchmark shares post longest weekly losing run in 25 years - Reuters"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "ht-morning-brief-october-1-indian-pilot-fights-off-co-pilot-as-flydubai-flight-p-1790855338",
   "category": "india",
   "headline": "HT Morning Brief October 1: Indian pilot fights off co-pilot as flydubai flight plunges; Nitin Gadkari says 100% ethanol cars soon | India News - Hindustan Times",

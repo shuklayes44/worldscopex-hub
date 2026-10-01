@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "israels-netanyahu-co-pilot-of-flydubai-plane-underwent-radical-islamist-indoctri-1790898532",
+  "category": "world",
+  "headline": "Israel's Netanyahu: Co-pilot of flydubai plane underwent radical Islamist indoctrination - Reuters",
+  "dek": "Israeli Prime Minister Netanyahu claims a flydubai co-pilot underwent radical Islamist indoctrination during an attempted crash incident.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-01T23:48:52Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1790898530_7255.png",
+  "imageAlt": "Israel's Netanyahu: Co-pilot of flydubai plane underwent radical Islamist indoctrination - Reuters",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Israeli Prime Minister Benjamin Netanyahu has stated that the co-pilot of a flydubai aircraft underwent radical Islamist indoctrination before attempting to crash a Tel Aviv-bound flight."
+    },
+    {
+      "type": "paragraph",
+      "text": "According to reports, the incident involved a physical altercation in the cockpit where the co-pilot allegedly stabbed the pilot, prompting passengers to intervene."
+    },
+    {
+      "type": "paragraph",
+      "text": "Netanyahu praised the swift actions of those on board, describing the intervention as a critical move that prevented another major aviation tragedy akin to the 9/11 attacks."
+    },
+    {
+      "type": "paragraph",
+      "text": "In the wake of the incident, former U.S. President Donald Trump stated that Iran would be hit very hard if investigations reveal any direct involvement in the co-pilot's actions."
+    },
+    {
+      "type": "paragraph",
+      "text": "Aviation authorities and international security agencies are expected to tighten scrutiny surrounding regional flight operations and cockpit security protocols as investigations continue."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Israel's Netanyahu: Co-pilot of flydubai plane underwent radical Islamist indoctrination - Reuters"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "two-of-the-worlds-top-ai-chief-executives-publicly-agree-on-slowing-ai-developme-1790896361",
   "category": "world",
   "headline": "Two of the world’s top AI chief executives publicly agree on slowing AI development - NBC News",

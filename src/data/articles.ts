@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "indias-ambition-of-becoming-developed-economy-demands-policy-certainty-business-1790874371",
+  "category": "economy",
+  "headline": "India's ambition of becoming developed economy demands policy certainty - business-standard.com",
+  "dek": "Policy certainty is essential for India's economic development goals, according to business analysis.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-01T17:06:11Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1790874369_3755.png",
+  "imageAlt": "India's ambition of becoming developed economy demands policy certainty - business-standard.com",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "economy"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "India's strategic ambition to establish itself as a fully developed economy depends heavily on maintaining consistent and predictable regulatory frameworks. Business assessments indicate that predictable governance is a fundamental requirement for sustaining national growth and expanding economic output."
+    },
+    {
+      "type": "paragraph",
+      "text": "Stability in policymaking directly influences how domestic and international enterprises evaluate investment opportunities within the region. Clear regulatory guidelines reduce commercial friction and encourage long-term capital deployment across key industrial sectors."
+    },
+    {
+      "type": "paragraph",
+      "text": "Without dependable policy direction, businesses face heightened planning risks that can delay large-scale infrastructure and manufacturing initiatives. Consistent rules are therefore viewed as a baseline necessity for supporting employment growth and broader economic expansion."
+    },
+    {
+      "type": "paragraph",
+      "text": "Industry stakeholders continue to monitor legislative and administrative updates for indications of long-term regulatory alignment. Clear signals from policymakers remain essential for maintaining business confidence and guiding future investment strategies."
+    },
+    {
+      "type": "paragraph",
+      "text": "Financial markets and corporate planners will watch upcoming policy announcements to gauge the government's commitment to structural stability. These future developments will help determine the pace and scale of capital investment in the Indian economy."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "India's ambition of becoming developed economy demands policy certainty - business-standard.com"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "sensex-crashes-1000-points-rs-9-lakh-crore-wiped-out-as-foreign-investors-sell-i-1790873141",
   "category": "economy",
   "headline": "Sensex Crashes 1,000 Points: Rs 9 Lakh Crore Wiped Out As Foreign Investors Sell Indian Stocks En-Masse - NDTV",

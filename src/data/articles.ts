@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "just-sharing-our-concern-supreme-court-seeks-states-response-on-mahua-moitras-pl-1790875512",
+  "category": "india",
+  "headline": "'Just Sharing Our Concern' : Supreme Court Seeks State's Response On Mahua Moitra's Plea Alleging MPLADS... - livelaw.in",
+  "dek": "Supreme Court seeks Centre and West Bengal responses on Mahua Moitra's plea alleging interference in her parliamentary duties.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-01T17:25:12Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1790875510_6753.png",
+  "imageAlt": "'Just Sharing Our Concern' : Supreme Court Seeks State's Response On Mahua Moitra's Plea Alleging MPLADS... - livelaw.in",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "The Supreme Court has sought responses from the Centre and the state of West Bengal following a petition filed by Mahua Moitra."
+    },
+    {
+      "type": "paragraph",
+      "text": "Moitra's legal plea alleges that the BJP government is preventing her from functioning effectively as a Member of Parliament."
+    },
+    {
+      "type": "paragraph",
+      "text": "The petition specifically highlights issues concerning MPLADS allocations and her eviction status."
+    },
+    {
+      "type": "paragraph",
+      "text": "The case raises important questions regarding the institutional functioning and responsibilities of opposition lawmakers in India."
+    },
+    {
+      "type": "paragraph",
+      "text": "Further developments are expected as the Supreme Court reviews the formal replies submitted by the Centre, West Bengal, and other respondents."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "'Just Sharing Our Concern' : Supreme Court Seeks State's Response On Mahua Moitra's Plea Alleging MPLADS... - livelaw.in"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "indias-ambition-of-becoming-developed-economy-demands-policy-certainty-business-1790874371",
   "category": "economy",
   "headline": "India's ambition of becoming developed economy demands policy certainty - business-standard.com",

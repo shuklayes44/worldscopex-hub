@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "two-of-the-worlds-top-ai-chief-executives-publicly-agree-on-slowing-ai-developme-1790896361",
+  "category": "world",
+  "headline": "Two of the world’s top AI chief executives publicly agree on slowing AI development - NBC News",
+  "dek": "Two prominent AI chief executives have publicly agreed on the need to slow down the pace of artificial intelligence development.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-01T23:12:41Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1790896359_8055.png",
+  "imageAlt": "Two of the world’s top AI chief executives publicly agree on slowing AI development - NBC News",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "In a notable development for the global technology sector, two of the world's top artificial intelligence chief executives have publicly agreed on the necessity of slowing down AI development. The shared stance highlights a growing debate within the industry regarding the speed at which advanced systems are being researched, deployed, and scaled."
+    },
+    {
+      "type": "paragraph",
+      "text": "The public alignment between key industry figures brings renewed attention to safety, ethical considerations, and the long-term societal implications of rapid technological progress. As artificial intelligence systems become more capable, concerns have mounted among developers and policy makers alike regarding the difficulty of governing them effectively."
+    },
+    {
+      "type": "paragraph",
+      "text": "For international markets and emerging tech ecosystems such as India, any coordinated or industry-wide shift toward a more measured development pace could significantly influence corporate strategy, capital allocation, and compliance frameworks. Enterprises reliant on rapid AI integration may need to adjust their operational timelines."
+    },
+    {
+      "type": "paragraph",
+      "text": "The agreement also intersects with ongoing global discussions surrounding regulatory oversight. Governments and international bodies are increasingly examining how to balance innovation with rigorous safety standards to mitigate potential systemic risks."
+    },
+    {
+      "type": "paragraph",
+      "text": "Looking ahead, industry analysts and regulatory bodies will be monitoring whether other major artificial intelligence firms endorse a slower developmental approach. The response from competitors and policy makers will likely shape the trajectory of global technology governance in the coming months."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Two of the world’s top AI chief executives publicly agree on slowing AI development - NBC News"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "live-updates-tennessee-inmate-in-critical-condition-after-torturous-botched-exec-1790895125",
   "category": "world",
   "headline": "Live Updates: Tennessee Inmate in Critical Condition After ‘Torturous’ Botched Execution, Lawyer Says - nytimes.com",

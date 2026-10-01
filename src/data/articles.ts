@@ -92,6 +92,41 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "motionless-bodies-desperate-hands-heartbreaking-scenes-at-diveagar-beach-as-loca-1790888227",
+  "category": "india",
+  "headline": "Motionless bodies, desperate hands: Heartbreaking scenes at Diveagar beach as locals fight to save Pune s - The Times of India",
+  "dek": "Eight students from Pune drown during a holiday at Diveagar beach in Maharashtra's Raigad district.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-01T20:57:07Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1790888225_5081.png",
+  "imageAlt": "Motionless bodies, desperate hands: Heartbreaking scenes at Diveagar beach as locals fight to save Pune s - The Times of India",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Eight students from Pune have died after drowning in the Arabian Sea during a holiday at Diveagar beach in Maharashtra's Raigad district. Local residents attempted desperate rescue operations along the coastline as the tragic incident unfolded. The victims were reportedly part of a group visiting the coastal area for a picnic. Context snippets from news agencies indicate that the individuals were students from the Alandi area in Maharashtra. The incident underscores ongoing safety risks associated with unregulated swimming and water activities at popular regional beaches. Local authorities and emergency services responded to the scene as community members tried to assist. Further updates regarding safety protocols and official responses are anticipated as local investigations continue."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Motionless bodies, desperate hands: Heartbreaking scenes at Diveagar beach as locals fight to save Pune s - The Times of India"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "balaghat-madhya-pradesh-the-children-dying-in-indias-remote-tribal-heartland-bbc-1790886180",
   "category": "india",
   "headline": "Balaghat, Madhya Pradesh: The children dying in India's remote tribal heartland - BBC",

@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "smit-machchhar-who-is-the-indian-flydubai-pilot-hailed-a-hero-by-modi-trump-the-1790879948",
+  "category": "india",
+  "headline": "Smit Machchhar: Who is the Indian flydubai pilot hailed a ‘hero’ by Modi, Trump - The Hindu",
+  "dek": "An Indian flydubai co-pilot has been hailed a hero by global leaders after passengers intervened during an in-flight attack.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-01T18:39:08Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1790879946_1673.png",
+  "imageAlt": "Smit Machchhar: Who is the Indian flydubai pilot hailed a ‘hero’ by Modi, Trump - The Hindu",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "An Indian flydubai co-pilot has been hailed as a hero by world leaders, including Modi and Trump, following a thwarted attempt to crash a Dubai-Tel Aviv flight."
+    },
+    {
+      "type": "paragraph",
+      "text": "According to reports from the region, the incident involved a mid-air altercation where the co-pilot allegedly stabbed the Indian captain."
+    },
+    {
+      "type": "paragraph",
+      "text": "Passengers on board the aircraft successfully intervened to foil the bid to crash the flight, preventing a potential catastrophe."
+    },
+    {
+      "type": "paragraph",
+      "text": "The unfolding situation has drawn high-level international attention, with US officials suggesting potential links between the co-pilot and external entities."
+    },
+    {
+      "type": "paragraph",
+      "text": "As investigations continue, aviation authorities and security agencies are scrutinizing the security protocols and background of the flight crew involved."
+    },
+    {
+      "type": "paragraph",
+      "text": "Further updates are expected as international authorities assess the full implications of the mid-air security breach."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Smit Machchhar: Who is the Indian flydubai pilot hailed a ‘hero’ by Modi, Trump - The Hindu"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "just-sharing-our-concern-supreme-court-seeks-states-response-on-mahua-moitras-pl-1790875512",
   "category": "india",
   "headline": "'Just Sharing Our Concern' : Supreme Court Seeks State's Response On Mahua Moitra's Plea Alleging MPLADS... - livelaw.in",

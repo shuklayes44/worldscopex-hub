@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "joy-mixed-with-fear-as-us-forces-quit-iraq-leaving-potential-security-vacuum-reu-1790845701",
+  "category": "india",
+  "headline": "Joy mixed with fear as US forces quit Iraq leaving potential security vacuum - Reuters",
+  "dek": "The Pentagon confirms the complete US military withdrawal from Iraq after two decades, raising regional security concerns.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-01T09:08:21Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1790845698_2701.png",
+  "imageAlt": "Joy mixed with fear as US forces quit Iraq leaving potential security vacuum - Reuters",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "The Pentagon has officially confirmed that the withdrawal of United States forces from Iraq is now complete, marking the end of a military presence that spanned two decades. The exit brings a formal close to twenty years of American operations in the West Asian nation following the 2003 invasion."
+    },
+    {
+      "type": "paragraph",
+      "text": "Local reactions to the departure have been marked by a complex mix of joy and fear among the Iraqi population. While many citizens welcome the end of foreign military presence on their soil, widespread concerns persist regarding the nation's capacity to maintain internal stability independently."
+    },
+    {
+      "type": "paragraph",
+      "text": "The sudden and complete military exit leaves behind a significant potential security vacuum in the country. Analysts highlight that this opening could be exploited by regional powers, noting specifically that the departure creates strategic room for increased influence by neighboring Iran."
+    },
+    {
+      "type": "paragraph",
+      "text": "The drawdown concludes a turbulent chapter in West Asian geopolitics, fundamentally altering the strategic landscape for Iraq and its neighbors. Policymakers and international observers are now turning their attention to how local security forces will manage governance and defense challenges without direct foreign military backing."
+    },
+    {
+      "type": "paragraph",
+      "text": "As the post-withdrawal era begins, regional stability hangs in the balance as security apparatuses face the ultimate test of autonomy. Markets and international partners will continue to monitor diplomatic and security developments closely to gauge the long-term impact on West Asian energy supplies and geopolitical alliances."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Joy mixed with fear as US forces quit Iraq leaving potential security vacuum - Reuters"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "hegseth-confirms-plan-to-cut-20-of-us-top-military-brass-and-rails-at-beardos-we-1790840627",
   "category": "world",
   "headline": "Hegseth confirms plan to cut 20% of US top military brass and rails at ‘beardos, weirdos and wimps’ - The Guardian",

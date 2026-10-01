@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "sensex-crashes-1000-points-rs-9-lakh-crore-wiped-out-as-foreign-investors-sell-i-1790873141",
+  "category": "economy",
+  "headline": "Sensex Crashes 1,000 Points: Rs 9 Lakh Crore Wiped Out As Foreign Investors Sell Indian Stocks En-Masse - NDTV",
+  "dek": "Domestic equities tumbled as institutional capital outflows triggered a massive correction across major indices.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-01T16:45:41Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1790873139_6304.png",
+  "imageAlt": "Sensex Crashes 1,000 Points: Rs 9 Lakh Crore Wiped Out As Foreign Investors Sell Indian Stocks En-Masse - NDTV",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "economy"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "The BSE Sensex suffered a steep decline of 1,000 points during the latest trading session, driven by broad-based selling pressure from foreign investors."
+    },
+    {
+      "type": "paragraph",
+      "text": "The aggressive liquidation by overseas entities resulted in an estimated Rs 9 lakh crore erosion in total investor wealth across domestic stocks."
+    },
+    {
+      "type": "paragraph",
+      "text": "The substantial outflow highlights sustained vulnerability to shifts in foreign portfolio allocations within the Indian financial markets."
+    },
+    {
+      "type": "paragraph",
+      "text": "Market analysts note that such heavy institutional liquidation frequently amplifies volatility across key sectoral indices and broader equity benchmarks."
+    },
+    {
+      "type": "paragraph",
+      "text": "Investors and analysts will closely observe macroeconomic data releases and upcoming institutional trading patterns to gauge near-term market direction."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Sensex Crashes 1,000 Points: Rs 9 Lakh Crore Wiped Out As Foreign Investors Sell Indian Stocks En-Masse - NDTV"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "indias-trade-deals-will-matter-more-than-ever-amid-uncertainties-deloitte-1790869355",
   "category": "economy",
   "headline": "India’s trade deals will matter more than ever amid uncertainties - Deloitte",

@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "netanyahu-omani-co-pilot-went-through-islamic-radicalization-axios-1790881490",
+  "category": "world",
+  "headline": "Netanyahu: Omani co-pilot went through Islamic radicalization - Axios",
+  "dek": "Israeli Prime Minister Benjamin Netanyahu reports that the Omani co-pilot involved in a Flydubai incident underwent Islamic radicalization.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-01T19:04:50Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1790881488_3360.png",
+  "imageAlt": "Netanyahu: Omani co-pilot went through Islamic radicalization - Axios",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Israeli Prime Minister Benjamin Netanyahu has stated that the co-pilot of a Flydubai plane underwent radical Islamist indoctrination. The assertion places renewed focus on security protocols within commercial aviation in the region."
+    },
+    {
+      "type": "paragraph",
+      "text": "The disclosure follows an alleged Flydubai hijacking attempt that has drawn international attention and statements from global leaders. US President Donald Trump noted that Iran may have been behind the alleged attempt."
+    },
+    {
+      "type": "paragraph",
+      "text": "Public attention has also highlighted the role of the flight crew during the incident, with Captain Smit Machchhar being praised as a hero following a cockpit stabbing. The exact sequence of events inside the cockpit remains a subject of ongoing official reports."
+    },
+    {
+      "type": "paragraph",
+      "text": "Aviation authorities and intelligence agencies are expected to scrutinize pilot vetting procedures and regional security links in the wake of the event. Security analysts are monitoring potential implications for international flight safety standards."
+    },
+    {
+      "type": "paragraph",
+      "text": "Further updates from investigators are anticipated as authorities continue to piece together the background of the co-pilot and the nature of the alleged hijacking attempt. Observers will be watching for official findings regarding potential state or extremist involvement."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Netanyahu: Omani co-pilot went through Islamic radicalization - Axios"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "smit-machchhar-who-is-the-indian-flydubai-pilot-hailed-a-hero-by-modi-trump-the-1790879948",
   "category": "india",
   "headline": "Smit Machchhar: Who is the Indian flydubai pilot hailed a ‘hero’ by Modi, Trump - The Hindu",

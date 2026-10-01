@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "supreme-court-judges-not-meeting-one-nation-one-election-committee-live-law-1790883794",
+  "category": "india",
+  "headline": "Supreme Court Judges Not Meeting 'One Nation One Election' Committee - Live Law",
+  "dek": "The parliamentary panel on simultaneous polls canceled its Supreme Court visit following opposition objections.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-01T19:43:14Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1790883792_6961.png",
+  "imageAlt": "Supreme Court Judges Not Meeting 'One Nation One Election' Committee - Live Law",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "The parliamentary panel reviewing the 'One Nation One Election' legislation has officially scrapped its proposed visit to Supreme Court judges. The cancellation follows strong objections raised by opposition parties regarding the propriety of the meeting."
+    },
+    {
+      "type": "paragraph",
+      "text": "The committee is currently examining the framework required to implement simultaneous polls across India. Critics and opposition leaders questioned the optics and potential implications of the panel engaging directly with members of the judiciary."
+    },
+    {
+      "type": "paragraph",
+      "text": "The 'One Nation One Election' initiative remains a major policy discussion point within Indian politics, touching upon constitutional and administrative feasibility. The synchronization of Lok Sabha and state assembly elections requires extensive legislative deliberation."
+    },
+    {
+      "type": "paragraph",
+      "text": "Institutional independence and the separation of powers have been central themes in the ongoing debates surrounding the simultaneous polls Bill. The canceled judicial visit underscores the political sensitivity of the electoral reform process."
+    },
+    {
+      "type": "paragraph",
+      "text": "Stakeholders and market observers continue to follow the progress of the parliamentary panel as it navigates complex procedural hurdles. Further updates on the committee's itinerary and schedule adjustments are expected in upcoming parliamentary sessions."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Supreme Court Judges Not Meeting 'One Nation One Election' Committee - Live Law"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "netanyahu-omani-co-pilot-went-through-islamic-radicalization-axios-1790881490",
   "category": "world",
   "headline": "Netanyahu: Omani co-pilot went through Islamic radicalization - Axios",

@@ -92,6 +92,65 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "ht-morning-brief-october-1-indian-pilot-fights-off-co-pilot-as-flydubai-flight-p-1790855338",
+  "category": "india",
+  "headline": "HT Morning Brief October 1: Indian pilot fights off co-pilot as flydubai flight plunges; Nitin Gadkari says 100% ethanol cars soon | India News - Hindustan Times",
+  "dek": "An Indian pilot countered a co-pilot during a flydubai flight plunge, alongside plans for 100% ethanol vehicles.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-01T11:48:58Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1790855336_3235.png",
+  "imageAlt": "HT Morning Brief October 1: Indian pilot fights off co-pilot as flydubai flight plunges; Nitin Gadkari says 100% ethanol cars soon | India News - Hindustan Times",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Aviation authorities are reviewing safety protocols following an incident aboard a flydubai flight involving an Indian pilot and co-pilot."
+    },
+    {
+      "type": "paragraph",
+      "text": "The operational disruption occurred while the commercial flight experienced a sudden plunge in altitude."
+    },
+    {
+      "type": "paragraph",
+      "text": "Cockpit resource management and pilot response measures are currently under scrutiny by industry regulators."
+    },
+    {
+      "type": "paragraph",
+      "text": "In a parallel policy announcement, Union Minister Nitin Gadkari stated that vehicles running entirely on 100 percent ethanol will be introduced soon."
+    },
+    {
+      "type": "paragraph",
+      "text": "The nationwide policy push toward total ethanol adoption is designed to address vehicular pollution and lower energy import costs."
+    },
+    {
+      "type": "paragraph",
+      "text": "Stakeholders in both the aviation and automotive sectors are monitoring regulatory rollouts and safety compliance updates."
+    },
+    {
+      "type": "paragraph",
+      "text": "Further announcements regarding the aviation incident investigation and the timeline for ethanol-powered automobiles are expected shortly."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "HT Morning Brief October 1: Indian pilot fights off co-pilot as flydubai flight plunges; Nitin Gadkari says 100% ethanol cars soon | India News - Hindustan Times"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "inside-zuckerberg-huangs-push-for-white-house-ai-pact-politicocom-1790853218",
   "category": "world",
   "headline": "Inside Zuckerberg, Huang’s push for White House AI pact - politico.com",

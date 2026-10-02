@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "theyll-be-hit-very-hard-trump-sends-9000-troops-to-the-middle-east-after-warning-1790921957",
+  "category": "world",
+  "headline": "'They’ll be hit very hard': Trump sends 9,000 troops to the Middle East after warning Iran strikes - Fortune",
+  "dek": "US deploys thousands of troops and aircraft carriers to the Middle East amid rising tensions with Iran.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-02T06:19:17Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1790921956_1815.png",
+  "imageAlt": "'They’ll be hit very hard': Trump sends 9,000 troops to the Middle East after warning Iran strikes - Fortune",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "The United States has initiated a significant military reinforcement in the Middle East, deploying 9,000 additional troops and Marines following warnings of potential Iran strikes."
+    },
+    {
+      "type": "paragraph",
+      "text": "The mobilization includes the repositioning of 2,000 Marines to the region and reports indicating the deployment of a third US aircraft carrier."
+    },
+    {
+      "type": "paragraph",
+      "text": "These military maneuvers coincide with escalating regional tensions, highlighted by an incident involving a tanker in the Strait of Hormuz."
+    },
+    {
+      "type": "paragraph",
+      "text": "Global energy markets have reacted immediately to the developments, with oil prices surging amid concerns over potential disruptions to critical shipping lanes."
+    },
+    {
+      "type": "paragraph",
+      "text": "For economies dependent on Middle Eastern energy imports, such as India, the escalating security crisis raises immediate concerns regarding fuel costs, inflation, and supply chain stability."
+    },
+    {
+      "type": "paragraph",
+      "text": "International observers and market participants continue to monitor the situation closely for further geopolitical developments and maritime security updates in the Gulf."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "'They’ll be hit very hard': Trump sends 9,000 troops to the Middle East after warning Iran strikes - Fortune"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "co-pilot-who-tried-to-crash-flydubai-jet-was-radicalized-israel-says-the-washing-1790916365",
   "category": "world",
   "headline": "Co-pilot who tried to crash FlyDubai jet was ‘radicalized,’ Israel says - The Washington Post",

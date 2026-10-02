@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "thousands-turn-up-for-cjp-protest-in-mumbai-seeking-cecs-resignation-cpim-condem-1790964329",
+  "category": "india",
+  "headline": "Thousands turn up for CJP protest in Mumbai seeking CEC's resignation; CPI(M) condemns detention of youngsters in Delhi | ECI protest LIVE - The Hindu",
+  "dek": "Thousands protest in Mumbai demanding CEC resignation over voter roll changes as CPI(M) condemns Delhi detentions.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-02T18:05:29Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1790964327_2295.png",
+  "imageAlt": "Thousands turn up for CJP protest in Mumbai seeking CEC's resignation; CPI(M) condemns detention of youngsters in Delhi | ECI protest LIVE - The Hindu",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Thousands of demonstrators have turned out in Mumbai to participate in protests organized by the CJP and India’s Cockroach movement, demanding the resignation of the Chief Election Commissioner. The demonstrations center on widespread concerns and grievances regarding recent changes to voter rolls."
+    },
+    {
+      "type": "paragraph",
+      "text": "The protests underscore growing public scrutiny of election administration processes. Slogans and chants reflecting the demonstrators' demands have echoed through the protest sites as thousands join the movement."
+    },
+    {
+      "type": "paragraph",
+      "text": "In tandem with the Mumbai demonstrations, the political fallout has extended to the national capital. The CPI(M) has publicly condemned the detention of youngsters who were participating in related protests in Delhi."
+    },
+    {
+      "type": "paragraph",
+      "text": "Authorities have reportedly clamped down on certain areas in response to the escalating demonstrations. The simultaneous unrest in multiple major cities highlights heightened political friction surrounding electoral bodies."
+    },
+    {
+      "type": "paragraph",
+      "text": "Stakeholders and political observers are closely watching how the Election Commission of India and law enforcement agencies handle the mounting pressure."
+    },
+    {
+      "type": "paragraph",
+      "text": "The unfolding situation points to continued political mobilization around institutional accountability and voter rights in the near term."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Thousands turn up for CJP protest in Mumbai seeking CEC's resignation; CPI(M) condemns detention of youngsters in Delhi | ECI protest LIVE - The Hindu"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "india-emerges-as-fastest-growing-major-economy-on-back-of-policy-reforms-itc-cha-1790962846",
   "category": "economy",
   "headline": "India emerges as fastest-growing major economy on back of policy reforms: ITC Chairman - government.economictimes.indiatimes.com",

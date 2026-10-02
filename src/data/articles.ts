@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "pm-modi-speaks-to-flydubai-pilot-captain-smit-machchaar-the-hindu-1790951546",
+  "category": "india",
+  "headline": "PM Modi speaks to flydubai pilot Captain Smit Machchaar - The Hindu",
+  "dek": "PM Modi speaks to flydubai pilot Captain Smit Machchaar following a foiled mid-air attack on a Dubai-Tel Aviv flight.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-02T14:32:26Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1790951544_2305.png",
+  "imageAlt": "PM Modi speaks to flydubai pilot Captain Smit Machchaar - The Hindu",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Prime Minister Narendra Modi has spoken directly with flydubai pilot Captain Smit Machchaar following a critical security incident aboard a commercial flight. The conversation follows an attempted crash of a Dubai-to-Tel Aviv flight that was successfully thwarted by vigilant passengers."
+    },
+    {
+      "type": "paragraph",
+      "text": "According to reports from the region, the incident involved the flight's co-pilot allegedly stabbing the pilot mid-air. Passengers onboard quickly intervened to prevent the aircraft from crashing, neutralizing the threat before authorities took control upon landing."
+    },
+    {
+      "type": "paragraph",
+      "text": "Israeli officials have responded strongly to the security breach. Prime Minister Benjamin Netanyahu warned of a very heavy price if investigations reveal that the co-pilot was acting on specific orders."
+    },
+    {
+      "type": "paragraph",
+      "text": "Meanwhile, UAE officials have officially categorized the flydubai attack as a terrorist act. Authorities in the United Arab Emirates specifically praised Captain Smit Machchhar for his crucial handling of the emergency situation."
+    },
+    {
+      "type": "paragraph",
+      "text": "The incident has raised significant international concerns regarding cockpit security protocols and crew vetting procedures across Middle Eastern carriers. Aviation authorities are expected to review safety measures in the wake of the mid-air attack."
+    },
+    {
+      "type": "paragraph",
+      "text": "Observers will be watching for further diplomatic and security updates from Israel, the UAE, and international aviation bodies as investigations into the co-pilot's motives continue."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "PM Modi speaks to flydubai pilot Captain Smit Machchaar - The Hindu"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "failed-torturous-execution-attempt-on-christa-pike-reignites-death-penalty-debat-1790946103",
   "category": "world",
   "headline": "Failed ‘torturous’ execution attempt on Christa Pike reignites death penalty debate - NPR",

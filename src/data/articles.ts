@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "tennessee-inmate-in-critical-condition-after-torturous-botched-execution-lawyer-1790903079",
+  "category": "world",
+  "headline": "Tennessee Inmate in Critical Condition After ‘Torturous’ Botched Execution, Lawyer Says - The New York Times",
+  "dek": "Tennessee inmate Christa Pike is in critical condition after lawyers report a botched execution involving two lethal injections.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-02T01:04:39Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1790903077_6442.png",
+  "imageAlt": "Tennessee Inmate in Critical Condition After ‘Torturous’ Botched Execution, Lawyer Says - The New York Times",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Tennessee inmate Christa Pike survived her execution after enduring what her legal representatives have characterized as a torturous and botched attempt by state authorities."
+    },
+    {
+      "type": "paragraph",
+      "text": "According to reports from major news organizations including The New York Times and CNN, the capital punishment procedure failed despite the administration of lethal injections."
+    },
+    {
+      "type": "paragraph",
+      "text": "Legal teams representing Pike have slammed Tennessee officials over the severe complications that arose during the execution attempts utilizing pentobarbital."
+    },
+    {
+      "type": "paragraph",
+      "text": "The incident has drawn renewed attention to the ongoing debates surrounding capital punishment, execution methods, and the constitutional protections regarding cruel and unusual punishment."
+    },
+    {
+      "type": "paragraph",
+      "text": "The developments raise significant questions regarding state-level protocol standards and the reliability of pharmaceutical agents used in executions."
+    },
+    {
+      "type": "paragraph",
+      "text": "Future updates are expected as legal representatives pursue further actions and public scrutiny regarding the state's execution procedures continues to mount."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Tennessee Inmate in Critical Condition After ‘Torturous’ Botched Execution, Lawyer Says - The New York Times"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "christa-pikes-execution-fails-in-tennessee-death-row-convict-taken-to-hospital-l-1790900578",
   "category": "india",
   "headline": "Christa Pike's execution ‘fails’ in Tennessee; death row convict taken to hospital, lawyers say - thehindu.com",

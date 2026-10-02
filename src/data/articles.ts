@@ -92,6 +92,41 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "flydubai-co-pilot-assaulted-captain-before-landing-initial-saudi-probe-al-jazeer-1790907272",
+  "category": "india",
+  "headline": "Flydubai co-pilot ‘assaulted’ captain before landing: Initial Saudi probe - Al Jazeera",
+  "dek": "Initial Saudi probe reveals flydubai co-pilot allegedly assaulted captain before landing on an Israel-bound flight.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-02T02:14:32Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1790907270_8048.png",
+  "imageAlt": "Flydubai co-pilot ‘assaulted’ captain before landing: Initial Saudi probe - Al Jazeera",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "An initial investigation by Saudi authorities has revealed that a flydubai co-pilot allegedly assaulted the aircraft captain prior to landing. The incident occurred on an Israel-bound flight, raising immediate international aviation safety concerns. Following the incident, the co-pilot involved in the cockpit altercation was transferred to the UAE. US President Donald Trump has additionally alleged that the co-pilot was linked to Iran, introducing complex geopolitical dimensions to the ongoing probe. Prime Minister Narendra Modi reached out to the wife and parents of Flydubai hero Smit Machchhar, stating that India is proud of his actions. Global aviation regulators are closely monitoring the unfolding investigation into cockpit security and pilot conduct. Observers will be watching for further official findings from the Saudi probe and subsequent diplomatic responses."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Flydubai co-pilot ‘assaulted’ captain before landing: Initial Saudi probe - Al Jazeera"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "tennessee-inmate-in-critical-condition-after-torturous-botched-execution-lawyer-1790903079",
   "category": "world",
   "headline": "Tennessee Inmate in Critical Condition After ‘Torturous’ Botched Execution, Lawyer Says - The New York Times",

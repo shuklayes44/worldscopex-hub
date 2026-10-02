@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "12-minutes-of-madness-how-flydubai-pilot-passengers-saved-plane-midfall-al-jazee-1790959150",
+  "category": "india",
+  "headline": "12 minutes of madness: How Flydubai pilot, passengers saved plane midfall - Al Jazeera",
+  "dek": "A Flydubai flight to Tel Aviv diverted to Tabuk after passengers and the pilot intervened during a midair cockpit incident.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-02T16:39:10Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1790959148_6800.png",
+  "imageAlt": "12 minutes of madness: How Flydubai pilot, passengers saved plane midfall - Al Jazeera",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "A Flydubai flight operating toward Tel Aviv was forced to divert following a critical onboard security incident involving an abortive crash attempt by an Omani co-pilot."
+    },
+    {
+      "type": "paragraph",
+      "text": "The intense 12-minute emergency unfolded midfall, prompted by a mother's desperate screams that mobilized passengers to assist the pilot in securing the aircraft."
+    },
+    {
+      "type": "paragraph",
+      "text": "Following the intervention, the flight successfully diverted to Tabuk, where regional authorities managed the immediate aftermath of the threat."
+    },
+    {
+      "type": "paragraph",
+      "text": "Saudi Arabian authorities subsequently handed over the Omani co-pilot to the United Arab Emirates to face further processing regarding the abortive crash attempt."
+    },
+    {
+      "type": "paragraph",
+      "text": "The incident has drawn international attention to cockpit security protocols, crew monitoring systems, and regional aviation coordination."
+    },
+    {
+      "type": "paragraph",
+      "text": "Stakeholders and regulators are expected to review cross-border response frameworks and passenger safety interventions as investigations continue."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "12 minutes of madness: How Flydubai pilot, passengers saved plane midfall - Al Jazeera"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "stock-market-crash-how-investors-lost-95-lakh-crore-in-over-an-hour-top-losers-o-1790957914",
   "category": "economy",
   "headline": "Stock Market Crash: How investors lost ₹9.5 lakh crore in over an hour — Top losers of Sensex, Nifty - Livemint",

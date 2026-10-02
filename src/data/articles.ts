@@ -92,6 +92,65 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "second-judge-blocks-trumps-100000-fee-for-new-h-1b-worker-visas-reuters-1790934265",
+  "category": "india",
+  "headline": "Second judge blocks Trump's $100,000 fee for new H-1B worker visas - Reuters",
+  "dek": "A second U.S. judge has halted the administration's $100,000 fee for new H-1B worker visas.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-02T09:44:25Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1790934263_8973.png",
+  "imageAlt": "Second judge blocks Trump's $100,000 fee for new H-1B worker visas - Reuters",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "A second U.S. judge has formally blocked the implementation of a $100,000 fee for new H-1B worker visas, delivering another legal setback to the administration's immigration policies. The ruling halts the controversial six-figure charge that was slated to impact incoming employment-based non-immigrant visa applications."
+    },
+    {
+      "type": "paragraph",
+      "text": "The legal challenge highlights ongoing friction surrounding the U.S. employment-based immigration system, which remains heavily utilized by international tech workers and global corporations."
+    },
+    {
+      "type": "paragraph",
+      "text": "Amid the judicial hurdles, political scrutiny of the immigration framework has intensified significantly. Prominent political figures, including JD Vance, have publicly criticized the employment visa framework, describing the H-1B programme as completely broken and advocating for its fundamental overhaul or abolition."
+    },
+    {
+      "type": "paragraph",
+      "text": "The simultaneous legal blocks and political calls for reform create a complex landscape for businesses that depend on specialized foreign talent."
+    },
+    {
+      "type": "paragraph",
+      "text": "The H-1B programme is a critical pipeline for technology firms and professionals, particularly affecting skilled workers from countries like India who seek employment opportunities in the United States."
+    },
+    {
+      "type": "paragraph",
+      "text": "As the legal battles unfold in federal courts, technology companies, legal experts, and international applicants are closely watching for subsequent judicial decisions."
+    },
+    {
+      "type": "paragraph",
+      "text": "Future court proceedings will determine whether the administration can salvage the proposed $100,000 fee or if broader legislative reforms will reshape the employment visa landscape."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Second judge blocks Trump's $100,000 fee for new H-1B worker visas - Reuters"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "letitia-james-appointed-special-prosecutor-in-alleged-gang-rape-at-cornell-the-g-1790930524",
   "category": "world",
   "headline": "Letitia James appointed special prosecutor in alleged gang-rape at Cornell - The Guardian",

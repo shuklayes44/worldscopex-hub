@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "indias-cockroach-movement-launches-new-protests-over-changes-to-voter-roll-the-g-1790956904",
+  "category": "india",
+  "headline": "India’s Cockroach movement launches new protests over changes to voter roll - The Guardian",
+  "dek": "India's 'Cockroach' movement sparks widespread protests over voter roll changes as opposition leaders urge public unity.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-02T16:01:44Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1790956901_7556.png",
+  "imageAlt": "India’s Cockroach movement launches new protests over changes to voter roll - The Guardian",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "India's 'Cockroach' movement has launched a fresh wave of protests targeting disputed modifications to the national voter rolls, prompting swift clampdowns from authorities. The demonstrations have ignited intense political friction across several major urban hubs."
+    },
+    {
+      "type": "paragraph",
+      "text": "In response to the developments, leaders of the opposition INDIA bloc in Bihar have issued urgent appeals for citizens to unite and safeguard constitutional integrity. The political opposition views the electoral roll revisions as a critical challenge to democratic processes."
+    },
+    {
+      "type": "paragraph",
+      "text": "Simultaneously, massive demonstrations against the poll body chief are being organized in key metropolitan centers, including Delhi and Mumbai. Organizers are demanding accountability and a reversal of the contested administrative changes."
+    },
+    {
+      "type": "paragraph",
+      "text": "The escalating confrontation underscores deep systemic tensions regarding election management and institutional independence in the country. Analysts note that these protests could significantly shape the broader political discourse and voter mobilization strategies."
+    },
+    {
+      "type": "paragraph",
+      "text": "Stakeholders and market participants are maintaining a cautious stance as political uncertainty persists. The potential for prolonged civic unrest poses risks to policy continuity and public administration."
+    },
+    {
+      "type": "paragraph",
+      "text": "As demonstrations continue to unfold across multiple states, attention remains focused on the official response from election authorities. Observers will closely monitor upcoming judicial and administrative developments to gauge the trajectory of the crisis."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "India’s Cockroach movement launches new protests over changes to voter roll - The Guardian"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "france-school-protests-hundreds-of-schools-closed-and-40-head-teachers-hurt-bbc-1790953600",
   "category": "world",
   "headline": "France school protests: Hundreds of schools closed and 40 head teachers hurt - BBC",

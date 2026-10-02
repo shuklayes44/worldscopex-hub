@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "global-electricity-demand-growth-set-to-accelerate-as-power-systems-adjust-to-re-1790973163",
+  "category": "world",
+  "headline": "Global electricity demand growth set to accelerate as power systems adjust to recent shocks - News - IEA – International Energy Agency",
+  "dek": "The International Energy Agency projects accelerating global electricity demand growth as power systems adjust to recent shocks.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-02T20:32:43Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1790973161_4333.png",
+  "imageAlt": "Global electricity demand growth set to accelerate as power systems adjust to recent shocks - News - IEA – International Energy Agency",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Global electricity demand growth is set to accelerate as power systems around the world adjust to recent shocks, according to the latest assessments released by the International Energy Agency. The findings highlight the evolving challenges facing energy infrastructure amid shifting economic and operational landscapes."
+    },
+    {
+      "type": "paragraph",
+      "text": "The IEA report indicates that power systems are undergoing significant structural adjustments as they absorb the impact of recent global disruptions. These adjustments are reshaping consumption patterns and testing the resilience of existing electricity networks across various regions."
+    },
+    {
+      "type": "paragraph",
+      "text": "For fast-growing economies like India, accelerating electricity demand carries profound implications for domestic markets, policy formulation, and infrastructure investment. Ensuring grid stability while meeting surging power consumption remains a central priority for sector stakeholders."
+    },
+    {
+      "type": "paragraph",
+      "text": "The projected acceleration in demand places renewed focus on the pace of capacity additions and the adaptability of transmission networks. Energy planners must navigate these dynamics to prevent bottlenecks and maintain reliable power supplies for industrial and residential consumers."
+    },
+    {
+      "type": "paragraph",
+      "text": "Market participants and policymakers will closely watch how regional grids manage the rising consumption trajectory against the backdrop of recent shocks. Future updates from the IEA are expected to provide further granularity on regional consumption trends and transition metrics."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Global electricity demand growth set to accelerate as power systems adjust to recent shocks - News - IEA – International Energy Agency"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "woman-at-centre-of-cornell-rape-inquiry-was-failed-by-officials-says-new-york-go-1790971379",
   "category": "world",
   "headline": "Woman at centre of Cornell rape inquiry was 'failed' by officials, says New York governor - BBC",

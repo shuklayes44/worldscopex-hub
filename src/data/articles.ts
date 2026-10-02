@@ -92,6 +92,53 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "christa-pike-is-in-critical-condition-after-failed-execution-in-tennessee-her-la-1790938304",
+  "category": "world",
+  "headline": "Christa Pike is in critical condition after failed execution in Tennessee, her lawyers say - NBC News",
+  "dek": "Christa Pike survives lethal injection in Tennessee, leaving her in critical condition.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-02T10:51:44Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1790938302_6754.png",
+  "imageAlt": "Christa Pike is in critical condition after failed execution in Tennessee, her lawyers say - NBC News",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Lawyers for Christa Pike announced that she is currently in critical condition following a failed execution attempt in Tennessee. The incident has drawn renewed attention to the protocols and practices surrounding lethal injections within the state's death chamber."
+    },
+    {
+      "type": "paragraph",
+      "text": "Reports from legal representatives and media outlets highlight ongoing concerns regarding execution methods in Tennessee. The development follows a timeline of events in the death chamber that has prompted further scrutiny from legal experts and human rights advocates."
+    },
+    {
+      "type": "paragraph",
+      "text": "The failed execution adds to a series of events involving capital punishment procedures in the state. Critics and legal teams have repeatedly raised warnings about the administration of lethal injections and the reliability of execution protocols."
+    },
+    {
+      "type": "paragraph",
+      "text": "As the legal situation develops, attention turns to the immediate medical condition of Christa Pike and the potential for new legal motions. Observers note that the incident will likely fuel broader debates over the future of capital punishment and state-level execution practices."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Christa Pike is in critical condition after failed execution in Tennessee, her lawyers say - NBC News"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "hundreds-detained-by-delhi-police-from-near-jantar-mantar-during-protest-against-1790935905",
   "category": "india",
   "headline": "Hundreds detained by Delhi police from near Jantar Mantar during protest against CEC Gyanesh Kumar; security tightened at Mumbai's Shivaji Park | LIVE - The Hindu",

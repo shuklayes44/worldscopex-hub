@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "hundreds-detained-by-delhi-police-from-near-jantar-mantar-during-protest-against-1790935905",
+  "category": "india",
+  "headline": "Hundreds detained by Delhi police from near Jantar Mantar during protest against CEC Gyanesh Kumar; security tightened at Mumbai's Shivaji Park | LIVE - The Hindu",
+  "dek": "Delhi police detain hundreds near Jantar Mandar amid protests against CEC Gyanesh Kumar, prompting strict security measures.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-02T10:11:45Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1790935902_5317.png",
+  "imageAlt": "Hundreds detained by Delhi police from near Jantar Mantar during protest against CEC Gyanesh Kumar; security tightened at Mumbai's Shivaji Park | LIVE - The Hindu",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Delhi Police have detained hundreds of individuals near Jantar Mandar during demonstrations organized against Chief Election Commissioner Gyanesh Kumar. The heavy police action follows escalating public protests centered on the electoral authority."
+    },
+    {
+      "type": "paragraph",
+      "text": "In response to the demonstrations, authorities implemented severe mobility and communication restrictions across the capital. Measures included the temporary closure of 12 Delhi Metro stations to manage crowd movement and prevent further congregation."
+    },
+    {
+      "type": "paragraph",
+      "text": "Additionally, mobile internet services were shut down near Connaught Place in central Delhi, reflecting heightened security protocols by law enforcement agencies. The restrictions disrupted routine transit and communication networks for citizens across affected zones."
+    },
+    {
+      "type": "paragraph",
+      "text": "Public figures and civil rights representatives have criticized the extensive nature of the shutdowns, questioning the justification behind restricting public transit access and communications infrastructure. Questions remain over the legal frameworks authorizing the communication blackouts."
+    },
+    {
+      "type": "paragraph",
+      "text": "Security measures have extended beyond the national capital, with authorities significantly tightening security protocols at Mumbai's Shivaji Park. The nationwide vigilance underscores the sensitivity surrounding the protests targeting election officials."
+    },
+    {
+      "type": "paragraph",
+      "text": "Law enforcement agencies continue to maintain a heavy presence around key demonstration sites and transit hubs. Authorities have not yet specified when normal metro operations and mobile internet services will be fully restored in the affected areas."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Hundreds detained by Delhi police from near Jantar Mantar during protest against CEC Gyanesh Kumar; security tightened at Mumbai's Shivaji Park | LIVE - The Hindu"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "second-judge-blocks-trumps-100000-fee-for-new-h-1b-worker-visas-reuters-1790934265",
   "category": "india",
   "headline": "Second judge blocks Trump's $100,000 fee for new H-1B worker visas - Reuters",

@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "letitia-james-appointed-special-prosecutor-in-alleged-gang-rape-at-cornell-the-g-1790930524",
+  "category": "world",
+  "headline": "Letitia James appointed special prosecutor in alleged gang-rape at Cornell - The Guardian",
+  "dek": "New York governor appoints Letitia James as special prosecutor in Cornell fraternity gang-rape investigation.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-02T08:42:04Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1790930522_8905.png",
+  "imageAlt": "Letitia James appointed special prosecutor in alleged gang-rape at Cornell - The Guardian",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Letitia James has officially been appointed as special prosecutor to oversee the investigation into an alleged gang-rape incident at Cornell."
+    },
+    {
+      "type": "paragraph",
+      "text": "The case has drawn widespread scrutiny, particularly surrounding the status of the individuals involved, commonly referred to in reports as the \"Cornell 7.\""
+    },
+    {
+      "type": "paragraph",
+      "text": "Despite the intense public interest and ongoing investigations, formal charges have not yet been brought against the individuals in question."
+    },
+    {
+      "type": "paragraph",
+      "text": "The appointment by New York's governor highlights growing state-level attention on the handling of sexual assault allegations within university Greek life systems."
+    },
+    {
+      "type": "paragraph",
+      "text": "Public discourse surrounding the case has renewed legislative pushes to address and close perceived loopholes within New York's sexual assault laws."
+    },
+    {
+      "type": "paragraph",
+      "text": "Observers and legal experts are closely tracking the special prosecutor's mandate as the investigation proceeds under heightened public and political scrutiny."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Letitia James appointed special prosecutor in alleged gang-rape at Cornell - The Guardian"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "trump-launches-midterms-campaign-blitz-amid-record-low-approval-ratings-al-jazee-1790926115",
   "category": "world",
   "headline": "Trump launches midterms campaign blitz amid record low approval ratings - Al Jazeera",

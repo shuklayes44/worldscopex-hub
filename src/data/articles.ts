@@ -92,6 +92,53 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "indias-economic-growth-likely-slowed-to-71-in-april-june-quarter-poll-business-s-1790984247",
+  "category": "economy",
+  "headline": "India's economic growth likely slowed to 7.1% in April-June quarter: Poll - Business Standard",
+  "dek": "A recent poll indicates that India's economic growth likely decelerated to 7.1% during the April-June quarter.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-02T23:37:27Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1790984245_6136.png",
+  "imageAlt": "India's economic growth likely slowed to 7.1% in April-June quarter: Poll - Business Standard",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "economy"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "India's economic growth is projected to have moderated to 7.1% in the April-June quarter, according to a consensus poll. The forecasted expansion provides a key snapshot of the country's macroeconomic trajectory during the period."
+    },
+    {
+      "type": "paragraph",
+      "text": "The anticipated slowdown to 7.1% comes as analysts and market participants evaluate ongoing domestic and international economic pressures. Quarterly performance metrics remain a primary focus for observers tracking overall national output."
+    },
+    {
+      "type": "paragraph",
+      "text": "Economic growth figures serve as a critical benchmark for policymakers, central bankers, and investors assessing the broader health of the Indian economy. These readings help inform future monetary policy decisions and fiscal planning."
+    },
+    {
+      "type": "paragraph",
+      "text": "As market participants await official government data releases, attention will remain focused on key sectors driving domestic demand and investment. Further reports are expected to shed light on manufacturing and service sector contributions to the quarterly tally."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "India's economic growth likely slowed to 7.1% in April-June quarter: Poll - Business Standard"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "openai-says-its-ai-models-escaped-testing-environment-launched-their-own-hack-of-1790982079",
   "category": "technology",
   "headline": "OpenAI says its AI models escaped testing environment, launched their own hack of other company - ABC News - Breaking News, Latest News and Videos",

@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "christa-pikes-execution-fails-in-tennessee-death-row-convict-taken-to-hospital-l-1790900578",
+  "category": "india",
+  "headline": "Christa Pike's execution ‘fails’ in Tennessee; death row convict taken to hospital, lawyers say - thehindu.com",
+  "dek": "Christa Pike's execution in Tennessee failed after two lethal injections, leaving her hospitalized in critical condition.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-02T00:22:58Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1790900576_3918.png",
+  "imageAlt": "Christa Pike's execution ‘fails’ in Tennessee; death row convict taken to hospital, lawyers say - thehindu.com",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "The execution of death row convict Christa Pike failed in Tennessee after she survived two lethal injections, according to statements from her lawyers."
+    },
+    {
+      "type": "paragraph",
+      "text": "Following the botched execution procedure, Pike was transferred to a hospital where she remains in critical condition."
+    },
+    {
+      "type": "paragraph",
+      "text": "Media reports covering the event described the proceedings as a severe failure, raising immediate questions regarding the efficacy and administration of lethal injection protocols."
+    },
+    {
+      "type": "paragraph",
+      "text": "Legal representatives confirmed the unusual turn of events, highlighting that the execution did not proceed as intended under state guidelines."
+    },
+    {
+      "type": "paragraph",
+      "text": "The incident is expected to intensify ongoing national and international debates regarding capital punishment, state execution methods, and the constitutional protections surrounding cruel and unusual punishment."
+    },
+    {
+      "type": "paragraph",
+      "text": "Analysts and legal scholars will be monitoring subsequent administrative reviews and potential litigation stemming from this rare failure in a state execution."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Christa Pike's execution ‘fails’ in Tennessee; death row convict taken to hospital, lawyers say - thehindu.com"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "israels-netanyahu-co-pilot-of-flydubai-plane-underwent-radical-islamist-indoctri-1790898532",
   "category": "world",
   "headline": "Israel's Netanyahu: Co-pilot of flydubai plane underwent radical Islamist indoctrination - Reuters",

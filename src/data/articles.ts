@@ -92,6 +92,53 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "india-emerges-as-fastest-growing-major-economy-on-back-of-policy-reforms-itc-cha-1790962846",
+  "category": "economy",
+  "headline": "India emerges as fastest-growing major economy on back of policy reforms: ITC Chairman - government.economictimes.indiatimes.com",
+  "dek": "ITC Chairman attributes India's rapid economic growth to ongoing structural policy reforms.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-02T17:40:46Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1790962844_6796.png",
+  "imageAlt": "India emerges as fastest-growing major economy on back of policy reforms: ITC Chairman - government.economictimes.indiatimes.com",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "economy"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "India has solidified its position as the fastest-growing major economy globally, supported heavily by the implementation of key policy reforms. The assessment was highlighted by ITC Chairman, underscoring the positive impact of structural changes on the nation's economic trajectory."
+    },
+    {
+      "type": "paragraph",
+      "text": "The announcement reflects growing confidence among major business leaders regarding the resilience and dynamism of the Indian market. Sustained reform measures continue to play a pivotal role in maintaining high growth rates despite global economic headwinds."
+    },
+    {
+      "type": "paragraph",
+      "text": "As a major emerging market, India's economic performance remains closely watched by international investors and multilateral institutions. The country's expanding industrial and consumer sectors contribute significantly to its leading growth status among major economies."
+    },
+    {
+      "type": "paragraph",
+      "text": "Policymakers and market participants will be observing upcoming fiscal and regulatory developments to gauge the sustainability of this economic momentum. Continued structural adjustments are expected to remain central to India's long-term developmental strategy and market performance."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "India emerges as fastest-growing major economy on back of policy reforms: ITC Chairman - government.economictimes.indiatimes.com"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "12-minutes-of-madness-how-flydubai-pilot-passengers-saved-plane-midfall-al-jazee-1790959150",
   "category": "india",
   "headline": "12 minutes of madness: How Flydubai pilot, passengers saved plane midfall - Al Jazeera",

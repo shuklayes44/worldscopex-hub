@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "trump-warns-iran-of-fresh-strikes-if-tehran-involved-in-flydubai-plane-incident-1790979652",
+  "category": "world",
+  "headline": "Trump warns Iran of fresh strikes if Tehran involved in FlyDubai plane incident - Fox News",
+  "dek": "US warns Iran of fresh military strikes following a security incident on a FlyDubai flight.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-02T22:20:52Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1790979650_6907.png",
+  "imageAlt": "Trump warns Iran of fresh strikes if Tehran involved in FlyDubai plane incident - Fox News",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "United States leadership has issued a direct warning to Iran regarding potential fresh military strikes, tied specifically to an unfolding investigation into a FlyDubai plane incident. The alert comes amid heightened international scrutiny over commercial aviation security in the region."
+    },
+    {
+      "type": "paragraph",
+      "text": "According to reports, the suspect involved in the FlyDubai cockpit attack had previously been removed by another airline due to concerns regarding extremist views. Further records indicate the co-pilot accused of the incident had also been grounded by Oman Air prior to joining the carrier."
+    },
+    {
+      "type": "paragraph",
+      "text": "The incident has raised immediate concerns across the international aviation sector regarding background screening processes and pilot vetting protocols. Aviation authorities are facing renewed pressure to tighten security standards across regional and international carriers."
+    },
+    {
+      "type": "paragraph",
+      "text": "Financial markets and global transport networks are closely monitoring the geopolitical fallout from the warning. Potential military escalation involving Iran could disrupt key Middle Eastern air corridors and impact global energy and transit markets."
+    },
+    {
+      "type": "paragraph",
+      "text": "Stakeholders and regulatory bodies are awaiting official updates from regional authorities regarding the full scope of the FlyDubai investigation. Analysts note that airline safety protocols and diplomatic relations in the Middle East will remain volatile as the situation develops."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Trump warns Iran of fresh strikes if Tehran involved in FlyDubai plane incident - Fox News"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "india-news-police-forcibly-remove-rahul-gandhi-from-protest-dwcom-1790976747",
   "category": "india",
   "headline": "India news: Police forcibly remove Rahul Gandhi from protest - DW.com",

@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "stock-market-crash-how-investors-lost-95-lakh-crore-in-over-an-hour-top-losers-o-1790957914",
+  "category": "economy",
+  "headline": "Stock Market Crash: How investors lost ₹9.5 lakh crore in over an hour — Top losers of Sensex, Nifty - Livemint",
+  "dek": "Investors lost ₹9.5 lakh crore in over an hour during a sharp stock market crash impacting Sensex and Nifty.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-02T16:18:34Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1790957911_9693.png",
+  "imageAlt": "Stock Market Crash: How investors lost ₹9.5 lakh crore in over an hour — Top losers of Sensex, Nifty - Livemint",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "economy"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Indian equity markets witnessed a sudden and sharp downturn during the trading session, resulting in a massive erosion of investor wealth. According to reports from the floor, investors lost ₹9.5 lakh crore in a span of just over an hour."
+    },
+    {
+      "type": "paragraph",
+      "text": "The rapid decline heavily impacted major domestic benchmarks, including the Sensex and Nifty indices. Heavy selling pressure across multiple sectors drove valuations lower in a compressed timeframe."
+    },
+    {
+      "type": "paragraph",
+      "text": "Market analysts note that such abrupt selloffs underscore the fragile sentiment currently prevailing in domestic equities. The scale of the loss highlights the velocity with which capital can retreat during heightened market stress."
+    },
+    {
+      "type": "paragraph",
+      "text": "The broader financial ecosystem is closely evaluating the triggers behind the swift intraday correction. Institutional participation and global cues are expected to dictate the immediate trajectory of the market."
+    },
+    {
+      "type": "paragraph",
+      "text": "Traders and retail participants are advised to maintain caution as indices test critical technical thresholds. Monitoring volatility indicators will be essential for assessing near-term risk exposure."
+    },
+    {
+      "type": "paragraph",
+      "text": "Market watchers will remain focused on subsequent trading sessions to determine whether institutional support can stabilize the benchmark indices following this steep correction."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Stock Market Crash: How investors lost ₹9.5 lakh crore in over an hour — Top losers of Sensex, Nifty - Livemint"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "indias-cockroach-movement-launches-new-protests-over-changes-to-voter-roll-the-g-1790956904",
   "category": "india",
   "headline": "India’s Cockroach movement launches new protests over changes to voter roll - The Guardian",

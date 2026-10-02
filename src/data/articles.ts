@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "india-news-police-forcibly-remove-rahul-gandhi-from-protest-dwcom-1790976747",
+  "category": "india",
+  "headline": "India news: Police forcibly remove Rahul Gandhi from protest - DW.com",
+  "dek": "Police in India forcibly removed opposition leader Rahul Gandhi during a political protest.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-02T21:32:27Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1790976745_7179.png",
+  "imageAlt": "India news: Police forcibly remove Rahul Gandhi from protest - DW.com",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Law enforcement authorities in India have forcibly removed prominent opposition figure Rahul Gandhi from a public protest. The incident underscores escalating confrontations between political actors and security forces within the nation."
+    },
+    {
+      "type": "paragraph",
+      "text": "The intervention occurred as demonstrators gathered to voice opposition stance grievances, prompting an immediate police response to clear the area. Such confrontations often reflect deeper structural tensions surrounding public demonstrations and free assembly rights in India."
+    },
+    {
+      "type": "paragraph",
+      "text": "Political analysts note that state management of opposition protests remains a critical barometer of civil liberties and democratic norms. The actions taken by police are likely to draw scrutiny from various civil society organizations and political commentators alike."
+    },
+    {
+      "type": "paragraph",
+      "text": "Market participants and political observers will monitor how this event influences broader coalition dynamics and upcoming legislative sessions. Authorities have not yet detailed any subsequent legal or administrative measures following the removal."
+    },
+    {
+      "type": "paragraph",
+      "text": "Further developments regarding the political fallout and potential responses from opposition parties are anticipated as the situation continues to unfold."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "India news: Police forcibly remove Rahul Gandhi from protest - DW.com"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "everyone-trains-this-took-courage-smit-machchhars-ex-colleague-on-his-heroics-nd-1790974826",
   "category": "india",
   "headline": "'Everyone Trains, This Took Courage': Smit Machchhar's Ex-Colleague On His Heroics - NDTV",

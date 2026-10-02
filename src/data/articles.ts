@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "france-school-protests-hundreds-of-schools-closed-and-40-head-teachers-hurt-bbc-1790953600",
+  "category": "world",
+  "headline": "France school protests: Hundreds of schools closed and 40 head teachers hurt - BBC",
+  "dek": "Hundreds of French high schools closed and 40 head teachers injured amid violent youth protests.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-02T15:06:40Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1790953598_3347.png",
+  "imageAlt": "France school protests: Hundreds of schools closed and 40 head teachers hurt - BBC",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Hundreds of schools have been closed across France as a wave of violent protests by young people escalates into a major national crisis."
+    },
+    {
+      "type": "paragraph",
+      "text": "According to reports, blockades, fireworks, and tear gas have been deployed as youth protesters confront authorities in an intensifying classroom revolt."
+    },
+    {
+      "type": "paragraph",
+      "text": "The unrest has resulted in 40 head teachers being injured during the disruptions, highlighting the severity of the escalating demonstrations."
+    },
+    {
+      "type": "paragraph",
+      "text": "The widespread closures and violent clashes are rattling the country, presenting a significant security and administrative challenge for French authorities."
+    },
+    {
+      "type": "paragraph",
+      "text": "As the situation develops, stakeholders and observers are watching for government interventions to restore order and address the underlying grievances fueling the teen riots."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "France school protests: Hundreds of schools closed and 40 head teachers hurt - BBC"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "pm-modi-speaks-to-flydubai-pilot-captain-smit-machchaar-the-hindu-1790951546",
   "category": "india",
   "headline": "PM Modi speaks to flydubai pilot Captain Smit Machchaar - The Hindu",

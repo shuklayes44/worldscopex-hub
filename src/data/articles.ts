@@ -92,6 +92,53 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "woman-at-centre-of-cornell-rape-inquiry-was-failed-by-officials-says-new-york-go-1790971379",
+  "category": "world",
+  "headline": "Woman at centre of Cornell rape inquiry was 'failed' by officials, says New York governor - BBC",
+  "dek": "New York governor removes prosecutor from Cornell rape investigation after determining the complainant was failed by officials.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-02T20:02:59Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1790971377_4405.png",
+  "imageAlt": "Woman at centre of Cornell rape inquiry was 'failed' by officials, says New York governor - BBC",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "The New York governor has removed the district attorney from the ongoing Cornell rape investigation, citing institutional failures in the handling of the case. According to state officials, the woman at the centre of the inquiry, known as Jane Doe, was severely failed by both police and prosecutors involved in the preliminary stages."
+    },
+    {
+      "type": "paragraph",
+      "text": "The intervention shifts supervisory control away from local authorities as scrutiny mounts over the handling of campus sexual assault allegations. The case has also brought wider public attention to the growing prevalence of ketamine in sexual assaults, raising concerns about victims remaining unaware of being targeted."
+    },
+    {
+      "type": "paragraph",
+      "text": "Legal and policy experts note that such interventions underscore systemic vulnerabilities in how law enforcement agencies process complex assault complaints. The removal of the district authority marks a significant escalation in state-level oversight of local judicial proceedings."
+    },
+    {
+      "type": "paragraph",
+      "text": "Investigations into the specific circumstances surrounding the Cornell case continue to unfold amid broader calls for accountability and reform. Observers will monitor subsequent prosecutorial steps and any potential policy shifts regarding how regional authorities handle drug-facilitated assaults."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Woman at centre of Cornell rape inquiry was 'failed' by officials, says New York governor - BBC"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "indian-pilot-tells-pm-modi-he-opened-flydubai-cockpit-door-during-attack-reuters-1790969234",
   "category": "world",
   "headline": "Indian pilot tells PM Modi he opened flydubai cockpit door during attack - Reuters",

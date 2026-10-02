@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "us-trade-representative-greer-says-deal-with-india-not-imminent-after-modi-trump-1790966574",
+  "category": "india",
+  "headline": "U.S. trade representative Greer says deal with India not 'imminent' after Modi-Trump call - CNBC",
+  "dek": "U.S. trade representative Greer confirms an India trade deal is not imminent following a Modi-Trump call.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-02T18:42:54Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1790966573_9087.png",
+  "imageAlt": "U.S. trade representative Greer says deal with India not 'imminent' after Modi-Trump call - CNBC",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "U.S. trade representative Greer has stated that a trade deal between the United States and India is not imminent following a call between Prime Minister Narendra Modi and U.S. President Donald Trump."
+    },
+    {
+      "type": "paragraph",
+      "text": "The announcement highlights what officials described as a \"universe of sticking points\" that continue to complicate bilateral trade negotiations between the two countries."
+    },
+    {
+      "type": "paragraph",
+      "text": "Amid these developments, Indian Commerce Minister Goyal has defended India against ongoing U.S. investigations concerning forced labour and excess manufacturing capacity."
+    },
+    {
+      "type": "paragraph",
+      "text": "The complex trade landscape directly affects economic policy, regulatory oversight, and market sentiment for businesses operating across both regions."
+    },
+    {
+      "type": "paragraph",
+      "text": "Observers and market participants are closely watching for further diplomatic engagements, noting that Modi and Trump may hold subsequent discussions to address the trade impasse."
+    },
+    {
+      "type": "paragraph",
+      "text": "As bilateral talks continue, policymakers on both sides face the challenge of reconciling divergent positions on market access and regulatory standards."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "U.S. trade representative Greer says deal with India not 'imminent' after Modi-Trump call - CNBC"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "thousands-turn-up-for-cjp-protest-in-mumbai-seeking-cecs-resignation-cpim-condem-1790964329",
   "category": "india",
   "headline": "Thousands turn up for CJP protest in Mumbai seeking CEC's resignation; CPI(M) condemns detention of youngsters in Delhi | ECI protest LIVE - The Hindu",

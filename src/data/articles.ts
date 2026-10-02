@@ -92,6 +92,65 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "everyone-trains-this-took-courage-smit-machchhars-ex-colleague-on-his-heroics-nd-1790974826",
+  "category": "india",
+  "headline": "'Everyone Trains, This Took Courage': Smit Machchhar's Ex-Colleague On His Heroics - NDTV",
+  "dek": "Flydubai pilot Captain Smit Machchhar receives widespread acclaim for saving 174 lives.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-02T21:00:26Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1790974824_2216.png",
+  "imageAlt": "'Everyone Trains, This Took Courage': Smit Machchhar's Ex-Colleague On His Heroics - NDTV",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Flydubai pilot Captain Smit Machchhar has been hailed for his exceptional actions in saving 174 people on a flight."
+    },
+    {
+      "type": "paragraph",
+      "text": "The incident has drawn public attention and high praise from prominent figures across India and the broader entertainment industry."
+    },
+    {
+      "type": "paragraph",
+      "text": "Actors including R Madhavan, Vijay Deverakonda, Ravi Kishan, and Paresh Rawal publicly commended the pilot for his decisive and courageous response."
+    },
+    {
+      "type": "paragraph",
+      "text": "An ex-colleague emphasized the distinction between standard training and real-world execution, noting that the situation demanded extraordinary personal courage."
+    },
+    {
+      "type": "paragraph",
+      "text": "The Congress party remarked that the entire nation is in awe of Captain Machchhar's actions."
+    },
+    {
+      "type": "paragraph",
+      "text": "Political discussions emerged after questions were raised regarding responses to the event, highlighting the broad public and institutional resonance of the pilot's actions."
+    },
+    {
+      "type": "paragraph",
+      "text": "Observers and stakeholders continue to monitor developments surrounding the incident and the official acknowledgements of the pilot's performance."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "'Everyone Trains, This Took Courage': Smit Machchhar's Ex-Colleague On His Heroics - NDTV"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "global-electricity-demand-growth-set-to-accelerate-as-power-systems-adjust-to-re-1790973163",
   "category": "world",
   "headline": "Global electricity demand growth set to accelerate as power systems adjust to recent shocks - News - IEA – International Energy Agency",

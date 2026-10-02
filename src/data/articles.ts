@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "failed-torturous-execution-attempt-on-christa-pike-reignites-death-penalty-debat-1790946103",
+  "category": "world",
+  "headline": "Failed ‘torturous’ execution attempt on Christa Pike reignites death penalty debate - NPR",
+  "dek": "The botched execution of Christa Pike in Tennessee has revived intense scrutiny regarding lethal injection protocols and capital punishment.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-02T13:01:43Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1790946100_5601.png",
+  "imageAlt": "Failed ‘torturous’ execution attempt on Christa Pike reignites death penalty debate - NPR",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "The failed execution attempt involving Christa Pike in Tennessee has reignited the broader national debate concerning the use of the death penalty. Witnesses present at the procedure noted that some of the medication appeared to wear off during the course of the execution, leading to descriptions of the attempt as torturous."
+    },
+    {
+      "type": "paragraph",
+      "text": "The incident has placed immediate focus on the specific protocols and substances utilized by state corrections departments during lethal injections. Questions regarding the physical and psychological toll of such procedures on both the condemned and the witnesses have resurfaced across media platforms."
+    },
+    {
+      "type": "paragraph",
+      "text": "Family members of victims, including the mother of Colleen Slemmer, continue to navigate the painful public discourse surrounding the case and the pursuit of justice. The contrasting perspectives of victims' families and abolitionist groups form the core of the ongoing societal friction."
+    },
+    {
+      "type": "paragraph",
+      "text": "Legal analysts suggest the event will likely serve as a catalyst for renewed constitutional challenges in federal and state courts. The viability and humanity of lethal injection as a primary method of capital punishment face mounting judicial hurdles."
+    },
+    {
+      "type": "paragraph",
+      "text": "As policymakers evaluate the implications of the failed procedure, public attention shifts to upcoming legal filings and legislative reviews. Observers are watching to see whether this incident will prompt significant policy shifts or moratoria on capital punishment in participating states."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Failed ‘torturous’ execution attempt on Christa Pike reignites death penalty debate - NPR"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "russia-is-planning-its-most-powerful-blow-yet-to-try-to-freeze-ukraine-the-new-y-1790940151",
   "category": "world",
   "headline": "Russia Is Planning Its Most Powerful Blow Yet to Try to Freeze Ukraine - The New York Times",

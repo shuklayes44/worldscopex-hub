@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "russia-is-planning-its-most-powerful-blow-yet-to-try-to-freeze-ukraine-the-new-y-1790940151",
+  "category": "world",
+  "headline": "Russia Is Planning Its Most Powerful Blow Yet to Try to Freeze Ukraine - The New York Times",
+  "dek": "Intelligence assessments indicate Russia is stockpiling weapons to launch its most powerful bombardment yet against Ukraine.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-02T11:22:31Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1790940149_6286.png",
+  "imageAlt": "Russia Is Planning Its Most Powerful Blow Yet to Try to Freeze Ukraine - The New York Times",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Russia is reportedly planning its most powerful military blow yet against Ukraine, according to assessments highlighted by The New York Times and the Institute for the Study of War on September 25, 2026."
+    },
+    {
+      "type": "paragraph",
+      "text": "Analysts note that Moscow is currently stockpiling weapons in order to significantly intensify ongoing attacks on Ukrainian territory."
+    },
+    {
+      "type": "paragraph",
+      "text": "The strategy behind the new bombardment of Kyiv and other critical areas is seen as a concerted effort to freeze the nation and break its infrastructure."
+    },
+    {
+      "type": "paragraph",
+      "text": "Observers emphasize that this planned escalation carries severe implications for regional security and international energy markets."
+    },
+    {
+      "type": "paragraph",
+      "text": "Global markets and policymakers remain on high alert as analysts track the accumulation of military assets."
+    },
+    {
+      "type": "paragraph",
+      "text": "Further developments will depend on the scale of the anticipated strikes and the effectiveness of Ukrainian defensive measures."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Russia Is Planning Its Most Powerful Blow Yet to Try to Freeze Ukraine - The New York Times"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "christa-pike-is-in-critical-condition-after-failed-execution-in-tennessee-her-la-1790938304",
   "category": "world",
   "headline": "Christa Pike is in critical condition after failed execution in Tennessee, her lawyers say - NBC News",

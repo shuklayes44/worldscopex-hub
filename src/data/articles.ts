@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "trump-launches-midterms-campaign-blitz-amid-record-low-approval-ratings-al-jazee-1790926115",
+  "category": "world",
+  "headline": "Trump launches midterms campaign blitz amid record low approval ratings - Al Jazeera",
+  "dek": "President Donald Trump launches a midterms campaign blitz in Oklahoma amid record low approval ratings.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-02T07:28:35Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1790926113_9361.png",
+  "imageAlt": "Trump launches midterms campaign blitz amid record low approval ratings - Al Jazeera",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "President Donald Trump has officially launched a midterms campaign blitz, making a rare visit to Oklahoma ahead of the upcoming midterm election."
+    },
+    {
+      "type": "paragraph",
+      "text": "The high-profile red-state tour has raised eyebrows and triggered anxiety among various Republican figures as the political landscape shifts."
+    },
+    {
+      "type": "paragraph",
+      "text": "Observers note that the campaign events are largely playing to an audience that is already sold on the administration's platform."
+    },
+    {
+      "type": "paragraph",
+      "text": "The political implications of the tour are being closely watched by party strategists evaluating voter turnout and enthusiasm."
+    },
+    {
+      "type": "paragraph",
+      "text": "As the campaign trail continues, political analysts will monitor how these targeted rallies influence broader electoral outcomes."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Trump launches midterms campaign blitz amid record low approval ratings - Al Jazeera"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "theyll-be-hit-very-hard-trump-sends-9000-troops-to-the-middle-east-after-warning-1790921957",
   "category": "world",
   "headline": "'They’ll be hit very hard': Trump sends 9,000 troops to the Middle East after warning Iran strikes - Fortune",

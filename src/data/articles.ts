@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "co-pilot-who-tried-to-crash-flydubai-jet-was-radicalized-israel-says-the-washing-1790916365",
+  "category": "world",
+  "headline": "Co-pilot who tried to crash FlyDubai jet was ‘radicalized,’ Israel says - The Washington Post",
+  "dek": "Israel reports the co-pilot in a FlyDubai cockpit attack was radicalized, with the pilot hailed for preventing a major disaster.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-02T04:46:05Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1790916363_6413.png",
+  "imageAlt": "Co-pilot who tried to crash FlyDubai jet was ‘radicalized,’ Israel says - The Washington Post",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Israeli authorities have stated that the co-pilot who attempted to crash a Tel Aviv-bound FlyDubai jet was radicalized. Prime Minister Benjamin Netanyahu hailed the pilot of the flight as a hero who prevented another potential 9/11 disaster."
+    },
+    {
+      "type": "paragraph",
+      "text": "The incident involved an in-flight cockpit stabbing attack that has immediately placed international aviation security measures under fresh scrutiny. Captain Smit Machchhar has been widely praised for his actions in subduing the threat and safely managing the aircraft during the crisis."
+    },
+    {
+      "type": "paragraph",
+      "text": "Global aviation regulators and security experts are now evaluating the implications of the cockpit breach for commercial flight safety. The event highlights ongoing vulnerabilities in flight deck protocols and crew security standards across international carriers."
+    },
+    {
+      "type": "paragraph",
+      "text": "Industry analysts expect increased focus on pilot background checks, psychological screening, and cockpit door reinforcement policies following the event. Stakeholders across the aviation sector will be monitoring upcoming safety directives and regulatory responses."
+    },
+    {
+      "type": "paragraph",
+      "text": "Authorities continue to investigate the broader security implications of the incident as international carriers review existing threat-mitigation procedures. Further updates from aviation security agencies are anticipated as the investigation into the co-pilot's background progresses."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Co-pilot who tried to crash FlyDubai jet was ‘radicalized,’ Israel says - The Washington Post"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "flydubai-co-pilot-assaulted-captain-before-landing-initial-saudi-probe-al-jazeer-1790907272",
   "category": "india",
   "headline": "Flydubai co-pilot ‘assaulted’ captain before landing: Initial Saudi probe - Al Jazeera",

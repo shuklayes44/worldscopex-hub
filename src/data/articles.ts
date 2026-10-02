@@ -92,6 +92,41 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "indian-pilot-tells-pm-modi-he-opened-flydubai-cockpit-door-during-attack-reuters-1790969234",
+  "category": "world",
+  "headline": "Indian pilot tells PM Modi he opened flydubai cockpit door during attack - Reuters",
+  "dek": "An Indian pilot informed PM Modi about opening a flydubai cockpit door during a co-pilot attack.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-02T19:27:14Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1790969232_9934.png",
+  "imageAlt": "Indian pilot tells PM Modi he opened flydubai cockpit door during attack - Reuters",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "An Indian pilot has detailed to Prime Minister Narendra Modi how he opened a flydubai cockpit door during an attack by the co-pilot. The incident, which unfolded mid-flight, prompted immediate intervention from passengers and crew members to help secure the aircraft. According to reports, the emergency situation prompted urgent onboard responses to prevent further escalation. The flydubai flight, which was originally en route to Tel Aviv, was diverted to Tabuk following the onboard security incident. Aviation authorities and investigators are closely reviewing the circumstances surrounding the cockpit breach to determine subsequent safety measures. Further updates on the ongoing investigation and the condition of the crew and passengers are expected as authorities examine the incident."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Indian pilot tells PM Modi he opened flydubai cockpit door during attack - Reuters"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "us-trade-representative-greer-says-deal-with-india-not-imminent-after-modi-trump-1790966574",
   "category": "india",
   "headline": "U.S. trade representative Greer says deal with India not 'imminent' after Modi-Trump call - CNBC",

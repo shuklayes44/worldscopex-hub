@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "trump-promises-100-checks-for-20-million-seniors-for-medicare-axios-1791037565",
+  "category": "world",
+  "headline": "Trump promises $100 checks for 20 million seniors for Medicare - Axios",
+  "dek": "Trump has announced one-time payments of roughly $90 to $100 for over 20 million Medicare seniors.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-03T14:26:05Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791037564_6062.png",
+  "imageAlt": "Trump promises $100 checks for 20 million seniors for Medicare - Axios",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "United States President-elect Donald Trump has announced plans to distribute one-time financial payments to over 20 million elderly Americans enrolled in Medicare."
+    },
+    {
+      "type": "paragraph",
+      "text": "The proposed cash giveaway, described in reports as ranging from approximately $90 to nearly $100 per recipient, is designed to help seniors combat rising healthcare and Medicare costs."
+    },
+    {
+      "type": "paragraph",
+      "text": "The announcement brings renewed focus to healthcare affordability and direct financial relief measures for aging populations within the United States."
+    },
+    {
+      "type": "paragraph",
+      "text": "With millions of individuals slated to receive the funds, the initiative touches a core demographic reliant on federal healthcare support."
+    },
+    {
+      "type": "paragraph",
+      "text": "Analysts and market observers are watching for further administrative details regarding how the payments will be funded and distributed."
+    },
+    {
+      "type": "paragraph",
+      "text": "Future developments will likely center on the formal rollout timeline and any legislative or regulatory steps required to execute the payout."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Trump promises $100 checks for 20 million seniors for Medicare - Axios"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "indias-ambition-of-becoming-developed-economy-demands-policy-certainty-business-1791035873",
   "category": "economy",
   "headline": "India's ambition of becoming developed economy demands policy certainty - Business Standard",

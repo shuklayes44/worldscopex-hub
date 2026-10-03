@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "why-did-market-crash-today-sensex-drops-571-points-nifty-nears-22450-5-key-facto-1791031044",
+  "category": "economy",
+  "headline": "Why did market crash today? Sensex drops 571 points, Nifty nears 22,450. 5 key factors behind Rs 5 lakh cr - The Economic Times",
+  "dek": "Indian benchmark indices fall sharply as Sensex drops 571 points and Nifty nears 22,450.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-03T12:37:24Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791031042_4603.png",
+  "imageAlt": "Why did market crash today? Sensex drops 571 points, Nifty nears 22,450. 5 key factors behind Rs 5 lakh cr - The Economic Times",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "economy"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Indian equity markets recorded a sharp decline during today's trading session, driven by broad-based selling pressure across major sectoral indices."
+    },
+    {
+      "type": "paragraph",
+      "text": "The benchmark Sensex fell by 571 points, reflecting a notable contraction in investor sentiment on domestic bourses."
+    },
+    {
+      "type": "paragraph",
+      "text": "Simultaneously, the Nifty index drifted lower, nearing the 22,450 threshold as selling accelerated during the session."
+    },
+    {
+      "type": "paragraph",
+      "text": "Market analysts and reports from financial publications point to five key factors that collectively triggered the steep correction."
+    },
+    {
+      "type": "paragraph",
+      "text": "The rapid erosion in valuations resulted in an estimated loss of Rs 5 lakh crore in total market capitalization."
+    },
+    {
+      "type": "paragraph",
+      "text": "Investors and market participants are now monitoring incoming economic data and institutional trading patterns to gauge the near-term trajectory of Indian equities."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Why did market crash today? Sensex drops 571 points, Nifty nears 22,450. 5 key factors behind Rs 5 lakh cr - The Economic Times"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "protest-against-cec-gyanesh-kumar-live-aisa-activists-return-to-jantar-mantar-a-1791028581",
   "category": "india",
   "headline": "Protest against CEC Gyanesh Kumar LIVE: AISA activists return to Jantar Mantar a day after mass detentions - The Hindu",

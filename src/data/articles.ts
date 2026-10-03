@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "flydubai-attacker-used-crash-ax-a-common-fixture-on-many-jets-wsj-1791055701",
+  "category": "world",
+  "headline": "FlyDubai Attacker Used ‘Crash Ax,’ a Common Fixture on Many Jets - WSJ",
+  "dek": "UAE officials classify a FlyDubai plane attack by a co-pilot as an attempted terrorist act involving a standard aircraft crash ax.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-03T19:28:21Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791055699_4934.png",
+  "imageAlt": "FlyDubai Attacker Used ‘Crash Ax,’ a Common Fixture on Many Jets - WSJ",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "The United Arab Emirates has officially classified the recent FlyDubai plane attack executed by a co-pilot as an attempted terrorist act."
+    },
+    {
+      "type": "paragraph",
+      "text": "According to reports, the perpetrator utilized a crash ax during the incident, which is identified as a common fixture on many commercial jets."
+    },
+    {
+      "type": "paragraph",
+      "text": "Subsequent investigations into the suspect revealed terrorist images present on the individual's social media accounts."
+    },
+    {
+      "type": "paragraph",
+      "text": "The security breach has drawn international attention, highlighting vulnerabilities concerning cockpit access and the availability of standard emergency equipment."
+    },
+    {
+      "type": "paragraph",
+      "text": "Amid the investigation, passengers have been publicly commended for their actions, with officials highlighting individual responses during the crisis."
+    },
+    {
+      "type": "paragraph",
+      "text": "Aviation authorities and international carriers are expected to closely evaluate cockpit security measures and emergency tool accessibility in the wake of the event."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "FlyDubai Attacker Used ‘Crash Ax,’ a Common Fixture on Many Jets - WSJ"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "us-military-says-it-is-striking-iran-in-response-to-attack-on-civilian-vessel-in-1791054696",
   "category": "world",
   "headline": "U.S. military says it is striking Iran in response to attack on civilian vessel in Strait of Hormuz - The Hindu",

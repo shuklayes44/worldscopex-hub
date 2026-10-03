@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "da-did-not-review-witness-statements-and-other-evidence-cornell-police-collected-1791020105",
+  "category": "world",
+  "headline": "DA did not review witness statements and other evidence Cornell police collected in alleged gang rape of student - NBC News",
+  "dek": "New York Governor removes district attorney over mishandling of Cornell student gang rape investigation evidence.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-03T09:35:05Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791020103_6328.png",
+  "imageAlt": "DA did not review witness statements and other evidence Cornell police collected in alleged gang rape of student - NBC News",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "The New York governor has officially removed a local district attorney following revelations of severe administrative and investigative failures in a high-profile campus sexual assault case. The decision stems from the handling of an alleged gang rape involving a Cornell student, which has sparked widespread public attention and condemnation."
+    },
+    {
+      "type": "paragraph",
+      "text": "According to official findings highlighted in recent reports, the district attorney failed to review witness statements and other critical evidence collected by Cornell police during their investigation. This oversight raised immediate concerns among state leaders and community advocates regarding the integrity of the local judicial process."
+    },
+    {
+      "type": "paragraph",
+      "text": "The governor's intervention underscores heightened scrutiny over how local authorities manage complex criminal investigations, particularly those involving allegations of sexual violence within academic institutions. The handling of the case became a focal point for discussions on institutional accountability and the protection of student welfare."
+    },
+    {
+      "type": "paragraph",
+      "text": "Student journalists at Cornell have played a vital role in bringing campus news and systemic issues to the forefront, demonstrating the enduring importance of university media outlets. Their reporting has paralleled broader national debates concerning transparency and administrative responsibility in higher education settings."
+    },
+    {
+      "type": "paragraph",
+      "text": "As the legal fallout continues, state officials and university stakeholders are assessing the broader implications for campus safety protocols and local law enforcement cooperation. The swift removal of the district attorney marks a rare and decisive measure by state leadership in response to prosecutorial negligence."
+    },
+    {
+      "type": "paragraph",
+      "text": "Observers and legal analysts will continue to monitor the situation as the state moves to address the evidentiary oversights and determine the appropriate path forward for the ongoing legal proceedings."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "DA did not review witness statements and other evidence Cornell police collected in alleged gang rape of student - NBC News"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "asian-games-2026-live-october-3-know-india-scores-updates-and-results-from-day-1-1791018599",
   "category": "india",
   "headline": "Asian Games 2026 live, October 3: Know India scores, updates and results from Day 14 - olympics.com",

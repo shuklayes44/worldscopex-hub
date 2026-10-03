@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "indias-economic-growth-likely-slowed-to-71-in-april-june-quarter-poll-business-s-1791065480",
+  "category": "economy",
+  "headline": "India's economic growth likely slowed to 7.1% in April-June quarter: Poll - Business Standard",
+  "dek": "A recent poll indicates that India's economic growth likely decelerated to 7.1% in the April-June quarter.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-03T22:11:20Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791065477_2660.png",
+  "imageAlt": "India's economic growth likely slowed to 7.1% in April-June quarter: Poll - Business Standard",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "economy"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "India's economic growth is projected to have slowed to 7.1% during the April-June quarter, according to results from a recent poll. This anticipated reading provides a key indicator of the country's macroeconomic performance over the three-month period."
+    },
+    {
+      "type": "paragraph",
+      "text": "The projected moderation highlights potential shifts in output momentum within the broader domestic economy. Analysts and policymakers continuously track quarterly GDP estimates to assess underlying economic activity and sectoral health."
+    },
+    {
+      "type": "paragraph",
+      "text": "Understanding the pace of growth during the April-June window helps inform broader fiscal and monetary policy discussions. Financial markets and institutional observers utilize these data points to evaluate near-term economic resilience."
+    },
+    {
+      "type": "paragraph",
+      "text": "As stakeholders await official government statistics, this poll figure serves as an early benchmark for quarterly performance. The accuracy of these projections will be tested when finalized data becomes available."
+    },
+    {
+      "type": "paragraph",
+      "text": "Future reporting and official updates will provide further clarity on the factors influencing the reported deceleration. Observers remain focused on subsequent indicators to determine if this growth rate persists into the next quarter."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "India's economic growth likely slowed to 7.1% in April-June quarter: Poll - Business Standard"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "so-called-civilian-govts-at-the-mercy-of-army-india-fires-back-at-pakistan-over-1791062795",
   "category": "india",
   "headline": "'So-called civilian govts at the mercy of Army': India fires back at Pakistan over J&K remark at UN | India News - Hindustan Times",

@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "indias-trade-deals-will-matter-more-than-ever-amid-uncertainties-deloittecom-1791048949",
+  "category": "economy",
+  "headline": "India’s trade deals will matter more than ever amid uncertainties - deloitte.com",
+  "dek": "Deloitte underscores the critical role of India's trade agreements amid global economic uncertainties.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-03T17:35:49Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791048947_3876.png",
+  "imageAlt": "India’s trade deals will matter more than ever amid uncertainties - deloitte.com",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "economy"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Deloitte has released an assessment highlighting that India’s trade deals will matter more than ever as global uncertainties persist across international markets."
+    },
+    {
+      "type": "paragraph",
+      "text": "The analysis underscores the growing necessity for robust commercial frameworks to navigate unpredictable geopolitical and economic landscapes."
+    },
+    {
+      "type": "paragraph",
+      "text": "Trade agreements serve as a crucial instrument for emerging economies seeking to secure supply chains and sustain growth momentum."
+    },
+    {
+      "type": "paragraph",
+      "text": "For India, expanding and solidifying bilateral trade partnerships provides a vital buffer against external macroeconomic volatility."
+    },
+    {
+      "type": "paragraph",
+      "text": "Market participants and policymakers will continue to evaluate how these strategic economic pacts influence long-term commercial integration."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "India’s trade deals will matter more than ever amid uncertainties - deloitte.com"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "the-supreme-court-faces-another-term-jam-packed-with-controversy-npr-1791046229",
   "category": "world",
   "headline": "The Supreme Court faces another term jam-packed with controversy - NPR",

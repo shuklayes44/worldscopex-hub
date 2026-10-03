@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "ai-bubble-fears-are-starting-to-spill-over-futurismcom-1791011059",
+  "category": "technology",
+  "headline": "AI Bubble Fears Are Starting to Spill Over - futurism.com",
+  "dek": "Global markets face rising volatility as growing anxiety over artificial intelligence valuations begins to impact broader technology sectors.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-03T07:04:19Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791011057_6382.png",
+  "imageAlt": "AI Bubble Fears Are Starting to Spill Over - futurism.com",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "technology"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Concerns regarding the financial sustainability of the artificial intelligence boom are beginning to spill over into wider markets, according to recent reports from industry analysts."
+    },
+    {
+      "type": "paragraph",
+      "text": "The development highlights increasing scrutiny from investors and market participants over the immense capital expenditures directed toward artificial intelligence infrastructure."
+    },
+    {
+      "type": "paragraph",
+      "text": "For global markets, particularly in technology-heavy indices, the shift in sentiment introduces new volatility as stakeholders re-evaluate risk exposure and projected returns on investment."
+    },
+    {
+      "type": "paragraph",
+      "text": "While technological advancement in the sector continues at a rapid pace, financial markets are increasingly demanding concrete proof of profitability and sustainable monetization."
+    },
+    {
+      "type": "paragraph",
+      "text": "Global tech hubs and markets with significant exposure to software and semiconductor supply chains are closely monitoring these sentiment shifts for potential impacts on valuations."
+    },
+    {
+      "type": "paragraph",
+      "text": "Industry observers note that upcoming corporate earnings reports and institutional spending updates will serve as key indicators for determining whether current valuation levels remain justified."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "AI Bubble Fears Are Starting to Spill Over - futurism.com"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "da-in-cornell-rape-inquiry-declined-to-review-additional-evidence-the-new-york-t-1791006481",
   "category": "world",
   "headline": "D.A. in Cornell Rape Inquiry Declined to Review Additional Evidence - The New York Times",

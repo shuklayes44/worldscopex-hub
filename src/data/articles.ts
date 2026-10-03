@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "what-happened-in-the-failed-execution-of-christa-pike-and-what-next-bbc-1790985769",
+  "category": "world",
+  "headline": "What happened in the failed execution of Christa Pike - and what next? - BBC",
+  "dek": "Court filings reveal that death row inmate Christa Pike was left unconscious and burned following a failed execution.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-03T00:02:49Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1790985768_9170.png",
+  "imageAlt": "What happened in the failed execution of Christa Pike - and what next? - BBC",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Court filings and legal representatives have disclosed details regarding a failed execution attempt involving death row inmate Christa Pike. According to documents presented to the court, Pike was left unconscious, burned, and intubated in the aftermath of the procedure."
+    },
+    {
+      "type": "paragraph",
+      "text": "Attorneys for Pike stated that her arms were severely affected, describing them as swollen, burned, and blistered following the failed execution attempt."
+    },
+    {
+      "type": "paragraph",
+      "text": "The incident places renewed focus on the methodologies and protocols utilized in capital punishment cases. Observers note that this event contributes to the historical record of failed executions in the United States."
+    },
+    {
+      "type": "paragraph",
+      "text": "The Economist and other reports have highlighted the broader debate surrounding the reliability and safety of current execution procedures. Legal experts are examining the constitutional and procedural ramifications of the outcome."
+    },
+    {
+      "type": "paragraph",
+      "text": "Further legal scrutiny and court filings are anticipated as attorneys and judicial officials address the implications of the failed execution and determine subsequent actions."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "What happened in the failed execution of Christa Pike - and what next? - BBC"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "indias-economic-growth-likely-slowed-to-71-in-april-june-quarter-poll-business-s-1790984247",
   "category": "economy",
   "headline": "India's economic growth likely slowed to 7.1% in April-June quarter: Poll - Business Standard",

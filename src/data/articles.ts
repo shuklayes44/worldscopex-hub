@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "medical-plane-with-6-on-board-missing-off-massachusetts-coast-bbccom-1791070086",
+  "category": "world",
+  "headline": "Medical plane with 6 on board missing off Massachusetts coast - bbc.com",
+  "dek": "A medical transport flight carrying six people declared an emergency before disappearing off the Massachusetts coast.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-03T23:28:06Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791070083_2186.png",
+  "imageAlt": "Medical plane with 6 on board missing off Massachusetts coast - bbc.com",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "A medical plane carrying six people has gone missing off the Massachusetts coast after declaring an emergency."
+    },
+    {
+      "type": "paragraph",
+      "text": "The aircraft was flying to Boston from Bermuda when it lost contact with aviation authorities."
+    },
+    {
+      "type": "paragraph",
+      "text": "Search and rescue operations are currently underway off Nantucket to locate the missing aircraft."
+    },
+    {
+      "type": "paragraph",
+      "text": "Initial reports indicate the crew declared an emergency while coming in blind before contact was lost."
+    },
+    {
+      "type": "paragraph",
+      "text": "Such aviation incidents prompt immediate response efforts and reviews of standard emergency transport safety protocols."
+    },
+    {
+      "type": "paragraph",
+      "text": "Authorities continue to coordinate search efforts in the area as further details emerge regarding the missing flight."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Medical plane with 6 on board missing off Massachusetts coast - bbc.com"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "popular-lgbtq-influencer-and-makeup-artist-mad-sandhu-shot-dead-in-amritsar-ndtv-1791067502",
   "category": "india",
   "headline": "Popular LGBTQ Influencer And Makeup Artist Mad Sandhu Shot Dead In Amritsar - ndtv.com",

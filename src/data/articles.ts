@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "asian-games-2026-live-october-3-know-india-scores-updates-and-results-from-day-1-1791018599",
+  "category": "india",
+  "headline": "Asian Games 2026 live, October 3: Know India scores, updates and results from Day 14 - olympics.com",
+  "dek": "India defeated Pakistan in the final to win the men's cricket gold medal at the Asian Games 2026.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-03T09:09:59Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791018597_2455.png",
+  "imageAlt": "Asian Games 2026 live, October 3: Know India scores, updates and results from Day 14 - olympics.com",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "India has secured the gold medal in the men's cricket competition at the Asian Games 2026 after defeating Pakistan in the final match on October 3."
+    },
+    {
+      "type": "paragraph",
+      "text": "The victory came on Day 14 of the continental multi-sport event, marking a significant achievement for the Indian cricket squad in the regional tournament."
+    },
+    {
+      "type": "paragraph",
+      "text": "The high-profile clash between the two cricketing rivals drew considerable attention from fans and analysts alike throughout the competition."
+    },
+    {
+      "type": "paragraph",
+      "text": "With the conclusion of the cricket tournament, the Indian delegation adds another prominent title to its overall performance metrics at the games."
+    },
+    {
+      "type": "paragraph",
+      "text": "Organizers and officials are processing final results and medal standings as the Asian Games 2026 draws toward its official close."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Asian Games 2026 live, October 3: Know India scores, updates and results from Day 14 - olympics.com"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "mass-detentions-in-delhi-as-protesters-demand-cec-gyanesh-kumars-resignation-the-1791015710",
   "category": "india",
   "headline": "Mass Detentions in Delhi as Protesters Demand CEC Gyanesh Kumar's Resignation - thequint.com",

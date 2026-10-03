@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "hindu-temple-vandalised-with-bricks-in-us-devotees-were-present-inside-ndtv-1791043297",
+  "category": "india",
+  "headline": "Hindu Temple Vandalised With Bricks In US, Devotees Were Present Inside - NDTV",
+  "dek": "A Hindu temple in Ohio has been targeted in a brick attack while devotees were present inside.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-03T16:01:37Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791043295_5380.png",
+  "imageAlt": "Hindu Temple Vandalised With Bricks In US, Devotees Were Present Inside - NDTV",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "A Hindu temple located in the state of Ohio in the United States has been vandalized with bricks, according to recent reports. The attack occurred while devotees were present inside the premises engaged in prayers."
+    },
+    {
+      "type": "paragraph",
+      "text": "During the incident, windows of the religious facility were shattered, prompting immediate concern among community members and local groups."
+    },
+    {
+      "type": "paragraph",
+      "text": "Advocacy groups have swiftly responded to the event, seeking urgent action from authorities to address the security breach."
+    },
+    {
+      "type": "paragraph",
+      "text": "The incident highlights ongoing concerns regarding the safety of diaspora places of worship and religious minorities in foreign jurisdictions."
+    },
+    {
+      "type": "paragraph",
+      "text": "Local law enforcement and community leaders are expected to review security protocols as follow-up investigations into the vandalism proceed."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Hindu Temple Vandalised With Bricks In US, Devotees Were Present Inside - NDTV"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "what-to-know-about-the-cornell-university-rape-allegations-the-washington-post-1791039052",
   "category": "world",
   "headline": "What to know about the Cornell University rape allegations - The Washington Post",

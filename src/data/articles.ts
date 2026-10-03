@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "so-called-civilian-govts-at-the-mercy-of-army-india-fires-back-at-pakistan-over-1791062795",
+  "category": "india",
+  "headline": "'So-called civilian govts at the mercy of Army': India fires back at Pakistan over J&K remark at UN | India News - Hindustan Times",
+  "dek": "India delivers a sharp rebuke to Pakistan at the United Nations over Jammu and Kashmir remarks.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-03T21:26:35Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791062793_4292.png",
+  "imageAlt": "'So-called civilian govts at the mercy of Army': India fires back at Pakistan over J&K remark at UN | India News - Hindustan Times",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "India has strongly fired back at Pakistan during a United Nations session, stating that Pakistan's so-called civilian governments operate entirely at the mercy of their army."
+    },
+    {
+      "type": "paragraph",
+      "text": "The diplomatic confrontation erupted after Pakistan raised remarks regarding Jammu and Kashmir at the international forum."
+    },
+    {
+      "type": "paragraph",
+      "text": "New Delhi's response directly targeted the governance structure of Islamabad, emphasizing the historical and ongoing influence of the military establishment over state affairs."
+    },
+    {
+      "type": "paragraph",
+      "text": "The exchange highlights the persistent diplomatic hostility and narrative warfare between India and Pakistan on global stages."
+    },
+    {
+      "type": "paragraph",
+      "text": "International observers continue to monitor how these regular diplomatic clashes at the United Nations impact regional stability and bilateral communications."
+    },
+    {
+      "type": "paragraph",
+      "text": "Future diplomatic engagements will likely see a continuation of these sharp exchanges as both nations maintain their respective stances on territorial and governance issues."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "'So-called civilian govts at the mercy of Army': India fires back at Pakistan over J&K remark at UN | India News - Hindustan Times"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "pakistan-summons-indian-diplomat-over-border-killing-of-two-pakistanis-aljazeera-1791058174",
   "category": "india",
   "headline": "Pakistan summons Indian diplomat over border killing of two Pakistanis - aljazeera.com",

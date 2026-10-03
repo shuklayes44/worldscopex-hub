@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "pakistan-summons-indian-diplomat-over-border-killing-of-two-pakistanis-aljazeera-1791058174",
+  "category": "india",
+  "headline": "Pakistan summons Indian diplomat over border killing of two Pakistanis - aljazeera.com",
+  "dek": "Islamabad summons an Indian diplomat over the border killing of two Pakistanis amid parallel protests over infiltration.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-03T20:09:34Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791058172_9091.png",
+  "imageAlt": "Pakistan summons Indian diplomat over border killing of two Pakistanis - aljazeera.com",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Islamabad has officially summoned an Indian diplomat to register a strong diplomatic protest regarding the cross-border killing of two Pakistani nationals allegedly by India's Border Security Force (BSF). The incident has immediately heightened diplomatic friction between the neighboring countries, prompting swift reciprocal actions in New Delhi."
+    },
+    {
+      "type": "paragraph",
+      "text": "In a parallel diplomatic move, India summoned a top Pakistan diplomat to lodge its own formal protest concerning cross-border infiltration and to reject claims originating from Ferozepur. These simultaneous summons underscore the fragile state of bilateral relations and the sensitivity surrounding border management and security operations."
+    },
+    {
+      "type": "paragraph",
+      "text": "The exchange of diplomatic reprimands highlights ongoing security challenges along the contested frontier. Both nations continue to trade accusations regarding cross-border incidents, complicating efforts to maintain stability and dialogue at the official level."
+    },
+    {
+      "type": "paragraph",
+      "text": "For regional policy makers and markets, such diplomatic friction increases geopolitical risk premiums and dampens prospects for bilateral trade normalization. Security analysts note that sustained tensions at the border routinely lead to heightened military readiness and tighter travel restrictions."
+    },
+    {
+      "type": "paragraph",
+      "text": "Looking ahead, stakeholders will monitor whether these diplomatic channels remain open or if further retaliatory measures are introduced by either administration. The immediate trajectory of bilateral relations will depend largely on security developments along the border and subsequent diplomatic engagements."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Pakistan summons Indian diplomat over border killing of two Pakistanis - aljazeera.com"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "flydubai-attacker-used-crash-ax-a-common-fixture-on-many-jets-wsj-1791055701",
   "category": "world",
   "headline": "FlyDubai Attacker Used ‘Crash Ax,’ a Common Fixture on Many Jets - WSJ",

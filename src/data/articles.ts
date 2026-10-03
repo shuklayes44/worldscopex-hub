@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "judge-halts-border-barrier-construction-in-big-bend-the-texas-tribune-1790992674",
+  "category": "world",
+  "headline": "Judge halts border barrier construction in Big Bend - The Texas Tribune",
+  "dek": "A federal judge has issued an emergency order temporarily halting border barrier construction in the Big Bend region of Texas.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-03T01:57:54Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1790992672_2435.png",
+  "imageAlt": "Judge halts border barrier construction in Big Bend - The Texas Tribune",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "A federal court has stepped in to halt border barrier construction in the Big Bend region of Texas, granting an emergency court order following ongoing legal challenges."
+    },
+    {
+      "type": "paragraph",
+      "text": "The decision brings a temporary pause to wall development in the area, which has been the center of local opposition and legal scrutiny."
+    },
+    {
+      "type": "paragraph",
+      "text": "Federal judges in El Paso have been weighing the temporary halt to barrier work during recent court hearings."
+    },
+    {
+      "type": "paragraph",
+      "text": "The legal action successfully stopped the construction project for now, according to reports from multiple news organizations including The New York Times and The Texas Tribune."
+    },
+    {
+      "type": "paragraph",
+      "text": "Legal analysts and stakeholders are closely monitoring the court proceedings to determine the long-term future of the border infrastructure project."
+    },
+    {
+      "type": "paragraph",
+      "text": "Further hearings are expected to decide whether the temporary halt on Big Bend construction will become permanent as the legal dispute moves forward."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Judge halts border barrier construction in Big Bend - The Texas Tribune"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "god-made-trump-ad-and-at-least-12-others-are-part-of-controversial-taxpayer-fund-1790990351",
   "category": "world",
   "headline": "‘God made Trump’ ad and at least 12 others are part of controversial taxpayer-funded ad campaign - CNN",

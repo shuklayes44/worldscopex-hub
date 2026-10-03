@@ -92,6 +92,53 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "indias-ambition-of-becoming-developed-economy-demands-policy-certainty-business-1791035873",
+  "category": "economy",
+  "headline": "India's ambition of becoming developed economy demands policy certainty - Business Standard",
+  "dek": "Business Standard reports that policy certainty is vital for India's developed economy ambitions.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-03T13:57:53Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791035871_8597.png",
+  "imageAlt": "India's ambition of becoming developed economy demands policy certainty - Business Standard",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "economy"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "India's strategic ambition of transforming into a developed economy is directly contingent upon maintaining strict policy certainty, according to Business Standard. The assessment underscores the fundamental link between predictable governance and sustained economic growth in the country."
+    },
+    {
+      "type": "paragraph",
+      "text": "Stable and consistent regulatory frameworks are increasingly viewed by industry stakeholders as a baseline requirement for long-term investment. Without clear and reliable policy guidelines, domestic and international capital deployment faces heightened risks that can impede large-scale economic expansion."
+    },
+    {
+      "type": "paragraph",
+      "text": "The emphasis on policy continuity reflects broader structural debates surrounding India's path toward advanced economy status. Achieving this national milestone necessitates minimizing regulatory volatility to build enduring confidence across key industrial sectors."
+    },
+    {
+      "type": "paragraph",
+      "text": "As policymakers weigh future economic blueprints, the demand for transparent governance structures takes center stage. Observers and market participants will closely watch upcoming legislative and executive actions for enduring commitments to regulatory stability."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "India's ambition of becoming developed economy demands policy certainty - Business Standard"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "five-workers-dead-over-10-injured-in-a-boiler-explosion-at-a-sri-city-sez-facili-1791032511",
   "category": "india",
   "headline": "Five workers dead, over 10 injured in a boiler explosion at a Sri City SEZ facility - The Hindu",

@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "school-assembly-news-headlines-for-august-25-2026-top-india-world-sports-and-bus-1790988213",
+  "category": "india",
+  "headline": "School assembly news headlines for August 25, 2026: Top India, world, sports and business updates - The Economic Times",
+  "dek": "The Economic Times publishes comprehensive school assembly news headlines for August 25, 2026.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-03T00:43:33Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1790988211_3817.png",
+  "imageAlt": "School assembly news headlines for August 25, 2026: Top India, world, sports and business updates - The Economic Times",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "The Economic Times has published the curated school assembly news headlines for August 25, 2026, providing a structured overview of current affairs for educational institutions. The morning update serves as a daily reference guide for teachers and students preparing morning assembly briefings across the country."
+    },
+    {
+      "type": "paragraph",
+      "text": "The briefing encompasses top news developments spanning national affairs in India as well as significant international updates. These reports aim to keep students informed about geopolitical and domestic milestones occurring globally."
+    },
+    {
+      "type": "paragraph",
+      "text": "In addition to general news, the August 25 headlines feature key updates from the sports arena. These segments highlight recent athletic achievements, tournament results, and ongoing sporting fixtures relevant to young audiences."
+    },
+    {
+      "type": "paragraph",
+      "text": "The business and market updates included in the Economic Times briefing offer foundational economic awareness for students. Such insights bridge classroom learning with real-world financial and commercial developments."
+    },
+    {
+      "type": "paragraph",
+      "text": "Educational institutions regularly rely on structured news compilations to foster civic awareness and general knowledge among students. The daily publication of these headlines supports structured academic routines in schools nationwide."
+    },
+    {
+      "type": "paragraph",
+      "text": "Observers and educators will continue monitoring daily updates from leading financial publications to supplement classroom discussions. Further daily summaries will follow subsequent news cycles as new events unfold."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "School assembly news headlines for August 25, 2026: Top India, world, sports and business updates - The Economic Times"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "what-happened-in-the-failed-execution-of-christa-pike-and-what-next-bbc-1790985769",
   "category": "world",
   "headline": "What happened in the failed execution of Christa Pike - and what next? - BBC",

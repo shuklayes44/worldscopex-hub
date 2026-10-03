@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "protest-against-cec-gyanesh-kumar-live-aisa-activists-return-to-jantar-mantar-a-1791028581",
+  "category": "india",
+  "headline": "Protest against CEC Gyanesh Kumar LIVE: AISA activists return to Jantar Mantar a day after mass detentions - The Hindu",
+  "dek": "AISA activists return to Jantar Mantar following mass detentions as the Indian Youth Congress challenges protest denials in court.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-03T11:56:21Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791028579_4359.png",
+  "imageAlt": "Protest against CEC Gyanesh Kumar LIVE: AISA activists return to Jantar Mantar a day after mass detentions - The Hindu",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Activists from the All India Students' Association (AISA) returned to Jantar Mantar following mass detentions during demonstrations directed against Chief Election Commissioner Gyanesh Kumar. The renewed gathering comes amid heightened tensions and police responses in the national capital regarding the administration of the Election Commission."
+    },
+    {
+      "type": "paragraph",
+      "text": "In parallel legal developments, the Indian Youth Congress has moved the Delhi High Court to challenge the denial of official permission to stage protests against CEC Gyanesh Kumar. The petition seeks judicial intervention regarding the restrictions placed on public demonstrations concerning the election body."
+    },
+    {
+      "type": "paragraph",
+      "text": "Authorities have responded to the demonstrations with legal enforcement, confirming that Delhi Police have registered three separate First Information Reports (FIRs) over the protests demanding the resignation of the Chief Election Commissioner. These filings indicate an expanding state response to the unrest."
+    },
+    {
+      "type": "paragraph",
+      "text": "The convergence of street protests, legal challenges, and police FIRs underscores mounting political friction surrounding India's election oversight bodies. The situation reflects broader debates over public assembly rights and accountability measures involving key constitutional authorities."
+    },
+    {
+      "type": "paragraph",
+      "text": "Stakeholders and political analysts are closely tracking the unfolding legal battles in the Delhi High Court, which could set important precedents for political demonstrations and official permissions in the capital."
+    },
+    {
+      "type": "paragraph",
+      "text": "Future developments will depend on the High Court's handling of the Indian Youth Congress petition and how law enforcement manages the persistent demonstrations at Jantar Mantar."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Protest against CEC Gyanesh Kumar LIVE: AISA activists return to Jantar Mantar a day after mass detentions - The Hindu"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "saudis-plan-major-offensive-against-the-houthis-but-us-wont-join-for-now-axiosco-1791022074",
   "category": "world",
   "headline": "Saudis plan major offensive against the Houthis, but U.S. won't join for now - axios.com",

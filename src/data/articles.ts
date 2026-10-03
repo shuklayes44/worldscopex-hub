@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "five-workers-dead-over-10-injured-in-a-boiler-explosion-at-a-sri-city-sez-facili-1791032511",
+  "category": "india",
+  "headline": "Five workers dead, over 10 injured in a boiler explosion at a Sri City SEZ facility - The Hindu",
+  "dek": "Five workers died and over 10 were injured in a boiler explosion at a Sri City SEZ facility in Andhra Pradesh.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-03T13:01:51Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791032509_7640.png",
+  "imageAlt": "Five workers dead, over 10 injured in a boiler explosion at a Sri City SEZ facility - The Hindu",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Five workers have been confirmed dead following a serious industrial accident involving a boiler explosion at a manufacturing facility within the Sri City SEZ in Andhra Pradesh."
+    },
+    {
+      "type": "paragraph",
+      "text": "More than 10 other individuals sustained injuries in the blast and are currently receiving medical attention."
+    },
+    {
+      "type": "paragraph",
+      "text": "Initial reports from various outlets indicate the incident occurred at a company unit within the industrial zone, with rescue and relief operations immediately dispatched to the site."
+    },
+    {
+      "type": "paragraph",
+      "text": "Industrial accidents of this nature typically prompt urgent reviews of workplace safety standards and operational compliance across special economic zones in the region."
+    },
+    {
+      "type": "paragraph",
+      "text": "Authorities and regulatory bodies are expected to initiate a thorough probe to establish the precise technical or human factors that led to the boiler failure."
+    },
+    {
+      "type": "paragraph",
+      "text": "Further updates regarding the condition of the injured workers and official findings from the safety investigation are awaited."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Five workers dead, over 10 injured in a boiler explosion at a Sri City SEZ facility - The Hindu"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "why-did-market-crash-today-sensex-drops-571-points-nifty-nears-22450-5-key-facto-1791031044",
   "category": "economy",
   "headline": "Why did market crash today? Sensex drops 571 points, Nifty nears 22,450. 5 key factors behind Rs 5 lakh cr - The Economic Times",

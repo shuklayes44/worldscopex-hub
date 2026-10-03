@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "saudis-plan-major-offensive-against-the-houthis-but-us-wont-join-for-now-axiosco-1791022074",
+  "category": "world",
+  "headline": "Saudis plan major offensive against the Houthis, but U.S. won't join for now - axios.com",
+  "dek": "Saudi Arabia plans a 100,000-troop offensive to retake the Bab el-Mandeb strait from the Houthis, while the U.S. declines to join.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-03T10:07:54Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791022072_1001.png",
+  "imageAlt": "Saudis plan major offensive against the Houthis, but U.S. won't join for now - axios.com",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Saudi Arabia is reportedly planning a major military offensive against the Houthis, centered on a deployment of 100,000 troops aimed at retaking the Bab el-Mandeb strait."
+    },
+    {
+      "type": "paragraph",
+      "text": "The primary objective of the planned operation is to break the Houthi-imposed chokehold on the Red Sea and restore security to the vital maritime corridor."
+    },
+    {
+      "type": "paragraph",
+      "text": "Despite the scale of the planned assault, the United States will not join the offensive for now, according to reports from Axios and other international outlets."
+    },
+    {
+      "type": "paragraph",
+      "text": "The Bab el-Mandeb strait serves as a critical artery for global commerce, energy shipments, and international trade routes connecting Asia and Europe."
+    },
+    {
+      "type": "paragraph",
+      "text": "Any major military escalation in the region carries significant implications for maritime security, shipping insurance costs, and global supply chain stability."
+    },
+    {
+      "type": "paragraph",
+      "text": "Regional analysts and market observers will be closely watching for further developments regarding the timing and execution of the planned Saudi assault, as well as any shift in international postures."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Saudis plan major offensive against the Houthis, but U.S. won't join for now - axios.com"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "da-did-not-review-witness-statements-and-other-evidence-cornell-police-collected-1791020105",
   "category": "world",
   "headline": "DA did not review witness statements and other evidence Cornell police collected in alleged gang rape of student - NBC News",

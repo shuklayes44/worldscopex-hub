@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "god-made-trump-ad-and-at-least-12-others-are-part-of-controversial-taxpayer-fund-1790990351",
+  "category": "world",
+  "headline": "‘God made Trump’ ad and at least 12 others are part of controversial taxpayer-funded ad campaign - CNN",
+  "dek": "Donald Trump faces scrutiny over using taxpayer funds meant for border security and memorials on presidential praise ads.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-03T01:19:11Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1790990349_6769.png",
+  "imageAlt": "‘God made Trump’ ad and at least 12 others are part of controversial taxpayer-funded ad campaign - CNN",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Donald Trump directed the use of taxpayer money for a controversial advertising campaign that included at least 13 spots praising his presidency, according to recent reports. The expenditure has drawn sharp criticism from lawmakers and fiscal watchdogs regarding the reallocation of public funds."
+    },
+    {
+      "type": "paragraph",
+      "text": "The contentious ad campaign utilized funds originally designated for border security and memorials. Among the featured spots is an advertisement titled 'God made Trump', which critics argue serves a campaign-style purpose rather than fulfilling official government communication needs."
+    },
+    {
+      "type": "paragraph",
+      "text": "The controversy has intensified pressure from Capitol Hill, with a top Democratic appropriator calling on the White House to personally pay for airing what critics have labeled as political propaganda. The demand highlights ongoing concerns over the boundary between official executive communications and partisan promotion."
+    },
+    {
+      "type": "paragraph",
+      "text": "Questions regarding the oversight of executive branch expenditures remain central to the unfolding debate. Federal funding allocations are tightly bound to specific statutory purposes, making the diversion of security and memorial funds for promotional videos a point of intense legislative scrutiny."
+    },
+    {
+      "type": "paragraph",
+      "text": "As lawmakers demand transparency and accountability, the White House faces mounting pressure to justify the funding mechanism behind the campaign. Observers will be closely watching subsequent congressional hearings and appropriations committee reviews to see if further restrictions on executive advertising funds are introduced."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "‘God made Trump’ ad and at least 12 others are part of controversial taxpayer-funded ad campaign - CNN"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "school-assembly-news-headlines-for-august-25-2026-top-india-world-sports-and-bus-1790988213",
   "category": "india",
   "headline": "School assembly news headlines for August 25, 2026: Top India, world, sports and business updates - The Economic Times",

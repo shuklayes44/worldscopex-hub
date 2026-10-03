@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "the-supreme-court-faces-another-term-jam-packed-with-controversy-npr-1791046229",
+  "category": "world",
+  "headline": "The Supreme Court faces another term jam-packed with controversy - NPR",
+  "dek": "The U.S. Supreme Court begins a new term addressing major legal controversies including immigration, guns, and voting rights.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-03T16:50:29Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791046227_7415.png",
+  "imageAlt": "The Supreme Court faces another term jam-packed with controversy - NPR",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "The United States Supreme Court has opened a new judicial term characterized by a heavy docket of high-profile controversies. The court's schedule encompasses significant legal battles touching on core constitutional and statutory questions."
+    },
+    {
+      "type": "paragraph",
+      "text": "Among the central issues slated for review are disputes involving gun regulations, voting rights procedures, and immigration enforcement. The breadth of the docket highlights the expanding scope of judicial intervention in national policy."
+    },
+    {
+      "type": "paragraph",
+      "text": "Legal analysts note that the court's traditional summer break has increasingly been curtailed by emergency applications. This shift places added operational pressure on the justices as they navigate a contentious legal landscape."
+    },
+    {
+      "type": "paragraph",
+      "text": "The upcoming term also provides renewed opportunities for conservative members, including Justices Clarence Thomas and Samuel Alito, to shape jurisprudence. Their judicial voting patterns remain a focal point for legal scholars and policy observers."
+    },
+    {
+      "type": "paragraph",
+      "text": "As oral arguments commence, stakeholders across various sectors are preparing for rulings that could reshape federal and state regulations. The outcomes of these cases will carry substantial weight for civil rights and governance."
+    },
+    {
+      "type": "paragraph",
+      "text": "Monitoring bodies and legal experts will track how the court balances emergency docket management with its standard review process. The court's decisions in the months ahead will define critical boundaries for American law and public policy."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "The Supreme Court faces another term jam-packed with controversy - NPR"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "hindu-temple-vandalised-with-bricks-in-us-devotees-were-present-inside-ndtv-1791043297",
   "category": "india",
   "headline": "Hindu Temple Vandalised With Bricks In US, Devotees Were Present Inside - NDTV",

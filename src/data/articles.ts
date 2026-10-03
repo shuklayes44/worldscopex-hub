@@ -92,6 +92,53 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "popular-lgbtq-influencer-and-makeup-artist-mad-sandhu-shot-dead-in-amritsar-ndtv-1791067502",
+  "category": "india",
+  "headline": "Popular LGBTQ Influencer And Makeup Artist Mad Sandhu Shot Dead In Amritsar - ndtv.com",
+  "dek": "Popular LGBTQ influencer and makeup artist Mad Sandhu was shot dead by motorcycle-borne assailants in Amritsar.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-03T22:45:02Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791067500_9233.png",
+  "imageAlt": "Popular LGBTQ Influencer And Makeup Artist Mad Sandhu Shot Dead In Amritsar - ndtv.com",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Popular LGBTQ influencer and makeup artist Mad Sandhu has been shot dead by motorcycle-borne assailants in Amritsar, according to initial reports emerging from the region. The fatal attack has drawn immediate attention from law enforcement and the public alike."
+    },
+    {
+      "type": "paragraph",
+      "text": "Punjab Police have initiated a comprehensive probe into the circumstances surrounding the killing. Investigators are currently examining various angles, including potential warnings issued by Nihang groups regarding clothing choices and social media content."
+    },
+    {
+      "type": "paragraph",
+      "text": "The incident has raised serious questions regarding the safety and security of digital creators and public personalities operating in the state. Local authorities are under pressure to swiftly apprehend the perpetrators responsible for the daytime assault."
+    },
+    {
+      "type": "paragraph",
+      "text": "As the investigation unfolds, community stakeholders and digital media circles are closely monitoring updates from Amritsar police. Further developments on the manhunt for the motorcycle-borne assailants are anticipated as the probe deepens."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Popular LGBTQ Influencer And Makeup Artist Mad Sandhu Shot Dead In Amritsar - ndtv.com"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "indias-economic-growth-likely-slowed-to-71-in-april-june-quarter-poll-business-s-1791065480",
   "category": "economy",
   "headline": "India's economic growth likely slowed to 7.1% in April-June quarter: Poll - Business Standard",

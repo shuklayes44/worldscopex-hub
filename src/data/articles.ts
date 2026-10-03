@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "da-in-cornell-rape-inquiry-declined-to-review-additional-evidence-the-new-york-t-1791006481",
+  "category": "world",
+  "headline": "D.A. in Cornell Rape Inquiry Declined to Review Additional Evidence - The New York Times",
+  "dek": "New York governor removes district attorney from Cornell rape inquiry following failures to review crucial evidence.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-03T05:48:01Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791006479_4228.png",
+  "imageAlt": "D.A. in Cornell Rape Inquiry Declined to Review Additional Evidence - The New York Times",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "The New York governor has officially removed a local district attorney from the ongoing investigation into an alleged gang rape of a Cornell student, according to reports from The New York Times and NBC News."
+    },
+    {
+      "type": "paragraph",
+      "text": "The intervention stems from findings that the prosecutor's office declined to review additional evidence collected by Cornell police during the inquiry."
+    },
+    {
+      "type": "paragraph",
+      "text": "According to the reports, the neglected materials included essential witness statements and other physical or documentary evidence gathered by campus law enforcement regarding the alleged assault of the student referred to as Jane Doe."
+    },
+    {
+      "type": "paragraph",
+      "text": "The decision by state leadership to step in and remove the district attorney underscores growing institutional scrutiny over how local prosecutors handle complex campus sexual assault allegations."
+    },
+    {
+      "type": "paragraph",
+      "text": "Legal analysts and institutional stakeholders are closely watching the case to see how the transfer of oversight will alter the trajectory of the investigation."
+    },
+    {
+      "type": "paragraph",
+      "text": "Further developments are expected as the newly appointed investigative authorities review the case files and the previously unexamined evidence."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "D.A. in Cornell Rape Inquiry Declined to Review Additional Evidence - The New York Times"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "hockey-legend-pargat-singh-named-punjab-congress-chief-after-raja-warring-quits-1791001810",
   "category": "india",
   "headline": "Hockey Legend Pargat Singh Named Punjab Congress Chief After Raja Warring Quits - NDTV",

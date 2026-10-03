@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "what-to-know-about-the-cornell-university-rape-allegations-the-washington-post-1791039052",
+  "category": "world",
+  "headline": "What to know about the Cornell University rape allegations - The Washington Post",
+  "dek": "Cornell University faces renewed scrutiny as investigations into fraternity house gang rape allegations are reopened in New York.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-03T14:50:52Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791039051_2942.png",
+  "imageAlt": "What to know about the Cornell University rape allegations - The Washington Post",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Legal and administrative authorities are examining a timeline of gang rape allegations stemming from a Cornell University fraternity house in New York."
+    },
+    {
+      "type": "paragraph",
+      "text": "The case has gained prominence following reports detailing how the allegations unfolded and the subsequent reopening of the official investigation."
+    },
+    {
+      "type": "paragraph",
+      "text": "According to available details, a photograph of an individual referred to as Jane Doe was shared within a Snapchat group on the night of the alleged incident."
+    },
+    {
+      "type": "paragraph",
+      "text": "The unfolding developments at Cornell University have placed campus safety, institutional accountability, and student welfare under intense public and legal review."
+    },
+    {
+      "type": "paragraph",
+      "text": "Observers and stakeholders continue to monitor the procedural steps as the investigation progresses."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "What to know about the Cornell University rape allegations - The Washington Post"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "trump-promises-100-checks-for-20-million-seniors-for-medicare-axios-1791037565",
   "category": "world",
   "headline": "Trump promises $100 checks for 20 million seniors for Medicare - Axios",

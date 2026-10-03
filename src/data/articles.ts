@@ -92,6 +92,53 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "pakistan-summons-indian-diplomat-over-border-killing-of-two-pakistanis-al-jazeer-1791053080",
+  "category": "india",
+  "headline": "Pakistan summons Indian diplomat over border killing of two Pakistanis - Al Jazeera",
+  "dek": "Pakistan summoned an Indian diplomat to protest the killing of two people by border security forces.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-03T18:44:40Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791053078_6854.png",
+  "imageAlt": "Pakistan summons Indian diplomat over border killing of two Pakistanis - Al Jazeera",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Pakistan has summoned a senior Indian diplomat to lodge an official protest following a recent border security incident. The diplomatic démarche comes after two individuals were killed by the Border Security Force in a cross-border episode."
+    },
+    {
+      "type": "paragraph",
+      "text": "According to reports, the incident involved two suspected intruders who were shot dead by the BSF in the Tarn Taran area. The development highlights ongoing security challenges along the international border."
+    },
+    {
+      "type": "paragraph",
+      "text": "Cross-border infiltration attempts and subsequent security responses remain a sensitive issue for both nations. Incidents of this nature frequently trigger diplomatic friction and formal protests between New Delhi and Islamabad."
+    },
+    {
+      "type": "paragraph",
+      "text": "The summoning of diplomats underscores the continuous friction over border management and security protocols. Observers are closely watching official communications for any further diplomatic measures from either government."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Pakistan summons Indian diplomat over border killing of two Pakistanis - Al Jazeera"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "who-is-the-mystery-co-pilot-behind-the-flydubai-attack-al-jazeera-1791050676",
   "category": "india",
   "headline": "Who is the mystery co-pilot behind the Flydubai attack? - Al Jazeera",

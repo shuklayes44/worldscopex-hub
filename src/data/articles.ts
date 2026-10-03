@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "hockey-legend-pargat-singh-named-punjab-congress-chief-after-raja-warring-quits-1791001810",
+  "category": "india",
+  "headline": "Hockey Legend Pargat Singh Named Punjab Congress Chief After Raja Warring Quits - NDTV",
+  "dek": "Hockey legend Pargat Singh assumes leadership of the Punjab Congress following Raja Warring's resignation.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-03T04:30:10Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791001808_3563.png",
+  "imageAlt": "Hockey Legend Pargat Singh Named Punjab Congress Chief After Raja Warring Quits - NDTV",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "The Punjab Congress has undergone a significant leadership transition with the appointment of hockey legend Pargat Singh as the state party chief."
+    },
+    {
+      "type": "paragraph",
+      "text": "The change in command follows the official resignation of Raja Warring from the high-profile position."
+    },
+    {
+      "type": "paragraph",
+      "text": "Singh's elevation to the post marks a notable development in the state's political landscape, following a history of dissent and political shifts that trace from the Badals to Captain."
+    },
+    {
+      "type": "paragraph",
+      "text": "The leadership shake-up highlights ongoing strategic realignments within the regional party apparatus as it seeks to strengthen its organizational coherence."
+    },
+    {
+      "type": "paragraph",
+      "text": "Analysts and political observers are now assessing whether the new state captain can successfully steer the party through its current challenges and reshape its electoral game."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Hockey Legend Pargat Singh Named Punjab Congress Chief After Raja Warring Quits - NDTV"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "judge-halts-border-barrier-construction-in-big-bend-the-texas-tribune-1790992674",
   "category": "world",
   "headline": "Judge halts border barrier construction in Big Bend - The Texas Tribune",

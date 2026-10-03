@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "mass-detentions-in-delhi-as-protesters-demand-cec-gyanesh-kumars-resignation-the-1791015710",
+  "category": "india",
+  "headline": "Mass Detentions in Delhi as Protesters Demand CEC Gyanesh Kumar's Resignation - thequint.com",
+  "dek": "Mass detentions occur in Delhi as protesters demand the resignation of CEC Gyanesh Kumar.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-03T08:21:50Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791015708_8140.png",
+  "imageAlt": "Mass Detentions in Delhi as Protesters Demand CEC Gyanesh Kumar's Resignation - thequint.com",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Mass detentions have been reported in Delhi as demonstrators gather to demand the resignation of Chief Election Commissioner Gyanesh Kumar, according to reports."
+    },
+    {
+      "type": "paragraph",
+      "text": "Security forces and police personnel carried out the mass detentions in the national capital to manage the unfolding demonstrations."
+    },
+    {
+      "type": "paragraph",
+      "text": "The protests are specifically focused on demanding that CEC Gyanesh Kumar step down from his position."
+    },
+    {
+      "type": "paragraph",
+      "text": "The unrest highlights ongoing political tensions surrounding India's top electoral oversight body and its administration."
+    },
+    {
+      "type": "paragraph",
+      "text": "Observers and stakeholders will be closely watching for any official statements from election authorities or government officials regarding the situation."
+    },
+    {
+      "type": "paragraph",
+      "text": "Further developments are expected as law enforcement maintains its presence in Delhi following the detentions."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Mass Detentions in Delhi as Protesters Demand CEC Gyanesh Kumar's Resignation - thequint.com"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "ai-bubble-fears-are-starting-to-spill-over-futurismcom-1791011059",
   "category": "technology",
   "headline": "AI Bubble Fears Are Starting to Spill Over - futurism.com",

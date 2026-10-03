@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "us-military-says-it-is-striking-iran-in-response-to-attack-on-civilian-vessel-in-1791054696",
+  "category": "world",
+  "headline": "U.S. military says it is striking Iran in response to attack on civilian vessel in Strait of Hormuz - The Hindu",
+  "dek": "The U.S. military launched strikes against Iran following an attack on a civilian vessel in the Strait of Hormuz.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-03T19:11:36Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791054694_4411.png",
+  "imageAlt": "U.S. military says it is striking Iran in response to attack on civilian vessel in Strait of Hormuz - The Hindu",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "The United States military has announced that it is conducting strikes against Iran in direct response to a hostile attack on a civilian vessel located in the Strait of Hormuz."
+    },
+    {
+      "type": "paragraph",
+      "text": "The Strait of Hormuz serves as a critical global trade corridor, making any disruption to maritime security in the region a matter of intense international concern."
+    },
+    {
+      "type": "paragraph",
+      "text": "Commercial shipping and energy transport through the vital waterway face heightened risks as geopolitical tensions escalate sharply following the military exchange."
+    },
+    {
+      "type": "paragraph",
+      "text": "Global markets and energy analysts are closely assessing the potential fallout from the strikes, particularly regarding crude oil transit routes and regional stability."
+    },
+    {
+      "type": "paragraph",
+      "text": "Further updates from defense officials are expected as the situation in the Middle East continues to develop rapidly."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "U.S. military says it is striking Iran in response to attack on civilian vessel in Strait of Hormuz - The Hindu"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "pakistan-summons-indian-diplomat-over-border-killing-of-two-pakistanis-al-jazeer-1791053080",
   "category": "india",
   "headline": "Pakistan summons Indian diplomat over border killing of two Pakistanis - Al Jazeera",

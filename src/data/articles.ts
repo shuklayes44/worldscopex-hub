@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "who-is-the-mystery-co-pilot-behind-the-flydubai-attack-al-jazeera-1791050676",
+  "category": "india",
+  "headline": "Who is the mystery co-pilot behind the Flydubai attack? - Al Jazeera",
+  "dek": "Flydubai crew honored for bravery following an attack linked to a co-pilot previously banned from flying.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-03T18:04:36Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791050674_5414.png",
+  "imageAlt": "Who is the mystery co-pilot behind the Flydubai attack? - Al Jazeera",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Investigations into a recent Flydubai security incident have revealed that the co-pilot involved had previously been banned from operating flights by Oman due to radical views. The details emerged as regional authorities scrutinize the background of the attacker and the operational protocols surrounding the flight crew."
+    },
+    {
+      "type": "paragraph",
+      "text": "In the wake of the incident, leadership in the United Arab Emirates has moved to recognize the actions of the flight crew. UAE's deputy prime minister and Dubai's Crown Prince Hamdan met with pilot Smit Machchhar in the hospital to praise his response during the crisis, commending him for displaying the highest degree of courage."
+    },
+    {
+      "type": "paragraph",
+      "text": "The security breach has placed renewed focus on regional aviation vetting processes and cockpit security protocols. While passenger safety measures prevented a greater catastrophe, questions remain regarding how the individual was integrated into operations despite prior restrictions imposed by neighboring Oman."
+    },
+    {
+      "type": "paragraph",
+      "text": "Global aviation stakeholders and regulatory bodies are closely evaluating the incident to determine potential impacts on cross-border flight security standards. Observers note that the event could prompt tighter background checks and information-sharing protocols among regional civil aviation authorities."
+    },
+    {
+      "type": "paragraph",
+      "text": "As investigations continue, international attention remains focused on the security implications for Middle Eastern carriers. Authorities are expected to release further findings regarding the co-pilot's background and the exact timeline of the security intervention."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Who is the mystery co-pilot behind the Flydubai attack? - Al Jazeera"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "indias-trade-deals-will-matter-more-than-ever-amid-uncertainties-deloittecom-1791048949",
   "category": "economy",
   "headline": "India’s trade deals will matter more than ever amid uncertainties - deloitte.com",

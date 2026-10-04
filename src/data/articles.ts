@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "trump-announces-super-intelligence-force-with-top-us-officials-to-lead-ai-push-m-1791133629",
+  "category": "india",
+  "headline": "Trump announces 'Super Intelligence Force' with top US officials to lead AI push - Moneycontrol.com",
+  "dek": "White House AI task force launched to lead artificial intelligence push and prevent overregulation.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-04T17:07:09Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791133627_5810.png",
+  "imageAlt": "Trump announces 'Super Intelligence Force' with top US officials to lead AI push - Moneycontrol.com",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "US President Donald Trump has officially announced the creation of a new 'Super Intelligence Force' designed to lead the nation's artificial intelligence push. The initiative includes top US officials and a newly appointed AI czar tasked with unveiling specific goals for the White House task force."
+    },
+    {
+      "type": "paragraph",
+      "text": "According to the announced framework, the primary objective of the White House AI task force will be to prevent overregulation while accelerating technological development. The strategy seeks to balance national competitiveness with administrative oversight in the rapidly growing artificial intelligence sector."
+    },
+    {
+      "type": "paragraph",
+      "text": "The announcement aligns with broader government efforts to streamline technology policies and foster innovation across the industry. Stakeholders in the technology and financial markets are closely analyzing the potential implications for future regulatory compliance and corporate investment."
+    },
+    {
+      "type": "paragraph",
+      "text": "The newly formed task force brings together key administrative figures to coordinate artificial intelligence policy at the highest levels of government. This centralized approach underscores the strategic priority placed on maintaining leadership in advanced computing technologies."
+    },
+    {
+      "type": "paragraph",
+      "text": "As the newly appointed AI czar outlines the leadership and specific members of the task force, global technology markets will look for clearer indicators of upcoming administrative policies. Observers note that the balance between enabling innovation and managing oversight will remain a central focus."
+    },
+    {
+      "type": "paragraph",
+      "text": "Future developments will depend on the specific policy recommendations issued by the task force and how federal agencies implement the new strategic framework for artificial intelligence."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Trump announces 'Super Intelligence Force' with top US officials to lead AI push - Moneycontrol.com"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "sensex-crashes-1000-points-rs-9-lakh-crore-wiped-out-as-foreign-investors-sell-i-1791132073",
   "category": "economy",
   "headline": "Sensex Crashes 1,000 Points: Rs 9 Lakh Crore Wiped Out As Foreign Investors Sell Indian Stocks En-Masse - NDTV",

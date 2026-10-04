@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "searchers-find-debris-of-boston-bound-medical-plane-that-went-missing-off-nantuc-1791119676",
+  "category": "world",
+  "headline": "Searchers find debris of Boston-bound medical plane that went missing off Nantucket - The Boston Globe",
+  "dek": "Searchers found debris from a Boston-bound medical plane carrying six people after it went missing off Nantucket.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-04T13:14:36Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791119674_9936.png",
+  "imageAlt": "Searchers find debris of Boston-bound medical plane that went missing off Nantucket - The Boston Globe",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Search and rescue teams have recovered debris from a medical transport plane that went missing off the coast of Nantucket while en route to Boston."
+    },
+    {
+      "type": "paragraph",
+      "text": "According to reports from the area, the aircraft had departed from Bermuda carrying a total of six people on board."
+    },
+    {
+      "type": "paragraph",
+      "text": "The US Coast Guard and other regional search units deployed resources to the waters off Nantucket following the disappearance of the transport jet."
+    },
+    {
+      "type": "paragraph",
+      "text": "Recovery teams continue to sweep the search area as the status of the six individuals aboard remains unconfirmed."
+    },
+    {
+      "type": "paragraph",
+      "text": "The incident underscores the operational risks and safety challenges inherent in long-distance medical transport flights."
+    },
+    {
+      "type": "paragraph",
+      "text": "Authorities are expected to provide further updates as maritime and aerial search operations progress in the region."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Searchers find debris of Boston-bound medical plane that went missing off Nantucket - The Boston Globe"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "will-nifty-sensex-plunge-for-9th-straight-week-tcs-q2-rbi-mpc-among-4-factors-to-1791117465",
   "category": "economy",
   "headline": "Will Nifty, Sensex plunge for 9th straight week? TCS Q2, RBI MPC among 4 factors to drive Dalal Street fro - The Economic Times",

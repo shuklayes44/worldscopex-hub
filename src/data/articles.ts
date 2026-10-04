@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "indian-youth-congress-moves-delhi-high-court-against-denial-of-permission-to-pro-1791089973",
+  "category": "india",
+  "headline": "Indian Youth Congress Moves Delhi High Court Against Denial Of Permission To Protest Against CEC Gyanesh... - Live Law",
+  "dek": "The Indian Youth Congress files a petition in the Delhi High Court challenging the denial of permission to protest against CEC Gyanesh Kumar.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-04T04:59:33Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791089970_1518.png",
+  "imageAlt": "Indian Youth Congress Moves Delhi High Court Against Denial Of Permission To Protest Against CEC Gyanesh... - Live Law",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "The Indian Youth Congress has formally moved the Delhi High Court to contest the authorities' decision to deny permission for a planned demonstration directed at Chief Election Commissioner Gyanesh Kumar. The legal filing highlights escalating tensions surrounding public accountability and political expression involving key electoral authorities in the capital."
+    },
+    {
+      "type": "paragraph",
+      "text": "The move coincides with a broader wave of demonstrations and crackdowns across urban centers. Reports indicate that over 500 protesters have been detained in connection with related demonstrations opposing the CEC, underscoring a stringent law enforcement response to ongoing public mobilization efforts."
+    },
+    {
+      "type": "paragraph",
+      "text": "Civil society groups and political figures, including representatives from AISA and activist Yogendra Yadav, have maintained pressure by calling for repeated citizen marches. Despite successive denials of formal permits, organizers have continued to urge public participation, creating a sustained standoff between demonstrators and state apparatuses."
+    },
+    {
+      "type": "paragraph",
+      "text": "Concurrently, law enforcement actions have expanded outside the capital. Mumbai Police have booked organizers of the CJP alongside 400 to 500 unidentified individuals following a demonstration at Shivaji Park, indicating a nationwide pattern of heightened police intervention against public assemblies."
+    },
+    {
+      "type": "paragraph",
+      "text": "The intervention of the Delhi High Court introduces a crucial judicial dimension to the ongoing disputes over public assembly rights. Legal experts note that the court's upcoming deliberations could establish vital boundaries regarding the state's authority to restrict political protests and the constitutional protections afforded to opposition groups."
+    },
+    {
+      "type": "paragraph",
+      "text": "As legal and political friction persists, stakeholders are closely watching the judiciary's approach to balancing public safety directives with democratic expression. The unfolding legal proceedings in Delhi are anticipated to heavily influence the trajectory of upcoming political demonstrations nationwide."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Indian Youth Congress Moves Delhi High Court Against Denial Of Permission To Protest Against CEC Gyanesh... - Live Law"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "sheikh-hasinas-extradition-possible-via-well-structured-process-indias-high-comm-1791081329",
   "category": "india",
   "headline": "Sheikh Hasina’s extradition possible via ‘well-structured’ process: India’s High Commissioner to Bangladesh - thehindu.com",

@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "indian-benchmark-shares-post-longest-weekly-losing-run-in-25-years-reuters-1791095341",
+  "category": "economy",
+  "headline": "Indian benchmark shares post longest weekly losing run in 25 years - Reuters",
+  "dek": "Indian benchmark shares hit a historic milestone with their longest weekly losing streak in 25 years.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-04T06:29:01Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791095339_6915.png",
+  "imageAlt": "Indian benchmark shares post longest weekly losing run in 25 years - Reuters",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "economy"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Indian benchmark shares have officially posted their longest weekly losing run in 25 years, according to market reports from Reuters. The unprecedented downward trend marks a significant technical development for the country's equity markets."
+    },
+    {
+      "type": "paragraph",
+      "text": "The prolonged weekly decline underscores deep-seated bearish sentiment affecting major indices across the domestic financial landscape. Market participants have watched values erode steadily over successive weeks without a sustained rebound."
+    },
+    {
+      "type": "paragraph",
+      "text": "This multi-week retreat represents the most persistent negative momentum recorded by Indian benchmarks in a quarter of a century. Analysts note that such extended losing streaks are rare in the domestic market history."
+    },
+    {
+      "type": "paragraph",
+      "text": "The downturn reflects broader economic and financial pressures impacting investor confidence and portfolio valuations. Institutional flows and trading volumes have faced intense scrutiny throughout this prolonged correction period."
+    },
+    {
+      "type": "paragraph",
+      "text": "Market watchers will continue to track technical support levels and incoming economic data to gauge when the persistent selling pressure might finally abate."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Indian benchmark shares post longest weekly losing run in 25 years - Reuters"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "indian-youth-congress-moves-delhi-high-court-against-denial-of-permission-to-pro-1791089973",
   "category": "india",
   "headline": "Indian Youth Congress Moves Delhi High Court Against Denial Of Permission To Protest Against CEC Gyanesh... - Live Law",

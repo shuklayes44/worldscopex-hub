@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "g7-to-release-100-million-barrels-of-oil-and-diesel-will-it-curb-prices-al-jazee-1791078179",
+  "category": "india",
+  "headline": "G7 to release 100 million barrels of oil and diesel, will it curb prices? - Al Jazeera",
+  "dek": "G7 nations plan to release 100 million barrels of oil and diesel following supply constraints caused by ongoing wars.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-04T01:42:59Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791078176_1568.png",
+  "imageAlt": "G7 to release 100 million barrels of oil and diesel, will it curb prices? - Al Jazeera",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "The Group of Seven (G7) nations have announced plans to release 100 million barrels of oil and diesel from strategic reserves. The coordinated emergency measure comes in the wake of a US export ban threat and tightening global energy supplies."
+    },
+    {
+      "type": "paragraph",
+      "text": "Wars in Europe and the Middle East have significantly constrained fuel supplies across international markets, placing upward pressure on energy prices. The release aims to mitigate the immediate impact of these geopolitical disruptions on consumers and industrial users."
+    },
+    {
+      "type": "paragraph",
+      "text": "Energy analysts are closely examining the potential effectiveness of the 100 million barrel reserve release in curbing elevated prices. Such coordinated actions are typically deployed to calm volatile commodity markets during severe supply shocks."
+    },
+    {
+      "type": "paragraph",
+      "text": "The move underscores the vulnerability of global supply chains to regional conflicts and policy interventions. Governments face mounting pressure to protect domestic economies from inflationary shocks driven by energy scarcity."
+    },
+    {
+      "type": "paragraph",
+      "text": "Market participants will continue to monitor the execution of the release and the immediate response of benchmark crude and diesel prices. Further policy announcements from major economies may follow depending on market stabilization trends."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "G7 to release 100 million barrels of oil and diesel, will it curb prices? - Al Jazeera"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "as-protests-against-cec-continue-rahul-launches-satyagraha-digital-platform-the-1791072255",
   "category": "india",
   "headline": "As protests against CEC continue, Rahul launches ‘Satyagraha’ digital platform - The Hindu",

@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "a-global-rupture-carney-calls-for-canada-eu-unity-before-g7-summit-al-jazeera-1791141594",
+  "category": "world",
+  "headline": "‘A global rupture’: Carney calls for Canada-EU unity before G7 summit - Al Jazeera",
+  "dek": "Canada calls for urgent strategic unity with the European Union ahead of the upcoming G7 leaders summit.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-04T19:19:54Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791141592_8877.png",
+  "imageAlt": "‘A global rupture’: Carney calls for Canada-EU unity before G7 summit - Al Jazeera",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Canada has formally called for enhanced unity between Canadian and European Union officials ahead of the international G7 summit."
+    },
+    {
+      "type": "paragraph",
+      "text": "The diplomatic appeal highlights growing concerns regarding what authorities characterize as an impending global rupture."
+    },
+    {
+      "type": "paragraph",
+      "text": "Such transatlantic cooperation is frequently viewed as vital for maintaining stability across international trade networks and diplomatic alliances."
+    },
+    {
+      "type": "paragraph",
+      "text": "Policy analysts note that coordinated positions among advanced economies often shape broader global economic frameworks and multilateral negotiations."
+    },
+    {
+      "type": "paragraph",
+      "text": "Global markets and diplomatic observers will closely monitor the upcoming G7 meetings for any formal agreements or joint strategies emerging from the discussions."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "‘A global rupture’: Carney calls for Canada-EU unity before G7 summit - Al Jazeera"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "india-is-going-beyond-advocacy-on-the-russia-ukraine-conflict-jaishankar-thehind-1791139220",
   "category": "india",
   "headline": "India is going ‘beyond advocacy’ on the Russia-Ukraine conflict: Jaishankar - thehindu.com",

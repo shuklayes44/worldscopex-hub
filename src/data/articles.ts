@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "what-does-the-future-hold-for-the-rapidly-growing-indian-economy-kobe-uacjp-1791143703",
+  "category": "economy",
+  "headline": "What does the future hold for the rapidly growing Indian economy? - kobe-u.ac.jp",
+  "dek": "Kobe University examines growth trajectories and future economic prospects for India.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-04T19:55:03Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791143701_4893.png",
+  "imageAlt": "What does the future hold for the rapidly growing Indian economy? - kobe-u.ac.jp",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "economy"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Kobe University has released analytical commentary examining the future outlook for the rapidly growing Indian economy. The evaluation focuses on the fundamental factors driving ongoing economic expansion within the nation."
+    },
+    {
+      "type": "paragraph",
+      "text": "Academic and institutional observers frequently analyze such growth patterns to understand long-term market trends and financial developments."
+    },
+    {
+      "type": "paragraph",
+      "text": "For businesses, investors, and policymakers, tracking these trajectories provides essential context regarding policy directions and investment environments."
+    },
+    {
+      "type": "paragraph",
+      "text": "The analysis contributes to broader discussions surrounding regional economic stability and the development of emerging markets."
+    },
+    {
+      "type": "paragraph",
+      "text": "Further research and institutional commentary are expected to continue addressing the structural evolution of the Indian economy."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "What does the future hold for the rapidly growing Indian economy? - kobe-u.ac.jp"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "a-global-rupture-carney-calls-for-canada-eu-unity-before-g7-summit-al-jazeera-1791141594",
   "category": "world",
   "headline": "‘A global rupture’: Carney calls for Canada-EU unity before G7 summit - Al Jazeera",

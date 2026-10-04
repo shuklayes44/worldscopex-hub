@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "us-iran-war-news-live-highlights-vessels-carrying-middle-east-oil-lng-exit-hormu-1791109438",
+  "category": "world",
+  "headline": "US Iran War News Live Highlights: Vessels carrying Middle East oil, LNG exit Hormuz, head for Pakistan, China - The Indian Express",
+  "dek": "Energy vessels carrying Middle East oil and LNG have exited the Strait of Hormuz toward Pakistan and China.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-04T10:23:58Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791109437_7506.png",
+  "imageAlt": "US Iran War News Live Highlights: Vessels carrying Middle East oil, LNG exit Hormuz, head for Pakistan, China - The Indian Express",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Commercial vessels transporting Middle East oil and liquefied natural gas have successfully exited the Strait of Hormuz, routing toward destination markets in Pakistan and China."
+    },
+    {
+      "type": "paragraph",
+      "text": "The maritime movement reflects ongoing adjustments to regional energy transit corridors amidst escalating tensions involving the United States and Iran."
+    },
+    {
+      "type": "paragraph",
+      "text": "The Strait of Hormuz remains one of the world's most critical maritime chokepoints for global energy supplies, making route modifications a key indicator of shipping risk management."
+    },
+    {
+      "type": "paragraph",
+      "text": "Energy markets and supply chain operators are closely evaluating the operational shifts as tankers adapt their routes to ensure the secure delivery of petroleum and gas cargoes."
+    },
+    {
+      "type": "paragraph",
+      "text": "Broader implications for Asian energy security depend on the sustained stability of these alternative transit corridors and the ongoing security situation in the Persian Gulf."
+    },
+    {
+      "type": "paragraph",
+      "text": "Observers and market stakeholders will continue to monitor vessel tracking data and official updates regarding regional maritime traffic in the coming days."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "US Iran War News Live Highlights: Vessels carrying Middle East oil, LNG exit Hormuz, head for Pakistan, China - The Indian Express"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "trump-announces-90-payments-for-seniors-on-medicare-ahead-of-midterm-elections-f-1791106846",
   "category": "world",
   "headline": "Trump announces $90 payments for seniors on Medicare ahead of midterm elections for premium costs - AP News",

@@ -92,6 +92,53 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "sheikh-hasinas-extradition-possible-via-well-structured-process-indias-high-comm-1791081329",
+  "category": "india",
+  "headline": "Sheikh Hasina’s extradition possible via ‘well-structured’ process: India’s High Commissioner to Bangladesh - thehindu.com",
+  "dek": "India's High Commissioner to Bangladesh noted that Sheikh Hasina's extradition could occur through a structured legal process.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-04T02:35:29Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791081327_8360.png",
+  "imageAlt": "Sheikh Hasina’s extradition possible via ‘well-structured’ process: India’s High Commissioner to Bangladesh - thehindu.com",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "India's High Commissioner to Bangladesh has publicly addressed the high-profile diplomatic situation surrounding former Prime Minister Sheikh Hasina. According to official statements, any potential extradition of Hasina from India would be handled through a strictly \"well-structured\" legal and administrative process."
+    },
+    {
+      "type": "paragraph",
+      "text": "The diplomatic update clarifies that authorities have established no strict deadline or definitive timeframe for her return. This detail underscores the complex nature of managing bilateral legal requests involving prominent political figures."
+    },
+    {
+      "type": "paragraph",
+      "text": "The ongoing discussions carry substantial policy and diplomatic implications for both nations as they navigate the sensitive political fallout. Maintaining stable diplomatic channels remains a priority for officials in both New Delhi and Dhaka during this transitional period."
+    },
+    {
+      "type": "paragraph",
+      "text": "Observers are closely watching how both governments will coordinate the legal and procedural requirements moving forward. Future developments are expected to depend heavily on formal diplomatic communications and adherence to established bilateral frameworks."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Sheikh Hasina’s extradition possible via ‘well-structured’ process: India’s High Commissioner to Bangladesh - thehindu.com"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "g7-to-release-100-million-barrels-of-oil-and-diesel-will-it-curb-prices-al-jazee-1791078179",
   "category": "india",
   "headline": "G7 to release 100 million barrels of oil and diesel, will it curb prices? - Al Jazeera",

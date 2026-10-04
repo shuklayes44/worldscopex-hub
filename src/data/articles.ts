@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "any-process-taking-away-voting-rights-of-millions-of-citizens-is-unjustifiable-n-1791136027",
+  "category": "india",
+  "headline": "Any Process Taking Away Voting Rights Of Millions Of Citizens Is Unjustifiable, No Court Can Condone It:... - Live Law",
+  "dek": "The Supreme Court of India stated that mass voter deletion strikes at the heart of the Constitution.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-04T17:47:07Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791136024_2707.png",
+  "imageAlt": "Any Process Taking Away Voting Rights Of Millions Of Citizens Is Unjustifiable, No Court Can Condone It:... - Live Law",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "The Supreme Court of India has strongly condemned any administrative process that strips millions of citizens of their voting rights, declaring such actions fundamentally unjustifiable."
+    },
+    {
+      "type": "paragraph",
+      "text": "A presiding judge emphasized that no form of whataboutery can serve as a justification for the mass disenfranchisement of voters."
+    },
+    {
+      "type": "paragraph",
+      "text": "The top court's remarks specifically targeted the mass deletion of voters, describing the practice as a direct strike at the heart of the Constitution."
+    },
+    {
+      "type": "paragraph",
+      "text": "Opposition political factions seized upon the judicial observations, asserting that the Chief Election Commissioner has been exposed by the developments."
+    },
+    {
+      "type": "paragraph",
+      "text": "Legal experts and political analysts are closely watching the fallout from the court's strict stance on electoral integrity and voter rolls."
+    },
+    {
+      "type": "paragraph",
+      "text": "Further developments are anticipated as stakeholders await official responses from election management bodies regarding the scrutinized processes."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Any Process Taking Away Voting Rights Of Millions Of Citizens Is Unjustifiable, No Court Can Condone It:... - Live Law"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "trump-announces-super-intelligence-force-with-top-us-officials-to-lead-ai-push-m-1791133629",
   "category": "india",
   "headline": "Trump announces 'Super Intelligence Force' with top US officials to lead AI push - Moneycontrol.com",

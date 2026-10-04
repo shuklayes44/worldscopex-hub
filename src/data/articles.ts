@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "india-benchmark-shares-log-worst-month-since-march-as-oil-global-rate-hikes-spar-1791126012",
+  "category": "economy",
+  "headline": "India benchmark shares log worst month since March as oil, global rate hikes spark outflows - Reuters",
+  "dek": "India's benchmark shares registered their worst monthly performance since March amid global headwinds.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-04T15:00:12Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791126010_6205.png",
+  "imageAlt": "India benchmark shares log worst month since March as oil, global rate hikes spark outflows - Reuters",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "economy"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "India benchmark shares have logged their worst monthly performance since March, according to market reports."
+    },
+    {
+      "type": "paragraph",
+      "text": "The downturn in domestic equities was primarily driven by surging oil prices and ongoing global interest rate hikes."
+    },
+    {
+      "type": "paragraph",
+      "text": "These macroeconomic factors have sparked significant foreign capital outflows from the Indian market."
+    },
+    {
+      "type": "paragraph",
+      "text": "The convergence of rising energy costs and monetary tightening in major global economies continues to weigh heavily on investor sentiment."
+    },
+    {
+      "type": "paragraph",
+      "text": "Analysts note that such external pressures remain a critical risk factor for emerging markets like India."
+    },
+    {
+      "type": "paragraph",
+      "text": "Market participants are now closely monitoring foreign institutional investor flows and broader macroeconomic indicators for further direction."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "India benchmark shares log worst month since March as oil, global rate hikes spark outflows - Reuters"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "us-marine-arrested-on-suspicion-of-killing-japanese-woman-in-okinawa-nbc-news-1791123969",
   "category": "world",
   "headline": "U.S. Marine arrested on suspicion of killing Japanese woman in Okinawa - NBC News",

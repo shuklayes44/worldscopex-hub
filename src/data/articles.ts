@@ -92,6 +92,65 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "what-are-the-five-questions-being-asked-regarding-the-flydubai-attack-al-jazeera-1791152416",
+  "category": "india",
+  "headline": "What are the five questions being asked regarding the Flydubai attack? - Al Jazeera",
+  "dek": "Six nations including India are caught up in international scrutiny following a Flydubai attack investigation.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-04T22:20:16Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791152414_8174.png",
+  "imageAlt": "What are the five questions being asked regarding the Flydubai attack? - Al Jazeera",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "International media outlets including Al Jazeera have raised five key questions regarding a security incident involving Flydubai, drawing widespread diplomatic and intelligence focus."
+    },
+    {
+      "type": "paragraph",
+      "text": "The security fallout has directly impacted six countries, namely India, the UAE, Saudi Arabia, Israel, Oman, and Australia, as investigations unfold across multiple jurisdictions."
+    },
+    {
+      "type": "paragraph",
+      "text": "Recent reports indicate that terrorist images were discovered on the social media accounts of a suspect linked to the Flydubai attack, prompting heightened scrutiny from intelligence agencies."
+    },
+    {
+      "type": "paragraph",
+      "text": "In response to the escalating security situation, the UAE shared specific operational details concerning a FlyDubai flight with Israel."
+    },
+    {
+      "type": "paragraph",
+      "text": "The shared information reportedly included sensitive data such as the names and nationalities of the flight's pilots, underlining cross-border cooperation amid the crisis."
+    },
+    {
+      "type": "paragraph",
+      "text": "As aviation authorities and governments examine the implications of the incident, stakeholders await further official briefings on regional transport safety protocols."
+    },
+    {
+      "type": "paragraph",
+      "text": "Observers will continue to monitor policy updates and diplomatic communications across the affected nations as the investigation progresses."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "What are the five questions being asked regarding the Flydubai attack? - Al Jazeera"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "poll-latino-voters-swing-away-from-trump-and-republicans-nbc-news-1791150010",
   "category": "world",
   "headline": "Poll: Latino voters swing away from Trump and Republicans - NBC News",

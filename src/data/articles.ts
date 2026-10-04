@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "latest-news-india-and-world-live-updates-flydubai-cockpit-attack-co-pilot-identi-1791103077",
+  "category": "india",
+  "headline": "Latest News India and World LIVE Updates: Flydubai cockpit attack co-pilot identified; US ramps up West Asia military presence ahead of midterms - WION",
+  "dek": "Flydubai cockpit attack co-pilot identified while US military presence increases in West Asia.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-04T08:37:57Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791103075_4605.png",
+  "imageAlt": "Latest News India and World LIVE Updates: Flydubai cockpit attack co-pilot identified; US ramps up West Asia military presence ahead of midterms - WION",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "International authorities have formally identified the co-pilot linked to the recent Flydubai cockpit attack, marking a key development in the ongoing safety and security investigation."
+    },
+    {
+      "type": "paragraph",
+      "text": "Concurrently, the United States government is ramping up its military deployment across West Asia as preparations intensify ahead of upcoming political midterms."
+    },
+    {
+      "type": "paragraph",
+      "text": "The convergence of these two high-stakes security developments underscores the heightened state of readiness and oversight required in international aviation and geopolitics."
+    },
+    {
+      "type": "paragraph",
+      "text": "Global markets and diplomatic channels are closely monitoring the operational and strategic implications of the amplified military footprint in the region."
+    },
+    {
+      "type": "paragraph",
+      "text": "Stakeholders in the aviation and defense sectors continue to assess how these concurrent events may influence broader security protocols and regional stability."
+    },
+    {
+      "type": "paragraph",
+      "text": "Further updates are anticipated as investigative teams release more details regarding the cockpit incident and defense officials provide clarity on the West Asia deployment timeline."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Latest News India and World LIVE Updates: Flydubai cockpit attack co-pilot identified; US ramps up West Asia military presence ahead of midterms - WION"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "searchers-find-debris-of-boston-bound-medical-plane-that-went-missing-off-nantuc-1791098786",
   "category": "world",
   "headline": "Searchers find debris of Boston-bound medical plane that went missing off Nantucket - The Boston Globe",

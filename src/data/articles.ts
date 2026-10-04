@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "searchers-find-debris-of-boston-bound-medical-plane-that-went-missing-off-nantuc-1791098786",
+  "category": "world",
+  "headline": "Searchers find debris of Boston-bound medical plane that went missing off Nantucket - The Boston Globe",
+  "dek": "Coast Guard locates debris from a Boston-bound medical plane carrying six people off the coast of Nantucket.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-04T07:26:26Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791098784_7309.png",
+  "imageAlt": "Searchers find debris of Boston-bound medical plane that went missing off Nantucket - The Boston Globe",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Search and rescue teams have recovered debris from a Boston-bound medical plane that went missing off the coast of Nantucket with six people on board. The U.S. Coast Guard confirmed that the wreckage is associated with the missing aircraft, prompting an intensive ongoing search and recovery operation in the area."
+    },
+    {
+      "type": "paragraph",
+      "text": "The flight, identified as a medical transport mission, vanished off the U.S. coast under circumstances that have not yet been fully detailed by maritime authorities. Coast Guard units were immediately dispatched to the region following the disappearance, utilizing maritime vessels and aerial resources to comb the waters near Nantucket."
+    },
+    {
+      "type": "paragraph",
+      "text": "The incident highlights the critical safety parameters and high-stakes operating conditions associated with medical aviation logistics. Transporting patients and specialized medical teams often requires navigating difficult coastal weather patterns and tight operational schedules, drawing close scrutiny from aviation safety regulators."
+    },
+    {
+      "type": "paragraph",
+      "text": "As search efforts continue, maritime and aviation authorities are focusing on mapping the debris field to piece together the sequence of events that led to the aircraft's disappearance. The ongoing investigation is expected to examine potential contributing factors, including environmental conditions and aircraft performance data."
+    },
+    {
+      "type": "paragraph",
+      "text": "Further updates from the Coast Guard and rescue command centers are expected as the maritime search operation progresses. Stakeholders in aviation and emergency medical services will closely monitor the findings for potential safety implications affecting regional transport protocols."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Searchers find debris of Boston-bound medical plane that went missing off Nantucket - The Boston Globe"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "indian-benchmark-shares-post-longest-weekly-losing-run-in-25-years-reuters-1791095341",
   "category": "economy",
   "headline": "Indian benchmark shares post longest weekly losing run in 25 years - Reuters",

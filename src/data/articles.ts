@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "brazils-bolsonaro-takes-early-lead-as-results-trickle-in-for-high-stakes-electio-1791154554",
+  "category": "world",
+  "headline": "Brazil's Bolsonaro takes early lead as results trickle in for high-stakes election - Reuters",
+  "dek": "Brazilian incumbent Jair Bolsonaro takes an early lead as initial election results trickle in.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-04T22:55:54Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791154552_9590.png",
+  "imageAlt": "Brazil's Bolsonaro takes early lead as results trickle in for high-stakes election - Reuters",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Brazilian President Jair Bolsonaro has taken an early lead as results begin to trickle in for a high-stakes presidential election that has drawn intense global attention. Polls officially closed across the nation following a campaign defined by deeply polarized debates over key national and international priorities."
+    },
+    {
+      "type": "paragraph",
+      "text": "The election features a fiercely contested race with Bolsonaro and rival candidate Lula remaining neck and neck throughout the final stages of the voting process. Observers note that the outcome carries major implications for the political direction of South America's largest economy."
+    },
+    {
+      "type": "paragraph",
+      "text": "Central issues dominating the electoral landscape include crime, corruption, and the future governance of the Amazon rainforest. The environmental stakes of the ballot have resonated heavily with international stakeholders monitoring the country's policy trajectory."
+    },
+    {
+      "type": "paragraph",
+      "text": "Economic markets and political analysts are maintaining a close watch on the incoming figures as electoral authorities process the votes. The close nature of the contest suggests a potentially tense period as final tallies emerge."
+    },
+    {
+      "type": "paragraph",
+      "text": "Further developments and updated vote counts are expected to be released by election officials in the coming hours. Observers will continue to monitor the progression of the results to determine the ultimate outcome of the presidential race."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Brazil's Bolsonaro takes early lead as results trickle in for high-stakes election - Reuters"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "what-are-the-five-questions-being-asked-regarding-the-flydubai-attack-al-jazeera-1791152416",
   "category": "india",
   "headline": "What are the five questions being asked regarding the Flydubai attack? - Al Jazeera",

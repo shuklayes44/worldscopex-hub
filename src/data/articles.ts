@@ -92,6 +92,53 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "sensex-crashes-1000-points-rs-9-lakh-crore-wiped-out-as-foreign-investors-sell-i-1791129232",
+  "category": "economy",
+  "headline": "Sensex Crashes 1,000 Points: Rs 9 Lakh Crore Wiped Out As Foreign Investors Sell Indian Stocks En-Masse - NDTV",
+  "dek": "Indian markets suffered a sharp decline as foreign institutional investors engaged in heavy selling.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-04T15:53:52Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791129230_8603.png",
+  "imageAlt": "Sensex Crashes 1,000 Points: Rs 9 Lakh Crore Wiped Out As Foreign Investors Sell Indian Stocks En-Masse - NDTV",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "economy"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "The benchmark Sensex fell sharply by 1,000 points during the trading session, reflecting intense selling pressure across domestic equities. The steep correction resulted in an estimated Rs 9 lakh crore being wiped out from investor wealth."
+    },
+    {
+      "type": "paragraph",
+      "text": "Market analysts noted that the sharp downturn was primarily driven by foreign investors selling Indian stocks en-masse. Such large-scale capital outflows from foreign institutional investors frequently trigger broad-based declines across major sectors."
+    },
+    {
+      "type": "paragraph",
+      "text": "The sudden loss of wealth highlights the vulnerability of domestic indices to shifts in foreign capital allocation. Heavy selling by overseas investors has historically created near-term volatility and downward pressure on Indian asset valuations."
+    },
+    {
+      "type": "paragraph",
+      "text": "Investors and market observers will closely monitor institutional trading patterns in upcoming sessions. Tracking foreign capital flows remains essential for understanding near-term market stability and overall sentiment."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Sensex Crashes 1,000 Points: Rs 9 Lakh Crore Wiped Out As Foreign Investors Sell Indian Stocks En-Masse - NDTV"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "kerala-orders-vigilance-probe-against-poll-body-chief-gyanesh-kumar-in-2006-case-1791127900",
   "category": "india",
   "headline": "Kerala Orders Vigilance Probe Against Poll Body Chief Gyanesh Kumar In 2006 Case - NDTV",

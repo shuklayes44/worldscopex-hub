@@ -92,6 +92,65 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "japan-protests-after-us-marine-is-accused-of-killing-woman-in-okinawa-the-new-yo-1791110800",
+  "category": "world",
+  "headline": "Japan Protests After U.S. Marine Is Accused of Killing Woman in Okinawa - The New York Times",
+  "dek": "Japan registers formal protest with the United States following the arrest of a U.S. Marine in Okinawa.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-04T10:46:40Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791110799_3390.png",
+  "imageAlt": "Japan Protests After U.S. Marine Is Accused of Killing Woman in Okinawa - The New York Times",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "The Japanese government has formally protested to the United States after a U.S. Marine was arrested on suspicion of murdering a woman in Okinawa, according to reports from international news agencies including The New York Times, CNN, and NBC News."
+    },
+    {
+      "type": "paragraph",
+      "text": "The suspect, a member of the United States military stationed in the region, was taken into custody by authorities following an incident that officials have characterized as a brutal and heinous crime resulting in the death of a Japanese woman."
+    },
+    {
+      "type": "paragraph",
+      "text": "The arrest has immediately drawn sharp reactions from Japanese leadership, prompting the Prime Minister's office to register an official diplomatic protest with U.S. representatives regarding the conduct of military personnel under foreign deployment."
+    },
+    {
+      "type": "paragraph",
+      "text": "Incidents involving U.S. service members in Okinawa frequently trigger local unrest and debates concerning the legal framework governing foreign military bases, particularly the Status of Forces Agreement that outlines jurisdiction over American troops stationed in Japan."
+    },
+    {
+      "type": "paragraph",
+      "text": "Bilateral discussions between Washington and Tokyo are expected to address security cooperation and the legal procedures for handling crimes committed by military personnel overseas, a sensitive issue that has historical resonance for residents of Okinawa."
+    },
+    {
+      "type": "paragraph",
+      "text": "Observers and regional analysts will be closely monitoring diplomatic communications between the two allied nations to see what additional security measures or policy adjustments may be implemented in response to the public outcry."
+    },
+    {
+      "type": "paragraph",
+      "text": "Further developments in the criminal investigation and any formal charges brought against the detained Marine will dictate the immediate trajectory of diplomatic relations regarding military basing rights in the region."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Japan Protests After U.S. Marine Is Accused of Killing Woman in Okinawa - The New York Times"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "us-iran-war-news-live-highlights-vessels-carrying-middle-east-oil-lng-exit-hormu-1791109438",
   "category": "world",
   "headline": "US Iran War News Live Highlights: Vessels carrying Middle East oil, LNG exit Hormuz, head for Pakistan, China - The Indian Express",

@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "trump-announces-90-payments-for-seniors-on-medicare-ahead-of-midterm-elections-f-1791106846",
+  "category": "world",
+  "headline": "Trump announces $90 payments for seniors on Medicare ahead of midterm elections for premium costs - AP News",
+  "dek": "Trump announces $90 payments for over 20 million seniors on Medicare to help offset premium costs ahead of midterms.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-04T09:40:46Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791106844_2791.png",
+  "imageAlt": "Trump announces $90 payments for seniors on Medicare ahead of midterm elections for premium costs - AP News",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "United States President Donald Trump has announced a new financial initiative providing $90 payments to more than 20 million senior citizens enrolled in Medicare. The funds are designated specifically to assist seniors with mounting healthcare premium costs."
+    },
+    {
+      "type": "paragraph",
+      "text": "The announcement was made ahead of the upcoming midterm elections, drawing immediate attention to economic policy measures targeting older demographics. The direct payments aim to alleviate immediate financial pressure associated with monthly healthcare obligations."
+    },
+    {
+      "type": "paragraph",
+      "text": "Healthcare policy analysts and political observers are closely monitoring the rollout of the financial relief. The initiative addresses cost-of-living concerns that frequently dominate voter priorities during midterm election cycles."
+    },
+    {
+      "type": "paragraph",
+      "text": "Beneficiaries and stakeholders await further details regarding the exact distribution schedule for the payments. Implementation mechanics will determine how quickly the funds reach the targeted population of millions of seniors nationwide."
+    },
+    {
+      "type": "paragraph",
+      "text": "The policy underscores the ongoing focus on healthcare affordability and senior welfare within federal fiscal planning. Further updates on the program's administration are expected as the midterm elections approach."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Trump announces $90 payments for seniors on Medicare ahead of midterm elections for premium costs - AP News"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "latest-news-india-and-world-live-updates-flydubai-cockpit-attack-co-pilot-identi-1791103077",
   "category": "india",
   "headline": "Latest News India and World LIVE Updates: Flydubai cockpit attack co-pilot identified; US ramps up West Asia military presence ahead of midterms - WION",

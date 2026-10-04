@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "kerala-orders-vigilance-probe-against-poll-body-chief-gyanesh-kumar-in-2006-case-1791127900",
+  "category": "india",
+  "headline": "Kerala Orders Vigilance Probe Against Poll Body Chief Gyanesh Kumar In 2006 Case - NDTV",
+  "dek": "Kerala orders a vigilance probe against Chief Election Commissioner Gyanesh Kumar regarding a 2006 graft and harassment case.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-04T15:31:40Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791127898_1956.png",
+  "imageAlt": "Kerala Orders Vigilance Probe Against Poll Body Chief Gyanesh Kumar In 2006 Case - NDTV",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "The Kerala government has officially ordered a vigilance probe against Chief Election Commissioner Gyanesh Kumar. The anti-corruption inquiry centers on allegations originating from 2006."
+    },
+    {
+      "type": "paragraph",
+      "text": "According to the reports, the fresh probe encompasses graft and harassment allegations directed at Kumar. The case also involves the 2006 suicide of a Malaysian contractor."
+    },
+    {
+      "type": "paragraph",
+      "text": "The administrative decision to launch an anti-corruption enquiry brings renewed attention to the historical events of 2006. State authorities are expected to examine the documented allegations closely."
+    },
+    {
+      "type": "paragraph",
+      "text": "The development marks a significant institutional flashpoint given Kumar's current role as the head of the poll body. Legal and political observers are assessing the potential implications of the state-ordered inquiry."
+    },
+    {
+      "type": "paragraph",
+      "text": "Further developments will depend on the findings of the vigilance probe and any subsequent legal motions by the parties involved. Observers will monitor how the investigation proceeds within the state's judicial and administrative framework."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Kerala Orders Vigilance Probe Against Poll Body Chief Gyanesh Kumar In 2006 Case - NDTV"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "india-benchmark-shares-log-worst-month-since-march-as-oil-global-rate-hikes-spar-1791126012",
   "category": "economy",
   "headline": "India benchmark shares log worst month since March as oil, global rate hikes spark outflows - Reuters",

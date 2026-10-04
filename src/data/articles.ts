@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "yemens-army-says-targets-houthis-in-hundreds-of-strikes-killing-700-al-jazeera-1791112842",
+  "category": "india",
+  "headline": "Yemen’s army says targets Houthis in hundreds of strikes, killing 700 - Al Jazeera",
+  "dek": "Yemeni government forces target Houthi positions in a massive aerial campaign resulting in 700 reported fatalities.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-04T11:20:42Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791112840_5035.png",
+  "imageAlt": "Yemen’s army says targets Houthis in hundreds of strikes, killing 700 - Al Jazeera",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Yemen's army announced it has targeted Houthi positions in hundreds of airstrikes, resulting in a reported death toll of 700 individuals."
+    },
+    {
+      "type": "paragraph",
+      "text": "The military operations reportedly involved warplanes striking Houthi reinforcements in Hayfan and Rasin, located south of Taiz."
+    },
+    {
+      "type": "paragraph",
+      "text": "The intensive bombing campaign coincides with a sharp escalation in regional tensions, driven by reports of a planned Saudi offensive."
+    },
+    {
+      "type": "paragraph",
+      "text": "The widening war has caused considerable alarm in both Sanaa and Riyadh as officials respond to the escalating hostilities."
+    },
+    {
+      "type": "paragraph",
+      "text": "Analysts note that the intensifying conflict threatens to further destabilize the wider region and key strategic transit corridors."
+    },
+    {
+      "type": "paragraph",
+      "text": "Stakeholders and international observers will be closely tracking diplomatic and military developments to gauge the risk of further escalation."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Yemen’s army says targets Houthis in hundreds of strikes, killing 700 - Al Jazeera"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "japan-protests-after-us-marine-is-accused-of-killing-woman-in-okinawa-the-new-yo-1791110800",
   "category": "world",
   "headline": "Japan Protests After U.S. Marine Is Accused of Killing Woman in Okinawa - The New York Times",

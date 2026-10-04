@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "hundreds-including-neha-woman-journalist-who-alleged-sexual-harassment-by-cop-de-1791145704",
+  "category": "india",
+  "headline": "Hundreds, including Neha, woman journalist who alleged sexual harassment by cop, detained as Delhi protest demanding Gyanesh Kumar’s removal enters third day - thehindu.com",
+  "dek": "Hundreds of protesters and a journalist have been detained in Delhi as demonstrations demanding the removal of Gyanesh Kumar enter their third day.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-04T20:28:24Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791145702_1141.png",
+  "imageAlt": "Hundreds, including Neha, woman journalist who alleged sexual harassment by cop, detained as Delhi protest demanding Gyanesh Kumar’s removal enters third day - thehindu.com",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Delhi police have detained hundreds of demonstrators as protests demanding the removal of Gyanesh Kumar entered their third day at Jantar Mantar."
+    },
+    {
+      "type": "paragraph",
+      "text": "The unfolding events have drawn significant attention, particularly following reports of the detention of approximately 150 individuals during the second day of demonstrations."
+    },
+    {
+      "type": "paragraph",
+      "text": "Among those detained is woman journalist Neha Bora, who had previously alleged sexual harassment by a police officer."
+    },
+    {
+      "type": "paragraph",
+      "text": "According to reports from the ground, Bora stated she was detained in an unmarked vehicle before being released without her personal belongings, including her bag and phone."
+    },
+    {
+      "type": "paragraph",
+      "text": "The protests highlight growing tensions between demonstrators and authorities regarding institutional leadership and accountability."
+    },
+    {
+      "type": "paragraph",
+      "text": "Authorities and observers are closely monitoring the situation as demonstrations persist into their third consecutive day in the capital."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Hundreds, including Neha, woman journalist who alleged sexual harassment by cop, detained as Delhi protest demanding Gyanesh Kumar’s removal enters third day - thehindu.com"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "what-does-the-future-hold-for-the-rapidly-growing-indian-economy-kobe-uacjp-1791143703",
   "category": "economy",
   "headline": "What does the future hold for the rapidly growing Indian economy? - kobe-u.ac.jp",

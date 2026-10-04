@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "as-protests-against-cec-continue-rahul-launches-satyagraha-digital-platform-the-1791072255",
+  "category": "india",
+  "headline": "As protests against CEC continue, Rahul launches ‘Satyagraha’ digital platform - The Hindu",
+  "dek": "Rahul Gandhi launches unified digital portal to map nationwide protests against the Chief Election Commissioner.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-04T00:04:15Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791072253_8335.png",
+  "imageAlt": "As protests against CEC continue, Rahul launches ‘Satyagraha’ digital platform - The Hindu",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Opposition leader Rahul Gandhi has officially launched the ‘Satyagraha’ digital platform, providing a centralized infrastructure to monitor and coordinate ongoing protests across India. The announcement follows continued demonstrations directed against the Chief Election Commissioner."
+    },
+    {
+      "type": "paragraph",
+      "text": "The newly unveiled portal is designed to aggregate disparate protests from various regions onto a single, comprehensive digital map. By consolidating these movements, the platform seeks to streamline organizational visibility and connectivity among diverse activist groups."
+    },
+    {
+      "type": "paragraph",
+      "text": "The scope of the ‘Satyagraha’ platform extends beyond electoral concerns, encompassing widespread public grievances such as land rights, administrative exams, and civic demands. Notably, recent demonstrations surrounding the MPSC movement have formally integrated into this digital framework."
+    },
+    {
+      "type": "paragraph",
+      "text": "This technological intervention represents a strategic shift toward digitizing grassroots mobilization in the country. By utilizing a unified portal, organizers aim to enhance public awareness and participation across multiple distinct sectors of discontent."
+    },
+    {
+      "type": "paragraph",
+      "text": "Observers and political analysts are closely watching the rollout to assess whether digital centralization can successfully sustain and scale decentralized protests. The platform's impact on institutional accountability and public engagement remains a key metric for future developments."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "As protests against CEC continue, Rahul launches ‘Satyagraha’ digital platform - The Hindu"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "medical-plane-with-6-on-board-missing-off-massachusetts-coast-bbccom-1791070086",
   "category": "world",
   "headline": "Medical plane with 6 on board missing off Massachusetts coast - bbc.com",

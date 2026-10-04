@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "poll-latino-voters-swing-away-from-trump-and-republicans-nbc-news-1791150010",
+  "category": "world",
+  "headline": "Poll: Latino voters swing away from Trump and Republicans - NBC News",
+  "dek": "New polls show Latino voters shifting away from Donald Trump and Republicans back toward Democrats ahead of midterms.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-04T21:40:10Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791150009_7377.png",
+  "imageAlt": "Poll: Latino voters swing away from Trump and Republicans - NBC News",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Recent polling data indicates that Latino voters are shifting away from Donald Trump and the Republican Party, signaling a notable political pivot. The findings show that Hispanic support for Trump has dipped in recent surveys."
+    },
+    {
+      "type": "paragraph",
+      "text": "This trend marks a shift from previous gains the Republican candidate had made among Hispanic communities. The new data points toward voters moving back toward the Democratic Party as elections approach."
+    },
+    {
+      "type": "paragraph",
+      "text": "Political analysts are tracking these developments closely as a critical factor for upcoming midterm contests. Demographic shifts among minority voters continue to be a primary area of focus for campaign strategists."
+    },
+    {
+      "type": "paragraph",
+      "text": "The movement among Latino voters could alter electoral calculations in competitive districts across the country. Parties are adjusting their outreach efforts to secure support from this vital demographic."
+    },
+    {
+      "type": "paragraph",
+      "text": "Attention now turns to how both major political parties will respond to these shifting polling numbers in their campaign messaging. Observers will continue to monitor subsequent polls to determine whether this trend stabilizes or changes further before the elections."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Poll: Latino voters swing away from Trump and Republicans - NBC News"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "hundreds-including-neha-woman-journalist-who-alleged-sexual-harassment-by-cop-de-1791145704",
   "category": "india",
   "headline": "Hundreds, including Neha, woman journalist who alleged sexual harassment by cop, detained as Delhi protest demanding Gyanesh Kumar’s removal enters third day - thehindu.com",

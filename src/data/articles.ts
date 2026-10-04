@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "trump-defiant-about-midterm-chances-as-he-rallies-for-republicans-in-ohio-al-jaz-1791121414",
+  "category": "world",
+  "headline": "Trump defiant about midterm chances as he rallies for Republicans in Ohio - Al Jazeera",
+  "dek": "Former US President Donald Trump rallied for Republican candidates in Ohio ahead of the upcoming midterm elections.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-04T13:43:34Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791121412_5974.png",
+  "imageAlt": "Trump defiant about midterm chances as he rallies for Republicans in Ohio - Al Jazeera",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Former US President Donald Trump addressed a Republican rally in Ohio, projecting defiance regarding the party's prospects in the upcoming midterm elections."
+    },
+    {
+      "type": "paragraph",
+      "text": "Campaigning in the state, Trump told supporters that the midterms would bring what he described as a big surprise."
+    },
+    {
+      "type": "paragraph",
+      "text": "The event featured appearances by figures including Jon Gruden, who addressed the crowd before delivering an endorsement."
+    },
+    {
+      "type": "paragraph",
+      "text": "During his speech, Trump also made remarks suggesting he might not offer assistance if Democrats win the electoral contests."
+    },
+    {
+      "type": "paragraph",
+      "text": "The developments highlight the intense political rhetoric and strategic alignments shaping the current electoral landscape."
+    },
+    {
+      "type": "paragraph",
+      "text": "Analysts and voters will continue to watch how these campaign rallies impact voter sentiment and legislative outcomes ahead of the elections."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Trump defiant about midterm chances as he rallies for Republicans in Ohio - Al Jazeera"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "searchers-find-debris-of-boston-bound-medical-plane-that-went-missing-off-nantuc-1791119676",
   "category": "world",
   "headline": "Searchers find debris of Boston-bound medical plane that went missing off Nantucket - The Boston Globe",

@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "openai-launches-dots-personal-ai-assistant-built-to-handle-everything-al-jazeera-1791157171",
+  "category": "technology",
+  "headline": "OpenAI launches ‘dots,’ personal AI assistant ‘built to handle everything’ - Al Jazeera",
+  "dek": "OpenAI has released 'dots,' a new personal AI assistant designed to handle diverse tasks.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-04T23:39:31Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791157169_8053.png",
+  "imageAlt": "OpenAI launches ‘dots,’ personal AI assistant ‘built to handle everything’ - Al Jazeera",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "technology"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "OpenAI has announced the official launch of 'dots,' a new personal artificial intelligence assistant described as being built to handle everything. The rollout represents a major expansion of OpenAI's consumer-facing product lineup into comprehensive personal digital management."
+    },
+    {
+      "type": "paragraph",
+      "text": "The newly introduced assistant is positioned to streamline a wide variety of daily workflows and user interactions. While exact technical specifications remain limited in initial reports, the platform is framed as a versatile tool for everyday use."
+    },
+    {
+      "type": "paragraph",
+      "text": "The release comes as competition intensifies within the personal artificial intelligence sector. Technology companies are increasingly focusing on deeply integrated assistants designed to manage multiple facets of digital life."
+    },
+    {
+      "type": "paragraph",
+      "text": "For global markets, the introduction of 'dots' could accelerate demand for advanced AI hardware and software integration. Industry participants are evaluating the potential disruptions to existing productivity tools and consumer software ecosystems."
+    },
+    {
+      "type": "paragraph",
+      "text": "As deployment gets underway, regulators and privacy advocates will likely scrutinize how personal data is handled by the new assistant. Enterprise adoption trends will also provide early signals regarding workforce integration."
+    },
+    {
+      "type": "paragraph",
+      "text": "Observers will be watching for subsequent feature rollouts, pricing structures, and regional availability details. Further updates from OpenAI are expected to clarify the full scope of capabilities and platform compatibility."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "OpenAI launches ‘dots,’ personal AI assistant ‘built to handle everything’ - Al Jazeera"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "brazils-bolsonaro-takes-early-lead-as-results-trickle-in-for-high-stakes-electio-1791154554",
   "category": "world",
   "headline": "Brazil's Bolsonaro takes early lead as results trickle in for high-stakes election - Reuters",

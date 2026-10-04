@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "sensex-crashes-1000-points-rs-9-lakh-crore-wiped-out-as-foreign-investors-sell-i-1791132073",
+  "category": "economy",
+  "headline": "Sensex Crashes 1,000 Points: Rs 9 Lakh Crore Wiped Out As Foreign Investors Sell Indian Stocks En-Masse - NDTV",
+  "dek": "Bombay Stock Exchange benchmark Sensex falls 1,000 points, wiping out Rs 9 lakh crore as foreign investors sell Indian stocks en-masse.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-04T16:41:13Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791132072_4688.png",
+  "imageAlt": "Sensex Crashes 1,000 Points: Rs 9 Lakh Crore Wiped Out As Foreign Investors Sell Indian Stocks En-Masse - NDTV",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "economy"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "The Bombay Stock Exchange benchmark Sensex experienced a sharp downturn, crashing 1,000 points in recent trading sessions."
+    },
+    {
+      "type": "paragraph",
+      "text": "The sudden and steep market decline resulted in an estimated Rs 9 lakh crore being wiped out from total investor wealth."
+    },
+    {
+      "type": "paragraph",
+      "text": "According to market reports, the primary catalyst behind the massive loss of capital was heavy, en-masse selling of Indian stocks by foreign investors."
+    },
+    {
+      "type": "paragraph",
+      "text": "Such large-scale capital withdrawals by foreign institutional investors can exert immediate downward pressure on domestic asset prices and overall market sentiment."
+    },
+    {
+      "type": "paragraph",
+      "text": "The dramatic loss underscores the direct exposure of Indian equities to shifts in global portfolio allocations and foreign liquidity trends."
+    },
+    {
+      "type": "paragraph",
+      "text": "Market observers and analysts will closely watch upcoming institutional trading data, foreign fund flow metrics, and broader domestic economic policy responses to gauge potential recovery paths."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Sensex Crashes 1,000 Points: Rs 9 Lakh Crore Wiped Out As Foreign Investors Sell Indian Stocks En-Masse - NDTV"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "sensex-crashes-1000-points-rs-9-lakh-crore-wiped-out-as-foreign-investors-sell-i-1791129232",
   "category": "economy",
   "headline": "Sensex Crashes 1,000 Points: Rs 9 Lakh Crore Wiped Out As Foreign Investors Sell Indian Stocks En-Masse - NDTV",

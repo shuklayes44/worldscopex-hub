@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "india-is-going-beyond-advocacy-on-the-russia-ukraine-conflict-jaishankar-thehind-1791139220",
+  "category": "india",
+  "headline": "India is going ‘beyond advocacy’ on the Russia-Ukraine conflict: Jaishankar - thehindu.com",
+  "dek": "External Affairs Minister S. Jaishankar announced that India is moving beyond advocacy in the Russia-Ukraine conflict by engaging with both Kyiv and Moscow.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-04T18:40:20Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791139218_6700.png",
+  "imageAlt": "India is going ‘beyond advocacy’ on the Russia-Ukraine conflict: Jaishankar - thehindu.com",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Indian External Affairs Minister S. Jaishankar announced a notable shift in New Delhi's diplomatic approach regarding the Russia-Ukraine conflict, stating that the nation is now moving \"beyond advocacy.\" The policy adjustment involves active engagement with both Moscow and Kyiv as geopolitical dynamics continue to evolve."
+    },
+    {
+      "type": "paragraph",
+      "text": "Speaking at the Munich Security Conference, Jaishankar emphasized the historical ties between New Delhi and Moscow. He specifically pointed out that Russia stood by India when the country's territorial integrity was under threat, reinforcing the enduring nature of the bilateral relationship."
+    },
+    {
+      "type": "paragraph",
+      "text": "Alongside these diplomatic developments, economic and labor ties are expanding significantly. Moscow is reportedly set to take 70,000 skilled Indian workers, a move that highlights the ongoing cooperation between the two governments across multiple sectors."
+    },
+    {
+      "type": "paragraph",
+      "text": "This strategic recalibration underscores India's commitment to maintaining its traditional partnerships while navigating complex international conflicts. By engaging with both sides of the Russia-Ukraine crisis, New Delhi seeks to protect its national interests and ensure energy and economic security."
+    },
+    {
+      "type": "paragraph",
+      "text": "Market analysts and foreign policy experts are closely monitoring these developments to assess the broader implications for international trade, migration, and diplomatic stability. The expanded labor agreement and shifting diplomatic posture signal a pragmatic phase in India-Russia relations."
+    },
+    {
+      "type": "paragraph",
+      "text": "As New Delhi continues to execute this multifaceted foreign policy, policymakers will be watching for potential impacts on global supply chains and regional security frameworks. Further updates on the deployment of skilled Indian workers and diplomatic exchanges are expected in the coming months."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "India is going ‘beyond advocacy’ on the Russia-Ukraine conflict: Jaishankar - thehindu.com"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "cornell-president-calls-gang-rape-allegations-deeply-disturbing-npr-1791137701",
   "category": "world",
   "headline": "Cornell president calls gang rape allegations ‘deeply disturbing’ - NPR",

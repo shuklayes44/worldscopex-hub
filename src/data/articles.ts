@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "cornell-president-calls-gang-rape-allegations-deeply-disturbing-npr-1791137701",
+  "category": "world",
+  "headline": "Cornell president calls gang rape allegations ‘deeply disturbing’ - NPR",
+  "dek": "Cornell University President addresses deeply disturbing gang rape allegations as legal and disciplinary scrutiny intensifies.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-04T18:15:01Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791137699_5335.png",
+  "imageAlt": "Cornell president calls gang rape allegations ‘deeply disturbing’ - NPR",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Cornell University President has publicly characterized ongoing gang rape allegations as deeply disturbing, bringing renewed national attention to campus safety and accountability."
+    },
+    {
+      "type": "paragraph",
+      "text": "The unfolding situation centers on how Cornell University formally punished each of the seven men accused of sexual assault in connection with the case."
+    },
+    {
+      "type": "paragraph",
+      "text": "Legal developments have further intensified scrutiny around the incident, with the accuser's attorney reporting that the student is facing active threats demanding the dismissal of her ongoing lawsuit."
+    },
+    {
+      "type": "paragraph",
+      "text": "Additional evidentiary details indicate that a picture of the accuser, referred to as Jane Doe, was circulated within a Snapchat group on the very night the alleged rape occurred."
+    },
+    {
+      "type": "paragraph",
+      "text": "As institutional policy responses and legal battles unfold, observers and university stakeholders are closely watching how educational administrators handle campus safety, disciplinary protocols, and the protection of complainants."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Cornell president calls gang rape allegations ‘deeply disturbing’ - NPR"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "any-process-taking-away-voting-rights-of-millions-of-citizens-is-unjustifiable-n-1791136027",
   "category": "india",
   "headline": "Any Process Taking Away Voting Rights Of Millions Of Citizens Is Unjustifiable, No Court Can Condone It:... - Live Law",

@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "us-marine-arrested-on-suspicion-of-killing-japanese-woman-in-okinawa-nbc-news-1791123969",
+  "category": "world",
+  "headline": "U.S. Marine arrested on suspicion of killing Japanese woman in Okinawa - NBC News",
+  "dek": "A U.S. Marine's arrest in Okinawa for the suspected murder of a Japanese woman has drawn an official protest from Tokyo.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-04T14:26:09Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791123967_8124.png",
+  "imageAlt": "U.S. Marine arrested on suspicion of killing Japanese woman in Okinawa - NBC News",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Japanese police have arrested a U.S. Marine on suspicion of killing a Japanese woman in Okinawa, according to reports from NBC News and other outlets. Officials have characterized the incident as a brutal and heinous crime involving a member of the United States armed forces stationed in the area."
+    },
+    {
+      "type": "paragraph",
+      "text": "The arrest has immediately reverberated through diplomatic channels, drawing an official protest from the government in Tokyo. The diplomatic friction underscores the persistent sensitivities surrounding foreign military presence and legal jurisdiction issues in the region."
+    },
+    {
+      "type": "paragraph",
+      "text": "Local communities in Okinawa have historically expressed concerns regarding the footprint and conduct of foreign military personnel. Incidents of serious crime involving service members often reignite debates over the status of forces agreements and oversight protocols between the allied nations."
+    },
+    {
+      "type": "paragraph",
+      "text": "The U.S. military command has faced pressure to ensure full cooperation with Japanese authorities as the investigation proceeds. Stakeholders and diplomats will monitor how both governments handle the legal proceedings and whether the case prompts broader policy reviews."
+    },
+    {
+      "type": "paragraph",
+      "text": "As the investigation develops, attention will focus on official statements from both the U.S. military and Japanese officials regarding accountability, cooperation, and potential measures to address public safety concerns in Okinawa."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "U.S. Marine arrested on suspicion of killing Japanese woman in Okinawa - NBC News"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "trump-defiant-about-midterm-chances-as-he-rallies-for-republicans-in-ohio-al-jaz-1791121414",
   "category": "world",
   "headline": "Trump defiant about midterm chances as he rallies for Republicans in Ohio - Al Jazeera",

@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "will-nifty-sensex-plunge-for-9th-straight-week-tcs-q2-rbi-mpc-among-4-factors-to-1791117465",
+  "category": "economy",
+  "headline": "Will Nifty, Sensex plunge for 9th straight week? TCS Q2, RBI MPC among 4 factors to drive Dalal Street fro - The Economic Times",
+  "dek": "Dalal Street faces a historic ninth consecutive weekly decline as investors await key corporate earnings and central bank policy decisions.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-04T12:37:45Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791117463_3347.png",
+  "imageAlt": "Will Nifty, Sensex plunge for 9th straight week? TCS Q2, RBI MPC among 4 factors to drive Dalal Street fro - The Economic Times",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "economy"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Indian benchmark indices Nifty and Sensex are under close scrutiny as financial markets assess the possibility of plunging for a ninth straight week. Market analysts indicate that investor sentiment remains cautious ahead of multiple high-impact economic drivers."
+    },
+    {
+      "type": "paragraph",
+      "text": "Among the primary catalysts shaping Dalal Street direction are the upcoming second-quarter earnings results from Tata Consultancy Services. These corporate disclosures are traditionally viewed as a bellwether for broader corporate sector performance and technology sector health in India."
+    },
+    {
+      "type": "paragraph",
+      "text": "Simultaneously, the Reserve Bank of India Monetary Policy Committee is set to convene, drawing significant attention from institutional investors and market participants. Policy decisions and commentary from the central bank regarding interest rates and liquidity will heavily influence market trajectories."
+    },
+    {
+      "type": "paragraph",
+      "text": "In addition to TCS Q2 results and the RBI MPC deliberations, two other macroeconomic factors will collectively drive trading activity across Indian exchanges. These combined variables create a pivotal juncture for domestic equities as they attempt to break the ongoing weekly losing streak."
+    },
+    {
+      "type": "paragraph",
+      "text": "Market observers note that the outcome of these intersecting factors will dictate whether equities stabilize or extend their downward trend. Stakeholders across the financial sector will monitor upcoming announcements for definitive signals regarding macroeconomic resilience and corporate earnings growth in India."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Will Nifty, Sensex plunge for 9th straight week? TCS Q2, RBI MPC among 4 factors to drive Dalal Street fro - The Economic Times"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "yemens-army-says-targets-houthis-in-hundreds-of-strikes-killing-700-al-jazeera-1791112842",
   "category": "india",
   "headline": "Yemen’s army says targets Houthis in hundreds of strikes, killing 700 - Al Jazeera",

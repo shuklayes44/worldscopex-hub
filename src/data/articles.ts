@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "uae-had-shared-details-about-flydubai-flight-with-israel-including-pilots-names-1791181133",
+  "category": "world",
+  "headline": "UAE had shared details about FlyDubai flight with Israel, including pilots' names and nationalities, officials tell AP - AP News",
+  "dek": "UAE officials confirm sharing FlyDubai flight details with Israel amid a severe aviation security breach.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-05T06:18:53Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791181131_3346.png",
+  "imageAlt": "UAE had shared details about FlyDubai flight with Israel, including pilots' names and nationalities, officials tell AP - AP News",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "The United Arab Emirates shared detailed information regarding a FlyDubai flight with Israel, including the names and nationalities of the pilots operating the aircraft, according to officials speaking to the Associated Press."
+    },
+    {
+      "type": "paragraph",
+      "text": "The disclosure highlights heightened intelligence-sharing arrangements following a serious security incident involving the airline."
+    },
+    {
+      "type": "paragraph",
+      "text": "Multiple security failures reportedly allowed an unauthorized individual into the cockpit during the flight, exposing significant vulnerabilities in commercial aviation."
+    },
+    {
+      "type": "paragraph",
+      "text": "The alleged FlyDubai attacker had reportedly left Australia without completing an engineering course, according to university records cited in reports."
+    },
+    {
+      "type": "paragraph",
+      "text": "The incident has laid bare worrying gaps in international aviation security and cockpit safety protocols, prompting urgent reviews by industry authorities."
+    },
+    {
+      "type": "paragraph",
+      "text": "Global regulators and airlines are expected to reassess background check procedures and physical cockpit barrier protocols to prevent similar security breaches in the future."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "UAE had shared details about FlyDubai flight with Israel, including pilots' names and nationalities, officials tell AP - AP News"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "us-monitoring-suspected-fatal-pneumonic-plague-case-in-russia-state-department-o-1791175848",
   "category": "world",
   "headline": "US monitoring suspected fatal pneumonic plague case in Russia, State Department official says - Fox News",

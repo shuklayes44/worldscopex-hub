@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "central-government-notifies-appointment-of-3-new-supreme-court-judges-bar-and-be-1791235709",
+  "category": "india",
+  "headline": "Central government notifies appointment of 3 new Supreme Court judges - Bar and Bench",
+  "dek": "Central government notifies the appointment of Justices Sunita Agarwal, DK Upadhyaya, and Aparesh Kumar Singh as Supreme Court judges.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-05T21:28:29Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791235706_7813.png",
+  "imageAlt": "Central government notifies appointment of 3 new Supreme Court judges - Bar and Bench",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "The central government has officially notified the appointment of three new judges to the Supreme Court of India, marking a notable development in the country's judicial administration. The notifications confirm the elevation of Justices Sunita Agarwal, DK Upadhyaya, and Aparesh Kumar Singh to the apex court."
+    },
+    {
+      "type": "paragraph",
+      "text": "The newly elevated jurists bring extensive judicial experience to the national bench. Prior to their appointments to the Supreme Court, all three judges served as Chief Justices within the Indian judicial system."
+    },
+    {
+      "type": "paragraph",
+      "text": "The transition from their respective Chief Justice roles to the Supreme Court follows established collegium resolution processes and subsequent government notification. These appointments are part of ongoing administrative adjustments within India's highest judicial tier."
+    },
+    {
+      "type": "paragraph",
+      "text": "Strengthening the complement of judges at the apex level remains a key operational priority for managing the extensive caseload handled by the Supreme Court. The inclusion of experienced Chief Justices is intended to support judicial capacity and efficiency."
+    },
+    {
+      "type": "paragraph",
+      "text": "Observers and legal analysts will continue to monitor the formal swearing-in procedures and subsequent bench allocations for the newly appointed judges. Further administrative orders regarding court dockets and case distributions are anticipated as they officially assume office."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Central government notifies appointment of 3 new Supreme Court judges - Bar and Bench"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "us-officials-seeking-details-of-reported-russian-plague-death-quarantines-the-wa-1791229321",
   "category": "world",
   "headline": "U.S. officials seeking details of reported Russian plague death, quarantines - The Washington Post",

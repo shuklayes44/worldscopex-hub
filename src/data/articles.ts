@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "delhi-cop-accused-of-sexually-harassing-woman-gets-promotion-ndtv-1791236051",
+  "category": "india",
+  "headline": "Delhi Cop, Accused Of Sexually Harassing Woman, Gets Promotion - NDTV",
+  "dek": "A Delhi police officer accused of sexual harassment has received a promotion amid ongoing protests demanding action.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-05T21:34:11Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791236049_5338.png",
+  "imageAlt": "Delhi Cop, Accused Of Sexually Harassing Woman, Gets Promotion - NDTV",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "A Delhi police officer who faced allegations of sexually harassing a woman has been awarded a promotion, according to recent media reports and updates from the region. The decision has emerged amid heightened public attention and demonstrations seeking accountability from law enforcement authorities."
+    },
+    {
+      "type": "paragraph",
+      "text": "The development has added tension to ongoing protests, where demonstrators are actively demanding strict measures and legal action against police personnel accused of misconduct. Tensions remain elevated as civil society groups and protesters monitor the official response to these grievances."
+    },
+    {
+      "type": "paragraph",
+      "text": "The incident highlights ongoing concerns regarding the handling of internal disciplinary cases and institutional transparency within law enforcement bodies. Questions surrounding the promotion criteria for personnel facing active allegations have become a central focus of public discussion."
+    },
+    {
+      "type": "paragraph",
+      "text": "Journalists and media personnel covering the ongoing demonstrations have been advised by authorities to carry valid identification cards and maintain a reasonable distance to ensure safety. The administrative advisory reflects the challenging conditions on the ground as public demonstrations continue."
+    },
+    {
+      "type": "paragraph",
+      "text": "Further developments are expected as public pressure mounts for a review of disciplinary protocols and greater accountability within the force. Observers will be closely watching how institutional leadership addresses the growing calls for transparency and justice."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Delhi Cop, Accused Of Sexually Harassing Woman, Gets Promotion - NDTV"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "central-government-notifies-appointment-of-3-new-supreme-court-judges-bar-and-be-1791235709",
   "category": "india",
   "headline": "Central government notifies appointment of 3 new Supreme Court judges - Bar and Bench",

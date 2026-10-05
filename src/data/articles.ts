@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "women-in-delhi-must-feel-safe-even-walking-alone-at-night-men-should-fear-commit-1791228214",
+  "category": "india",
+  "headline": "'Women In Delhi Must Feel Safe Even Walking Alone At Night; Men Should Fear Committing Sexual Offences' : ... - Live Law",
+  "dek": "Supreme Court directs Delhi Police to establish 24-hour monitoring cells to ensure women's safety at night.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-05T19:23:34Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791228211_6960.png",
+  "imageAlt": "'Women In Delhi Must Feel Safe Even Walking Alone At Night; Men Should Fear Committing Sexual Offences' : ... - Live Law",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "The Supreme Court has issued a stern directive to Delhi Police and the Centre, demanding that women in the national capital must feel completely safe even when walking alone at night. The apex court emphasized that sexual offences must be met with an environment where perpetrators genuinely fear the consequences of committing such crimes."
+    },
+    {
+      "type": "paragraph",
+      "text": "As part of the judicial directive, authorities have been ordered to set up dedicated 24-hour monitoring cells specifically aimed at preventing sexual offences and swiftly responding to security threats. The intervention follows judicial scrutiny regarding public safety during late hours, with the bench explicitly noting the necessity of ensuring security even by 10 pm and 11 pm."
+    },
+    {
+      "type": "paragraph",
+      "text": "The ruling places heightened accountability on law enforcement agencies to restructure their patrolling and emergency response mechanisms. By demanding round-the-clock surveillance and preventive measures, the court aims to address persistent systemic vulnerabilities affecting women's mobility in urban public spaces."
+    },
+    {
+      "type": "paragraph",
+      "text": "Legal experts and policy analysts note that the directive marks a significant escalation in judicial oversight concerning municipal law enforcement and women's safety protocols. The emphasis on strict deterrence targets a shift in institutional culture toward proactive protection rather than reactive policing."
+    },
+    {
+      "type": "paragraph",
+      "text": "Observers will be closely monitoring how the Delhi Police and central authorities implement the mandated 24-hour monitoring cells. Further judicial reviews are expected as compliance reports regarding the newly ordered safety measures are submitted to the top court."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "'Women In Delhi Must Feel Safe Even Walking Alone At Night; Men Should Fear Committing Sexual Offences' : ... - Live Law"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "us-and-german-scientists-win-nobel-medicine-prize-for-work-on-light-and-brain-re-1791226424",
   "category": "india",
   "headline": "US and German scientists win Nobel medicine prize for work on light and brain - Reuters",

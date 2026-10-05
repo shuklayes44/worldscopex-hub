@@ -92,6 +92,53 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "new-supreme-court-term-begins-with-justices-stumped-by-climate-change-case-nbc-n-1791242643",
+  "category": "world",
+  "headline": "New Supreme Court term begins with justices stumped by climate change case - NBC News",
+  "dek": "U.S. Supreme Court justices wrestle with a pivotal climate change case that could redefine nationwide corporate liability.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-05T23:24:03Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791242640_3014.png",
+  "imageAlt": "New Supreme Court term begins with justices stumped by climate change case - NBC News",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "The United States Supreme Court has officially opened its new term, with justices immediately confronting a complex and high-stakes climate change case that has left the bench visibly divided. At the center of the legal confrontation is an oil companies' bid to contest climate accountability actions brought by local governments. The proceedings are drawing intense scrutiny from legal analysts, policymakers, and industry executives alike."
+    },
+    {
+      "type": "paragraph",
+      "text": "The central question before the high court involves whether state courts or federal law should govern lawsuits seeking damages from energy producers for greenhouse gas emissions. Observers note that the legal arguments extend far beyond traditional regulatory disputes, touching upon foundational questions of corporate liability. Major energy corporations argue that localized lawsuits threaten a fragmented and unworkable regulatory landscape."
+    },
+    {
+      "type": "paragraph",
+      "text": "Conversely, municipal plaintiffs and environmental advocates maintain that accountability measures are necessary to address mounting infrastructure costs associated with extreme weather events. The scope of the litigation encompasses numerous jurisdictions, meaning the court's ultimate determination will carry nationwide ramifications. Financial markets and energy sector analysts are monitoring the developments closely for potential impacts on corporate valuation and operational compliance."
+    },
+    {
+      "type": "paragraph",
+      "text": "The ongoing deliberations highlight the judiciary's struggle to define appropriate legal remedies for systemic global challenges like climate change. As the arguments unfold, legal scholars emphasize that the court's decision could permanently alter the trajectory of environmental jurisprudence in the United States. Observers anticipate that the justices will issue a ruling later in the term that defines the boundaries of corporate accountability for climate impacts."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "New Supreme Court term begins with justices stumped by climate change case - NBC News"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "us-b-1-bombers-evacuated-from-uk-base-after-attack-threats-from-iran-axios-1791241072",
   "category": "world",
   "headline": "U.S. B-1 bombers evacuated from UK base after attack threats from Iran - Axios",

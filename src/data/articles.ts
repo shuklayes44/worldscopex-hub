@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "us-and-german-scientists-win-nobel-medicine-prize-for-work-on-light-and-brain-re-1791226424",
+  "category": "india",
+  "headline": "US and German scientists win Nobel medicine prize for work on light and brain - Reuters",
+  "dek": "US and German researchers win the Nobel Prize in Physiology or Medicine for pioneering optogenetics work.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-05T18:53:44Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791226421_6595.png",
+  "imageAlt": "US and German scientists win Nobel medicine prize for work on light and brain - Reuters",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "US and German scientists have officially won the Nobel Prize in Physiology or Medicine for their groundbreaking work on light and the brain. The announcement was made by the Nobel Committee, highlighting the profound scientific impact of their research."
+    },
+    {
+      "type": "paragraph",
+      "text": "The awarded work focuses on optogenetics, a revolutionary technique that merges optics and genetics to control the activity of individual brain cells using light. This methodology has transformed the field of neuroscience since its development."
+    },
+    {
+      "type": "paragraph",
+      "text": "By utilizing light-sensitive proteins, researchers can activate or silence specific neurons with high precision. This unprecedented control allows scientists to map complex neural circuits and observe how specific brain activity relates to behavior."
+    },
+    {
+      "type": "paragraph",
+      "text": "The recognition underscores the fundamental importance of basic biological research in unlocking the complexities of the human nervous system. Understanding these neural pathways is critical for addressing complex neurological conditions."
+    },
+    {
+      "type": "paragraph",
+      "text": "The insights gained from optogenetics lay the groundwork for future clinical interventions targeting brain disorders. Medical researchers globally continue to leverage these tools to explore potential treatments for conditions that have long eluded science."
+    },
+    {
+      "type": "paragraph",
+      "text": "As the scientific community reacts to the 2026 Nobel Prize announcement, attention shifts to how these foundational discoveries will accelerate neurological research and therapeutic development in the years ahead."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "US and German scientists win Nobel medicine prize for work on light and brain - Reuters"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "british-airways-flight-from-london-to-chicago-declares-emergency-over-ireland-nd-1791221238",
   "category": "india",
   "headline": "British Airways Flight From London To Chicago Declares Emergency Over Ireland - NDTV",

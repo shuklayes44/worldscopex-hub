@@ -92,6 +92,53 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "ai-bubble-fears-are-starting-to-spill-over-futurism-1791239146",
+  "category": "technology",
+  "headline": "AI Bubble Fears Are Starting to Spill Over - Futurism",
+  "dek": "Market anxiety surrounding artificial intelligence investments is beginning to spread across broader financial sectors.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-05T22:25:46Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791239143_7983.png",
+  "imageAlt": "AI Bubble Fears Are Starting to Spill Over - Futurism",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "technology"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Concerns regarding an artificial intelligence investment bubble are reportedly expanding beyond initial boundaries, according to recent reports from Futurism. The development highlights growing caution among investors and analysts monitoring the technology sector."
+    },
+    {
+      "type": "paragraph",
+      "text": "Market observers are increasingly scrutinizing the massive capital expenditures being poured into artificial intelligence infrastructure by major firms. Questions regarding the timeline and certainty of financial returns are driving this cautious reassessment."
+    },
+    {
+      "type": "paragraph",
+      "text": "The sentiment shift reflects broader uncertainties about whether current valuation levels across the technology industry are sustainable in the near term. Such anxieties often trigger broader ramifications for related markets and venture funding ecosystems."
+    },
+    {
+      "type": "paragraph",
+      "text": "Industry stakeholders are closely watching how corporate leadership addresses these profitability timelines during upcoming strategic updates. Market responses to these developments could influence broader economic sentiment and technology sector allocations moving forward."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "AI Bubble Fears Are Starting to Spill Over - Futurism"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "teenager-loses-hand-in-blast-amid-french-school-protest-clashes-al-jazeera-1791237745",
   "category": "india",
   "headline": "Teenager loses hand in blast amid French school protest clashes - Al Jazeera",

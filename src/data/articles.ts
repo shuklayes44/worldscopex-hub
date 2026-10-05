@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "russian-lab-worker-dies-of-suspected-plague-as-200-enter-medical-observation-nbc-1791219186",
+  "category": "world",
+  "headline": "Russian lab worker dies of suspected plague as 200 enter medical observation - NBC News",
+  "dek": "A Russian lab worker has died of a suspected plague, placing around 200 individuals under medical observation.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-05T16:53:06Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791219183_6599.png",
+  "imageAlt": "Russian lab worker dies of suspected plague as 200 enter medical observation - NBC News",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "A researcher at a Russian plague laboratory has died following an infection of suspected plague, according to recent reports. Authorities have placed approximately 200 individuals under medical observation as a precautionary containment measure."
+    },
+    {
+      "type": "paragraph",
+      "text": "Dozens of people have been quarantined in the wake of the incident, which drew international attention to safety protocols at the facility."
+    },
+    {
+      "type": "paragraph",
+      "text": "Russian officials have played down fears of an outbreak and denied that any laboratory accident occurred. The official stance attributes the scientist's death to pneumonia of unknown origin."
+    },
+    {
+      "type": "paragraph",
+      "text": "In response to the reported incident, United States officials are actively seeking details and clarification from Moscow regarding the event."
+    },
+    {
+      "type": "paragraph",
+      "text": "The situation underscores ongoing global sensitivities surrounding high-containment biological laboratories and infectious disease safety."
+    },
+    {
+      "type": "paragraph",
+      "text": "Stakeholders and international observers will continue to monitor official disclosures for verification of the pathogen involved and the status of those quarantined."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Russian lab worker dies of suspected plague as 200 enter medical observation - NBC News"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "pm-modi-swiss-president-guy-parmelin-hold-talks-india-and-switzerland-sign-five-1791216183",
   "category": "india",
   "headline": "PM Modi, Swiss President Guy Parmelin hold talks, India and Switzerland sign five agreements - News On AIR",

@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "us-withdraws-b-1-bomber-aircraft-from-uks-fairford-base-amid-iran-fears-al-jazee-1791191820",
+  "category": "world",
+  "headline": "US withdraws B-1 bomber aircraft from UK’s Fairford base amid Iran fears - Al Jazeera",
+  "dek": "US withdraws all B-1 bomber aircraft from RAF Fairford in the UK amid Iran-related security concerns.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-05T09:17:00Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791191818_3027.png",
+  "imageAlt": "US withdraws B-1 bomber aircraft from UK’s Fairford base amid Iran fears - Al Jazeera",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "The United States military has ordered the complete withdrawal of all B-1 bomber aircraft from the UK's RAF Fairford base. The swift redeployment comes amid escalating fears involving Iran and newly emerged regional security threats."
+    },
+    {
+      "type": "paragraph",
+      "text": "According to reports from multiple news agencies, including Al Jazeera and the Wall Street Journal, the aircraft are currently returning directly to the United States from the British air facility."
+    },
+    {
+      "type": "paragraph",
+      "text": "The sudden movement of strategic air assets follows a reported security incident and heightened threat assessments surrounding Western military installations."
+    },
+    {
+      "type": "paragraph",
+      "text": "RAF Fairford has historically served as a critical forward operating location for United States strategic bombers conducting training and deterrence missions in the European theater."
+    },
+    {
+      "type": "paragraph",
+      "text": "Military analysts note that the rapid withdrawal underscores the heightened state of force protection and readiness required amid persistent geopolitical tensions involving Iran."
+    },
+    {
+      "type": "paragraph",
+      "text": "Further updates from defense officials are expected as the strategic bombers complete their transit back to domestic bases within the United States."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "US withdraws B-1 bomber aircraft from UK’s Fairford base amid Iran fears - Al Jazeera"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "us-removes-all-bombers-from-raf-fairford-base-bbc-1791185764",
   "category": "world",
   "headline": "US removes all bombers from RAF Fairford base - BBC",

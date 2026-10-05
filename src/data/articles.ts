@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "pm-modi-swiss-president-guy-parmelin-hold-talks-india-and-switzerland-sign-five-1791216183",
+  "category": "india",
+  "headline": "PM Modi, Swiss President Guy Parmelin hold talks, India and Switzerland sign five agreements - News On AIR",
+  "dek": "Prime Minister Narendra Modi and Swiss President Guy Parmelin signed five agreements following bilateral talks in New Delhi.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-05T16:03:03Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791216181_7425.png",
+  "imageAlt": "PM Modi, Swiss President Guy Parmelin hold talks, India and Switzerland sign five agreements - News On AIR",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Prime Minister Narendra Modi and Swiss President Guy Parmelin have held official talks, culminating in the signing of five agreements aimed at strengthening bilateral relations between India and Switzerland."
+    },
+    {
+      "type": "paragraph",
+      "text": "The newly signed pacts encompass a migration agreement alongside initiatives designed to systematically expand trade, investment, and defense ties between the two nations."
+    },
+    {
+      "type": "paragraph",
+      "text": "During discussions, Swiss President Guy Parmelin noted in an interview with NDTV that international businesses increasingly view India as a serious long-term partner."
+    },
+    {
+      "type": "paragraph",
+      "text": "Highlighting the broader economic framework, Prime Minister Modi pointed out that India's current arrangement represents its first free trade agreement with any economic bloc in Europe."
+    },
+    {
+      "type": "paragraph",
+      "text": "The cooperation framework underscores a mutual commitment to deepening economic integration and fostering closer strategic dialogue across multiple sectors."
+    },
+    {
+      "type": "paragraph",
+      "text": "Both governments are expected to oversee the implementation of the five agreements to ensure tangible benefits for trade, workforce mobility, and defense collaboration moving forward."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "PM Modi, Swiss President Guy Parmelin hold talks, India and Switzerland sign five agreements - News On AIR"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "sensex-today-trades-higher-nifty-above-22550-bajaj-finance-itc-top-gainers-equit-1791212896",
   "category": "economy",
   "headline": "Sensex Today Trades Higher | Nifty Above 22,550 | Bajaj Finance & ITC Top Gainers - Equitymaster",

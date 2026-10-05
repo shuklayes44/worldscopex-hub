@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "india-emerges-as-fastest-growing-major-economy-on-back-of-policy-reforms-itc-cha-1791198238",
+  "category": "economy",
+  "headline": "India emerges as fastest-growing major economy on back of policy reforms: ITC Chairman - ET Government",
+  "dek": "ITC Chairman highlights India's position as the world's fastest-growing major economy following policy reforms.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-05T11:03:58Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791198235_7715.png",
+  "imageAlt": "India emerges as fastest-growing major economy on back of policy reforms: ITC Chairman - ET Government",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "economy"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "India has solidified its status as the fastest-growing major economy globally, supported by a series of targeted policy reforms, according to comments made by the ITC Chairman."
+    },
+    {
+      "type": "paragraph",
+      "text": "The economic milestone reflects structural improvements and strategic adjustments implemented across various domestic sectors."
+    },
+    {
+      "type": "paragraph",
+      "text": "Policy reforms have played a central role in strengthening the country's macroeconomic foundation and improving overall competitiveness."
+    },
+    {
+      "type": "paragraph",
+      "text": "Business leaders and market observers continue to evaluate the long-term implications of these regulatory changes on domestic and foreign investment."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sustained growth momentum will depend on ongoing execution and adaptation to shifting global economic conditions."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "India emerges as fastest-growing major economy on back of policy reforms: ITC Chairman - ET Government"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "supreme-court-seeks-detailed-plan-from-government-on-proposed-relocation-of-cent-1791195862",
   "category": "india",
   "headline": "Supreme Court seeks detailed plan from government on proposed relocation of Central Secretariat Library - Bar and Bench",

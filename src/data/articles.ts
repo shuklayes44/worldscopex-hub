@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "us-officials-seeking-details-of-reported-russian-plague-death-quarantines-the-wa-1791229321",
+  "category": "world",
+  "headline": "U.S. officials seeking details of reported Russian plague death, quarantines - The Washington Post",
+  "dek": "United States officials are monitoring a reported fatal pneumonic plague case and quarantines in Russia.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-05T19:42:01Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791229319_4183.png",
+  "imageAlt": "U.S. officials seeking details of reported Russian plague death, quarantines - The Washington Post",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "United States officials are actively seeking details regarding a reported fatal case of pneumonic plague in Russia that is reportedly linked to a lab worker's death. The U.S. State Department confirmed it is monitoring the situation, which involves reports of a fatality and subsequent quarantines."
+    },
+    {
+      "type": "paragraph",
+      "text": "The incident has drawn international attention, prompting inquiries into the circumstances surrounding the suspected case. Public health agencies are reviewing the nature of pneumonic plague and assessing the potential dangers associated with the reported event."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pneumonic plague is a severe form of plague that affects the lungs and can be transmitted between individuals, making containment protocols critical for public safety. Media reports indicate that the case is tied specifically to a laboratory worker in Russia."
+    },
+    {
+      "type": "paragraph",
+      "text": "International monitoring of such incidents is standard protocol to prevent potential cross-border transmission and to evaluate adherence to biosafety standards in research facilities. Global health authorities remain vigilant as more details emerge from official channels."
+    },
+    {
+      "type": "paragraph",
+      "text": "Observers and public health officials will continue to watch for official verifications and updates from Russian authorities regarding the quarantines and the exact cause and context of the lab worker's death."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "U.S. officials seeking details of reported Russian plague death, quarantines - The Washington Post"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "women-in-delhi-must-feel-safe-even-walking-alone-at-night-men-should-fear-commit-1791228214",
   "category": "india",
   "headline": "'Women In Delhi Must Feel Safe Even Walking Alone At Night; Men Should Fear Committing Sexual Offences' : ... - Live Law",

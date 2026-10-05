@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "teenager-loses-hand-in-blast-amid-french-school-protest-clashes-al-jazeera-1791237745",
+  "category": "india",
+  "headline": "Teenager loses hand in blast amid French school protest clashes - Al Jazeera",
+  "dek": "A teenager lost a hand during violent clashes between student protesters and police in France, prompting nationwide school closures.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-05T22:02:25Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791237742_7607.png",
+  "imageAlt": "Teenager loses hand in blast amid French school protest clashes - Al Jazeera",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "A teenager has lost a hand in a blast during confrontations between student protesters and police in France, according to recent reports. The incident occurred as the country braces for a significant national day of student demonstrations and unrest."
+    },
+    {
+      "type": "paragraph",
+      "text": "Hundreds of schools are expected to shut down on October 5 as student protests continue to rock various regions across France. The confrontation highlights intensifying tensions between demonstrators and security forces managing the widespread student movement."
+    },
+    {
+      "type": "paragraph",
+      "text": "The severe injury resulting from the blast underscores the escalating physical risks associated with ongoing civil demonstrations. Public safety concerns have moved to the forefront as authorities attempt to contain the expanding wave of campus unrest."
+    },
+    {
+      "type": "paragraph",
+      "text": "The widespread school closures and violent clashes threaten further disruption to educational institutions and public order throughout the nation. Economic and social ramifications are drawing close attention as security protocols are reviewed."
+    },
+    {
+      "type": "paragraph",
+      "text": "Observers will be watching closely to see how government officials and law enforcement agencies handle the upcoming national day of protests. Further policy responses regarding crowd management and student safety measures are expected in the coming days."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Teenager loses hand in blast amid French school protest clashes - Al Jazeera"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "delhi-cop-accused-of-sexually-harassing-woman-gets-promotion-ndtv-1791236051",
   "category": "india",
   "headline": "Delhi Cop, Accused Of Sexually Harassing Woman, Gets Promotion - NDTV",

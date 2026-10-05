@@ -92,6 +92,53 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "us-monitoring-suspected-fatal-pneumonic-plague-case-in-russia-state-department-o-1791175848",
+  "category": "world",
+  "headline": "US monitoring suspected fatal pneumonic plague case in Russia, State Department official says - Fox News",
+  "dek": "The United States is monitoring a suspected fatal pneumonic plague case involving a lab worker in Siberia, Russia.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-05T04:50:48Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791175845_2404.png",
+  "imageAlt": "US monitoring suspected fatal pneumonic plague case in Russia, State Department official says - Fox News",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "The United States government has confirmed it is monitoring a suspected fatal pneumonic plague case in Russia, following an incident involving a laboratory worker in Siberia. The development has drawn international attention to biosecurity protocols and regional health safety measures."
+    },
+    {
+      "type": "paragraph",
+      "text": "Initial reports indicate the case involves a laboratory worker in Siberia, prompting regional concerns and active tracking by United States State Department officials and the White House. Pneumonic plague represents a highly infectious and severe form of the disease, capable of spreading rapidly through airborne droplets if containment is inadequate."
+    },
+    {
+      "type": "paragraph",
+      "text": "The emergence of a suspected plague case within a research facility highlights ongoing concerns surrounding laboratory safety standards and disease containment protocols in high-containment facilities. International observers are closely evaluating the situation to determine if additional cross-border monitoring or technical assistance is warranted."
+    },
+    {
+      "type": "paragraph",
+      "text": "As global health monitors await further details from Russian authorities, the incident underscores the critical importance of rigorous biosecurity measures in biological research facilities. Public health agencies internationally remain vigilant to prevent potential transmission risks associated with severe bacterial pathogens."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "US monitoring suspected fatal pneumonic plague case in Russia, State Department official says - Fox News"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "brazils-presidential-race-to-go-to-second-round-as-flavio-bolsonaro-leads-incumb-1791165556",
   "category": "world",
   "headline": "Brazil’s presidential race to go to second round as Flávio Bolsonaro leads incumbent Lula - The Guardian",

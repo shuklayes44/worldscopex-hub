@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "indias-russia-ukraine-ceasefire-proposal-broadest-among-four-on-table-says-kyiv-1791162489",
+  "category": "india",
+  "headline": "India’s Russia-Ukraine ceasefire proposal ‘broadest’ among four on table, says Kyiv - ThePrint",
+  "dek": "Kyiv confirms India's ceasefire proposal is the broadest among four options as New Delhi advances bilateral talks with Moscow and Kyiv.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-05T01:08:09Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791162487_9242.png",
+  "imageAlt": "India’s Russia-Ukraine ceasefire proposal ‘broadest’ among four on table, says Kyiv - ThePrint",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Kyiv has officially stated that India’s Russia-Ukraine ceasefire proposal is the broadest among the four options currently under consideration. The diplomatic evaluation positions New Delhi's framework as a prominent initiative in ongoing international efforts to address the conflict."
+    },
+    {
+      "type": "paragraph",
+      "text": "External Affairs Minister S. Jaishankar addressed broader diplomatic ties during the Munich Security Conference, emphasizing that Moscow stood by India when the country's territorial integrity was under threat. The remarks underline the multi-aligned diplomatic approach India continues to maintain amid the ongoing geopolitical crisis."
+    },
+    {
+      "type": "paragraph",
+      "text": "As part of these continuing diplomatic engagements, India is currently discussing specific agreements concerning grains and maritime safety with both Moscow and Kyiv. These potential accords are designed to secure crucial supply chains and ensure operational stability in contested regions."
+    },
+    {
+      "type": "paragraph",
+      "text": "In addition to trade and security talks, Moscow is scheduled to take in 70,000 skilled Indian workers. This labor agreement highlights the expanding bilateral cooperation between New Delhi and Moscow across multiple economic sectors."
+    },
+    {
+      "type": "paragraph",
+      "text": "Markets and policymakers are evaluating the broader implications of these simultaneous economic and diplomatic arrangements. Observers note that India's active engagement with both sides of the conflict reflects its strategic balancing act in global affairs."
+    },
+    {
+      "type": "paragraph",
+      "text": "Future developments will hinge on how the warring nations respond to the various ceasefire proposals currently on the table. Diplomatic analysts will continue to monitor New Delhi's mediation efforts and the implementation of the pending labor and trade agreements."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "India’s Russia-Ukraine ceasefire proposal ‘broadest’ among four on table, says Kyiv - ThePrint"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "openai-launches-dots-personal-ai-assistant-built-to-handle-everything-al-jazeera-1791157171",
   "category": "technology",
   "headline": "OpenAI launches ‘dots,’ personal AI assistant ‘built to handle everything’ - Al Jazeera",

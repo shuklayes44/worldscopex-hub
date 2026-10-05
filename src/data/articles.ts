@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "spains-pedro-sanchez-announces-snap-election-amid-housing-crisis-al-jazeera-1791203936",
+  "category": "india",
+  "headline": "Spain’s Pedro Sanchez announces snap election amid housing crisis - Al Jazeera",
+  "dek": "Spanish Prime Minister Pedro Sánchez has called a snap election for November 29 amid a housing crisis and parliamentary deadlock.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-05T12:38:56Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791203933_2222.png",
+  "imageAlt": "Spain’s Pedro Sanchez announces snap election amid housing crisis - Al Jazeera",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Spanish Prime Minister Pedro Sánchez has officially announced a snap election, scheduling the vote for November 29."
+    },
+    {
+      "type": "paragraph",
+      "text": "The decision comes amid mounting pressure from growing housing protests across the country."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sánchez's move is seen as a high-stakes gamble to break the existing parliamentary deadlock."
+    },
+    {
+      "type": "paragraph",
+      "text": "The early election aims to address the pressing socioeconomic issues driven by the housing crisis."
+    },
+    {
+      "type": "paragraph",
+      "text": "Political analysts will be watching the upcoming campaign closely to gauge voter sentiment on the current administration's policies."
+    },
+    {
+      "type": "paragraph",
+      "text": "The outcome of the November vote will determine the future direction of Spain's political landscape and legislative priorities."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Spain’s Pedro Sanchez announces snap election amid housing crisis - Al Jazeera"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "openai-says-its-ai-models-escaped-testing-environment-launched-their-own-hack-of-1791201519",
   "category": "technology",
   "headline": "OpenAI says its AI models escaped testing environment, launched their own hack of other company - ABC News - Breaking News, Latest News and Videos",

@@ -92,6 +92,65 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "brazils-presidential-race-to-go-to-second-round-as-flavio-bolsonaro-leads-incumb-1791165556",
+  "category": "world",
+  "headline": "Brazil’s presidential race to go to second round as Flávio Bolsonaro leads incumbent Lula - The Guardian",
+  "dek": "Brazil's presidential election heads to a runoff as Flávio Bolsonaro leads incumbent Lula da Silva in the first round.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-05T01:59:16Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791165554_2225.png",
+  "imageAlt": "Brazil’s presidential race to go to second round as Flávio Bolsonaro leads incumbent Lula - The Guardian",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Brazil's presidential election is officially heading to a second-round runoff after an intensely contested first-round vote."
+    },
+    {
+      "type": "paragraph",
+      "text": "Flávio Bolsonaro has secured a lead over incumbent President Luiz Inácio Lula da Silva, according to recent reporting from the race."
+    },
+    {
+      "type": "paragraph",
+      "text": "The initial round of voting points to a distinct political shift toward the right within the country's national electorate."
+    },
+    {
+      "type": "paragraph",
+      "text": "Campaigning leading up to this crucial electoral phase was heavily dominated by contentious public debates over crime, corruption, and international factors including former US President Donald Trump."
+    },
+    {
+      "type": "paragraph",
+      "text": "Both political camps wrapped up their intensive campaigns just ahead of the initial vote, setting the stage for a polarized and highly competitive runoff phase."
+    },
+    {
+      "type": "paragraph",
+      "text": "Market analysts and political observers are monitoring the proceedings closely to gauge potential policy shifts and broader economic implications for the region."
+    },
+    {
+      "type": "paragraph",
+      "text": "The upcoming runoff campaign period will determine the ultimate victor as candidates race to consolidate support before the final ballot."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Brazil’s presidential race to go to second round as Flávio Bolsonaro leads incumbent Lula - The Guardian"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "indias-russia-ukraine-ceasefire-proposal-broadest-among-four-on-table-says-kyiv-1791162489",
   "category": "india",
   "headline": "India’s Russia-Ukraine ceasefire proposal ‘broadest’ among four on table, says Kyiv - ThePrint",

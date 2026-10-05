@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "us-removes-all-bombers-from-raf-fairford-base-bbc-1791185764",
+  "category": "world",
+  "headline": "US removes all bombers from RAF Fairford base - BBC",
+  "dek": "The United States has withdrawn all bombers from RAF Fairford following new threats and a nearby security incident.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-05T07:36:04Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791185761_2497.png",
+  "imageAlt": "US removes all bombers from RAF Fairford base - BBC",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "The United States has removed all bombers from the RAF Fairford air base in the United Kingdom, according to reports from the BBC and other international news agencies."
+    },
+    {
+      "type": "paragraph",
+      "text": "The rapid withdrawal comes in the wake of new security threats directed at U.S. assets stationed abroad, prompting immediate defensive realignments."
+    },
+    {
+      "type": "paragraph",
+      "text": "The relocation follows a separate security incident near the U.S.-run air base in England, which resulted in the arrest and subsequent release on bail of a dual U.K.-Iranian national."
+    },
+    {
+      "type": "paragraph",
+      "text": "The incident underscores the growing focus on security vulnerabilities and asymmetric warfare tactics associated with Iran and related regional actors."
+    },
+    {
+      "type": "paragraph",
+      "text": "Defense analysts are assessing the broader implications of the bomber withdrawal for allied deterrence posture and regional security operations across Europe."
+    },
+    {
+      "type": "paragraph",
+      "text": "Stakeholders and military observers will be watching for further official statements from defense ministries regarding the relocation of strategic assets and future base security measures."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "US removes all bombers from RAF Fairford base - BBC"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "uae-had-shared-details-about-flydubai-flight-with-israel-including-pilots-names-1791181133",
   "category": "world",
   "headline": "UAE had shared details about FlyDubai flight with Israel, including pilots' names and nationalities, officials tell AP - AP News",

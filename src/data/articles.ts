@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "us-b-1-bombers-evacuated-from-uk-base-after-attack-threats-from-iran-axios-1791241072",
+  "category": "world",
+  "headline": "U.S. B-1 bombers evacuated from UK base after attack threats from Iran - Axios",
+  "dek": "The United States has hastily withdrawn its long-range B-1 bombers from a British air base following attack threats from Iran.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-05T22:57:52Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791241065_8773.png",
+  "imageAlt": "U.S. B-1 bombers evacuated from UK base after attack threats from Iran - Axios",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "The United States military has executed a rapid evacuation of its long-range B-1 bombers from a Royal Air Force base in the United Kingdom following specific security threats linked to Iran."
+    },
+    {
+      "type": "paragraph",
+      "text": "The hasty departure involved the complete removal of all B-1 strategic aircraft from the RAF Fairford facility, according to official statements and defense reporting."
+    },
+    {
+      "type": "paragraph",
+      "text": "The relocation highlights immediate concerns over the safety and security of Western military assets stationed abroad amid escalating geopolitical friction."
+    },
+    {
+      "type": "paragraph",
+      "text": "Former U.S. leadership publicly confirmed the operational move, noting that explicit threats necessitated the relocation of the strategic long-range bombers."
+    },
+    {
+      "type": "paragraph",
+      "text": "Defense analysts and international observers are closely tracking the situation to assess the broader implications for allied security cooperation and regional force postures."
+    },
+    {
+      "type": "paragraph",
+      "text": "Future updates are expected as military authorities evaluate threat levels and determine the long-term positioning of the redeployed strategic aircraft."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "U.S. B-1 bombers evacuated from UK base after attack threats from Iran - Axios"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "ai-bubble-fears-are-starting-to-spill-over-futurism-1791239146",
   "category": "technology",
   "headline": "AI Bubble Fears Are Starting to Spill Over - Futurism",

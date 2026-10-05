@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "british-airways-flight-from-london-to-chicago-declares-emergency-over-ireland-nd-1791221238",
+  "category": "india",
+  "headline": "British Airways Flight From London To Chicago Declares Emergency Over Ireland - NDTV",
+  "dek": "British Airways flight BA295 from London to Chicago declares emergency and diverts back to London.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-05T17:27:18Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791221235_5975.png",
+  "imageAlt": "British Airways Flight From London To Chicago Declares Emergency Over Ireland - NDTV",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "British Airways flight BA295, travelling from London to Chicago, declared an emergency while flying over Irish airspace. The unexpected mid-air situation prompted immediate procedural responses from the flight crew."
+    },
+    {
+      "type": "paragraph",
+      "text": "Following the emergency declaration, the aircraft descended to an altitude of 9,000 feet. The rapid descent and subsequent maneuvers marked a critical phase in managing the onboard situation."
+    },
+    {
+      "type": "paragraph",
+      "text": "The Chicago-bound flight executed a U-turn shortly after its initial departure from London. Such tactical turnarounds are standard protocol when aircraft encounter technical or operational issues requiring immediate ground support."
+    },
+    {
+      "type": "paragraph",
+      "text": "The flight was subsequently diverted back to London for a safe landing. Passengers and crew experienced significant schedule disruptions as a result of the unexpected mid-air turnaround."
+    },
+    {
+      "type": "paragraph",
+      "text": "Aviation safety protocols require thorough inspections following emergency declarations and mid-air diversions. Regulatory bodies and the airline are expected to review flight data to determine the precise cause of the incident."
+    },
+    {
+      "type": "paragraph",
+      "text": "Stakeholders and travelers monitoring transatlantic routes will watch for updates from British Airways regarding rescheduled flights. Further announcements from aviation authorities will provide clarity on the operational impact of the diversion."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "British Airways Flight From London To Chicago Declares Emergency Over Ireland - NDTV"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "russian-lab-worker-dies-of-suspected-plague-as-200-enter-medical-observation-nbc-1791219186",
   "category": "world",
   "headline": "Russian lab worker dies of suspected plague as 200 enter medical observation - NBC News",

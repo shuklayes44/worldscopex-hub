@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "sensex-today-trades-higher-nifty-above-22550-bajaj-finance-itc-top-gainers-equit-1791212896",
+  "category": "economy",
+  "headline": "Sensex Today Trades Higher | Nifty Above 22,550 | Bajaj Finance & ITC Top Gainers - Equitymaster",
+  "dek": "Indian benchmark indices trade higher with Nifty crossing 22,550, led by gains in Bajaj Finance and ITC.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-05T15:08:16Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791212895_8129.png",
+  "imageAlt": "Sensex Today Trades Higher | Nifty Above 22,550 | Bajaj Finance & ITC Top Gainers - Equitymaster",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "economy"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Indian equity benchmarks traded higher during the trading session, reflecting positive momentum across major sectoral indices."
+    },
+    {
+      "type": "paragraph",
+      "text": "The Nifty index successfully held above the key 22,550 threshold, driven by buying interest in select heavyweights."
+    },
+    {
+      "type": "paragraph",
+      "text": "Market gains were predominantly led by strong upward movements in major constituents such as Bajaj Finance and ITC."
+    },
+    {
+      "type": "paragraph",
+      "text": "The positive session highlights continued investor participation in key blue-chip equities amidst ongoing market trends."
+    },
+    {
+      "type": "paragraph",
+      "text": "Market participants continue to monitor the performance of leading index drivers to assess near-term directional trends."
+    },
+    {
+      "type": "paragraph",
+      "text": "Trading activity will likely remain focused on broader sectoral performance and key stock movements as the session progresses."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Sensex Today Trades Higher | Nifty Above 22,550 | Bajaj Finance & ITC Top Gainers - Equitymaster"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "spains-pedro-sanchez-announces-snap-election-amid-housing-crisis-al-jazeera-1791203936",
   "category": "india",
   "headline": "Spain’s Pedro Sanchez announces snap election amid housing crisis - Al Jazeera",

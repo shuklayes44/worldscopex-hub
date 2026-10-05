@@ -92,6 +92,65 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "supreme-court-seeks-detailed-plan-from-government-on-proposed-relocation-of-cent-1791195862",
+  "category": "india",
+  "headline": "Supreme Court seeks detailed plan from government on proposed relocation of Central Secretariat Library - Bar and Bench",
+  "dek": "Supreme Court orders Centre to provide comprehensive relocation framework for 135-year-old Central Secretariat Library.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-05T10:24:22Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791195860_1631.png",
+  "imageAlt": "Supreme Court seeks detailed plan from government on proposed relocation of Central Secretariat Library - Bar and Bench",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "The Supreme Court has intervened in the ongoing discussions surrounding the archival facility, directing the central government to furnish a detailed plan."
+    },
+    {
+      "type": "paragraph",
+      "text": "The directive specifically concerns the proposed relocation of the historic 135-year-old institution located in the national capital."
+    },
+    {
+      "type": "paragraph",
+      "text": "Legal proceedings involved scrutiny of the spatial arrangements and logistical frameworks proposed by authorities for the heritage facility."
+    },
+    {
+      "type": "paragraph",
+      "text": "In addition to the library's status, the judicial proceedings touched upon related institutional matters, including the New Delhi Gymkhana route."
+    },
+    {
+      "type": "paragraph",
+      "text": "The legal challenge underscores ongoing debates regarding the preservation of historical institutions amidst administrative restructuring in urban centres."
+    },
+    {
+      "type": "paragraph",
+      "text": "Stakeholders and heritage conservationists will monitor the Centre's upcoming submission for specific timelines and architectural safeguarding measures."
+    },
+    {
+      "type": "paragraph",
+      "text": "Further judicial reviews depend on the detailed plan provided by the government regarding the future footprint of the archival repository."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Supreme Court seeks detailed plan from government on proposed relocation of Central Secretariat Library - Bar and Bench"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "us-withdraws-b-1-bomber-aircraft-from-uks-fairford-base-amid-iran-fears-al-jazee-1791191820",
   "category": "world",
   "headline": "US withdraws B-1 bomber aircraft from UK’s Fairford base amid Iran fears - Al Jazeera",

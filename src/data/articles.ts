@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "us-military-says-it-is-striking-iran-in-response-to-attack-on-civilian-vessel-in-1791330073",
+  "category": "world",
+  "headline": "U.S. military says it is striking Iran in response to attack on civilian vessel in Strait of Hormuz - The Hindu",
+  "dek": "The U.S. military has launched strikes against Iran following an attack on a civilian vessel in the Strait of Hormuz.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-06T23:41:13Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791330071_9626.png",
+  "imageAlt": "U.S. military says it is striking Iran in response to attack on civilian vessel in Strait of Hormuz - The Hindu",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "The United States military has officially announced that it is conducting strikes against Iran in direct response to a hostile attack on a civilian vessel located in the Strait of Hormuz. The military action marks a significant escalation in tensions within the region, involving critical maritime chokepoints utilized heavily for global trade and energy transit."
+    },
+    {
+      "type": "paragraph",
+      "text": "The incident centers on the targeting of a civilian vessel, prompting an immediate defensive and retaliatory posture from United States forces operating in the area. The Strait of Hormuz is recognized globally as a vital transit corridor for international commerce, particularly concerning petroleum shipments moving from Middle Eastern producers to global markets."
+    },
+    {
+      "type": "paragraph",
+      "text": "Energy markets and international trade routes are heavily dependent on the unhindered movement of vessels through this specific geographic zone. Consequently, military actions and security disruptions in the Strait carry immediate implications for global energy prices, shipping insurance rates, and supply chain stability."
+    },
+    {
+      "type": "paragraph",
+      "text": "Stakeholders, including maritime operators, government officials, and market analysts, are closely evaluating the potential fallout from the ongoing military engagement. The security of commercial vessels navigating through the region remains a primary concern for international authorities seeking to maintain open trade lanes."
+    },
+    {
+      "type": "paragraph",
+      "text": "Future developments will depend on the duration and scope of the military operations, as well as any subsequent responses from regional actors. Observers continue to monitor diplomatic and security channels for indications of how the situation may evolve in the near term."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "U.S. military says it is striking Iran in response to attack on civilian vessel in Strait of Hormuz - The Hindu"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "rubio-calls-for-more-information-from-moscow-after-researchers-suspected-plague-1791327751",
   "category": "world",
   "headline": "Rubio calls for more information from Moscow after researcher’s suspected plague death - Politico",

@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "rubio-calls-for-more-information-from-moscow-after-researchers-suspected-plague-1791327751",
+  "category": "world",
+  "headline": "Rubio calls for more information from Moscow after researcher’s suspected plague death - Politico",
+  "dek": "US presses Moscow for transparency following a researcher's suspected plague death and Siberian lab containment concerns.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-06T23:02:31Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791327750_9815.png",
+  "imageAlt": "Rubio calls for more information from Moscow after researcher’s suspected plague death - Politico",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "United States officials have escalated diplomatic pressure on Russia following the suspected plague death of a researcher in Siberia. Lawmakers, including Senator Marco Rubio, are formally calling on Moscow to provide comprehensive information regarding the incident."
+    },
+    {
+      "type": "paragraph",
+      "text": "Initial reports indicate that the fatal case may involve pneumonic plague that allegedly escaped from a research facility located in the Siberian region. The potential breach of biological containment has triggered immediate localized public health responses."
+    },
+    {
+      "type": "paragraph",
+      "text": "Local authorities have confirmed that dozens of individuals have been quarantined as part of containment protocols following the suspected exposure. The rapid containment measures underscore the high sensitivity surrounding potential laboratory pathogens."
+    },
+    {
+      "type": "paragraph",
+      "text": "President Donald Trump announced plans to discuss the situation directly with Russian President Vladimir Putin. The anticipated high-level diplomatic dialogue reflects growing international concern over the safety protocols governing pathogen research facilities."
+    },
+    {
+      "type": "paragraph",
+      "text": "Global health monitors and foreign governments are continuing to assess the broader implications of the suspected lab escape. International observers emphasize the critical need for transparent reporting on biological security matters to prevent wider regional or global health risks."
+    },
+    {
+      "type": "paragraph",
+      "text": "Markets and policymakers are monitoring diplomatic channels for official updates from Moscow regarding the health status of quarantined individuals and the security audit of the Siberian facility. Further developments are expected as international pressure for independent verification mounts."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Rubio calls for more information from Moscow after researcher’s suspected plague death - Politico"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "yemen-forces-claim-key-gains-near-bab-al-mandeb-whats-the-latest-al-jazeera-1791326629",
   "category": "india",
   "headline": "Yemen forces claim key gains near Bab al-Mandeb: What’s the latest? - Al Jazeera",

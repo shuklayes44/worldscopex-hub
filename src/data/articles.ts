@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "anduril-lands-29-billion-navy-submarine-shipyard-contract-days-after-luckey-join-1791323743",
+  "category": "world",
+  "headline": "Anduril lands $2.9 billion Navy submarine shipyard contract days after Luckey joins Pentagon weapons group - CNBC",
+  "dek": "Defense firm Anduril secures a major $2.9 billion Navy submarine shipyard contract.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-06T21:55:43Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791323742_5955.png",
+  "imageAlt": "Anduril lands $2.9 billion Navy submarine shipyard contract days after Luckey joins Pentagon weapons group - CNBC",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Defense technology firm Anduril has secured a $2.9 billion contract involving a Navy submarine shipyard, according to recent reports."
+    },
+    {
+      "type": "paragraph",
+      "text": "The significant defense agreement was finalized just days after Palmer Luckey joined a Pentagon weapons group."
+    },
+    {
+      "type": "paragraph",
+      "text": "The contract highlights ongoing strategic shifts in federal procurement and defense industrial investments."
+    },
+    {
+      "type": "paragraph",
+      "text": "Industry analysts are monitoring how these developments will influence future military acquisitions and shipyard operations."
+    },
+    {
+      "type": "paragraph",
+      "text": "Further updates on the implementation of the contract and related Pentagon appointments are anticipated as the rollout continues."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Anduril lands $2.9 billion Navy submarine shipyard contract days after Luckey joins Pentagon weapons group - CNBC"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "nobel-medicine-prize-goes-to-3-scientists-for-research-into-brain-activity-ndtv-1791321474",
   "category": "india",
   "headline": "Nobel Medicine Prize Goes To 3 Scientists For Research Into Brain Activity - NDTV",

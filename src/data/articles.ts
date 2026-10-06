@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "yemen-forces-claim-key-gains-near-bab-al-mandeb-whats-the-latest-al-jazeera-1791326629",
+  "category": "india",
+  "headline": "Yemen forces claim key gains near Bab al-Mandeb: What’s the latest? - Al Jazeera",
+  "dek": "Yemeni forces backed by a Saudi-led coalition claim key gains near the Bab al-Mandeb strait amid intensifying operations.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-06T22:43:49Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791326627_2021.png",
+  "imageAlt": "Yemen forces claim key gains near Bab al-Mandeb: What’s the latest? - Al Jazeera",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Yemeni government forces, supported by the Saudi-led coalition, have claimed key territorial gains near the strategic Bab al-Mandeb strait."
+    },
+    {
+      "type": "paragraph",
+      "text": "The developments come as coalition operations intensify significantly against Houthi targets across the region."
+    },
+    {
+      "type": "paragraph",
+      "text": "Reports indicate that Saudi-backed forces have advanced using armoured vehicles in operations against Houthi opponents."
+    },
+    {
+      "type": "paragraph",
+      "text": "The Bab al-Mandeb strait is a crucial maritime chokepoint, making stability in the area vital for international trade and shipping security."
+    },
+    {
+      "type": "paragraph",
+      "text": "The ongoing escalation highlights the persistent volatility of the conflict and its broader implications for regional security."
+    },
+    {
+      "type": "paragraph",
+      "text": "Observers are closely monitoring the tactical situation as military operations and coalition strikes continue to unfold."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Yemen forces claim key gains near Bab al-Mandeb: What’s the latest? - Al Jazeera"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "anduril-lands-29-billion-navy-submarine-shipyard-contract-days-after-luckey-join-1791323743",
   "category": "world",
   "headline": "Anduril lands $2.9 billion Navy submarine shipyard contract days after Luckey joins Pentagon weapons group - CNBC",

@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "turkiye-pakistan-agree-saudi-arabia-military-deployment-under-mecca-pact-al-jaze-1791305740",
+  "category": "india",
+  "headline": "Turkiye, Pakistan agree Saudi Arabia military deployment under Mecca pact - Al Jazeera",
+  "dek": "Turkiye and Pakistan have agreed to a military deployment to Saudi Arabia under the Mecca pact.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-06T16:55:40Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791305737_3267.png",
+  "imageAlt": "Turkiye, Pakistan agree Saudi Arabia military deployment under Mecca pact - Al Jazeera",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Turkiye and Pakistan have reached a formal agreement with Saudi Arabia regarding military deployment under the Mecca pact, according to international reports. The trilateral arrangement marks a significant shift in regional defense cooperation."
+    },
+    {
+      "type": "paragraph",
+      "text": "Under this agreement, Pakistan will for the first time deploy troops to aid Saudi-backed Yemen forces. The initiative is designed to fast-track troop deployments into the Kingdom."
+    },
+    {
+      "type": "paragraph",
+      "text": "The coordinated military movement comes directly amid escalating Houthi tensions in the region. Security analysts are closely evaluating the strategic implications of this tripartite defense alignment."
+    },
+    {
+      "type": "paragraph",
+      "text": "The deployment underscores shifting geopolitical dynamics and security partnerships involving Turkiye, Pakistan, and Saudi Arabia. Stakeholders are assessing how these expanded military ties will influence broader stability in West Asia."
+    },
+    {
+      "type": "paragraph",
+      "text": "Market analysts and foreign policy observers will continue monitoring the operational rollout of the deployment. Further updates are expected as the signatory nations coordinate logistics under the framework."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Turkiye, Pakistan agree Saudi Arabia military deployment under Mecca pact - Al Jazeera"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "latest-news-india-and-world-live-updates-flydubai-cockpit-attack-co-pilot-identi-1791303610",
   "category": "india",
   "headline": "Latest News India and World LIVE Updates: Flydubai cockpit attack co-pilot identified; US ramps up West Asia military presence ahead of midterms - WION",

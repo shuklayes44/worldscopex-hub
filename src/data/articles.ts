@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "yemen-war-whats-the-latest-as-government-forces-claim-advances-al-jazeera-1791277840",
+  "category": "india",
+  "headline": "Yemen war: What’s the latest, as government forces claim advances? - Al Jazeera",
+  "dek": "Yemeni government forces claim strategic gains along the Red Sea coast following a major military offensive.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-06T09:10:40Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791277838_1427.png",
+  "imageAlt": "Yemen war: What’s the latest, as government forces claim advances? - Al Jazeera",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Yemeni government forces have advanced along the Red Sea coast, reclaiming the strategic port city of Mocha from Houthi control."
+    },
+    {
+      "type": "paragraph",
+      "text": "The military operation was launched with substantial backing from Saudi airpower, according to recent reports."
+    },
+    {
+      "type": "paragraph",
+      "text": "Military officials stated that a coalition involving 100 fighter jets took part in the operation, which has been designated as Operation Dawn of Yemen."
+    },
+    {
+      "type": "paragraph",
+      "text": "The offensive marks a notable shift in the protracted conflict, focusing heavily on critical coastal infrastructure and maritime transit routes."
+    },
+    {
+      "type": "paragraph",
+      "text": "As government forces consolidate their positions in Mocha, the broader implications for regional security and supply chains remain under close observation by international monitors."
+    },
+    {
+      "type": "paragraph",
+      "text": "Further developments are expected as coalition forces assess the tactical outcomes of the ongoing offensive and potential Houthi responses."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Yemen war: What’s the latest, as government forces claim advances? - Al Jazeera"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "trump-says-threat-led-us-to-pull-bombers-from-raf-fairford-bbc-1791273680",
   "category": "world",
   "headline": "Trump says 'threat' led US to pull bombers from RAF Fairford - BBC",

@@ -92,6 +92,53 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "latest-news-india-and-world-live-updates-flydubai-cockpit-attack-co-pilot-identi-1791303610",
+  "category": "india",
+  "headline": "Latest News India and World LIVE Updates: Flydubai cockpit attack co-pilot identified; US ramps up West Asia military presence ahead of midterms - WION",
+  "dek": "Flydubai cockpit attack co-pilot identified as US increases West Asian military deployment.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-06T16:20:10Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791303607_9846.png",
+  "imageAlt": "Latest News India and World LIVE Updates: Flydubai cockpit attack co-pilot identified; US ramps up West Asia military presence ahead of midterms - WION",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Authorities have successfully identified the co-pilot connected to the recent Flydubai cockpit attack incident, marking a notable development in the ongoing security investigation. The identification follows intense scrutiny surrounding the aviation event, which has drawn close attention from international safety officials and regional regulators."
+    },
+    {
+      "type": "paragraph",
+      "text": "In a parallel geopolitical development, the United States has moved to ramp up its military presence across West Asia. The strategic reinforcement comes ahead of critical domestic midterm elections, signaling heightened defense readiness and diplomatic posturing in the region."
+    },
+    {
+      "type": "paragraph",
+      "text": "The simultaneous unfolding of these security and geopolitical events highlights a period of elevated international vigilance. Intelligence and defense analysts are closely assessing how these developments may influence broader regional stability and international travel protocols."
+    },
+    {
+      "type": "paragraph",
+      "text": "Market participants and policymakers are expected to track further updates regarding the aviation investigation and any subsequent geopolitical fallout in West Asia. Future official statements from relevant authorities will provide clearer guidance on the ongoing security measures and strategic deployments."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Latest News India and World LIVE Updates: Flydubai cockpit attack co-pilot identified; US ramps up West Asia military presence ahead of midterms - WION"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "russia-tells-who-there-are-no-plague-cases-in-siberian-city-reuters-1791300766",
   "category": "world",
   "headline": "Russia tells WHO there are no plague cases in Siberian city - Reuters",

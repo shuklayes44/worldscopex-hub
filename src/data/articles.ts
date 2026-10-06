@@ -92,6 +92,65 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "yemen-government-forces-report-recapture-of-mocha-from-houthis-al-jazeera-1791251799",
+  "category": "india",
+  "headline": "Yemen government forces report recapture of Mocha from Houthis - Al Jazeera",
+  "dek": "Yemeni government forces backed by Saudi Arabia recapture the strategic city of Mocha from Houthi control.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-06T01:56:39Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791251797_4994.png",
+  "imageAlt": "Yemen government forces report recapture of Mocha from Houthis - Al Jazeera",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Yemeni government forces have successfully retaken the strategic city of Mocha from Houthi control, according to reports from Al Jazeera and regional updates."
+    },
+    {
+      "type": "paragraph",
+      "text": "The military offensive, backed by Saudi-backed forces, targets key areas surrounding the crucial strait in Yemen."
+    },
+    {
+      "type": "paragraph",
+      "text": "Saudi Arabia has officially pledged its support for the broader military operations aimed at reclaiming territory currently held by Houthi forces."
+    },
+    {
+      "type": "paragraph",
+      "text": "Control over coastal locations like Mocha carries major implications for regional maritime security and the stability of vital trade routes."
+    },
+    {
+      "type": "paragraph",
+      "text": "The recaptured territory represents a notable shift in the ongoing conflict dynamics along the crucial maritime strait."
+    },
+    {
+      "type": "paragraph",
+      "text": "Observers and international stakeholders will closely monitor subsequent military operations and the humanitarian impact in the region."
+    },
+    {
+      "type": "paragraph",
+      "text": "Further developments regarding coalition strategies and Houthi responses remain critical factors to watch as the conflict progresses."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Yemen government forces report recapture of Mocha from Houthis - Al Jazeera"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "brazil-markets-bolsonaro-rally-sends-stock-exchange-to-record-high-reuters-1791250679",
   "category": "world",
   "headline": "Brazil markets' Bolsonaro rally sends stock exchange to record high - Reuters",

@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "there-was-big-mistake-what-oman-sources-told-ndtv-about-flydubai-co-pilot-ndtv-1791245463",
+  "category": "india",
+  "headline": "\"There Was Big Mistake\": What Oman Sources Told NDTV About flydubai Co-Pilot - NDTV",
+  "dek": "Oman sources report a major error regarding the flydubai co-pilot's planned attack on Tel Aviv.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-06T00:11:03Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791245462_4636.png",
+  "imageAlt": "\"There Was Big Mistake\": What Oman Sources Told NDTV About flydubai Co-Pilot - NDTV",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Investigations into a flydubai co-pilot have revealed details regarding a planned attack originally intended for July, according to recent reports."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sources in Oman informed NDTV that a significant mistake was made concerning the co-pilot's actions and intentions."
+    },
+    {
+      "type": "paragraph",
+      "text": "According to investigators, the flydubai co-pilot had formulated plans to crash the aircraft into Tel Aviv airport or a building."
+    },
+    {
+      "type": "paragraph",
+      "text": "The incident has raised urgent security concerns across the international aviation sector, prompting heightened scrutiny of flight crew screening processes."
+    },
+    {
+      "type": "paragraph",
+      "text": "Global authorities are currently examining five central questions regarding the thwarted flydubai attack to determine how the plot was developed."
+    },
+    {
+      "type": "paragraph",
+      "text": "Further updates are expected as international investigators and aviation officials continue to analyze the findings from Oman and other jurisdictions."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "\"There Was Big Mistake\": What Oman Sources Told NDTV About flydubai Co-Pilot - NDTV"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "new-supreme-court-term-begins-with-justices-stumped-by-climate-change-case-nbc-n-1791242643",
   "category": "world",
   "headline": "New Supreme Court term begins with justices stumped by climate change case - NBC News",

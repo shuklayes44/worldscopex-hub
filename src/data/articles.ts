@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "cec-election-commissioners-enjoy-greater-legal-immunity-than-even-judges-remarks-1791281589",
+  "category": "india",
+  "headline": "CEC & Election Commissioners Enjoy Greater Legal Immunity Than Even Judges, Remarks Supreme Court - livelaw.in",
+  "dek": "The Supreme Court observed that the CEC and Election Commissioners hold higher legal immunity than judges during proceedings.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-06T10:13:09Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791281587_9083.png",
+  "imageAlt": "CEC & Election Commissioners Enjoy Greater Legal Immunity Than Even Judges, Remarks Supreme Court - livelaw.in",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "India's Supreme Court has noted that the Chief Election Commissioner and Election Commissioners enjoy greater legal immunity than even judges, according to recent remarks. The observation highlights the extensive legal protections afforded to members of the Election Commission of India under the current statutory framework."
+    },
+    {
+      "type": "paragraph",
+      "text": "The remark came to light as the apex court separately demanded answers over changes to voter rolls. The intersection of high-level legal immunity and voter registry oversight has drawn significant attention from legal experts and institutional stakeholders alike."
+    },
+    {
+      "type": "paragraph",
+      "text": "Questions regarding voter roll integrity form a critical part of the judicial scrutiny. The Supreme Court's ongoing inquiries seek clarification on administrative changes affecting electoral lists across jurisdictions."
+    },
+    {
+      "type": "paragraph",
+      "text": "The debate over the scope of immunity for election officials touches upon core questions of constitutional accountability. Legal analysts note that the balance between institutional independence and judicial oversight remains a central theme in these proceedings."
+    },
+    {
+      "type": "paragraph",
+      "text": "The court's focus on voter roll revisions highlights the judiciary's active role in addressing electoral administration concerns. Fact-checking mechanisms related to specific voter forms, such as Form 6, have also seen active engagement following recent judicial observations."
+    },
+    {
+      "type": "paragraph",
+      "text": "Stakeholders and legal observers are awaiting further directives from the Supreme Court as the hearings progress. The court's eventual rulings are expected to provide clearer guidance on the limits of statutory immunity and the administrative transparency required of election authorities."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "CEC & Election Commissioners Enjoy Greater Legal Immunity Than Even Judges, Remarks Supreme Court - livelaw.in"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "yemen-war-whats-the-latest-as-government-forces-claim-advances-al-jazeera-1791277840",
   "category": "india",
   "headline": "Yemen war: What’s the latest, as government forces claim advances? - Al Jazeera",

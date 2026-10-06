@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "one-last-fight-left-in-me-smit-machchhar-recounts-flydubai-cockpit-horror-indian-1791293325",
+  "category": "india",
+  "headline": "‘One last fight left in me’: Smit Machchhar recounts Flydubai cockpit horror - indianexpress.com",
+  "dek": "Smit Machchhar shares harrowing details of a Flydubai cockpit incident, highlighting intense aviation safety challenges.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-06T13:28:45Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791293322_6504.png",
+  "imageAlt": "‘One last fight left in me’: Smit Machchhar recounts Flydubai cockpit horror - indianexpress.com",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Smit Machchhar has publicly recounted a harrowing ordeal experienced inside a Flydubai cockpit, capturing widespread attention within the aviation community."
+    },
+    {
+      "type": "paragraph",
+      "text": "In his detailed narrative, Machchhar reflected on the gravity of the situation by stating he had \"one last fight left in me.\""
+    },
+    {
+      "type": "paragraph",
+      "text": "The account sheds light on the critical split-second decisions and extreme pressures faced by flight deck personnel during critical in-flight emergencies."
+    },
+    {
+      "type": "paragraph",
+      "text": "Such disclosures frequently prompt renewed scrutiny from aviation safety experts regarding emergency protocols, crew resource management, and psychological preparedness."
+    },
+    {
+      "type": "paragraph",
+      "text": "For international carriers and regulatory bodies, managing public disclosures of cockpit incidents remains a delicate balance between transparency and operational security."
+    },
+    {
+      "type": "paragraph",
+      "text": "Observers and industry analysts will closely monitor whether further details emerge regarding the specific operational context of the Flydubai flight."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "‘One last fight left in me’: Smit Machchhar recounts Flydubai cockpit horror - indianexpress.com"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "gyanesh-kumar-police-detain-opposition-leaders-in-delhi-demanding-election-commi-1791288898",
   "category": "india",
   "headline": "Gyanesh Kumar: Police detain opposition leaders in Delhi demanding election commission chief's resignation - BBC",

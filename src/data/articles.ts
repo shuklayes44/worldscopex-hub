@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "potential-iranian-drone-attack-led-to-exit-of-us-aircraft-from-british-air-base-1791296259",
+  "category": "world",
+  "headline": "Potential Iranian Drone Attack Led to Exit of U.S. Aircraft From British Air Base - The New York Times",
+  "dek": "U.S. aircraft were moved from a British air base following a potential Iranian drone threat.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-06T14:17:39Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791296255_3543.png",
+  "imageAlt": "Potential Iranian Drone Attack Led to Exit of U.S. Aircraft From British Air Base - The New York Times",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "United States aircraft stationed at a British air base were relocated following indications of a potential Iranian drone attack, according to reports from The New York Times."
+    },
+    {
+      "type": "paragraph",
+      "text": "The tactical repositioning highlights immediate security concerns and heightened military readiness among allied forces operating in strategically sensitive regions."
+    },
+    {
+      "type": "paragraph",
+      "text": "While specific details regarding potential targets or timing remain limited, such defensive maneuvers reflect ongoing threat assessments in the Middle East."
+    },
+    {
+      "type": "paragraph",
+      "text": "For emerging markets and energy importers such as India, escalating geopolitical friction in the region serves as a critical variable influencing crude oil pricing trends and logistics stability."
+    },
+    {
+      "type": "paragraph",
+      "text": "Global stakeholders and market observers will continue to track official defense updates and diplomatic developments to gauge the broader implications for regional security."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Potential Iranian Drone Attack Led to Exit of U.S. Aircraft From British Air Base - The New York Times"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "one-last-fight-left-in-me-smit-machchhar-recounts-flydubai-cockpit-horror-indian-1791293325",
   "category": "india",
   "headline": "‘One last fight left in me’: Smit Machchhar recounts Flydubai cockpit horror - indianexpress.com",

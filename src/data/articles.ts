@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "how-russia-and-the-world-are-responding-to-a-possible-case-of-pneumonic-plague-a-1791313287",
+  "category": "world",
+  "headline": "How Russia and the world are responding to a possible case of pneumonic plague after lab worker dies - AP News",
+  "dek": "Global health concerns emerge after a researcher dies from a suspected plague infection in Siberia.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-06T19:01:27Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791313284_3603.png",
+  "imageAlt": "How Russia and the world are responding to a possible case of pneumonic plague after lab worker dies - AP News",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "International responses are underway following reports of a potential case of pneumonic plague in Russia. The incident follows the death of a researcher at a specialized laboratory in Siberia."
+    },
+    {
+      "type": "paragraph",
+      "text": "Dozens of individuals have been placed into quarantine as authorities investigate the fatal infection. Preliminary reports suggest the pathogen may have escaped from the research facility."
+    },
+    {
+      "type": "paragraph",
+      "text": "The situation has drawn scrutiny from global health organizations and governments worldwide. Questions have been raised regarding biosafety standards and containment protocols at facilities handling dangerous pathogens."
+    },
+    {
+      "type": "paragraph",
+      "text": "Medical experts are assessing the potential public health implications of the suspected outbreak. Authorities continue to monitor the status of those quarantined and trace potential contacts."
+    },
+    {
+      "type": "paragraph",
+      "text": "Further developments depend on official transparency and health assessments from Russian and international agencies. Observers are awaiting verified details regarding the exact nature of the infection and containment efficacy."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "How Russia and the world are responding to a possible case of pneumonic plague after lab worker dies - AP News"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "israel-prepared-to-shoot-down-flydubai-plane-after-cockpit-attack-cbs-arab-news-1791311974",
   "category": "india",
   "headline": "Israel prepared to shoot down FlyDubai plane after cockpit attack: CBS - Arab News",

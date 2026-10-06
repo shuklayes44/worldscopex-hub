@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "india-us-trade-deal-talks-have-plateaued-further-demands-concessions-will-be-ver-1791255784",
+  "category": "india",
+  "headline": "India-U.S. trade deal talks have plateaued; further demands, concessions will be very difficult: FinMin - The Hindu",
+  "dek": "Finance Ministry warns further concessions and demands in India-U.S. trade negotiations will be very difficult.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-06T03:03:04Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791255782_1222.png",
+  "imageAlt": "India-U.S. trade deal talks have plateaued; further demands, concessions will be very difficult: FinMin - The Hindu",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "India-U.S. trade deal talks have officially plateaued, according to recent assessments from the Ministry of Finance. Union Finance Minister Nirmala Sitharaman stated that further movement on bilateral trade negotiations will prove to be very, very difficult."
+    },
+    {
+      "type": "paragraph",
+      "text": "The latest developments indicate that ongoing discussions between New Delhi and Washington have hit significant friction points regarding mutual demands and concessions."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sitharaman's remarks underscore the growing complexity of resolving outstanding trade differences between the two strategic partners."
+    },
+    {
+      "type": "paragraph",
+      "text": "The plateauing of talks could impact broader economic cooperation and policy frameworks as both nations navigate intricate trade priorities."
+    },
+    {
+      "type": "paragraph",
+      "text": "Observers and market participants will be closely monitoring future diplomatic channels to see if negotiators can restart dialogue or if the deadlock will persist."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "India-U.S. trade deal talks have plateaued; further demands, concessions will be very difficult: FinMin - The Hindu"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "teenager-loses-hand-in-blast-amid-french-school-protest-clashes-al-jazeera-1791253774",
   "category": "india",
   "headline": "Teenager loses hand in blast amid French school protest clashes - Al Jazeera",

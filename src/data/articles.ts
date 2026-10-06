@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "gyanesh-kumar-changed-form-6-illegally-during-sir-says-rahul-gandhi-the-hindu-1791264809",
+  "category": "india",
+  "headline": "Gyanesh Kumar changed Form 6 ‘illegally’ during SIR, says Rahul Gandhi - The Hindu",
+  "dek": "Rahul Gandhi alleges illegal alterations to Form 6 during SIR as the Supreme Court demands voter roll answers.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-06T05:33:29Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791264808_9867.png",
+  "imageAlt": "Gyanesh Kumar changed Form 6 ‘illegally’ during SIR, says Rahul Gandhi - The Hindu",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Opposition leader Rahul Gandhi has raised serious allegations, claiming that Gyanesh Kumar \"illegally\" changed Form 6 during the SIR process. The controversy centers around modifications made to electoral rolls, drawing intense scrutiny from the highest judicial authorities."
+    },
+    {
+      "type": "paragraph",
+      "text": "In response to the growing dispute, the Election Commission of India has initiated fact-checking regarding claims surrounding Form 6. These administrative actions follow specific observations made by the Supreme Court concerning electoral transparency and procedural integrity."
+    },
+    {
+      "type": "paragraph",
+      "text": "The Supreme Court has demanded direct answers over the changes made to the voter rolls, highlighting serious institutional concerns. Legal discussions have further intensified after the court remarked that the Chief Election Commissioner and Election Commissioners enjoy greater legal immunity than even judges."
+    },
+    {
+      "type": "paragraph",
+      "text": "The unfolding situation has placed the spotlight on election administration, regulatory oversight, and the legal framework governing top electoral officials. Stakeholders across the political spectrum are closely monitoring the judicial proceedings and official clarifications."
+    },
+    {
+      "type": "paragraph",
+      "text": "Observers and legal experts will watch for the Election Commission's formal response to the Supreme Court's directives. Further developments in the judicial review are expected to shape the ongoing debate over electoral roll management and institutional accountability."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Gyanesh Kumar changed Form 6 ‘illegally’ during SIR, says Rahul Gandhi - The Hindu"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "india-us-trade-deal-talks-have-plateaued-further-demands-concessions-will-be-ver-1791255784",
   "category": "india",
   "headline": "India-U.S. trade deal talks have plateaued; further demands, concessions will be very difficult: FinMin - The Hindu",

@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "govt-reschedules-gst-council-meet-to-8-october-citing-unavoidable-circumstances-1791315805",
+  "category": "india",
+  "headline": "Govt reschedules GST Council meet to 8 October citing ‘unavoidable circumstances’ - Moneycontrol.com",
+  "dek": "The Centre has rescheduled the 57th GST Council meeting to October 8, where a five-pronged reform plan and potential legal changes will be discussed.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-06T19:43:25Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791315803_3660.png",
+  "imageAlt": "Govt reschedules GST Council meet to 8 October citing ‘unavoidable circumstances’ - Moneycontrol.com",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "The Indian government has officially rescheduled the upcoming Goods and Services Tax (GST) Council meeting to October 8. Authorities cited unavoidable circumstances for the decision to shift the high-level meeting from its originally planned schedule."
+    },
+    {
+      "type": "paragraph",
+      "text": "The upcoming session marks the 57th gathering of the GST Council. During the meeting, the Centre is scheduled to present a comprehensive five-pronged reform plan for deliberation."
+    },
+    {
+      "type": "paragraph",
+      "text": "Among the notable policy discussions expected on the agenda are proposed legal changes regarding tax enforcement. Specifically, tax authorities may face changes to their powers regarding the arrest of tax evaders under the proposed GST law decriminalisation framework."
+    },
+    {
+      "type": "paragraph",
+      "text": "Such regulatory adjustments carry significant implications for corporate compliance and legal enforcement procedures in India. Analysts and business leaders are closely watching the developments to gauge potential shifts in tax administration."
+    },
+    {
+      "type": "paragraph",
+      "text": "The rescheduled meeting will serve as a crucial platform for state and central representatives to review the proposed reforms. Further details regarding the specific agenda items and final outcomes are expected to emerge following the October 8 session."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Govt reschedules GST Council meet to 8 October citing ‘unavoidable circumstances’ - Moneycontrol.com"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "how-russia-and-the-world-are-responding-to-a-possible-case-of-pneumonic-plague-a-1791313287",
   "category": "world",
   "headline": "How Russia and the world are responding to a possible case of pneumonic plague after lab worker dies - AP News",

@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "gyanesh-kumar-police-detain-opposition-leaders-in-delhi-demanding-election-commi-1791288898",
+  "category": "india",
+  "headline": "Gyanesh Kumar: Police detain opposition leaders in Delhi demanding election commission chief's resignation - BBC",
+  "dek": "Delhi police detain opposition leaders led by Rahul Gandhi demanding the resignation of the election commission chief.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-06T12:14:58Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791288895_3764.png",
+  "imageAlt": "Gyanesh Kumar: Police detain opposition leaders in Delhi demanding election commission chief's resignation - BBC",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Police in New Delhi have detained several opposition leaders who were demanding the resignation of the election commission chief, marking a sharp escalation in political tensions."
+    },
+    {
+      "type": "paragraph",
+      "text": "The high-profile demonstrations, led by opposition figure Rahul Gandhi, saw dramatic scenes unfold as protesters clashed with security personnel."
+    },
+    {
+      "type": "paragraph",
+      "text": "According to reports, the protests featured tense moments including demonstrators climbing barricades near Akashvani Bhawan in the national capital."
+    },
+    {
+      "type": "paragraph",
+      "text": "In a parallel development, related protests turned contentious in Jharkhand where Congress and youth wing activists scuffled with police outside the state CEO office."
+    },
+    {
+      "type": "paragraph",
+      "text": "The coordinated demonstrations reflect deepening friction between opposition parties and institutions overseeing the nation's electoral processes."
+    },
+    {
+      "type": "paragraph",
+      "text": "As the political standoff intensifies, analysts and stakeholders are closely watching for potential further demonstrations and official responses from authorities."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Gyanesh Kumar: Police detain opposition leaders in Delhi demanding election commission chief's resignation - BBC"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "explained-how-rbi-rate-hike-may-impact-sensex-nifty-after-8-week-losing-streak-t-1791286457",
   "category": "economy",
   "headline": "Explained: How RBI rate hike may impact Sensex, Nifty after 8-week losing streak - The Economic Times",

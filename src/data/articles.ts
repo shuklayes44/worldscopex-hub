@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "teenager-loses-hand-in-blast-amid-french-school-protest-clashes-al-jazeera-1791253774",
+  "category": "india",
+  "headline": "Teenager loses hand in blast amid French school protest clashes - Al Jazeera",
+  "dek": "A teenager loses a hand in an explosion as clashes erupt during widespread student protests across France.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-06T02:29:34Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791253772_7232.png",
+  "imageAlt": "Teenager loses hand in blast amid French school protest clashes - Al Jazeera",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "A teenager has suffered the severe loss of a hand following an explosion amid violent clashes tied to student protests in France. The incident has intensified concerns as the country prepares for a designated national day of school demonstrations."
+    },
+    {
+      "type": "paragraph",
+      "text": "According to reports, widespread disruptions are expected to impact hundreds of schools, prompting closures and significant changes to daily academic schedules. Current figures indicate that classes will be halted in approximately 500 schools as the student movement gains momentum."
+    },
+    {
+      "type": "paragraph",
+      "text": "The protests reflect deep-seated grievances among students, though specific policy demands driving the current wave of unrest remain part of the broader national dialogue. The disruption to educational institutions highlights the growing intensity of the demonstrations across multiple regions."
+    },
+    {
+      "type": "paragraph",
+      "text": "Safety concerns have come to the forefront following the severe injury reported during the clashes. The implications for public safety and institutional security are drawing increased attention from officials and educators alike."
+    },
+    {
+      "type": "paragraph",
+      "text": "Observers will be closely watching how authorities manage security protocols and whether further educational disruptions materialize as the scheduled national days of protest unfold."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Teenager loses hand in blast amid French school protest clashes - Al Jazeera"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "yemen-government-forces-report-recapture-of-mocha-from-houthis-al-jazeera-1791251799",
   "category": "india",
   "headline": "Yemen government forces report recapture of Mocha from Houthis - Al Jazeera",

@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "india-detains-opposition-lawmakers-protesting-against-election-chief-reuters-1791284283",
+  "category": "india",
+  "headline": "India detains opposition lawmakers protesting against election chief - Reuters",
+  "dek": "Indian authorities detain opposition lawmakers during a march protesting against the election chief.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-06T10:58:03Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791284282_6284.png",
+  "imageAlt": "India detains opposition lawmakers protesting against election chief - Reuters",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Indian security forces have detained several prominent opposition lawmakers who were marching toward the Election Commission of India to protest against the election chief."
+    },
+    {
+      "type": "paragraph",
+      "text": "The high-drama protest saw participation from key opposition figures, including Congress leader Rahul Gandhi, alongside representatives from the TMC and SP parties."
+    },
+    {
+      "type": "paragraph",
+      "text": "Demonstrators encountered heavy police presence, with footage showing leaders and supporters climbing barricades near Akashvani Bhawan before being intercepted."
+    },
+    {
+      "type": "paragraph",
+      "text": "The opposition bloc has raised concerns regarding the functioning and independence of electoral authorities amid ongoing political friction."
+    },
+    {
+      "type": "paragraph",
+      "text": "This incident underscores deepening friction between major opposition groups and constitutional bodies in the country."
+    },
+    {
+      "type": "paragraph",
+      "text": "Stakeholders and political analysts will closely observe how the fallout from these detentions impacts upcoming parliamentary discussions and institutional relations."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "India detains opposition lawmakers protesting against election chief - Reuters"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "cec-election-commissioners-enjoy-greater-legal-immunity-than-even-judges-remarks-1791281589",
   "category": "india",
   "headline": "CEC & Election Commissioners Enjoy Greater Legal Immunity Than Even Judges, Remarks Supreme Court - livelaw.in",

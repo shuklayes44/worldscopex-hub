@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "trump-says-threat-led-us-to-pull-bombers-from-raf-fairford-bbc-1791273680",
+  "category": "world",
+  "headline": "Trump says 'threat' led US to pull bombers from RAF Fairford - BBC",
+  "dek": "US long-range bombers evacuated from RAF Fairford in the UK due to a security threat.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-06T08:01:20Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791273677_8852.png",
+  "imageAlt": "Trump says 'threat' led US to pull bombers from RAF Fairford - BBC",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "United States long-range bombers have been relocated from RAF Fairford in the United Kingdom following a specific security threat, according to statements by Donald Trump and multiple media reports."
+    },
+    {
+      "type": "paragraph",
+      "text": "The aircraft movement was prompted by concerns involving a potential Iranian drone attack directed at the British air base, which houses critical U.S. military assets."
+    },
+    {
+      "type": "paragraph",
+      "text": "The departure of the B-1 bombers highlights the immediate security measures taken by defense authorities to protect personnel and equipment amid escalating regional tensions."
+    },
+    {
+      "type": "paragraph",
+      "text": "Military planners continuously reassess the vulnerability of forward-deployed installations when credible intelligence regarding hostile drone operations emerges."
+    },
+    {
+      "type": "paragraph",
+      "text": "The relocation underscores the strategic challenges nations face in maintaining regional deterrence while safeguarding high-value military assets from asymmetric aerial threats."
+    },
+    {
+      "type": "paragraph",
+      "text": "Analysts and defense observers will be closely tracking further updates regarding the security status of allied military bases and potential shifts in deployment posture across Europe and the Middle East."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Trump says 'threat' led US to pull bombers from RAF Fairford - BBC"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "stock-market-outlook-today-6-oct-sensex-nifty-prediction-djia-sp-nasdaq-gift-nif-1791269982",
   "category": "economy",
   "headline": "Stock market outlook today, 6 Oct: Sensex, Nifty prediction - DJIA, S&P, NASDAQ, GIFT Nifty, Nikkei, Taiwan cues - Livemint",

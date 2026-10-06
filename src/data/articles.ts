@@ -92,6 +92,53 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "brazil-markets-bolsonaro-rally-sends-stock-exchange-to-record-high-reuters-1791250679",
+  "category": "world",
+  "headline": "Brazil markets' Bolsonaro rally sends stock exchange to record high - Reuters",
+  "dek": "Brazilian stock exchange hits record high amid market rally driven by political developments.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-06T01:37:59Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791250677_7930.png",
+  "imageAlt": "Brazil markets' Bolsonaro rally sends stock exchange to record high - Reuters",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Brazilian financial markets experienced a significant surge, sending the stock exchange to a record high. The market rally was directly linked to political developments surrounding the presidential race."
+    },
+    {
+      "type": "paragraph",
+      "text": "Brazilian stocks jumped as Bolsonaro emerged as a heavy favorite to win the upcoming presidency. The political momentum has strongly influenced investor confidence and market sentiment across the country."
+    },
+    {
+      "type": "paragraph",
+      "text": "The shift in market dynamics highlights the close attention the financial sector pays to national political shifts and electoral outcomes. Economic stakeholders are closely evaluating the policy implications of the changing political landscape."
+    },
+    {
+      "type": "paragraph",
+      "text": "As the election runoff approaches, market participants are expected to maintain heightened focus on political polls and campaign developments. Analysts note that further market movements will likely track the evolving electoral contest."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Brazil markets' Bolsonaro rally sends stock exchange to record high - Reuters"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "trump-says-he-is-concerned-about-russian-plague-lab-death-forbes-1791249215",
   "category": "india",
   "headline": "Trump Says He Is Concerned About Russian Plague Lab Death - Forbes",

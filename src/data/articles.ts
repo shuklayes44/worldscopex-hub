@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "cornell-brings-in-ex-justice-official-sally-yates-to-review-schools-handling-of-1791319949",
+  "category": "world",
+  "headline": "Cornell brings in ex-Justice official Sally Yates to review school’s handling of sex assault claims - AP News",
+  "dek": "Cornell University hires former Justice Department official Sally Yates to investigate its handling of sexual assault allegations.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-06T20:52:29Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791319946_3212.png",
+  "imageAlt": "Cornell brings in ex-Justice official Sally Yates to review school’s handling of sex assault claims - AP News",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Cornell University has appointed former Justice Department official Sally Yates to lead an independent review examining the institution's handling of sexual assault claims."
+    },
+    {
+      "type": "paragraph",
+      "text": "The decision by a special committee of the Board of Trustees comes amid heightened scrutiny and student protests on campus."
+    },
+    {
+      "type": "paragraph",
+      "text": "Demonstrators have gathered in recent days to demand accountability regarding a specific rape case involving a student referred to as 'Jane Doe.'"
+    },
+    {
+      "type": "paragraph",
+      "text": "University leadership, including the school's president, has publicly acknowledged the mounting anger and concern from the campus community regarding safety and reporting protocols."
+    },
+    {
+      "type": "paragraph",
+      "text": "The controversy has also drawn broader attention to legal definitions of consent and existing procedural loopholes within university disciplinary frameworks."
+    },
+    {
+      "type": "paragraph",
+      "text": "The findings from the Yates-led review are expected to shape future policy reforms and institutional governance related to student safety."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Cornell brings in ex-Justice official Sally Yates to review school’s handling of sex assault claims - AP News"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "govt-reschedules-gst-council-meet-to-8-october-citing-unavoidable-circumstances-1791317884",
   "category": "india",
   "headline": "Govt reschedules GST Council meet to 8 October citing ‘unavoidable circumstances’ - Moneycontrol.com",

@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "supreme-court-refuses-to-suspend-cec-gyanesh-kumar-ex-parte-issues-notice-on-ple-1791247834",
+  "category": "india",
+  "headline": "Supreme Court Refuses To Suspend CEC Gyanesh Kumar Ex Parte, Issues Notice On Plea Challenging ECI... - Live Law",
+  "dek": "Supreme Court declines ex parte suspension of CEC Gyanesh Kumar while issuing notice on ECI voter roll petition.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-06T00:50:34Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791247832_4708.png",
+  "imageAlt": "Supreme Court Refuses To Suspend CEC Gyanesh Kumar Ex Parte, Issues Notice On Plea Challenging ECI... - Live Law",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "The Supreme Court of India has declined to grant an ex parte suspension of Chief Election Commissioner Gyanesh Kumar, opting instead to issue formal notices on a petition challenging the Election Commission of India's operations. The legal proceedings center on disputed changes made to voter rolls and modifications to Form 6, which have drawn scrutiny following recent observations from the bench."
+    },
+    {
+      "type": "paragraph",
+      "text": "The controversy has intensified discussions regarding electoral integrity and transparency in the management of voter registration documents across the country. Public discourse has intersected with the regulatory framework, prompting fact-checking responses from election authorities regarding specific claims made on Form 6 procedures."
+    },
+    {
+      "type": "paragraph",
+      "text": "Legal analysts note that the Supreme Court's decision to issue notice highlights the judiciary's active engagement with administrative and constitutional questions concerning election oversight. While an immediate suspension was denied, the court's formal examination of the ECI's actions places institutional procedures under a sharper lens."
+    },
+    {
+      "type": "paragraph",
+      "text": "The case underscores broader implications for governance and public trust in India's electoral machinery. Stakeholders across the political spectrum are closely monitoring the judicial proceedings for potential directives that could influence administrative practices."
+    },
+    {
+      "type": "paragraph",
+      "text": "Looking ahead, the litigation will proceed as respondents submit their replies to the notice issued by the bench. Observers will watch for the court's subsequent hearings to determine the long-term impact on electoral commission policies and voter roll management."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Supreme Court Refuses To Suspend CEC Gyanesh Kumar Ex Parte, Issues Notice On Plea Challenging ECI... - Live Law"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "there-was-big-mistake-what-oman-sources-told-ndtv-about-flydubai-co-pilot-ndtv-1791245463",
   "category": "india",
   "headline": "\"There Was Big Mistake\": What Oman Sources Told NDTV About flydubai Co-Pilot - NDTV",

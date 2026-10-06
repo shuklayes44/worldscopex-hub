@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "nobel-medicine-prize-goes-to-3-scientists-for-research-into-brain-activity-ndtv-1791321474",
+  "category": "india",
+  "headline": "Nobel Medicine Prize Goes To 3 Scientists For Research Into Brain Activity - NDTV",
+  "dek": "Three scientists win the 2026 Nobel Medicine Prize for pioneering research into brain activity and neural mechanisms.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-06T21:17:54Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791321471_5076.png",
+  "imageAlt": "Nobel Medicine Prize Goes To 3 Scientists For Research Into Brain Activity - NDTV",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "The Nobel Assembly has announced that the 2026 Nobel Prize in Physiology or Medicine is awarded to three scientists for their research into brain activity. The distinction highlights significant advancements in understanding complex neurological systems."
+    },
+    {
+      "type": "paragraph",
+      "text": "The awarded research involves innovative approaches to studying the brain, including the use of pond algae to observe neural functions. This methodology provides researchers with new ways to examine the central nervous system."
+    },
+    {
+      "type": "paragraph",
+      "text": "The findings offer a fresh perspective on how brain activity can be monitored and analyzed at a fundamental level. Such technological and biological integrations mark a shift in methodological approaches within neuroscience."
+    },
+    {
+      "type": "paragraph",
+      "text": "The recognition underscores the increasing importance of interdisciplinary research in unlocking biological mechanisms. Scientific communities worldwide view this as a major milestone for neurological studies."
+    },
+    {
+      "type": "paragraph",
+      "text": "Further details regarding the laureates and the specific implications of their discoveries will be released by the Nobel Committee. Observers will monitor how these techniques are adopted in global research institutions."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Nobel Medicine Prize Goes To 3 Scientists For Research Into Brain Activity - NDTV"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "cornell-brings-in-ex-justice-official-sally-yates-to-review-schools-handling-of-1791319949",
   "category": "world",
   "headline": "Cornell brings in ex-Justice official Sally Yates to review school’s handling of sex assault claims - AP News",

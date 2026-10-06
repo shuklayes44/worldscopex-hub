@@ -92,6 +92,65 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "action-will-be-taken-against-pm-modi-amit-shah-mohan-bhagwat-cec-for-treason-say-1791310340",
+  "category": "india",
+  "headline": "Action will be taken against PM Modi, Amit Shah, Mohan Bhagwat, CEC for ‘treason’, says Rahul - The Hindu",
+  "dek": "Rahul Gandhi warns of treason action against top Indian leaders and the CEC amid an ongoing dispute with the Election Commission.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-06T18:12:20Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791310337_1326.png",
+  "imageAlt": "Action will be taken against PM Modi, Amit Shah, Mohan Bhagwat, CEC for ‘treason’, says Rahul - The Hindu",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Opposition leader Rahul Gandhi has publicly stated that action will be taken for treason against Prime Minister Narendra Modi, Home Minister Amit Shah, RSS chief Mohan Bhagwat, and the Chief Election Commissioner. The declaration underscores escalating political tensions in the country."
+    },
+    {
+      "type": "paragraph",
+      "text": "The remarks follow a specific institutional friction point involving opposition members of parliament and India's poll body."
+    },
+    {
+      "type": "paragraph",
+      "text": "The Election Commission of India stated that a meeting demand by opposition MPs at the Parliament Annexe \"could not be accepted.\" The poll body characterized the proposal from the opposition delegation as an \"unusual request.\""
+    },
+    {
+      "type": "paragraph",
+      "text": "The public disagreement highlights deep-seated friction between opposition political parties and key governance and electoral institutions. Observers note that such confrontations reflect broader political polarization regarding institutional processes."
+    },
+    {
+      "type": "paragraph",
+      "text": "As the political landscape continues to evolve, attention remains focused on how the Election Commission and political stakeholders will manage ongoing communications and demands for meetings."
+    },
+    {
+      "type": "paragraph",
+      "text": "Market participants and political analysts will monitor further statements from opposition leaders and regulatory responses for potential impacts on domestic political stability."
+    },
+    {
+      "type": "paragraph",
+      "text": "Future developments will depend on whether opposition parties pursue further formal actions or institutional challenges following the rejection of their meeting proposal by the poll body."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Action will be taken against PM Modi, Amit Shah, Mohan Bhagwat, CEC for ‘treason’, says Rahul - The Hindu"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "next-gen-gst-and-indias-next-phase-of-growth-the-hindu-1791306793",
   "category": "india",
   "headline": "Next-Gen GST and India’s next phase of growth - The Hindu",

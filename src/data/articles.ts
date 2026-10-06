@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "stock-market-outlook-today-6-oct-sensex-nifty-prediction-djia-sp-nasdaq-gift-nif-1791269982",
+  "category": "economy",
+  "headline": "Stock market outlook today, 6 Oct: Sensex, Nifty prediction - DJIA, S&P, NASDAQ, GIFT Nifty, Nikkei, Taiwan cues - Livemint",
+  "dek": "Global market cues and Asian benchmarks set the trading outlook for domestic indices.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-06T06:59:42Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791269980_1970.png",
+  "imageAlt": "Stock market outlook today, 6 Oct: Sensex, Nifty prediction - DJIA, S&P, NASDAQ, GIFT Nifty, Nikkei, Taiwan cues - Livemint",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "economy"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Global market cues, including major US indices and Asian benchmarks, are shaping the trading outlook for domestic indices today."
+    },
+    {
+      "type": "paragraph",
+      "text": "Analysts and market participants are closely reviewing performance metrics from the DJIA, S&P, and NASDAQ to gauge broader international sentiment."
+    },
+    {
+      "type": "paragraph",
+      "text": "Regional indicators such as GIFT Nifty, the Nikkei, and Taiwan market cues are also providing critical directional signals for the domestic session."
+    },
+    {
+      "type": "paragraph",
+      "text": "International market movements frequently influence opening sentiment, foreign institutional investor activity, and overall volatility on Dalal Street."
+    },
+    {
+      "type": "paragraph",
+      "text": "Traders and investors continue to monitor these cross-border benchmarks for immediate risk sentiment and sectoral direction ahead of the opening bell."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Stock market outlook today, 6 Oct: Sensex, Nifty prediction - DJIA, S&P, NASDAQ, GIFT Nifty, Nikkei, Taiwan cues - Livemint"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "gyanesh-kumar-changed-form-6-illegally-during-sir-says-rahul-gandhi-the-hindu-1791264809",
   "category": "india",
   "headline": "Gyanesh Kumar changed Form 6 ‘illegally’ during SIR, says Rahul Gandhi - The Hindu",

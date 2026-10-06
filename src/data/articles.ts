@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "next-gen-gst-and-indias-next-phase-of-growth-the-hindu-1791306793",
+  "category": "india",
+  "headline": "Next-Gen GST and India’s next phase of growth - The Hindu",
+  "dek": "The Centre will propose a five-pronged next-gen GST reform plan at the upcoming October 8 council meeting.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-06T17:13:13Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791306791_5570.png",
+  "imageAlt": "Next-Gen GST and India’s next phase of growth - The Hindu",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "The Centre is scheduled to propose a comprehensive five-pronged reform plan during the upcoming 57th GST Council meeting, which has been officially rescheduled to October 8. The policy initiative forms a core component of discussions centered around next-generation Goods and Services Tax frameworks and India's next phase of economic growth."
+    },
+    {
+      "type": "paragraph",
+      "text": "Among the notable proposals under consideration is a move to decriminalize the existing GST law. Under this specific reform, tax enforcement authorities may lose their current power to arrest alleged tax evaders, marking a potential shift in enforcement methodology."
+    },
+    {
+      "type": "paragraph",
+      "text": "The proposed modifications also address corporate compliance concerns within the indirect tax regime. Reports indicate that employers may soon gain the ability to claim specific tax credits, potentially easing administrative burdens for businesses operating nationwide."
+    },
+    {
+      "type": "paragraph",
+      "text": "The upcoming council session is expected to draw significant attention from corporate stakeholders, tax professionals, and industry associations. These groups will be assessing the practical implications of the proposed decriminalization and compliance adjustments."
+    },
+    {
+      "type": "paragraph",
+      "text": "Observers and market participants will monitor the October 8 proceedings closely for formal announcements and implementation timelines. The outcomes of the council meeting are expected to shape the trajectory of India's indirect taxation framework in the coming fiscal periods."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Next-Gen GST and India’s next phase of growth - The Hindu"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "turkiye-pakistan-agree-saudi-arabia-military-deployment-under-mecca-pact-al-jaze-1791305740",
   "category": "india",
   "headline": "Turkiye, Pakistan agree Saudi Arabia military deployment under Mecca pact - Al Jazeera",

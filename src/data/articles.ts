@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "fort-hood-shooter-to-be-executed-by-firing-squad-all-to-know-aljazeeracom-1791298213",
+  "category": "world",
+  "headline": "Fort Hood shooter to be executed by firing squad: All to know - aljazeera.com",
+  "dek": "Former Army major Nidal Malik Hasan is set to be executed by firing squad for the 2009 Fort Hood shooting.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-06T14:50:13Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791298210_6652.png",
+  "imageAlt": "Fort Hood shooter to be executed by firing squad: All to know - aljazeera.com",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Former Army major Nidal Malik Hasan, responsible for the 2009 shooting that resulted in 13 deaths at Fort Hood, is scheduled to face execution by firing squad following a direct order."
+    },
+    {
+      "type": "paragraph",
+      "text": "The decision brings renewed attention to the high-profile military justice case stemming from the mass casualty incident at the Texas military installation over a decade ago."
+    },
+    {
+      "type": "paragraph",
+      "text": "Legal analysts note that execution by firing squad remains an exceptionally rare method within the contemporary United States capital punishment framework, particularly in military jurisprudence."
+    },
+    {
+      "type": "paragraph",
+      "text": "The case has historically drawn significant public and legislative interest regarding military mental health screening, security protocols, and the handling of internal threats within armed forces installations."
+    },
+    {
+      "type": "paragraph",
+      "text": "Observers and legal scholars will continue to monitor any subsequent appeals or procedural motions filed by defense counsel prior to the scheduled implementation of the order."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Fort Hood shooter to be executed by firing squad: All to know - aljazeera.com"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "potential-iranian-drone-attack-led-to-exit-of-us-aircraft-from-british-air-base-1791296259",
   "category": "world",
   "headline": "Potential Iranian Drone Attack Led to Exit of U.S. Aircraft From British Air Base - The New York Times",

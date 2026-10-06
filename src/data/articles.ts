@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "explained-how-rbi-rate-hike-may-impact-sensex-nifty-after-8-week-losing-streak-t-1791286457",
+  "category": "economy",
+  "headline": "Explained: How RBI rate hike may impact Sensex, Nifty after 8-week losing streak - The Economic Times",
+  "dek": "RBI rate hike raises concerns for Sensex and Nifty following an eight-week market decline.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-06T11:34:17Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791286454_3059.png",
+  "imageAlt": "Explained: How RBI rate hike may impact Sensex, Nifty after 8-week losing streak - The Economic Times",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "economy"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "The Reserve Bank of India has implemented a fresh interest rate hike, drawing intense focus from market participants regarding its potential fallout for the Sensex and Nifty benchmarks. This monetary policy shift arrives immediately following a challenging eight-week losing streak for the domestic equity markets, heightening anxiety among investors."
+    },
+    {
+      "type": "paragraph",
+      "text": "Financial analysts are closely evaluating the transmission mechanism of the latest rate increase to corporate earnings and equity valuations. Higher borrowing costs typically pressure profit margins across capital-intensive sectors, which could weigh heavily on benchmark indices."
+    },
+    {
+      "type": "paragraph",
+      "text": "Market sentiment has remained fragile in recent weeks amid persistent domestic and global macroeconomic headwinds. The confluence of tightening monetary conditions and a prolonged negative trajectory for indices has magnified the importance of central bank actions."
+    },
+    {
+      "type": "paragraph",
+      "text": "Stock exchanges are expected to experience heightened volatility as institutional investors reassess asset allocations in light of the updated policy rates. Trading volumes will likely reflect heightened caution among retail and institutional market participants alike."
+    },
+    {
+      "type": "paragraph",
+      "text": "Observers note that the broader economic implications of the rate hike extend well beyond immediate stock price movements, influencing credit growth and consumer spending. Policymakers continue to balance inflation control with the imperative of sustaining economic momentum."
+    },
+    {
+      "type": "paragraph",
+      "text": "Market participants will monitor upcoming trading sessions and corporate commentary to gauge the resilience of Sensex and Nifty constituents. Further regulatory updates and macroeconomic indicators will dictate the near-term direction of Indian financial markets."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Explained: How RBI rate hike may impact Sensex, Nifty after 8-week losing streak - The Economic Times"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "india-detains-opposition-lawmakers-protesting-against-election-chief-reuters-1791284283",
   "category": "india",
   "headline": "India detains opposition lawmakers protesting against election chief - Reuters",

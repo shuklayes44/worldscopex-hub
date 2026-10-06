@@ -92,6 +92,53 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "russia-tells-who-there-are-no-plague-cases-in-siberian-city-reuters-1791300766",
+  "category": "world",
+  "headline": "Russia tells WHO there are no plague cases in Siberian city - Reuters",
+  "dek": "Russia reports zero plague cases to the WHO following concerns over a Siberian laboratory incident.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-06T15:32:46Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791300762_6792.png",
+  "imageAlt": "Russia tells WHO there are no plague cases in Siberian city - Reuters",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Russia has officially reported to the World Health Organization that no cases of the plague are present in a Siberian city, according to recent international updates. The communication addresses mounting global inquiries and public health concerns following safety questions raised about an anti-plague institute worker in the country."
+    },
+    {
+      "type": "paragraph",
+      "text": "The situation has kept international health monitoring bodies on high alert, prompting responses from various global agencies regarding biosecurity and disease response readiness. Questions surrounding the incident have focused on pneumonic plague, its transmission risks, and the safety measures enforced at specialized research facilities."
+    },
+    {
+      "type": "paragraph",
+      "text": "While international bodies review the communications from Moscow, broader public health frameworks remain focused on prevention, transparency, and rapid verification of containment measures. The incident underscores the critical sensitivity surrounding high-containment laboratories and the necessity of immediate international reporting during potential health scares."
+    },
+    {
+      "type": "paragraph",
+      "text": "Observers and public health experts are closely watching for further official evaluations from the WHO regarding the safety protocols and the circumstances surrounding the anti-plague institute worker's death. Continued dialogue between Russian health authorities and international agencies will be vital in maintaining clarity and preventing unnecessary panic."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Russia tells WHO there are no plague cases in Siberian city - Reuters"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "fort-hood-shooter-to-be-executed-by-firing-squad-all-to-know-aljazeeracom-1791298213",
   "category": "world",
   "headline": "Fort Hood shooter to be executed by firing squad: All to know - aljazeera.com",

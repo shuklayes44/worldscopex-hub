@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "trump-says-he-is-concerned-about-russian-plague-lab-death-forbes-1791249215",
+  "category": "india",
+  "headline": "Trump Says He Is Concerned About Russian Plague Lab Death - Forbes",
+  "dek": "US authorities monitor Siberia plague lab death and quarantines.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-06T01:13:35Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791249213_9700.png",
+  "imageAlt": "Trump Says He Is Concerned About Russian Plague Lab Death - Forbes",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "United States President Donald Trump has expressed concern over the death of a laboratory worker in Siberia who possibly died of the plague. The situation, reported by Forbes and other international outlets, has triggered heightened international awareness surrounding biosecurity protocols in high-containment research facilities."
+    },
+    {
+      "type": "paragraph",
+      "text": "In response to the incident, dozens of people have been placed under quarantine in Siberia near the plague institute where the worker was employed. Authorities are working to contain any potential risks associated with the fatality, prompting close observation from global health and government officials."
+    },
+    {
+      "type": "paragraph",
+      "text": "US officials, including Marco Rubio, noted that the United States is closely monitoring the case of the lab worker who reportedly died of the plague in Siberia. The involvement of top American leadership highlights the geopolitical and biological sensitivity surrounding incidents at pathogen research installations."
+    },
+    {
+      "type": "paragraph",
+      "text": "Reuters and CNBC have reported on the unfolding situation, detailing the quarantine of dozens of individuals and raising questions about safety protocols at the Siberian facility. The incident brings renewed attention to the regulatory oversight and containment standards applied to dangerous pathogens globally."
+    },
+    {
+      "type": "paragraph",
+      "text": "As the situation develops, international observers are evaluating the broader implications for biosecurity standards and cross-border information sharing regarding infectious disease incidents. Markets and policymakers are keeping a watchful eye on potential fallout from the containment measures."
+    },
+    {
+      "type": "paragraph",
+      "text": "Future updates are expected to clarify the extent of the quarantine and the specific findings of investigations into the laboratory worker's death. Authorities continue to gather facts to determine whether any broader public health threat exists beyond the isolated Siberian facility."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Trump Says He Is Concerned About Russian Plague Lab Death - Forbes"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "supreme-court-refuses-to-suspend-cec-gyanesh-kumar-ex-parte-issues-notice-on-ple-1791247834",
   "category": "india",
   "headline": "Supreme Court Refuses To Suspend CEC Gyanesh Kumar Ex Parte, Issues Notice On Plea Challenging ECI... - Live Law",

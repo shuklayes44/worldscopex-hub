@@ -92,6 +92,65 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "israel-prepared-to-shoot-down-flydubai-plane-after-cockpit-attack-cbs-arab-news-1791311974",
+  "category": "india",
+  "headline": "Israel prepared to shoot down FlyDubai plane after cockpit attack: CBS - Arab News",
+  "dek": "Israel prepared to intercept a FlyDubai aircraft following a severe cockpit attack that severely injured the pilot.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-06T18:39:34Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791311971_3061.png",
+  "imageAlt": "Israel prepared to shoot down FlyDubai plane after cockpit attack: CBS - Arab News",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Israel was prepared to shoot down a FlyDubai plane after a violent cockpit attack occurred during flight operations, according to reports citing CBS and Arab News."
+    },
+    {
+      "type": "paragraph",
+      "text": "The incident resulted in severe injuries to the hero pilot of the FlyDubai flight, who sustained a fractured skull during the attack and subsequently underwent emergency surgery in Saudi Arabia."
+    },
+    {
+      "type": "paragraph",
+      "text": "Medical efforts aboard the aircraft included 45 minutes of urgent intervention by a dentist who tried to stabilize the situation and save a life amid the crisis."
+    },
+    {
+      "type": "paragraph",
+      "text": "In the wake of the security incident, the UAE shared specific flight details regarding the FlyDubai aircraft with Israel, including information concerning the pilots."
+    },
+    {
+      "type": "paragraph",
+      "text": "The unfolding event highlights critical aviation security protocols and international coordination in response to inflight emergencies and cockpit threats."
+    },
+    {
+      "type": "paragraph",
+      "text": "Investigations into the nature of the attack and the precise sequence of events involving multiple regional authorities remain ongoing."
+    },
+    {
+      "type": "paragraph",
+      "text": "Further updates are expected as aviation officials and international stakeholders assess the security implications of the incident."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Israel prepared to shoot down FlyDubai plane after cockpit attack: CBS - Arab News"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "action-will-be-taken-against-pm-modi-amit-shah-mohan-bhagwat-cec-for-treason-say-1791310340",
   "category": "india",
   "headline": "Action will be taken against PM Modi, Amit Shah, Mohan Bhagwat, CEC for ‘treason’, says Rahul - The Hindu",

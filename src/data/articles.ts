@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "frances-police-fire-tear-gas-and-water-cannons-as-school-protests-sweep-the-coun-1791334962",
+  "category": "world",
+  "headline": "France's police fire tear gas and water cannons as school protests sweep the country - NPR",
+  "dek": "French riot police deploy tear gas and water cannons as over 250,000 students rally nationwide for education funding.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-07T01:02:42Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791334960_8286.png",
+  "imageAlt": "France's police fire tear gas and water cannons as school protests sweep the country - NPR",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "French riot police have fired tear gas and water cannons as unprecedented student protests sweep across the country."
+    },
+    {
+      "type": "paragraph",
+      "text": "The nationwide demonstrations have drawn more than 250,000 protesters demanding better education and increased school funding."
+    },
+    {
+      "type": "paragraph",
+      "text": "Gen Z has risen up in what has become a major test of domestic policy and public administration in France."
+    },
+    {
+      "type": "paragraph",
+      "text": "The widespread protests underscore deep-seated grievances regarding educational resources and institutional support for students."
+    },
+    {
+      "type": "paragraph",
+      "text": "Markets and policymakers are monitoring the situation to gauge potential broader economic and social impacts."
+    },
+    {
+      "type": "paragraph",
+      "text": "Further developments depend on government responses to the demands raised by the nationwide rallies."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "France's police fire tear gas and water cannons as school protests sweep the country - NPR"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "earthquake-of-magnitude-51-strikes-state-of-uttarakhand-in-india-emsc-says-reute-1791332274",
   "category": "india",
   "headline": "Earthquake of magnitude 5.1 strikes state of Uttarakhand in India, EMSC says - Reuters",

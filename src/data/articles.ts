@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "earthquake-of-magnitude-51-strikes-state-of-uttarakhand-in-india-emsc-says-reute-1791332274",
+  "category": "india",
+  "headline": "Earthquake of magnitude 5.1 strikes state of Uttarakhand in India, EMSC says - Reuters",
+  "dek": "An earthquake with a magnitude of 5.1 struck Uttarakhand, sending tremors across Delhi-NCR.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-07T00:17:54Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791332271_5048.png",
+  "imageAlt": "Earthquake of magnitude 5.1 strikes state of Uttarakhand in India, EMSC says - Reuters",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "An earthquake with a reported magnitude of 5.1 has struck the northern Indian state of Uttarakhand, according to data from the Euro-Mediterranean Seismological Centre."
+    },
+    {
+      "type": "paragraph",
+      "text": "The epicenter of the seismic activity was located in Uttarakhand's Chamoli district, triggering immediate safety concerns in the mountainous region."
+    },
+    {
+      "type": "paragraph",
+      "text": "Residents across the Delhi-National Capital Region also reported feeling tremors as the seismic waves traveled across northern India."
+    },
+    {
+      "type": "paragraph",
+      "text": "Such tectonic movements are characteristic of the geologically active Himalayan belt, where minor and moderate earthquakes frequently occur."
+    },
+    {
+      "type": "paragraph",
+      "text": "Local emergency monitoring systems and administrative bodies are currently assessing the affected areas for any potential structural damage or safety hazards."
+    },
+    {
+      "type": "paragraph",
+      "text": "Further updates from disaster management authorities are expected as officials compile comprehensive impact reports from the region."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Earthquake of magnitude 5.1 strikes state of Uttarakhand in India, EMSC says - Reuters"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "us-military-says-it-is-striking-iran-in-response-to-attack-on-civilian-vessel-in-1791330073",
   "category": "world",
   "headline": "U.S. military says it is striking Iran in response to attack on civilian vessel in Strait of Hormuz - The Hindu",

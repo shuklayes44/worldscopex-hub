@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "a-global-rupture-carney-calls-for-canada-eu-unity-before-g7-summit-al-jazeera-1791398591",
+  "category": "world",
+  "headline": "‘A global rupture’: Carney calls for Canada-EU unity before G7 summit - Al Jazeera",
+  "dek": "Carney urges stronger alignment between Canada and the European Union ahead of the G7 summit amid global uncertainty.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-07T18:43:11Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791398589_4680.png",
+  "imageAlt": "‘A global rupture’: Carney calls for Canada-EU unity before G7 summit - Al Jazeera",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Ahead of the upcoming G7 summit, calls have emerged for closer strategic cooperation between Canada and the European Union to address what is characterized as a significant global rupture."
+    },
+    {
+      "type": "paragraph",
+      "text": "The diplomatic appeal underscores the necessity for allied nations to present a united front during a period of heightened international tension and economic instability."
+    },
+    {
+      "type": "paragraph",
+      "text": "Such geopolitical realignments among major Western economies often carry broader implications for global trade, supply chains, and multilateral institutions."
+    },
+    {
+      "type": "paragraph",
+      "text": "For developing markets and major economies like India, shifting priorities within the G7 can directly impact foreign investment flows, commodity prices, and external trade negotiations."
+    },
+    {
+      "type": "paragraph",
+      "text": "As policymakers prepare for the summit, international markets remain attentive to any joint policy declarations or economic strategies that may emerge from the discussions."
+    },
+    {
+      "type": "paragraph",
+      "text": "Observers will closely watch the proceedings for concrete indicators of how Western partners plan to navigate ongoing global disruptions and maintain economic resilience."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "‘A global rupture’: Carney calls for Canada-EU unity before G7 summit - Al Jazeera"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "4-storey-building-collapses-in-delhis-seemapuri-several-feared-trapped-the-times-1791395761",
   "category": "india",
   "headline": "4-storey building collapses in Delhi's Seemapuri, several feared trapped - The Times of India",

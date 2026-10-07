@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "lenovo-launches-ai-express-to-speed-enterprise-ai-deployment-with-nvidia-offerin-1791414985",
+  "category": "technology",
+  "headline": "Lenovo launches AI Express to speed enterprise AI deployment with NVIDIA, offering systems from 15 days - varindia",
+  "dek": "Lenovo partners with NVIDIA to deliver enterprise AI systems within 15 days through AI Express.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-07T23:16:25Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791414983_9544.png",
+  "imageAlt": "Lenovo launches AI Express to speed enterprise AI deployment with NVIDIA, offering systems from 15 days - varindia",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "technology"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Lenovo has announced the launch of AI Express, a new initiative designed to accelerate enterprise artificial intelligence deployment in collaboration with NVIDIA."
+    },
+    {
+      "type": "paragraph",
+      "text": "The program provides businesses with streamlined access to advanced computing systems, offering delivery and deployment in as little as 15 days."
+    },
+    {
+      "type": "paragraph",
+      "text": "This accelerated timeline aims to reduce traditional hardware procurement bottlenecks that often delay complex machine learning initiatives."
+    },
+    {
+      "type": "paragraph",
+      "text": "The offering is positioned to capture increasing enterprise demand for rapid infrastructure integration as artificial intelligence adoption expands globally."
+    },
+    {
+      "type": "paragraph",
+      "text": "Industry analysts will closely monitor how this rapid deployment model impacts corporate technology budgets and operational readiness."
+    },
+    {
+      "type": "paragraph",
+      "text": "Future updates are expected to track specific enterprise adoption metrics and the broader availability of these accelerated systems across various markets."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Lenovo launches AI Express to speed enterprise AI deployment with NVIDIA, offering systems from 15 days - varindia"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "russia-says-plague-institute-workers-death-does-not-risk-an-epidemic-reuters-1791411310",
   "category": "india",
   "headline": "Russia says plague institute worker's death does not risk an epidemic - Reuters",

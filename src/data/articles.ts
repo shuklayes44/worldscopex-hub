@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "world-fears-major-war-more-than-any-other-global-risk-un-survey-finds-un-news-1791383822",
+  "category": "world",
+  "headline": "World fears major war more than any other global risk, UN survey finds - UN News",
+  "dek": "A United Nations survey reveals that populations worldwide now consider major war to be the primary global risk.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-07T14:37:02Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791383819_5234.png",
+  "imageAlt": "World fears major war more than any other global risk, UN survey finds - UN News",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "The United Nations has released findings from a major survey indicating that fear of a major war has surpassed all other global risks in the public consciousness."
+    },
+    {
+      "type": "paragraph",
+      "text": "The poll highlights a profound deterioration in global sentiment as ongoing geopolitical conflicts and diplomatic friction weigh heavily on international populations."
+    },
+    {
+      "type": "paragraph",
+      "text": "While the context snippet does not provide specific regional breakdowns, heightened global security risks routinely influence cross-border trade, supply chains, and market stability worldwide."
+    },
+    {
+      "type": "paragraph",
+      "text": "Emerging economies, including India, remain attuned to shifts in global risk perceptions given their potential to impact foreign capital flows, commodity prices, and strategic policy decisions."
+    },
+    {
+      "type": "paragraph",
+      "text": "International observers and multilateral bodies are expected to analyze the survey data closely as diplomatic efforts to de-escalate major flashpoints continue."
+    },
+    {
+      "type": "paragraph",
+      "text": "Future updates from international organizations will focus on how shifting public anxieties translate into policy shifts and diplomatic initiatives across major global powers."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "World fears major war more than any other global risk, UN survey finds - UN News"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "justice-sharma-didnt-disclose-sons-link-to-eci-during-cec-appointment-case-heari-1791380704",
   "category": "india",
   "headline": "Justice Sharma Didn't Disclose Son's Link To ECI During CEC Appointment Case Hearing : Petitioner To... - Live Law",

@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "israelis-mourn-oct-7-attack-as-palestinians-in-gaza-languish-in-ruins-of-the-war-1791416272",
+  "category": "world",
+  "headline": "Israelis mourn Oct. 7 attack as Palestinians in Gaza languish in ruins of the war it sparked - AP News",
+  "dek": "Israelis mourn the Oct. 7 attack as Palestinians in Gaza face ongoing devastation from the war.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-07T23:37:52Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791416270_1312.png",
+  "imageAlt": "Israelis mourn Oct. 7 attack as Palestinians in Gaza languish in ruins of the war it sparked - AP News",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Israelis are marking the anniversary of the Oct. 7 attack with mourning, while Palestinians in Gaza continue to languish in the extensive ruins of the conflict it sparked, according to recent reports."
+    },
+    {
+      "type": "paragraph",
+      "text": "The ongoing reverberations of the war have extended beyond the region, recently sparking political controversy and outrage among Jewish leaders over statements made by New York Mayor Mamdani."
+    },
+    {
+      "type": "paragraph",
+      "text": "In local communities such as Nahal Oz, residents have navigated the complex process of returning and rebuilding years after the initial escalation upended regional stability."
+    },
+    {
+      "type": "paragraph",
+      "text": "The profound human cost and physical destruction highlight the enduring difficulties faced by populations on both sides of the divide."
+    },
+    {
+      "type": "paragraph",
+      "text": "International observers continue to monitor the humanitarian situation in Gaza alongside the broader diplomatic fallout affecting political discourse abroad."
+    },
+    {
+      "type": "paragraph",
+      "text": "As communities continue to process the multi-year impact of the conflict, attention remains focused on regional security and the prospects for recovery."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Israelis mourn Oct. 7 attack as Palestinians in Gaza languish in ruins of the war it sparked - AP News"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "lenovo-launches-ai-express-to-speed-enterprise-ai-deployment-with-nvidia-offerin-1791414985",
   "category": "technology",
   "headline": "Lenovo launches AI Express to speed enterprise AI deployment with NVIDIA, offering systems from 15 days - varindia",

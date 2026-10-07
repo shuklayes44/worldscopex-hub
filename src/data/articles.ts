@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "collins-and-jackson-clash-in-first-debate-of-crucial-maine-senate-race-the-new-y-1791372298",
+  "category": "world",
+  "headline": "Collins and Jackson Clash in First Debate of Crucial Maine Senate Race - The New York Times",
+  "dek": "Susan Collins and Troy Jackson squared off in their first debate, focusing heavily on Trump and abortion rights.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-07T11:24:58Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791372296_9582.png",
+  "imageAlt": "Collins and Jackson Clash in First Debate of Crucial Maine Senate Race - The New York Times",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "US Senator Susan Collins and challenger Troy Jackson clashed in their first debate of the crucial Maine Senate race, according to recent media reports. The high-stakes encounter brought key national political flashpoints directly into the regional contest."
+    },
+    {
+      "type": "paragraph",
+      "text": "The candidates engaged in sharp exchanges over major policy battles that are shaping the electoral landscape. Discussions during the debate highlighted the deeply polarized nature of the current political environment."
+    },
+    {
+      "type": "paragraph",
+      "text": "Donald Trump and abortion rights took center stage during the closely watched forum, reflecting the broader themes dominating US elections. The issues served as primary dividing lines between the competing candidates."
+    },
+    {
+      "type": "paragraph",
+      "text": "Collins, a notable political survivor, is attempting to navigate the complexities of her party's relationship with Trump. Observers note her campaign strategy relies on appealing to a diverse electorate in a closely divided state."
+    },
+    {
+      "type": "paragraph",
+      "text": "The Maine race remains a critical battleground that could influence the broader balance of power in Washington. National parties and outside groups are heavily invested in the outcome of the contest."
+    },
+    {
+      "type": "paragraph",
+      "text": "Voters and analysts will be watching to see how this initial debate shifts momentum in the weeks leading up to the election. The unfolding campaign continues to draw intense scrutiny from across the country."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Collins and Jackson Clash in First Debate of Crucial Maine Senate Race - The New York Times"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "drone-strike-sinks-ship-in-nato-waters-as-zelenskyy-warns-of-looming-massive-str-1791369969",
   "category": "world",
   "headline": "Drone strike sinks ship in NATO waters as Zelenskyy warns of looming ‘massive strike’ - Fox News",

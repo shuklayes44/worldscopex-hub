@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "fuel-industry-warns-truck-stops-not-to-sell-red-dye-diesel-after-trump-lifts-res-1791358947",
+  "category": "world",
+  "headline": "Fuel industry warns truck stops not to sell red dye diesel after Trump lifts restrictions - NBC News",
+  "dek": "U.S. fuel industry warns truck stops against selling red-dyed diesel despite new executive order lifting highway restrictions.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-07T07:42:27Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791358945_1775.png",
+  "imageAlt": "Fuel industry warns truck stops not to sell red dye diesel after Trump lifts restrictions - NBC News",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "The U.S. fuel industry has issued direct warnings to truck stops advising them not to sell red-dyed diesel following a newly signed executive order from President Trump. The directive officially opens up the use of tax-free red-dyed diesel on U.S. highways."
+    },
+    {
+      "type": "paragraph",
+      "text": "The policy change was enacted in an effort to slash fuel costs for commercial truckers operating across the United States. Energy experts and market analysts have begun examining whether the regulatory adjustment will successfully lower prices at the pump."
+    },
+    {
+      "type": "paragraph",
+      "text": "Despite the presidential order permitting the highway use of the previously restricted fuel, industry associations are urging caution. Fuel distributors note that existing compliance frameworks and distribution channels present significant hurdles for immediate retail adoption."
+    },
+    {
+      "type": "paragraph",
+      "text": "The unfolding situation highlights potential friction between federal executive actions and established industry operating norms. Market participants are closely watching how major truck stop chains respond to the conflicting guidance regarding tax-exempt fuel sales."
+    },
+    {
+      "type": "paragraph",
+      "text": "Future developments will depend on clarification from regulatory bodies and how fuel suppliers navigate the operational complexities of the new policy. Observers will continue tracking price movements and industry compliance in the coming weeks."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Fuel industry warns truck stops not to sell red dye diesel after Trump lifts restrictions - NBC News"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "rbi-mpc-meeting-live-updates-repo-rate-hiked-by-25-basis-points-to-550-real-gdp-1791354949",
   "category": "india",
   "headline": "RBI MPC meeting LIVE updates: Repo rate hiked by 25 basis points to 5.50%; real GDP growth for FY27 projected at 7.1% - The Hindu",

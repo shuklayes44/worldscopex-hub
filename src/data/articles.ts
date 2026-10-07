@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "cec-row-updates-india-bloc-mps-to-stage-another-protest-against-cec-on-october-8-1791409197",
+  "category": "india",
+  "headline": "CEC row updates: INDIA bloc MPs to stage another protest against CEC on October 8 - The Hindu",
+  "dek": "INDIA bloc MPs announce a fresh protest against the CEC on October 8 amid escalating political opposition.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-07T21:39:57Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791409195_5125.png",
+  "imageAlt": "CEC row updates: INDIA bloc MPs to stage another protest against CEC on October 8 - The Hindu",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Opposition INDIA bloc members of parliament are preparing to stage another protest against the Chief Election Commissioner on October 8. This upcoming demonstration follows ongoing friction between opposition parties and election authorities over institutional procedures and demands."
+    },
+    {
+      "type": "paragraph",
+      "text": "Political friction has intensified significantly as opposition figures maintain sustained pressure on the leadership. Prominent opposition voices, including Rahul Gandhi, have stated that demonstrations will continue until Gyanesh steps down from his position."
+    },
+    {
+      "type": "paragraph",
+      "text": "In addition to the planned October 8 protest against the CEC, opposition parties have scheduled further demonstrations across different regions. Plans include a 'Chalo Raj Bhavan' protest in Vijayawada, which is slated to take place on October 10."
+    },
+    {
+      "type": "paragraph",
+      "text": "The opposition bloc is also actively engaging with regional authorities regarding related electoral administration grievances. Leaders recently met with the Delhi Chief Electoral Officer to formally demand the cancellation of SIR."
+    },
+    {
+      "type": "paragraph",
+      "text": "The series of coordinated protests underscores the high stakes of the ongoing political confrontation involving national opposition parties and electoral bodies. Observers note that these actions reflect broader disputes over electoral oversight and administrative transparency."
+    },
+    {
+      "type": "paragraph",
+      "text": "As the scheduled dates for the demonstrations approach, political analysts and stakeholders will closely watch for any official responses or shifts in strategy from the opposition alliance. The unfolding developments will likely continue to impact the broader political landscape in India."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "CEC row updates: INDIA bloc MPs to stage another protest against CEC on October 8 - The Hindu"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "openai-launches-dots-personal-ai-assistant-built-to-handle-everything-al-jazeera-1791407553",
   "category": "technology",
   "headline": "OpenAI launches ‘dots,’ personal AI assistant ‘built to handle everything’ - Al Jazeera",

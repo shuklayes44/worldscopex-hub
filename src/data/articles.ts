@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "russia-says-plague-institute-workers-death-does-not-risk-an-epidemic-reuters-1791411310",
+  "category": "india",
+  "headline": "Russia says plague institute worker's death does not risk an epidemic - Reuters",
+  "dek": "Russia states a plague institute worker's death poses no epidemic risk as international monitoring continues.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-07T22:15:10Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791411308_3694.png",
+  "imageAlt": "Russia says plague institute worker's death does not risk an epidemic - Reuters",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Russian authorities have stated that the recent death of a plague institute worker does not present an epidemic risk, according to reports from Reuters. The incident has drawn international attention, prompting monitoring by the United States Centers for Disease Control and Prevention regarding travelers."
+    },
+    {
+      "type": "paragraph",
+      "text": "US President Donald Trump noted that Russian officials have characterized the plague scare as being under control. Diplomatic engagement is underway, with the US scheduling a call with Russian leadership to discuss the reported case of pneumonic plague."
+    },
+    {
+      "type": "paragraph",
+      "text": "Global health authorities and international agencies are currently reviewing the situation to evaluate biosecurity protocols and prevent any cross-border transmission risks. Despite the concerns raised by the incident, expert assessments indicate that a wider global outbreak of pneumonic plague remains unlikely."
+    },
+    {
+      "type": "paragraph",
+      "text": "Financial markets and travel sectors are keeping a close watch on developments as international health organizations analyze incoming data from Russian laboratories. The situation underscores the sensitivity of pathogen research facilities and the protocols required during worker health incidents."
+    },
+    {
+      "type": "paragraph",
+      "text": "Stakeholders and policymakers are awaiting further updates from Russian health regulators regarding the exact circumstances surrounding the worker's death. International health monitors continue to track potential travel implications and preventive screenings."
+    },
+    {
+      "type": "paragraph",
+      "text": "What to watch next includes the outcome of scheduled high-level talks between the US and Russia, alongside any formal technical reports released by global health organizations regarding safety standards at plague research institutes."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Russia says plague institute worker's death does not risk an epidemic - Reuters"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "cec-row-updates-india-bloc-mps-to-stage-another-protest-against-cec-on-october-8-1791409197",
   "category": "india",
   "headline": "CEC row updates: INDIA bloc MPs to stage another protest against CEC on October 8 - The Hindu",

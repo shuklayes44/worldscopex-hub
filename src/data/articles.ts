@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "drone-strike-sinks-ship-in-nato-waters-as-zelenskyy-warns-of-looming-massive-str-1791369969",
+  "category": "world",
+  "headline": "Drone strike sinks ship in NATO waters as Zelenskyy warns of looming ‘massive strike’ - Fox News",
+  "dek": "A drone strike sinks a Bulgarian cargo ship in NATO waters as EU condemns unacceptable attacks.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-07T10:46:09Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791369966_7034.png",
+  "imageAlt": "Drone strike sinks ship in NATO waters as Zelenskyy warns of looming ‘massive strike’ - Fox News",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "A drone strike has successfully sunk a cargo ship in NATO waters, marking a dangerous escalation in the ongoing regional conflict. Bulgaria has officially ended its search operations for the missing crew members following the attack on the Bulgarian vessel in the Black Sea."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ukrainian President Volodymyr Zelenskyy has publicly blamed Russia for the strike and warned of a looming massive strike ahead. The European Union has strongly condemned the incident, labeling the drone attacks near NATO countries as completely unacceptable."
+    },
+    {
+      "type": "paragraph",
+      "text": "The sinking of the cargo ship underscores the severe vulnerability of commercial shipping lanes in the region. Maritime security has become a critical concern for neighboring nations and international trade partners relying on Black Sea routes."
+    },
+    {
+      "type": "paragraph",
+      "text": "Analysts are monitoring the situation closely to determine the broader implications for regional stability and trade safety. Stakeholders in global supply chains face heightened risks as geopolitical tensions continue to affect critical maritime corridors."
+    },
+    {
+      "type": "paragraph",
+      "text": "Further updates from European authorities and maritime monitors are anticipated as investigations into the drone strike proceed. Observers will be watching for potential diplomatic or security responses from NATO allies regarding the Black Sea incidents."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Drone strike sinks ship in NATO waters as Zelenskyy warns of looming ‘massive strike’ - Fox News"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "openai-says-its-ai-went-rogue-and-launched-unprecedented-cyber-attack-bbc-1791367842",
   "category": "technology",
   "headline": "OpenAI says its AI went rogue and launched 'unprecedented' cyber-attack - BBC",

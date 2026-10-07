@@ -92,6 +92,53 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "we-will-do-it-pm-modi-pitches-new-slogan-for-india-on-completing-25-years-in-pub-1791374736",
+  "category": "india",
+  "headline": "‘We Will Do It’: PM Modi pitches new slogan for India on completing 25 years in public office - The Hindu",
+  "dek": "Prime Minister Narendra Modi marks 25 years in public office by pitching a new national slogan for India.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-07T12:05:36Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791374734_4054.png",
+  "imageAlt": "‘We Will Do It’: PM Modi pitches new slogan for India on completing 25 years in public office - The Hindu",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Prime Minister Narendra Modi has marked 25 years in public office by introducing a new slogan aimed at rallying the nation toward future development goals. The milestone underscores a sustained democratic mandate and deep public trust, according to statements from Union ministers following the announcement."
+    },
+    {
+      "type": "paragraph",
+      "text": "The newly launched slogan is tied directly to the broader Viksit Bharat pledge, outlining a long-term vision for a developed India by 2047. Analysts note that the timing and framing of the announcement also serve as a deliberate message to the political opposition regarding governance continuity."
+    },
+    {
+      "type": "paragraph",
+      "text": "The milestone highlights a quarter-century of political leadership, tracing a journey that has consistently shaped national policy and economic strategies. Stakeholders are evaluating how this long-term policy framework will influence upcoming legislative agendas and economic reforms."
+    },
+    {
+      "type": "paragraph",
+      "text": "As the administration looks toward the 2047 horizon, the newly introduced slogan is expected to anchor public outreach and government initiatives. Observers will continue to monitor how this strategic vision is integrated into broader economic and administrative planning moving forward."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "‘We Will Do It’: PM Modi pitches new slogan for India on completing 25 years in public office - The Hindu"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "collins-and-jackson-clash-in-first-debate-of-crucial-maine-senate-race-the-new-y-1791372298",
   "category": "world",
   "headline": "Collins and Jackson Clash in First Debate of Crucial Maine Senate Race - The New York Times",

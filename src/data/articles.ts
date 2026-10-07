@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "nobel-chemistry-prize-goes-to-pair-who-solved-mystery-of-mirror-image-molecules-1791401435",
+  "category": "world",
+  "headline": "Nobel chemistry prize goes to pair who solved mystery of 'mirror image' molecules - Reuters",
+  "dek": "Henri Kagan and Kenso Soai win the Nobel chemistry prize for solving the mystery of mirror-image molecules.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-07T19:30:35Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791401432_8595.png",
+  "imageAlt": "Nobel chemistry prize goes to pair who solved mystery of 'mirror image' molecules - Reuters",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "The Nobel Prize in Chemistry has been awarded to Henri Kagan and Kenso Soai for their pioneering work in solving the mystery of mirror-image molecules, marking a major advancement in chiral chemistry."
+    },
+    {
+      "type": "paragraph",
+      "text": "Announced by the award committees, the prize recognizes the pair for illuminating life's asymmetry through foundational research that explains how these complex molecular structures function."
+    },
+    {
+      "type": "paragraph",
+      "text": "Chiral chemistry deals with molecules that exist as non-superimposable mirror images, a structural property vital to biological processes and the pharmaceutical sector."
+    },
+    {
+      "type": "paragraph",
+      "text": "The discoveries made by Kagan and Soai provide critical insights into chemical synthesis, directly influencing how pharmaceutical compounds are developed and manufactured safely."
+    },
+    {
+      "type": "paragraph",
+      "text": "With industrial applications spanning drug production and chemical engineering, the findings establish new benchmarks for purity and molecular control in commercial laboratories."
+    },
+    {
+      "type": "paragraph",
+      "text": "As the scientific community processes the announcement, researchers and industry stakeholders will watch for how these advancements shape future pharmaceutical manufacturing and regulatory standards."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Nobel chemistry prize goes to pair who solved mystery of 'mirror image' molecules - Reuters"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "global-electricity-demand-growth-set-to-accelerate-as-power-systems-adjust-to-re-1791400169",
   "category": "world",
   "headline": "Global electricity demand growth set to accelerate as power systems adjust to recent shocks - News - IEA – International Energy Agency",

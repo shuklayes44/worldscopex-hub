@@ -92,6 +92,65 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "christa-pike-lawyers-say-she-is-speaking-one-week-after-failed-execution-al-jaze-1791349438",
+  "category": "india",
+  "headline": "Christa Pike lawyers say she is speaking one week after failed execution - Al Jazeera",
+  "dek": "Tennessee death row inmate Christa Pike is conscious and speaking a week after a failed execution.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-07T05:03:58Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791349436_4579.png",
+  "imageAlt": "Christa Pike lawyers say she is speaking one week after failed execution - Al Jazeera",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "US death row inmate Christa Pike is currently awake and speaking one week following a failed execution attempt in Tennessee, according to statements released by her attorneys."
+    },
+    {
+      "type": "paragraph",
+      "text": "The development brings renewed attention to the methods and substances used in capital punishment within the state."
+    },
+    {
+      "type": "paragraph",
+      "text": "Attorneys representing Pike confirmed her condition, though specific details regarding her ongoing medical or legal status remain limited."
+    },
+    {
+      "type": "paragraph",
+      "text": "The drug utilized in the procedure, pentobarbital, has a history of facing past scrutiny and legal challenges regarding its application in capital punishment."
+    },
+    {
+      "type": "paragraph",
+      "text": "The incident has intensified discussions surrounding execution protocols and the reliability of lethal injection drugs used by correctional authorities."
+    },
+    {
+      "type": "paragraph",
+      "text": "Legal experts and human rights advocates are closely monitoring the case for further developments regarding Pike's legal representation and potential court challenges."
+    },
+    {
+      "type": "paragraph",
+      "text": "Future updates are expected as attorneys and state officials address the implications of the failed procedure and the inmate's current condition."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Christa Pike lawyers say she is speaking one week after failed execution - Al Jazeera"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "us-death-row-inmate-christa-pike-awake-and-speaking-after-failed-execution-lawye-1791340008",
   "category": "world",
   "headline": "US death row inmate Christa Pike awake and speaking after failed execution, lawyers say - BBC",

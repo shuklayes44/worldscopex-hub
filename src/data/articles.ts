@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "openai-launches-dots-personal-ai-assistant-built-to-handle-everything-al-jazeera-1791407553",
+  "category": "technology",
+  "headline": "OpenAI launches ‘dots,’ personal AI assistant ‘built to handle everything’ - Al Jazeera",
+  "dek": "OpenAI launches 'dots', a personal AI assistant built to handle comprehensive user tasks.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-07T21:12:33Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791407550_2329.png",
+  "imageAlt": "OpenAI launches ‘dots,’ personal AI assistant ‘built to handle everything’ - Al Jazeera",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "technology"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "OpenAI has announced the launch of 'dots', a new personal artificial intelligence assistant designed to manage a broad range of user tasks."
+    },
+    {
+      "type": "paragraph",
+      "text": "The tool is built to handle comprehensive daily functions and workflows, representing OpenAI's latest advancement in automated assistant software."
+    },
+    {
+      "type": "paragraph",
+      "text": "The release comes as artificial intelligence developers increasingly prioritize personal assistant applications that can integrate into daily operations and digital routines."
+    },
+    {
+      "type": "paragraph",
+      "text": "As competitive interest in autonomous digital tools grows, software companies are placing heightened emphasis on versatility and functional capability within personal assistant products."
+    },
+    {
+      "type": "paragraph",
+      "text": "Industry stakeholders will be monitoring operational details, performance benchmarks, and broader rollout timelines following the announcement."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "OpenAI launches ‘dots,’ personal AI assistant ‘built to handle everything’ - Al Jazeera"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "1-dead-7-injured-after-5-storey-building-collapses-in-delhis-seemapuri-the-times-1791405522",
   "category": "india",
   "headline": "1 dead, 7 injured after 5-storey building collapses in Delhi's Seemapuri - The Times of India",

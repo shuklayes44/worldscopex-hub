@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "global-electricity-demand-growth-set-to-accelerate-as-power-systems-adjust-to-re-1791400169",
+  "category": "world",
+  "headline": "Global electricity demand growth set to accelerate as power systems adjust to recent shocks - News - IEA – International Energy Agency",
+  "dek": "The International Energy Agency reports that global electricity demand growth is set to accelerate amid ongoing power system adjustments.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-07T19:09:29Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791400167_6601.png",
+  "imageAlt": "Global electricity demand growth set to accelerate as power systems adjust to recent shocks - News - IEA – International Energy Agency",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Global electricity demand growth is projected to accelerate as international power systems actively adjust to recent shocks, according to the latest assessments from the International Energy Agency. The findings highlight shifting consumption trajectories across major global economies following a period of unprecedented structural volatility in energy markets."
+    },
+    {
+      "type": "paragraph",
+      "text": "Power networks worldwide are currently being forced to adapt rapidly to evolving demand patterns, infrastructural pressures, and supply chain constraints. This ongoing transition requires sustained technical and financial adjustments to ensure grid stability and prevent systemic bottlenecks."
+    },
+    {
+      "type": "paragraph",
+      "text": "For fast-growing emerging economies such as India, the acceleration in electricity demand underscores the critical, ongoing need for enhanced grid resilience, modernization, and diversified energy investments. Reliable power infrastructure remains a fundamental pillar for supporting broader industrial and economic expansion."
+    },
+    {
+      "type": "paragraph",
+      "text": "The adjustment process within international power systems also highlights broader economic implications, potentially influencing capital expenditure trends and regional pricing dynamics across the energy sector. Policymakers and industrial stakeholders are navigating a complex landscape defined by shifting demand baselines."
+    },
+    {
+      "type": "paragraph",
+      "text": "Market analysts and energy sector participants will closely monitor upcoming data releases from the International Energy Agency to evaluate the long-term implications for global infrastructure spending. Future updates will provide further clarity on how power grids are managing the accelerated growth trajectory."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Global electricity demand growth set to accelerate as power systems adjust to recent shocks - News - IEA – International Energy Agency"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "a-global-rupture-carney-calls-for-canada-eu-unity-before-g7-summit-al-jazeera-1791398591",
   "category": "world",
   "headline": "‘A global rupture’: Carney calls for Canada-EU unity before G7 summit - Al Jazeera",

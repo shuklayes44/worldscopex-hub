@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "1-christa-pikes-lawyers-in-court-after-she-regains-consciousness-in-hospital-lat-1791394329",
+  "category": "world",
+  "headline": "(1) Christa Pike’s lawyers in court after she regains consciousness in hospital – latest updates - The Guardian",
+  "dek": "Christa Pike's attorneys appear in court as she regains consciousness following a botched execution.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-07T17:32:09Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791394327_7774.png",
+  "imageAlt": "(1) Christa Pike’s lawyers in court after she regains consciousness in hospital – latest updates - The Guardian",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Christa Pike’s defense attorneys appeared in court on Tuesday following reports that she has regained consciousness in a hospital after a botched execution. Legal representatives are actively fighting for access to their client as the situation develops."
+    },
+    {
+      "type": "paragraph",
+      "text": "According to updates from the legal proceedings, Pike is currently speaking in a limited capacity while receiving medical care. Her attorneys have sought immediate access to assess her condition and determine the next steps in the legal process."
+    },
+    {
+      "type": "paragraph",
+      "text": "The incident follows a failed execution attempt that has drawn intense legal and public scrutiny. Observers are closely following the developments surrounding the handling of capital punishment procedures and prisoner rights."
+    },
+    {
+      "type": "paragraph",
+      "text": "A judge is scheduled to hear arguments from Pike’s legal team regarding their ongoing efforts to secure access to her in the hospital. The court proceedings center heavily on the immediate welfare and constitutional protections of the inmate."
+    },
+    {
+      "type": "paragraph",
+      "text": "Further updates are anticipated as the judiciary weighs the arguments presented by defense counsel. Observers will continue to monitor the legal challenges stemming from the botched execution and the ensuing hospital recovery."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "(1) Christa Pike’s lawyers in court after she regains consciousness in hospital – latest updates - The Guardian"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "were-short-of-resources-frances-student-protesters-in-their-own-words-al-jazeera-1791388328",
   "category": "india",
   "headline": "‘We’re short of resources’: France’s student protesters, in their own words - Al Jazeera",

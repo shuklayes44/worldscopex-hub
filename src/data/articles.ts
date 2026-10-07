@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "4-storey-building-collapses-in-delhis-seemapuri-several-feared-trapped-the-times-1791395761",
+  "category": "india",
+  "headline": "4-storey building collapses in Delhi's Seemapuri, several feared trapped - The Times of India",
+  "dek": "A four-storey building collapse in Delhi's Seemapuri has left three dead and several others feared trapped beneath debris.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-07T17:56:01Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791395759_5092.png",
+  "imageAlt": "4-storey building collapses in Delhi's Seemapuri, several feared trapped - The Times of India",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "A four-storey residential building has collapsed in the Seemapuri area of Delhi, triggering an urgent multi-agency rescue operation. Initial reports indicate that several individuals remain trapped underneath the heavy rubble of the fallen structure. Emergency responders have rushed to the site to locate and extract survivors from the debris field."
+    },
+    {
+      "type": "paragraph",
+      "text": "According to an official from the National Disaster Response Force, three fatalities have been officially confirmed at the scene. The incident has drawn immediate concern regarding urban safety regulations and structural integrity in densely populated residential zones. Rescue operations are progressing under challenging conditions as teams coordinate to clear the collapse site."
+    },
+    {
+      "type": "paragraph",
+      "text": "Emergency personnel reported that lanterns placed on the debris present a substantial operational challenge during the ongoing rescue efforts. The presence of these obstructions complicates the delicate process of moving heavy masonry and searching for survivors. Specialized equipment is being utilized to safely stabilize remaining sections and reach those unaccounted for."
+    },
+    {
+      "type": "paragraph",
+      "text": "This structural failure occurs approximately a month after a separate hostel tragedy in the capital, refocusing attention on urban infrastructure hazards. Local officials and disaster management units remain on high alert as the situation unfolds. The repetition of such incidents highlights ongoing vulnerabilities within residential building maintenance and oversight."
+    },
+    {
+      "type": "paragraph",
+      "text": "Authorities and disaster response units will maintain a continuous presence at the Seemapuri location as recovery efforts proceed. Observers and stakeholders will be closely watching for official updates regarding casualty figures and subsequent safety investigations into the building's collapse. Further developments are expected as rescue operations conclude and structural assessments are initiated."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "4-storey building collapses in Delhi's Seemapuri, several feared trapped - The Times of India"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "1-christa-pikes-lawyers-in-court-after-she-regains-consciousness-in-hospital-lat-1791394329",
   "category": "world",
   "headline": "(1) Christa Pike’s lawyers in court after she regains consciousness in hospital – latest updates - The Guardian",

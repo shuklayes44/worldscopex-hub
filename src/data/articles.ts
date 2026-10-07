@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "israel-marks-three-years-since-hamas-led-7-october-2023-attacks-bbc-1791363622",
+  "category": "world",
+  "headline": "Israel marks three years since Hamas-led 7 October 2023 attacks - BBC",
+  "dek": "Israel marks three years since the Hamas-led 7 October 2023 attacks with commemorations and national remembrance.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-07T09:00:22Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791363620_8830.png",
+  "imageAlt": "Israel marks three years since Hamas-led 7 October 2023 attacks - BBC",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Israel is marking three years since the Hamas-led 7 October 2023 attacks, observing national remembrance for those killed during the assault."
+    },
+    {
+      "type": "paragraph",
+      "text": "The anniversary of the attacks, which set off the subsequent military assault in Gaza, has drawn solemn reflections across the country."
+    },
+    {
+      "type": "paragraph",
+      "text": "Concurrent security developments across the broader Middle East, including reported strikes near Saudi targets, highlight the wider regional implications of the ongoing conflict."
+    },
+    {
+      "type": "paragraph",
+      "text": "International markets and diplomatic missions continue to monitor the situation for potential economic and geopolitical fallout."
+    },
+    {
+      "type": "paragraph",
+      "text": "Observers and global stakeholders remain focused on ongoing regional stability and security measures as the anniversary is observed."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Israel marks three years since Hamas-led 7 October 2023 attacks - BBC"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "fuel-industry-warns-truck-stops-not-to-sell-red-dye-diesel-after-trump-lifts-res-1791358947",
   "category": "world",
   "headline": "Fuel industry warns truck stops not to sell red dye diesel after Trump lifts restrictions - NBC News",

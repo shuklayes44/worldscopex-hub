@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "france-shuts-down-nearly-900-schools-as-violent-education-protests-escalate-nbc-1791337589",
+  "category": "world",
+  "headline": "France shuts down nearly 900 schools as violent education protests escalate - NBC News",
+  "dek": "France shuts down nearly 900 schools as violent education protests and nationwide rallies escalate.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-07T01:46:29Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791337587_1590.png",
+  "imageAlt": "France shuts down nearly 900 schools as violent education protests escalate - NBC News",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "France has shut down nearly 900 schools as violent education protests escalate significantly across the country. Unprecedented student protests are currently rocking France, drawing widespread attention to public grievances and demands for institutional reform."
+    },
+    {
+      "type": "paragraph",
+      "text": "French riot police have fired tear gas as more than 250,000 demonstrators rally nationwide to demand increased school funding. The large-scale demonstrations highlight mounting tensions between student groups and state authorities over educational resources."
+    },
+    {
+      "type": "paragraph",
+      "text": "The unfolding unrest takes place against a complex political backdrop in France. Meanwhile, student riots continue to engulf the nation as far-right presidential frontrunner Le Pen vows a fiscal turnaround."
+    },
+    {
+      "type": "paragraph",
+      "text": "The demonstrations have disrupted daily operations across the French education system, prompting major security responses. Authorities remain on high alert as the protests draw participants from various sectors concerned with public spending and education policy."
+    },
+    {
+      "type": "paragraph",
+      "text": "The situation presents immediate challenges for French governance and public safety officials managing the widespread unrest. Observers are closely watching how political leaders respond to the escalating demands for funding and fiscal reform."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "France shuts down nearly 900 schools as violent education protests escalate - NBC News"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "frances-police-fire-tear-gas-and-water-cannons-as-school-protests-sweep-the-coun-1791334962",
   "category": "world",
   "headline": "France's police fire tear gas and water cannons as school protests sweep the country - NPR",

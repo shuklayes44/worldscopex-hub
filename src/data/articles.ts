@@ -92,6 +92,65 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "us-death-row-inmate-christa-pike-awake-and-speaking-after-failed-execution-lawye-1791340008",
+  "category": "world",
+  "headline": "US death row inmate Christa Pike awake and speaking after failed execution, lawyers say - BBC",
+  "dek": "US death row inmate Christa Pike is awake and speaking after a failed execution, legal counsel confirms.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-07T02:26:48Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791340006_7856.png",
+  "imageAlt": "US death row inmate Christa Pike awake and speaking after failed execution, lawyers say - BBC",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "US death row inmate Christa Pike has regained consciousness and is speaking following a failed execution attempt, according to statements released by her lawyers."
+    },
+    {
+      "type": "paragraph",
+      "text": "The development has drawn significant attention from legal experts and human rights advocates regarding the administration of capital punishment in the United States."
+    },
+    {
+      "type": "paragraph",
+      "text": "Attorneys representing Pike confirmed her current condition following the botched procedure, though specific medical details regarding the execution process remain limited."
+    },
+    {
+      "type": "paragraph",
+      "text": "Questions have emerged regarding whether Tennessee authorities will attempt to carry out the execution a second time following the initial failure."
+    },
+    {
+      "type": "paragraph",
+      "text": "Legal scholars are closely watching how state officials and courts will address the unprecedented situation surrounding the execution protocol."
+    },
+    {
+      "type": "paragraph",
+      "text": "The case continues to fuel ongoing national and international debates concerning the ethics, reliability, and legality of capital punishment practices."
+    },
+    {
+      "type": "paragraph",
+      "text": "Future developments will depend on impending legal motions filed by defense counsel and subsequent decisions by state correctional authorities."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "US death row inmate Christa Pike awake and speaking after failed execution, lawyers say - BBC"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "france-shuts-down-nearly-900-schools-as-violent-education-protests-escalate-nbc-1791337589",
   "category": "world",
   "headline": "France shuts down nearly 900 schools as violent education protests escalate - NBC News",

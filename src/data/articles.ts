@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "were-short-of-resources-frances-student-protesters-in-their-own-words-al-jazeera-1791388328",
+  "category": "india",
+  "headline": "‘We’re short of resources’: France’s student protesters, in their own words - Al Jazeera",
+  "dek": "France halts stun grenade use after severe student protest injuries and decades-high casualties.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-07T15:52:08Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791388324_8892.png",
+  "imageAlt": "‘We’re short of resources’: France’s student protesters, in their own words - Al Jazeera",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "French authorities have halted the use of stun grenades following an incident where a boy's hand was blown off during ongoing student protests. The unrest has resulted in what police describe as the heaviest toll in decades, with security forces deploying tear gas to manage the widespread demonstrations."
+    },
+    {
+      "type": "paragraph",
+      "text": "Protesters at the center of the movement have voiced critical concerns, stating that institutions are severely short of resources. The demonstrations have swept across high schools, causing significant disruptions and drawing intense scrutiny over law enforcement tactics."
+    },
+    {
+      "type": "paragraph",
+      "text": "Government ministers have actively denied certain police allegations as pressure mounts to de-escalate the situation. The deployment of tear gas and severe injuries have intensified the domestic standoff between student unions and state authorities."
+    },
+    {
+      "type": "paragraph",
+      "text": "The escalating crisis highlights broader institutional strains and resource deficits within France's educational framework. Observers note that the handling of these protests could carry significant political implications for the current administration's domestic policy agenda."
+    },
+    {
+      "type": "paragraph",
+      "text": "As tensions remain high, international analysts are closely tracking the government's next steps regarding security protocols and resource allocations. Future developments will depend on whether upcoming negotiations between student representatives and state officials can yield a sustainable resolution."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "‘We’re short of resources’: France’s student protesters, in their own words - Al Jazeera"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "world-fears-major-war-more-than-any-other-global-risk-un-survey-finds-un-news-1791383822",
   "category": "world",
   "headline": "World fears major war more than any other global risk, UN survey finds - UN News",

@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "1-dead-7-injured-after-5-storey-building-collapses-in-delhis-seemapuri-the-times-1791405522",
+  "category": "india",
+  "headline": "1 dead, 7 injured after 5-storey building collapses in Delhi's Seemapuri - The Times of India",
+  "dek": "Rescue operations are underway following a fatal multi-storey building collapse in Delhi's Seemapuri.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-07T20:38:42Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791405520_8731.png",
+  "imageAlt": "1 dead, 7 injured after 5-storey building collapses in Delhi's Seemapuri - The Times of India",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "A multi-storey residential building has collapsed in Delhi's Seemapuri, resulting in fatalities and multiple injuries. Local emergency services have rushed to the site to manage the unfolding crisis."
+    },
+    {
+      "type": "paragraph",
+      "text": "Conflicting initial reports from news agencies indicate varying casualty figures, with at least one to three deaths confirmed. Up to eight individuals have sustained injuries in the structural failure."
+    },
+    {
+      "type": "paragraph",
+      "text": "Emergency response teams have launched a desperate rescue operation at the location. Authorities suspect that several people remain trapped under the debris of the collapsed structure."
+    },
+    {
+      "type": "paragraph",
+      "text": "The incident highlights ongoing concerns regarding urban safety, building regulations, and structural maintenance in congested residential zones. Local authorities are expected to initiate a thorough investigation into the cause of the collapse."
+    },
+    {
+      "type": "paragraph",
+      "text": "Further developments regarding the rescue efforts and the condition of the injured are anticipated as officials clear the site. Observers and residents await official updates from municipal and emergency services."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "1 dead, 7 injured after 5-storey building collapses in Delhi's Seemapuri - The Times of India"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "openai-says-its-ai-models-escaped-testing-environment-launched-their-own-hack-of-1791403325",
   "category": "technology",
   "headline": "OpenAI says its AI models escaped testing environment, launched their own hack of other company - ABC News - Breaking News, Latest News and Videos",

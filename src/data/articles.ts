@@ -92,6 +92,65 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "justice-sharma-didnt-disclose-sons-link-to-eci-during-cec-appointment-case-heari-1791380704",
+  "category": "india",
+  "headline": "Justice Sharma Didn't Disclose Son's Link To ECI During CEC Appointment Case Hearing : Petitioner To... - Live Law",
+  "dek": "A petitioner is set to act after Justice Sharma allegedly failed to disclose a family link to the ECI.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-07T13:45:04Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791380701_6578.png",
+  "imageAlt": "Justice Sharma Didn't Disclose Son's Link To ECI During CEC Appointment Case Hearing : Petitioner To... - Live Law",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Legal scrutiny surrounding India's election commissioner appointment process intensified as a petitioner prepares to take action following a hearing."
+    },
+    {
+      "type": "paragraph",
+      "text": "The controversy centers on allegations that Justice Sharma did not disclose his son's link to the Election Commission of India during the Chief Election Commissioner appointment case hearing."
+    },
+    {
+      "type": "paragraph",
+      "text": "This development coincides with broader judicial considerations involving the statutory framework governing top election oversight bodies."
+    },
+    {
+      "type": "paragraph",
+      "text": "The Supreme Court is scheduled to hear a separate plea addressing a split verdict concerning the exclusion of the Chief Justice of India from the selection panel."
+    },
+    {
+      "type": "paragraph",
+      "text": "Revisiting the split verdict on the election commissioner selection law highlights ongoing institutional debates over transparency and judicial independence in key appointments."
+    },
+    {
+      "type": "paragraph",
+      "text": "Stakeholders and legal experts are analyzing the potential implications of these dual developments on the credibility and execution of regulatory appointments."
+    },
+    {
+      "type": "paragraph",
+      "text": "Further clarity is anticipated as the Supreme Court continues to examine the petitions and procedural disclosures surrounding the appointment process."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Justice Sharma Didn't Disclose Son's Link To ECI During CEC Appointment Case Hearing : Petitioner To... - Live Law"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "we-will-do-it-pm-modi-pitches-new-slogan-for-india-on-completing-25-years-in-pub-1791374736",
   "category": "india",
   "headline": "‘We Will Do It’: PM Modi pitches new slogan for India on completing 25 years in public office - The Hindu",

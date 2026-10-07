@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "rbi-mpc-meeting-live-updates-repo-rate-hiked-by-25-basis-points-to-550-real-gdp-1791354949",
+  "category": "india",
+  "headline": "RBI MPC meeting LIVE updates: Repo rate hiked by 25 basis points to 5.50%; real GDP growth for FY27 projected at 7.1% - The Hindu",
+  "dek": "The Reserve Bank of India raised the repo rate by 25 bps to 5.50% while projecting FY27 real GDP growth at 7.1%.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-07T06:35:49Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791354947_5635.png",
+  "imageAlt": "RBI MPC meeting LIVE updates: Repo rate hiked by 25 basis points to 5.50%; real GDP growth for FY27 projected at 7.1% - The Hindu",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "The Reserve Bank of India's Monetary Policy Committee has announced an increase in the repo rate by 25 basis points, bringing the benchmark rate to 5.50%. Governor Sanjay Malhotra made the announcement during the ongoing MPC meeting updates."
+    },
+    {
+      "type": "paragraph",
+      "text": "This move marks India joining the wider global rate-tightening wave, representing the country's first interest rate hike in nearly four years."
+    },
+    {
+      "type": "paragraph",
+      "text": "As a direct consequence of the policy tightening, consumers and corporate borrowers across India are now facing upward adjustments to their Equated Monthly Installments."
+    },
+    {
+      "type": "paragraph",
+      "text": "Alongside the rate action, the central bank projected real GDP growth for the financial year 2027 to stand at 7.1%."
+    },
+    {
+      "type": "paragraph",
+      "text": "Financial markets and banking sector analysts are closely assessing the broader economic implications of the shifted monetary stance."
+    },
+    {
+      "type": "paragraph",
+      "text": "Stakeholders will continue to monitor further announcements from commercial lenders regarding corresponding revisions to retail and corporate lending rates."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "RBI MPC meeting LIVE updates: Repo rate hiked by 25 basis points to 5.50%; real GDP growth for FY27 projected at 7.1% - The Hindu"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "christa-pike-lawyers-say-she-is-speaking-one-week-after-failed-execution-al-jaze-1791349438",
   "category": "india",
   "headline": "Christa Pike lawyers say she is speaking one week after failed execution - Al Jazeera",

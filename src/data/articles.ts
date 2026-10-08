@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "gst-council-scraps-arrest-powers-of-gst-officers-ups-prosecution-threshold-to-5-1791467617",
+  "category": "india",
+  "headline": "GST Council scraps arrest powers of GST officers, ups prosecution threshold to ₹5 crore - The Hindu",
+  "dek": "The GST Council has removed tax officers' arrest powers and raised the prosecution threshold to ₹5 crore in a major regulatory reform.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-08T13:53:37Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791467614_8502.png",
+  "imageAlt": "GST Council scraps arrest powers of GST officers, ups prosecution threshold to ₹5 crore - The Hindu",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "The GST Council has announced a significant restructuring of India's indirect taxation framework, stripping GST officers of their arrest powers."
+    },
+    {
+      "type": "paragraph",
+      "text": "Under the newly adopted policy, the threshold for initiating prosecution has been substantially raised to ₹5 crore, altering the enforcement landscape for corporate and commercial entities."
+    },
+    {
+      "type": "paragraph",
+      "text": "The policy shift aims to streamline tax administration and reduce regulatory friction for businesses operating within the country's jurisdiction."
+    },
+    {
+      "type": "paragraph",
+      "text": "In addition to the enforcement revisions, authorities are weighing a new compliance scheme that could allow up to 16 lakh small businesses to file a single GST return annually."
+    },
+    {
+      "type": "paragraph",
+      "text": "The proposed compliance measure is designed to ease administrative burdens for smaller commercial operators while maintaining overall tax transparency."
+    },
+    {
+      "type": "paragraph",
+      "text": "Market analysts and industry stakeholders will closely observe the operational rollout of the revised prosecution limits and the prospective single-return framework."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "GST Council scraps arrest powers of GST officers, ups prosecution threshold to ₹5 crore - The Hindu"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "cec-row-live-india-bloc-mps-head-to-gandhi-smriti-to-stage-sit-in-protest-dipke-1791461853",
   "category": "india",
   "headline": "CEC row LIVE: INDIA bloc MPs head to Gandhi Smriti to stage sit-in protest; Dipke, Dhruv Rathee address Bengaluru's ‘People’s Tribunal’ against SIR - The Hindu",

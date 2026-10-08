@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "cec-row-live-opposition-leaders-visit-rajghat-say-will-continue-protest-against-1791475107",
+  "category": "india",
+  "headline": "CEC row LIVE: Opposition leaders visit Rajghat, say will continue protest against CEC, ‘vote chori’ - The Hindu",
+  "dek": "INDIA bloc opposition leaders hold a sit-in protest at Rajghat against CEC Gyanesh Kumar over alleged vote irregularities.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-08T15:58:27Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791475104_2613.png",
+  "imageAlt": "CEC row LIVE: Opposition leaders visit Rajghat, say will continue protest against CEC, ‘vote chori’ - The Hindu",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Opposition leaders belonging to the INDIA bloc visited Rajghat to stage a sit-in protest against Chief Election Commissioner Gyanesh Kumar. The demonstrations, entering their third day, center around allegations of 'vote chori' or vote tampering."
+    },
+    {
+      "type": "paragraph",
+      "text": "The protest faced a tactical shift on Day 3 as authorities permitted Rahul Gandhi and other opposition MPs to hold their demonstration at the historic Raj Ghat memorial site."
+    },
+    {
+      "type": "paragraph",
+      "text": "The sit-in has drawn sharp political reactions, with the Bharatiya Janata Party (BJP) actively accusing prominent opposition figures including Rahul Gandhi and Priyanka Gandhi of political grandstanding amid the ongoing electoral disputes."
+    },
+    {
+      "type": "paragraph",
+      "text": "Opposition leaders maintained a resolute stance at the site, declaring publicly that their protests against the CEC and the alleged electoral irregularities will continue unabated."
+    },
+    {
+      "type": "paragraph",
+      "text": "The ongoing friction between opposition parties and the election oversight body underscores a deepening institutional and political divide in national governance."
+    },
+    {
+      "type": "paragraph",
+      "text": "Political analysts and stakeholders will be watching closely to see how the opposition's sustained mobilization influences legislative proceedings and public discourse surrounding election integrity."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "CEC row LIVE: Opposition leaders visit Rajghat, say will continue protest against CEC, ‘vote chori’ - The Hindu"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "christa-pike-now-walking-after-us-execution-went-wrong-lawyer-says-bbc-1791472686",
   "category": "world",
   "headline": "Christa Pike now walking after US execution went wrong, lawyer says - BBC",

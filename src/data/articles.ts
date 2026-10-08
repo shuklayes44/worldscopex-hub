@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "christa-pike-now-walking-after-us-execution-went-wrong-lawyer-says-bbc-1791503398",
+  "category": "world",
+  "headline": "Christa Pike now walking after US execution went wrong, lawyer says - BBC",
+  "dek": "Christa Pike is recovering and walking after a US execution failed, leaving her with pneumonia and arm paralysis.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-08T23:49:58Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791503396_3798.png",
+  "imageAlt": "Christa Pike now walking after US execution went wrong, lawyer says - BBC",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Christa Pike is now walking and eating again following a failed US execution attempt, according to statements released by her lawyer."
+    },
+    {
+      "type": "paragraph",
+      "text": "The botched procedure has drawn renewed attention to the methods and protocols utilized in capital punishment cases across the United States."
+    },
+    {
+      "type": "paragraph",
+      "text": "Legal representatives confirmed that the execution failure resulted in significant medical complications for Pike, including pneumonia and a temporary lack of function in her arms."
+    },
+    {
+      "type": "paragraph",
+      "text": "The incident highlights ongoing legal and ethical debates regarding capital punishment, with various organizations examining the implications of execution procedures."
+    },
+    {
+      "type": "paragraph",
+      "text": "Supreme Court precedents regarding survivors of botched executions remain a focal point for legal analysts evaluating the constitutional questions raised by such events."
+    },
+    {
+      "type": "paragraph",
+      "text": "Observers and legal experts will continue to monitor how this case influences future legal challenges and policy discussions surrounding capital punishment methods."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Christa Pike now walking after US execution went wrong, lawyer says - BBC"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "school-assembly-news-headlines-for-august-25-2026-top-india-world-sports-and-bus-1791502306",
   "category": "india",
   "headline": "School assembly news headlines for August 25, 2026: Top India, world, sports and business updates - The Economic Times",

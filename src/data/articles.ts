@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "cec-row-live-india-bloc-mps-head-to-gandhi-smriti-to-stage-sit-in-protest-dipke-1791461853",
+  "category": "india",
+  "headline": "CEC row LIVE: INDIA bloc MPs head to Gandhi Smriti to stage sit-in protest; Dipke, Dhruv Rathee address Bengaluru's ‘People’s Tribunal’ against SIR - The Hindu",
+  "dek": "INDIA bloc MPs head to Gandhi Smriti as protests led by public figures erupt in Bengaluru over the CEC row.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-08T12:17:33Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791461850_3477.png",
+  "imageAlt": "CEC row LIVE: INDIA bloc MPs head to Gandhi Smriti to stage sit-in protest; Dipke, Dhruv Rathee address Bengaluru's ‘People’s Tribunal’ against SIR - The Hindu",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "INDIA bloc members of parliament are traveling to Gandhi Smriti to stage a sit-in protest, escalating political tensions surrounding the Chief Election Commissioner. The action follows a mass demonstration at Bengaluru's Freedom Park concerning the SIR issue."
+    },
+    {
+      "type": "paragraph",
+      "text": "Public figures including Abhijeet Dipke, Dhruv Rathee, and Prakash Raj addressed Bengaluru's People's Tribunal during the ongoing unrest. The prominent figures joined the mass protest to voice public grievances and coordinate opposition responses."
+    },
+    {
+      "type": "paragraph",
+      "text": "Demonstrators and leaders at the Bengaluru tribunal are explicitly seeking the resignation of CEC Gyanesh Kumar over the SIR controversy. The demand marks a hardening stance by critics regarding electoral administration oversight."
+    },
+    {
+      "type": "paragraph",
+      "text": "The escalating protests highlight deepening friction between the political opposition and electoral authorities in the country. Such heightened political confrontation can influence legislative priorities and broader governance policies."
+    },
+    {
+      "type": "paragraph",
+      "text": "Observers will be closely monitoring how parliamentary proceedings unfold following the opposition's sit-in at Gandhi Smriti. Further updates on the CEC row and responses from authorities remain critical factors to watch."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "CEC row LIVE: INDIA bloc MPs head to Gandhi Smriti to stage sit-in protest; Dipke, Dhruv Rathee address Bengaluru's ‘People’s Tribunal’ against SIR - The Hindu"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "live-updates-latest-india-and-world-news-today-fir-filed-against-priyanka-rahul-1791459856",
   "category": "india",
   "headline": "LIVE Updates | Latest India and World News Today: FIR filed against Priyanka, Rahul Gandhi over anti-CEC protest; Messi Argentina retirement, and more - WION",

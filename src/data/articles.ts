@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "live-updates-latest-india-and-world-news-today-fir-filed-against-priyanka-rahul-1791459856",
+  "category": "india",
+  "headline": "LIVE Updates | Latest India and World News Today: FIR filed against Priyanka, Rahul Gandhi over anti-CEC protest; Messi Argentina retirement, and more - WION",
+  "dek": "First Information Report filed against opposition leaders Rahul and Priyanka Gandhi following an anti-CEC demonstration.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-08T11:44:16Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791459853_8692.png",
+  "imageAlt": "LIVE Updates | Latest India and World News Today: FIR filed against Priyanka, Rahul Gandhi over anti-CEC protest; Messi Argentina retirement, and more - WION",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Authorities have formally registered a First Information Report (FIR) against prominent Indian political figures Rahul Gandhi and Priyanka Gandhi. The legal action stems from a recent demonstration organized against the Chief Election Commissioner (CEC), drawing significant attention from political observers."
+    },
+    {
+      "type": "paragraph",
+      "text": "The filing of the police complaint highlights mounting political friction between key opposition figures and regulatory authorities in India. Demonstrations targeting election oversight bodies have increasingly become a focal point of contention in the national political landscape."
+    },
+    {
+      "type": "paragraph",
+      "text": "Legal proceedings of this nature carry potential implications for the political strategies of the opposition as they navigate regulatory challenges. Analysts note that confrontations involving top-tier political leadership and state machinery often influence broader legislative dynamics and public discourse."
+    },
+    {
+      "type": "paragraph",
+      "text": "The unfolding situation is expected to draw further reactions from political stakeholders across the spectrum. Observers will be closely watching for any subsequent legal challenges or organized responses from the leadership involved."
+    },
+    {
+      "type": "paragraph",
+      "text": "As the investigation and legal process move forward, attention remains focused on the broader ramifications for electoral governance and political accountability in India. Further updates are anticipated as authorities and legal representatives outline their next steps."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "LIVE Updates | Latest India and World News Today: FIR filed against Priyanka, Rahul Gandhi over anti-CEC protest; Messi Argentina retirement, and more - WION"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "hurricane-isaias-is-expected-to-get-stronger-on-its-way-to-florida-alabama-and-m-1791457461",
   "category": "world",
   "headline": "Hurricane Isaias is expected to get stronger on its way to Florida, Alabama and Mississippi coasts - AP News",

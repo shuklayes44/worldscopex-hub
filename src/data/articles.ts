@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "rubio-refuses-to-comment-on-guilfoyle-allegations-ap-news-1791480512",
+  "category": "world",
+  "headline": "Rubio refuses to comment on Guilfoyle allegations - AP News",
+  "dek": "Marco Rubio declines to comment on allegations that Kimberly Guilfoyle sought funds in exchange for administration access.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-08T17:28:32Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791480510_8076.png",
+  "imageAlt": "Rubio refuses to comment on Guilfoyle allegations - AP News",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "US Secretary of State nominee Marco Rubio has officially declined to comment on emerging allegations involving Kimberly Guilfoyle, according to reports from the Associated Press."
+    },
+    {
+      "type": "paragraph",
+      "text": "Newly surfaced text messages indicate that Guilfoyle sought $100,000 while offering direct access to Trump administration officials."
+    },
+    {
+      "type": "paragraph",
+      "text": "Additional reports from the Wall Street Journal state that the former Trump Jr. aide pressed a donor to pay her $100,000 credit card bill."
+    },
+    {
+      "type": "paragraph",
+      "text": "The developments have prompted wider political reactions, with Vice President JD Vance signaling discomfort regarding reports that an ambassador sought funds for access."
+    },
+    {
+      "type": "paragraph",
+      "text": "The situation raises questions regarding ethics protocols and diplomatic appointments as the administration navigates the fallout from the financial allegations."
+    },
+    {
+      "type": "paragraph",
+      "text": "Observers and lawmakers are continuing to monitor the situation for potential impacts on upcoming confirmation hearings and internal administration policies."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Rubio refuses to comment on Guilfoyle allegations - AP News"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "gst-council-meeting-arresting-powers-of-tax-officers-scrapped-prosecution-thresh-1791478690",
   "category": "india",
   "headline": "GST Council meeting: Arresting powers of tax officers scrapped, prosecution threshold raised to Rs 5 cror - The Times of India",

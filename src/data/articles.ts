@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "india-opposition-steps-up-pressure-amid-cjp-protests-dwcom-1791422134",
+  "category": "india",
+  "headline": "India: Opposition steps up pressure amid CJP protests - DW.com",
+  "dek": "Political opposition in India amplifies pressure amid ongoing protests related to the CJP.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-08T01:15:34Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791422132_1316.png",
+  "imageAlt": "India: Opposition steps up pressure amid CJP protests - DW.com",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Political opposition factions in India have intensified their pressure amidst ongoing protests centered on the Chief Justice of Pakistan."
+    },
+    {
+      "type": "paragraph",
+      "text": "The escalating political friction highlights heightened sensitivity regarding judicial and institutional matters across the region."
+    },
+    {
+      "type": "paragraph",
+      "text": "Opposition leaders have utilized the demonstrations to challenge the administration on its handling of the unfolding situation."
+    },
+    {
+      "type": "paragraph",
+      "text": "The ongoing developments are being closely tracked by political analysts for potential implications on domestic policy debates."
+    },
+    {
+      "type": "paragraph",
+      "text": "Market participants and observers continue to monitor the broader political climate as pressure mounts."
+    },
+    {
+      "type": "paragraph",
+      "text": "Further statements from key political figures are anticipated as the opposition maintains its current stance on the issue."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "India: Opposition steps up pressure amid CJP protests - DW.com"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "stock-market-prediction-for-today-sensex-nifty-outlook-for-thursday-kospi-taiwan-1791419597",
   "category": "economy",
   "headline": "Stock market prediction for today: Sensex, Nifty outlook for Thursday | Kospi, Taiwan cues to watch | 8 Oct 2026 - Livemint",

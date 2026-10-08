@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "42-former-judges-write-open-letter-warn-against-vote-theft-allegations-ndtv-1791486292",
+  "category": "india",
+  "headline": "42 Former Judges Write Open Letter, Warn Against Vote Theft Allegations - NDTV",
+  "dek": "Forty-two former judges defend the Election Commission against allegations of vote theft.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-08T19:04:52Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791486288_9153.png",
+  "imageAlt": "42 Former Judges Write Open Letter, Warn Against Vote Theft Allegations - NDTV",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "A group of 42 former judges has released an open letter strongly defending the Election Commission of India and cautioning against allegations of vote theft."
+    },
+    {
+      "type": "paragraph",
+      "text": "The signatories slammed what they described as a calculated campaign driven by vested political interests aimed at undermining the electoral authority."
+    },
+    {
+      "type": "paragraph",
+      "text": "The intervention follows intense public scrutiny and debates over election processes and the administrative handling of polls."
+    },
+    {
+      "type": "paragraph",
+      "text": "The letter adds a significant legal dimension to the ongoing discourse, with opposition figures claiming the situation lends credibility to their concerns."
+    },
+    {
+      "type": "paragraph",
+      "text": "Meanwhile, legal scrutiny continues to develop, with related judgments and disputes drawing attention from various legal and political stakeholders."
+    },
+    {
+      "type": "paragraph",
+      "text": "Markets, policymakers, and the public will continue to watch how institutional responses shape the broader political landscape in India."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "42 Former Judges Write Open Letter, Warn Against Vote Theft Allegations - NDTV"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "as-munirs-military-takes-on-gulf-role-pakistans-parliament-is-not-involved-reute-1791484834",
   "category": "india",
   "headline": "As Munir's military takes on Gulf role, Pakistan's parliament is not involved - Reuters",

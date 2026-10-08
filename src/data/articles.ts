@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "trump-approved-the-militarys-1st-firing-squad-execution-since-wwii-why-now-npr-1791427652",
+  "category": "world",
+  "headline": "Trump approved the military's 1st firing squad execution since WWII. Why now? - NPR",
+  "dek": "Nidal Malik Hasan, convicted of the 2009 Fort Hood shooting, is scheduled to be executed by firing squad on December 3.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-08T02:47:32Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791427650_4810.png",
+  "imageAlt": "Trump approved the military's 1st firing squad execution since WWII. Why now? - NPR",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "US President Trump has approved the military's first firing squad execution since World War II, marking a historic shift in capital punishment protocols."
+    },
+    {
+      "type": "paragraph",
+      "text": "The scheduled execution targets Nidal Malik Hasan, who was convicted of killing 13 people in the mass shooting at Fort Hood in 2009."
+    },
+    {
+      "type": "paragraph",
+      "text": "According to reports from NPR and The New York Times, the execution date has been officially set for December 3."
+    },
+    {
+      "type": "paragraph",
+      "text": "This upcoming event represents the first military execution by firing squad in 65 years, reviving historical methods of capital punishment within the armed forces."
+    },
+    {
+      "type": "paragraph",
+      "text": "The decision has prompted widespread discussion among legal experts, military officials, and human rights advocates regarding the implications of the approved method."
+    },
+    {
+      "type": "paragraph",
+      "text": "Observers and stakeholders will continue to monitor the legal proceedings and administrative preparations leading up to the December 3 execution date."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Trump approved the military's 1st firing squad execution since WWII. Why now? - NPR"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "live-updates-vance-seems-to-soften-iran-nuclear-demands-rubio-says-tehran-has-lo-1791425199",
   "category": "world",
   "headline": "Live Updates: Vance seems to soften Iran nuclear demands, Rubio says Tehran has \"lost control\" of Strait of Hormuz - CBS News",

@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "breaking-news-google-is-planning-to-launch-an-experimental-satellite-into-orbit-1791482351",
+  "category": "technology",
+  "headline": "Breaking News: Google is planning to launch an experimental satellite into orbit in Big Tech’s first move toward A.I. data centers in space. - Facebook",
+  "dek": "Google plans to launch an experimental satellite in Big Tech's first move toward space-based AI data centers.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-08T17:59:11Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791482348_1467.png",
+  "imageAlt": "Breaking News: Google is planning to launch an experimental satellite into orbit in Big Tech’s first move toward A.I. data centers in space. - Facebook",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "technology"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Google has announced plans to launch an experimental satellite into low Earth orbit as part of an initiative exploring space-based artificial intelligence data centers."
+    },
+    {
+      "type": "paragraph",
+      "text": "The project represents a foundational shift for major technology firms as they grapple with the unprecedented power and cooling requirements associated with advanced artificial intelligence workloads."
+    },
+    {
+      "type": "paragraph",
+      "text": "Terrestrial data centers currently face severe infrastructure bottlenecks, including escalating local energy demands, grid capacity constraints, and complex environmental regulations."
+    },
+    {
+      "type": "paragraph",
+      "text": "Moving computational infrastructure into orbit offers potential advantages, such as uninterrupted solar power generation and naturally cold thermal environments in the vacuum of space."
+    },
+    {
+      "type": "paragraph",
+      "text": "However, deploying and maintaining space-based servers presents formidable engineering hurdles, including high launch costs, radiation hardening, and data transmission latency."
+    },
+    {
+      "type": "paragraph",
+      "text": "The success of Google's experimental satellite could influence long-term infrastructure strategies across the technology sector, shaping how future global computing networks are scaled."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Breaking News: Google is planning to launch an experimental satellite into orbit in Big Tech’s first move toward A.I. data centers in space. - Facebook"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "rubio-refuses-to-comment-on-guilfoyle-allegations-ap-news-1791480512",
   "category": "world",
   "headline": "Rubio refuses to comment on Guilfoyle allegations - AP News",

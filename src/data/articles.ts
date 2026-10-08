@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "french-students-keep-up-protest-pressure-with-some-demonstrations-hit-by-violenc-1791498500",
+  "category": "india",
+  "headline": "French students keep up protest pressure with some demonstrations hit by violence - Reuters",
+  "dek": "French high school students maintained their protest pressure as demonstrations in Paris turned violent, prompting police to deploy tear gas and water cannons.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-08T22:28:20Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791498498_7289.png",
+  "imageAlt": "French students keep up protest pressure with some demonstrations hit by violence - Reuters",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "French students have kept up intense protest pressure, with recent demonstrations in Paris turning violent as law enforcement agencies responded with tear gas and water cannons. High school students across the country have vowed that there will be no let-up in their movement, stating firmly that they are fighting for their future."
+    },
+    {
+      "type": "paragraph",
+      "text": "The ongoing protests reflect deep-seated anger among students in France, capturing attention well beyond national borders. Similar youth-led demonstrations and educational walkouts have been observed across several European nations, including Italy, Belgium, and Greece, signaling a broader regional wave of student discontent."
+    },
+    {
+      "type": "paragraph",
+      "text": "The unrest has drawn an immediate and heavy security response, particularly in Paris, where authorities have utilized crowd control measures such as tear gas and water cannons to manage the escalating demonstrations. These tactical interventions highlight the severity of the clashes occurring on the streets."
+    },
+    {
+      "type": "paragraph",
+      "text": "The demonstrations underscore significant socio-economic concerns among the younger generation, who feel compelled to voice their anxieties regarding education and future prospects directly through sustained public action. The widespread nature of the movement points to shared regional grievances across multiple European countries."
+    },
+    {
+      "type": "paragraph",
+      "text": "As the student groups stand firm in their resolve, attention turns to how local authorities and educational institutions will respond to the ongoing pressure. Observers and policymakers will be watching closely to see if the unrest prompts broader policy dialogues or if further escalations occur in major urban centers."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "French students keep up protest pressure with some demonstrations hit by violence - Reuters"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "christa-pike-is-up-and-walking-for-first-time-after-failed-execution-lawyer-says-1791495280",
   "category": "world",
   "headline": "Christa Pike is ‘up and walking’ for first time after failed execution, lawyer says - The Guardian",

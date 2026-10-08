@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "three-killed-36-injured-in-houthi-attacks-on-saudi-airports-riyadh-says-al-jazee-1791455577",
+  "category": "india",
+  "headline": "Three killed, 36 injured in Houthi attacks on Saudi airports, Riyadh says - Al Jazeera",
+  "dek": "Riyadh reports three deaths and 36 injuries following Houthi missile and drone strikes on Saudi airports, drawing international condemnation.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-08T10:32:57Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791455576_3684.png",
+  "imageAlt": "Three killed, 36 injured in Houthi attacks on Saudi airports, Riyadh says - Al Jazeera",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Three people have been killed and 36 others injured in a series of Houthi attacks targeting airports in Saudi Arabia, according to statements from Riyadh. The strikes utilized both missiles and drones as part of an escalating regional conflict."
+    },
+    {
+      "type": "paragraph",
+      "text": "India has officially condemned the attacks on the two Saudi airports, reflecting widespread international concern over the safety of civil aviation and infrastructure in the region."
+    },
+    {
+      "type": "paragraph",
+      "text": "The Houthi movement has issued what it described as a last warning to global airlines regarding Saudi airspace, significantly raising the threat level for international carriers operating in the area."
+    },
+    {
+      "type": "paragraph",
+      "text": "The ongoing escalation poses a direct threat to key Red Sea routes, which serve as vital arteries for global trade, energy shipments, and maritime transit."
+    },
+    {
+      "type": "paragraph",
+      "text": "As the geopolitical crisis deepens, attention turns to the security of regional transport corridors and potential economic impacts on global supply chains and energy markets."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Three killed, 36 injured in Houthi attacks on Saudi airports, Riyadh says - Al Jazeera"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "nana-patekar-bollywood-actor-dies-at-75-in-goa-home-bbc-1791450819",
   "category": "india",
   "headline": "Nana Patekar: Bollywood actor dies at 75 in Goa home - BBC",

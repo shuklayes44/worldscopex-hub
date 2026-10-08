@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "trump-says-we-protect-our-cities-after-saying-iran-could-take-out-los-angeles-or-1791441992",
+  "category": "world",
+  "headline": "Trump says ‘we protect our cities’ after saying Iran could ‘take out’ Los Angeles or San Diego - NBC News",
+  "dek": "Former U.S. President Donald Trump addressed city protection following comments on California security threats.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-08T06:46:32Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791441990_1009.png",
+  "imageAlt": "Trump says ‘we protect our cities’ after saying Iran could ‘take out’ Los Angeles or San Diego - NBC News",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Former U.S. President Donald Trump stated that \"we protect our cities\" following previous remarks regarding potential security threats facing major metropolitan areas."
+    },
+    {
+      "type": "paragraph",
+      "text": "The commentary follows statements where Trump suggested that Iran could potentially target cities such as Los Angeles or San Diego."
+    },
+    {
+      "type": "paragraph",
+      "text": "Trump subsequently doubled down on his California-related comments, generating widespread public reaction and media coverage."
+    },
+    {
+      "type": "paragraph",
+      "text": "Public figures, including media personalities, have actively responded to the statements across various television networks and platforms."
+    },
+    {
+      "type": "paragraph",
+      "text": "The ongoing discourse highlights heightened tensions regarding national security, domestic defense policies, and political rhetoric involving major U.S. cities."
+    },
+    {
+      "type": "paragraph",
+      "text": "Political analysts and observers continue to monitor the broader implications of these statements on ongoing political campaigns and public safety debates."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Trump says ‘we protect our cities’ after saying Iran could ‘take out’ Los Angeles or San Diego - NBC News"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "india-news-live-updates-8-october-2026-india-bloc-steps-up-stir-demanding-cec-gy-1791436507",
   "category": "india",
   "headline": "India news Live Updates, 8 October 2026: INDIA bloc steps up stir demanding CEC Gyanesh Kumar’s resignation - The Indian Express",

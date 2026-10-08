@@ -92,6 +92,53 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "christa-pike-is-up-and-walking-for-first-time-after-failed-execution-lawyer-says-1791495280",
+  "category": "world",
+  "headline": "Christa Pike is ‘up and walking’ for first time after failed execution, lawyer says - The Guardian",
+  "dek": "Christa Pike's lawyer states she is walking following a failed execution.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-08T21:34:40Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791495277_9776.png",
+  "imageAlt": "Christa Pike is ‘up and walking’ for first time after failed execution, lawyer says - The Guardian",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Christa Pike is reportedly up and walking for the first time following a failed execution attempt, according to statements from her lawyer. The update brings renewed attention to the ongoing legal and procedural questions surrounding capital punishment."
+    },
+    {
+      "type": "paragraph",
+      "text": "Details regarding the incident emerged as reports detailed the events following the lethal injection attempt. The case has prompted broader discussions among legal scholars regarding the protocols and constitutional implications of botched executions."
+    },
+    {
+      "type": "paragraph",
+      "text": "The situation involves scrutiny from various legal observers and civil rights advocates. The Supreme Court's historical precedents concerning survivors of failed executions remain a central point of discussion in legal circles."
+    },
+    {
+      "type": "paragraph",
+      "text": "Observers are monitoring the case for potential further legal challenges and official inquiries into the execution procedures. Future developments are expected to focus on the legal standing and health status of the individual involved."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Christa Pike is ‘up and walking’ for first time after failed execution, lawyer says - The Guardian"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "brazil-launches-ai-supercomputer-push-while-balancing-us-and-chinese-tech-al-jaz-1791493895",
   "category": "technology",
   "headline": "Brazil launches AI supercomputer push while balancing US and Chinese tech - Al Jazeera",

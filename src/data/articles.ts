@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "brazil-launches-ai-supercomputer-push-while-balancing-us-and-chinese-tech-al-jaz-1791493895",
+  "category": "technology",
+  "headline": "Brazil launches AI supercomputer push while balancing US and Chinese tech - Al Jazeera",
+  "dek": "Brazil initiates a new AI supercomputer push while balancing geopolitical relations with the US and China.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-08T21:11:35Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791493892_2625.png",
+  "imageAlt": "Brazil launches AI supercomputer push while balancing US and Chinese tech - Al Jazeera",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "technology"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Brazil has officially launched a new initiative focused on developing artificial intelligence supercomputing capabilities."
+    },
+    {
+      "type": "paragraph",
+      "text": "The strategic push marks a significant step for national technological infrastructure within the Latin American nation."
+    },
+    {
+      "type": "paragraph",
+      "text": "In deploying these advanced systems, Brazilian leadership is actively navigating a delicate balancing act between technology providers from the United States and China."
+    },
+    {
+      "type": "paragraph",
+      "text": "This geopolitical tightrope reflects a broader global trend where emerging economies attempt to diversify their digital partnerships amid rising technological competition."
+    },
+    {
+      "type": "paragraph",
+      "text": "As nations worldwide race to secure advanced AI infrastructure, Brazil's approach offers a key test case for non-aligned digital development."
+    },
+    {
+      "type": "paragraph",
+      "text": "Market analysts and international policymakers will continue to watch how Brazil manages these dual tech dependencies in the coming phases."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Brazil launches AI supercomputer push while balancing US and Chinese tech - Al Jazeera"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "gst-council-meet-highlights-gst-council-reforms-to-kick-in-from-april-2027-india-1791492334",
   "category": "india",
   "headline": "GST Council meet highlights: GST Council reforms to kick in from April 2027 - India Today",

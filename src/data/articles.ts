@@ -92,6 +92,41 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "cec-row-live-opposition-leaders-pray-at-rajghat-say-will-continue-protest-agains-1791470213",
+  "category": "india",
+  "headline": "CEC row LIVE: Opposition leaders pray at Rajghat, say will continue protest against CEC, ‘vote chori’ - The Hindu",
+  "dek": "Opposition leaders continue protests at Rajghat against the CEC and allegations of vote chori.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-08T14:36:53Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791470209_5631.png",
+  "imageAlt": "CEC row LIVE: Opposition leaders pray at Rajghat, say will continue protest against CEC, ‘vote chori’ - The Hindu",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Opposition leaders have gathered at Rajghat to continue their ongoing protests against the Chief Election Commissioner and allegations of vote chori. The demonstrations mark the third day of protests following police permission for Rahul Gandhi and INDIA bloc MPs to assemble at Raj Ghat. The high-profile political mobilization has drawn sharp reactions from ruling party officials amidst heightened tensions in the capital. The Bharatiya Janata Party has accused prominent opposition figures, including Rahul Gandhi and Priyanka Gandhi, of misconduct with policewomen during the demonstrations. The escalating row underscores deep divisions between political factions regarding electoral administration and the right to public protest. Observers and stakeholders will continue to watch for further developments as the opposition maintains its stance against the election authority."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "CEC row LIVE: Opposition leaders pray at Rajghat, say will continue protest against CEC, ‘vote chori’ - The Hindu"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "gst-council-scraps-arrest-powers-of-gst-officers-ups-prosecution-threshold-to-5-1791467617",
   "category": "india",
   "headline": "GST Council scraps arrest powers of GST officers, ups prosecution threshold to ₹5 crore - The Hindu",

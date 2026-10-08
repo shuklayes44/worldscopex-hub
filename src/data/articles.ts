@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "hurricane-isaias-is-expected-to-get-stronger-on-its-way-to-florida-alabama-and-m-1791457461",
+  "category": "world",
+  "headline": "Hurricane Isaias is expected to get stronger on its way to Florida, Alabama and Mississippi coasts - AP News",
+  "dek": "Hurricane Isaias becomes the first Atlantic storm of 2026, prompting severe weather warnings across Gulf Coast states.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-08T11:04:21Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791457459_6991.png",
+  "imageAlt": "Hurricane Isaias is expected to get stronger on its way to Florida, Alabama and Mississippi coasts - AP News",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Hurricane Isaias has officially strengthened into the first Atlantic hurricane of the 2026 season, according to the latest updates from AP News and The Weather Channel. The storm is currently tracking toward the Florida, Alabama, and Mississippi coasts."
+    },
+    {
+      "type": "paragraph",
+      "text": "Meteorological tracking indicates that the system is continuing to intensify as it moves across the waters of the Gulf of Mexico. The escalating threat level has prompted regional authorities to issue active watches and warnings for vulnerable areas across parts of Florida."
+    },
+    {
+      "type": "paragraph",
+      "text": "Emergency management agencies and local populations along the Gulf Coast are actively bracing for the arrival of severe weather conditions. Coastal preparations are underway as forecasters project further intensification before the system makes potential landfall."
+    },
+    {
+      "type": "paragraph",
+      "text": "Major weather events in the Gulf of Mexico historically carry significant implications for regional infrastructure, local business operations, and supply chain logistics. Analysts and market observers monitor these developments closely for potential disruptions to regional commerce and energy sectors."
+    },
+    {
+      "type": "paragraph",
+      "text": "The progression of Hurricane Isaias remains a critical focus for emergency services and meteorological agencies tracking the ongoing Atlantic hurricane season. Authorities advise residents in the affected zones to monitor official channels and adhere to local safety directives as the storm approaches."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Hurricane Isaias is expected to get stronger on its way to Florida, Alabama and Mississippi coasts - AP News"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "three-killed-36-injured-in-houthi-attacks-on-saudi-airports-riyadh-says-al-jazee-1791455577",
   "category": "india",
   "headline": "Three killed, 36 injured in Houthi attacks on Saudi airports, Riyadh says - Al Jazeera",

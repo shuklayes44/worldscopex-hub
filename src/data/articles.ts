@@ -92,6 +92,65 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "gst-council-meeting-arresting-powers-of-tax-officers-scrapped-prosecution-thresh-1791478690",
+  "category": "india",
+  "headline": "GST Council meeting: Arresting powers of tax officers scrapped, prosecution threshold raised to Rs 5 cror - The Times of India",
+  "dek": "The GST Council has removed tax officers' arrest powers and raised the prosecution threshold to ₹5 crore.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-08T16:58:10Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791478687_7408.png",
+  "imageAlt": "GST Council meeting: Arresting powers of tax officers scrapped, prosecution threshold raised to Rs 5 cror - The Times of India",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "The Goods and Services Tax (GST) Council has announced a major reform package, scrapping the arresting powers previously vested in tax officers."
+    },
+    {
+      "type": "paragraph",
+      "text": "Under the revised policy framework, the financial threshold required for initiating prosecution has been substantially raised to ₹5 crore."
+    },
+    {
+      "type": "paragraph",
+      "text": "Prime Minister Narendra Modi has welcomed this fresh round of reforms, which marks a significant shift in how tax enforcement is handled."
+    },
+    {
+      "type": "paragraph",
+      "text": "The removal of arrest powers directly addresses long-standing concerns raised by businesses regarding aggressive enforcement actions by tax authorities."
+    },
+    {
+      "type": "paragraph",
+      "text": "By lifting the prosecution threshold to ₹5 crore, the Council aims to protect smaller entities and traders from severe legal proceedings over minor compliance issues."
+    },
+    {
+      "type": "paragraph",
+      "text": "The reform signals a concerted effort by policymakers to balance tax compliance requirements with a more supportive environment for commerce."
+    },
+    {
+      "type": "paragraph",
+      "text": "Industry participants and legal experts will closely observe the formal implementation of these changes and their long-term effect on commercial litigation."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "GST Council meeting: Arresting powers of tax officers scrapped, prosecution threshold raised to Rs 5 cror - The Times of India"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "cec-row-live-opposition-leaders-visit-rajghat-say-will-continue-protest-against-1791475107",
   "category": "india",
   "headline": "CEC row LIVE: Opposition leaders visit Rajghat, say will continue protest against CEC, ‘vote chori’ - The Hindu",

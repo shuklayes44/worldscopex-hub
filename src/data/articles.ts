@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "as-munirs-military-takes-on-gulf-role-pakistans-parliament-is-not-involved-reute-1791484834",
+  "category": "india",
+  "headline": "As Munir's military takes on Gulf role, Pakistan's parliament is not involved - Reuters",
+  "dek": "Pakistan's army bypasses parliament and Prime Minister Sharif to deploy additional troops and military assets to Saudi Arabia.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-08T18:40:34Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791484832_2485.png",
+  "imageAlt": "As Munir's military takes on Gulf role, Pakistan's parliament is not involved - Reuters",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Pakistan's military leadership has moved to deploy additional troops and military assets to Saudi Arabia without seeking formal approval or involvement from the nation's parliament. According to recent reports, Army Chief General Asim Munir bypassed Prime Minister Shehbaz Sharif's administration to execute the deployment under the Saudi pact."
+    },
+    {
+      "type": "paragraph",
+      "text": "The lack of a parliamentary vote has drawn significant attention from regional media and geopolitical analysts. Outlets including Reuters and Indian publications have characterized the pact as entering dangerous territory, raising concerns regarding legislative oversight and transparency in Pakistan's foreign policy decisions."
+    },
+    {
+      "type": "paragraph",
+      "text": "Civil-military relations in Pakistan face renewed scrutiny as the armed forces independently manage foreign military commitments. The deployment underscores the dominant role of the military establishment in shaping strategic alliances in the Gulf region, often operating parallel to civilian governance structures."
+    },
+    {
+      "type": "paragraph",
+      "text": "For neighboring India and the broader South Asian region, shifting military alignments and opaque defense agreements carry important strategic implications. Observers continue to assess how Pakistan's deepened military footprint in Saudi Arabia might influence regional security balances and diplomatic engagements."
+    },
+    {
+      "type": "paragraph",
+      "text": "As the situation develops, stakeholders will be monitoring official responses from Islamabad and Riyadh regarding the precise scope and operational framework of the deployed assets. Future updates are expected to focus on potential parliamentary reactions and any broader diplomatic fallout resulting from the unilateral military pact."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "As Munir's military takes on Gulf role, Pakistan's parliament is not involved - Reuters"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "breaking-news-google-is-planning-to-launch-an-experimental-satellite-into-orbit-1791482351",
   "category": "technology",
   "headline": "Breaking News: Google is planning to launch an experimental satellite into orbit in Big Tech’s first move toward A.I. data centers in space. - Facebook",

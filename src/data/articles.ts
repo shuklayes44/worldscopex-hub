@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "india-news-live-updates-8-october-2026-india-bloc-steps-up-stir-demanding-cec-gy-1791436507",
+  "category": "india",
+  "headline": "India news Live Updates, 8 October 2026: INDIA bloc steps up stir demanding CEC Gyanesh Kumar’s resignation - The Indian Express",
+  "dek": "The INDIA bloc has intensified its ongoing protests, demanding the resignation of Chief Election Commissioner Gyanesh Kumar.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-08T05:15:07Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791436505_8943.png",
+  "imageAlt": "India news Live Updates, 8 October 2026: INDIA bloc steps up stir demanding CEC Gyanesh Kumar’s resignation - The Indian Express",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "The INDIA opposition bloc has escalated its political agitation, launching renewed protests centered on the demand for the resignation of Chief Election Commissioner Gyanesh Kumar. The developments, reported on October 8, 2026, mark a significant intensification of pressure from the opposition alliance against India's central election oversight body."
+    },
+    {
+      "type": "paragraph",
+      "text": "The heightened stir reflects growing friction between major opposition parties and the country's constitutional institutions. As political maneuvering unfolds, the protests underscore the broader governance challenges facing the administration amid deepening partisan divides."
+    },
+    {
+      "type": "paragraph",
+      "text": "The public agitation is expected to draw sharp reactions from ruling political factions and could prompt further administrative responses from election officials. Observers note that institutional stability remains a critical focus for markets and policymakers as the political standoff continues."
+    },
+    {
+      "type": "paragraph",
+      "text": "Stakeholders across the political and economic landscape are monitoring the situation to gauge potential fallout on legislative processes and policy execution. The ongoing protests highlight the volatile nature of current political dynamics in the country."
+    },
+    {
+      "type": "paragraph",
+      "text": "Future developments will depend heavily on whether the INDIA bloc expands its agitation or if dialogue resumes between political leaders and election authorities. Markets and investors remain attentive to any broader disruptions stemming from heightened political instability."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "India news Live Updates, 8 October 2026: INDIA bloc steps up stir demanding CEC Gyanesh Kumar’s resignation - The Indian Express"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "trump-approved-the-militarys-1st-firing-squad-execution-since-wwii-why-now-npr-1791427652",
   "category": "world",
   "headline": "Trump approved the military's 1st firing squad execution since WWII. Why now? - NPR",

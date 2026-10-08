@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "live-updates-vance-seems-to-soften-iran-nuclear-demands-rubio-says-tehran-has-lo-1791425199",
+  "category": "world",
+  "headline": "Live Updates: Vance seems to soften Iran nuclear demands, Rubio says Tehran has \"lost control\" of Strait of Hormuz - CBS News",
+  "dek": "US officials adjust stance on Iran nuclear demands and shipping control.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-08T02:06:39Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791425196_4538.png",
+  "imageAlt": "Live Updates: Vance seems to soften Iran nuclear demands, Rubio says Tehran has \"lost control\" of Strait of Hormuz - CBS News",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Washington has signaled a nuanced shift in its diplomatic and strategic posture regarding Iran, according to recent statements from senior US officials. Vice President Vance reportedly indicated a willingness to accept a meaningful reduction in Iran's nuclear capability rather than total cessation to help end the ongoing conflict."
+    },
+    {
+      "type": "paragraph",
+      "text": "Simultaneously, statements from officials like Rubio point to growing operational challenges for Tehran within the critical shipping lanes of the Strait of Hormuz. The assessment suggests Tehran has lost control of the strategically vital maritime corridor, which serves as a major artery for global energy supplies."
+    },
+    {
+      "type": "paragraph",
+      "text": "The intersection of shifting nuclear demands and maritime security developments carries significant implications for international energy markets and trade routes. Any disruption or stabilization in the Strait of Hormuz directly affects global crude oil pricing and regional maritime safety."
+    },
+    {
+      "type": "paragraph",
+      "text": "For economies dependent on Middle Eastern energy imports, such as India, these geopolitical shifts are critical factors for energy security and inflation tracking. Analysts are closely watching how these diplomatic overtures and strategic assessments will influence broader geopolitical stability in the region."
+    },
+    {
+      "type": "paragraph",
+      "text": "Diplomatic channels remain active as international stakeholders evaluate the evolving US demands and Iran's potential response. Further updates on nuclear negotiations and maritime monitoring will dictate the next phase of international policy toward Tehran."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Live Updates: Vance seems to soften Iran nuclear demands, Rubio says Tehran has \"lost control\" of Strait of Hormuz - CBS News"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "india-opposition-steps-up-pressure-amid-cjp-protests-dwcom-1791422134",
   "category": "india",
   "headline": "India: Opposition steps up pressure amid CJP protests - DW.com",

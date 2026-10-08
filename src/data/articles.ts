@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "school-assembly-news-headlines-for-august-25-2026-top-india-world-sports-and-bus-1791502306",
+  "category": "india",
+  "headline": "School assembly news headlines for August 25, 2026: Top India, world, sports and business updates - The Economic Times",
+  "dek": "The Economic Times publishes comprehensive school assembly news headlines for August 25, 2026.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-08T23:31:46Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791502304_2190.png",
+  "imageAlt": "School assembly news headlines for August 25, 2026: Top India, world, sports and business updates - The Economic Times",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "The Economic Times has compiled the school assembly news headlines for August 25, 2026, providing a structured overview of top stories for educational institutions."
+    },
+    {
+      "type": "paragraph",
+      "text": "The daily briefing encompasses a wide range of current affairs spanning national developments, international relations, business updates, and sports results."
+    },
+    {
+      "type": "paragraph",
+      "text": "Such curated summaries are widely utilized by schools across India to keep students abreast of fast-moving global and domestic events during morning assemblies."
+    },
+    {
+      "type": "paragraph",
+      "text": "The business and market updates included in the digest offer students practical insights into economic trends shaping the domestic and international landscape."
+    },
+    {
+      "type": "paragraph",
+      "text": "Educational institutions frequently rely on structured news compilations to foster civic awareness and critical thinking among students regarding policy and commerce."
+    },
+    {
+      "type": "paragraph",
+      "text": "Observers and educators will continue monitoring these daily briefings as an essential tool for integrating current affairs into standard academic routines."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "School assembly news headlines for August 25, 2026: Top India, world, sports and business updates - The Economic Times"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "french-students-keep-up-protest-pressure-with-some-demonstrations-hit-by-violenc-1791498500",
   "category": "india",
   "headline": "French students keep up protest pressure with some demonstrations hit by violence - Reuters",

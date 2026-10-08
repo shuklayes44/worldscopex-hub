@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "stock-market-prediction-for-today-sensex-nifty-outlook-for-thursday-kospi-taiwan-1791419597",
+  "category": "economy",
+  "headline": "Stock market prediction for today: Sensex, Nifty outlook for Thursday | Kospi, Taiwan cues to watch | 8 Oct 2026 - Livemint",
+  "dek": "Financial markets monitor Sensex and Nifty outlook alongside international cues from Kospi and Taiwan.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-08T00:33:17Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791419594_6745.png",
+  "imageAlt": "Stock market prediction for today: Sensex, Nifty outlook for Thursday | Kospi, Taiwan cues to watch | 8 Oct 2026 - Livemint",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "economy"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Financial markets are preparing for the Thursday trading session, with market participants closely monitoring the outlook for benchmark indices Sensex and Nifty. The domestic market trajectory remains subject to broader regional influences and prevailing sentiment across Asian exchanges."
+    },
+    {
+      "type": "paragraph",
+      "text": "Traders and analysts are specifically watching market cues from Kospi and Taiwan as key indicators that could impact early sentiment. International market movements frequently set the tone for institutional flows and opening momentum in domestic equities."
+    },
+    {
+      "type": "paragraph",
+      "text": "Such cross-market correlations play an important role in shaping intraday volatility and sector-specific movements. Participants use these external barometers to assess risk appetite before the domestic trading session commences."
+    },
+    {
+      "type": "paragraph",
+      "text": "Market observers are also weighing local macroeconomic factors alongside global developments to determine the overall market direction. These technical and fundamental inputs help investors navigate potential intraday swings."
+    },
+    {
+      "type": "paragraph",
+      "text": "As the trading window approaches, market participants await official opening figures and sustained volume trends. The interplay between domestic indices and regional cues will likely dictate the immediate price action through the session."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Stock market prediction for today: Sensex, Nifty outlook for Thursday | Kospi, Taiwan cues to watch | 8 Oct 2026 - Livemint"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "nifty-takes-support-at-22600-despite-a-hawkish-rbi-analysts-suggest-key-trading-1791417914",
   "category": "economy",
   "headline": "Nifty takes support at 22,600 despite a hawkish RBI; analysts suggest key trading levels - Moneycontrol.com",

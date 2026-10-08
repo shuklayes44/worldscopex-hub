@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "nana-patekar-bollywood-actor-dies-at-75-in-goa-home-bbc-1791450819",
+  "category": "india",
+  "headline": "Nana Patekar: Bollywood actor dies at 75 in Goa home - BBC",
+  "dek": "Veteran Bollywood actor Nana Patekar passes away at 75 in his Goa home, with state honours planned in Pune.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-08T09:13:39Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791450816_2495.png",
+  "imageAlt": "Nana Patekar: Bollywood actor dies at 75 in Goa home - BBC",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Veteran Bollywood actor Nana Patekar has died at the age of 75 at his home in Goa, marking the end of a notable era in Indian cinema."
+    },
+    {
+      "type": "paragraph",
+      "text": "Arrangements are currently underway for the veteran actor's last rites, which will be performed with full state honours in Pune."
+    },
+    {
+      "type": "paragraph",
+      "text": "Patekar enjoyed a long and celebrated career in the film industry, famously bringing memorable characters to life such as Uday Shetty in the comedy film 'Welcome', a role secured after persistence by director Anees Bazmee."
+    },
+    {
+      "type": "paragraph",
+      "text": "Beyond his extensive contributions to Indian cinema, the late actor was known for maintaining an abiding passion for both cricket and shooting sports."
+    },
+    {
+      "type": "paragraph",
+      "text": "Tributes from colleagues, industry stakeholders, and fans have highlighted his enduring legacy as a defining figure in Indian film history."
+    },
+    {
+      "type": "paragraph",
+      "text": "Further details regarding the state funeral proceedings in Pune are expected to be announced by family members and officials."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Nana Patekar: Bollywood actor dies at 75 in Goa home - BBC"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "rahul-gandhi-indian-opposition-lawmakers-detained-over-election-chief-protest-fo-1791446221",
   "category": "india",
   "headline": "Rahul Gandhi, Indian opposition lawmakers detained over election chief protest for second day - Reuters",

@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "trump-says-us-will-not-attack-iran-before-midterm-elections-in-november-reuters-1791487553",
+  "category": "india",
+  "headline": "Trump says US will not attack Iran before midterm elections in November - Reuters",
+  "dek": "President Trump confirms the U.S. will not strike Iran before the November midterms.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-08T19:25:53Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791487551_6071.png",
+  "imageAlt": "Trump says US will not attack Iran before midterm elections in November - Reuters",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "United States President Donald Trump has stated that the country will not initiate any military attacks against Iran prior to the midterm elections scheduled for November, according to multiple international reports."
+    },
+    {
+      "type": "paragraph",
+      "text": "The decision effectively rules out near-term military strikes that had been considered amid heightened tensions between Washington and Tehran."
+    },
+    {
+      "type": "paragraph",
+      "text": "Reports indicate that productive talks remain ongoing regarding the broader diplomatic and geopolitical situation in the region."
+    },
+    {
+      "type": "paragraph",
+      "text": "The assurance regarding the November 3 midterm poll timeline provides a measure of predictability for international security markets."
+    },
+    {
+      "type": "paragraph",
+      "text": "Analysts and global observers are watching the diplomatic channels closely to assess whether ongoing talks will yield long-term resolutions."
+    },
+    {
+      "type": "paragraph",
+      "text": "Future developments will depend on the continuation of productive dialogue and diplomatic engagements between the involved nations."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Trump says US will not attack Iran before midterm elections in November - Reuters"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "42-former-judges-write-open-letter-warn-against-vote-theft-allegations-ndtv-1791486292",
   "category": "india",
   "headline": "42 Former Judges Write Open Letter, Warn Against Vote Theft Allegations - NDTV",

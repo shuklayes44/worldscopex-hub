@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "rahul-gandhi-indian-opposition-lawmakers-detained-over-election-chief-protest-fo-1791446221",
+  "category": "india",
+  "headline": "Rahul Gandhi, Indian opposition lawmakers detained over election chief protest for second day - Reuters",
+  "dek": "Rahul Gandhi and opposition lawmakers detained for a second consecutive day during protests against the election chief.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-08T07:57:01Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791446219_3601.png",
+  "imageAlt": "Rahul Gandhi, Indian opposition lawmakers detained over election chief protest for second day - Reuters",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Indian opposition leader Rahul Gandhi and fellow lawmakers have been detained for a second consecutive day amid escalating political tensions. The detentions occurred during protests directed against the election chief, drawing immediate condemnation from political opponents."
+    },
+    {
+      "type": "paragraph",
+      "text": "In the wake of the demonstrations, law enforcement authorities have filed at least two fresh First Information Reports against prominent opposition figures Rahul Gandhi and Priyanka Gandhi. The newly filed police cases cite allegations of assault on police personnel and the vandalism of a police vehicle."
+    },
+    {
+      "type": "paragraph",
+      "text": "The ruling Bharatiya Janata Party has intensified its pressure on the opposition, heavily criticizing Gandhi over the reported incidents. Specifically, party figures have focused on an alleged clash with a female Delhi police officer during the anti-Chief Election Commissioner demonstrations, terming the conduct inappropriate."
+    },
+    {
+      "type": "paragraph",
+      "text": "The series of events highlights a deepening political standoff between the central government and opposition parties over institutional governance and protest management. The immediate fallout involves legal challenges and heightened security measures in the capital."
+    },
+    {
+      "type": "paragraph",
+      "text": "Observers and political analysts are closely watching how the opposition plans to sustain its campaign following these successive detentions. Further updates from law enforcement and political leaders are anticipated as the investigation into the alleged police vehicle vandalism and assaults proceeds."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Rahul Gandhi, Indian opposition lawmakers detained over election chief protest for second day - Reuters"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "trump-says-we-protect-our-cities-after-saying-iran-could-take-out-los-angeles-or-1791441992",
   "category": "world",
   "headline": "Trump says ‘we protect our cities’ after saying Iran could ‘take out’ Los Angeles or San Diego - NBC News",

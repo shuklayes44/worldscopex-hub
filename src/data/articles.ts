@@ -92,6 +92,65 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "gst-council-meet-highlights-gst-council-reforms-to-kick-in-from-april-2027-india-1791492334",
+  "category": "india",
+  "headline": "GST Council meet highlights: GST Council reforms to kick in from April 2027 - India Today",
+  "dek": "The GST Council has announced sweeping tax reforms taking effect in April 2027, including raised prosecution thresholds and credit relief.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-08T20:45:34Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791492331_9926.png",
+  "imageAlt": "GST Council meet highlights: GST Council reforms to kick in from April 2027 - India Today",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "The GST Council, led by Finance Minister Nirmala Sitharaman, has announced a comprehensive package of indirect tax reforms scheduled to take effect from April 2027."
+    },
+    {
+      "type": "paragraph",
+      "text": "The wide-ranging measures are designed to restructure compliance frameworks and provide structural relief to businesses operating within the country."
+    },
+    {
+      "type": "paragraph",
+      "text": "Key provisions include the removal of arrest powers previously granted to tax officers, alongside a significant upward revision of the prosecution threshold to Rs 5 crore."
+    },
+    {
+      "type": "paragraph",
+      "text": "Additional components of the policy package focus on delivering credit relief, boosting export capabilities, and simplifying administrative procedures."
+    },
+    {
+      "type": "paragraph",
+      "text": "Market analysts note that these changes address longstanding industry concerns regarding aggressive tax enforcement and procedural complexity."
+    },
+    {
+      "type": "paragraph",
+      "text": "The reforms reflect an ongoing effort to balance revenue collection mandates with a more supportive operating environment for commercial enterprises."
+    },
+    {
+      "type": "paragraph",
+      "text": "Further operational guidelines and statutory notifications are expected to be issued ahead of the April 2027 implementation date."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "GST Council meet highlights: GST Council reforms to kick in from April 2027 - India Today"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "a-year-into-trumps-peace-plan-netanyahu-stands-in-the-way-of-rebuilding-the-wash-1791489889",
   "category": "world",
   "headline": "A year into Trump’s peace plan, Netanyahu stands in the way of rebuilding - The Washington Post",

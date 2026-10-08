@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "christa-pike-now-walking-after-us-execution-went-wrong-lawyer-says-bbc-1791472686",
+  "category": "world",
+  "headline": "Christa Pike now walking after US execution went wrong, lawyer says - BBC",
+  "dek": "Christa Pike's lawyer reports she is walking after an execution procedure went wrong in the United States.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-08T15:18:06Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791472683_7526.png",
+  "imageAlt": "Christa Pike now walking after US execution went wrong, lawyer says - BBC",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Christa Pike is reportedly now walking following a botched execution in the United States, according to a statement from her lawyer."
+    },
+    {
+      "type": "paragraph",
+      "text": "The attorney also revealed her first words after she woke up following the problematic lethal injection procedure."
+    },
+    {
+      "type": "paragraph",
+      "text": "The case has brought renewed attention to the specific execution drugs utilized in capital punishment cases."
+    },
+    {
+      "type": "paragraph",
+      "text": "Similar lethal injection drugs have recently been deployed in other jurisdictions, including Texas, prompting wider legal debate."
+    },
+    {
+      "type": "paragraph",
+      "text": "The incident highlights ongoing concerns among legal experts regarding the administration of capital punishment protocols."
+    },
+    {
+      "type": "paragraph",
+      "text": "Further developments are expected as legal teams and state officials address the implications of the execution failure."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Christa Pike now walking after US execution went wrong, lawyer says - BBC"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "cec-row-live-opposition-leaders-pray-at-rajghat-say-will-continue-protest-agains-1791470213",
   "category": "india",
   "headline": "CEC row LIVE: Opposition leaders pray at Rajghat, say will continue protest against CEC, ‘vote chori’ - The Hindu",

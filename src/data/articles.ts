@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "a-year-into-trumps-peace-plan-netanyahu-stands-in-the-way-of-rebuilding-the-wash-1791489889",
+  "category": "world",
+  "headline": "A year into Trump’s peace plan, Netanyahu stands in the way of rebuilding - The Washington Post",
+  "dek": "One year into Trump's peace plan, reconstruction efforts in Gaza face severe obstacles amid ongoing regional instability.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-08T20:04:49Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791489886_6056.png",
+  "imageAlt": "A year into Trump’s peace plan, Netanyahu stands in the way of rebuilding - The Washington Post",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "One year following the introduction of Trump's Middle East peace plan, international reporting highlights substantial barriers impeding the reconstruction of conflict-affected areas. According to analyses published by The Washington Post, the leadership of Israeli Prime Minister Benjamin Netanyahu stands as a primary hurdle to moving forward with rebuilding initiatives."
+    },
+    {
+      "type": "paragraph",
+      "text": "The ongoing diplomatic and political friction follows the events of October 7, when Hamas attacks initiated a prolonged and devastating phase of the Middle East conflict. Three years after that catalyst, communities across the region continue to cope with the profound fallout of sustained hostilities."
+    },
+    {
+      "type": "paragraph",
+      "text": "In Gaza, Palestinian residents describe an existence defined by severe challenges, including widespread destruction of infrastructure, public health concerns involving disease, and deep-seated despair. Daily life remains constrained by the absence of a comprehensive resolution, leaving populations caught between active conflict and fragile ceasefires."
+    },
+    {
+      "type": "paragraph",
+      "text": "The stalled reconstruction efforts carry broader implications for regional stability and international diplomatic frameworks aimed at securing a lasting peace. Observers note that the lack of progress on rebuilding exacerbates humanitarian pressures within the enclave, complicating international aid delivery and structural rehabilitation."
+    },
+    {
+      "type": "paragraph",
+      "text": "Diplomatic stakeholders and regional actors continue to monitor the implementation status of the peace plan as domestic political pressures persist in Israel. The future trajectory of reconstruction remains closely tied to diplomatic recalibrations and shifts in regional governance."
+    },
+    {
+      "type": "paragraph",
+      "text": "As the anniversary of the October 7 attacks is marked globally, attention turns to whether international pressure can alter the current diplomatic stalemate. Analysts emphasize that any meaningful advancement in rebuilding will require policy shifts among key leadership figures to address the compounding crises on the ground."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "A year into Trump’s peace plan, Netanyahu stands in the way of rebuilding - The Washington Post"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "trump-says-us-will-not-attack-iran-before-midterm-elections-in-november-reuters-1791487553",
   "category": "india",
   "headline": "Trump says US will not attack Iran before midterm elections in November - Reuters",

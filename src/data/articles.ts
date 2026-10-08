@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "nifty-takes-support-at-22600-despite-a-hawkish-rbi-analysts-suggest-key-trading-1791417914",
+  "category": "economy",
+  "headline": "Nifty takes support at 22,600 despite a hawkish RBI; analysts suggest key trading levels - Moneycontrol.com",
+  "dek": "Nifty holds the 22,600 support level despite a hawkish RBI stance, with analysts outlining key trading ranges.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-08T00:05:14Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791417911_7173.png",
+  "imageAlt": "Nifty takes support at 22,600 despite a hawkish RBI; analysts suggest key trading levels - Moneycontrol.com",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "economy"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "The Nifty benchmark index successfully defended the 22,600 support level in recent trading sessions."
+    },
+    {
+      "type": "paragraph",
+      "text": "This price resilience comes despite a hawkish monetary policy posture adopted by the Reserve Bank of India."
+    },
+    {
+      "type": "paragraph",
+      "text": "Market analysts have responded to the policy updates by highlighting crucial trading levels for investors."
+    },
+    {
+      "type": "paragraph",
+      "text": "The ability of the index to maintain this threshold reflects underlying support among domestic market participants."
+    },
+    {
+      "type": "paragraph",
+      "text": "Technical evaluations continue to guide trading strategies as market participants assess the broader financial environment."
+    },
+    {
+      "type": "paragraph",
+      "text": "Observers will monitor upcoming price movements around these key levels to gauge near-term market direction."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Nifty takes support at 22,600 despite a hawkish RBI; analysts suggest key trading levels - Moneycontrol.com"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "israelis-mourn-oct-7-attack-as-palestinians-in-gaza-languish-in-ruins-of-the-war-1791416272",
   "category": "world",
   "headline": "Israelis mourn Oct. 7 attack as Palestinians in Gaza languish in ruins of the war it sparked - AP News",

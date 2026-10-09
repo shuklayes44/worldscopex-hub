@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "exclusive-us-imposes-sanctions-on-international-criminal-court-hours-after-forme-1791560238",
+  "category": "world",
+  "headline": "EXCLUSIVE US imposes sanctions on International Criminal Court, hours after former judge wins Nobel - Reuters",
+  "dek": "Washington enacts punitive measures against the global judicial body following a Nobel Peace Prize award.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-09T15:37:18Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791560236_3012.png",
+  "imageAlt": "EXCLUSIVE US imposes sanctions on International Criminal Court, hours after former judge wins Nobel - Reuters",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "The United States government has officially imposed sanctions on the International Criminal Court, according to exclusive reports from Reuters. The announcement follows closely on the heels of a former judge at the tribunal being awarded the Nobel Peace Prize."
+    },
+    {
+      "type": "paragraph",
+      "text": "The U.S. Department of State confirmed the punitive actions, which target the global court's operations and personnel. Lawmakers including Senator Marco Rubio have strongly criticized the institution, labeling it a rogue entity and vowing to work toward its termination."
+    },
+    {
+      "type": "paragraph",
+      "text": "The International Criminal Court operates as a permanent tribunal to prosecute individuals for international crimes of genocide, crimes against humanity, war crimes, and the crime of aggression. Washington has historically maintained a critical stance regarding the court's jurisdiction over non-member states."
+    },
+    {
+      "type": "paragraph",
+      "text": "The latest escalation places additional strain on relations between the United States and international legal institutions. Analysts are closely watching how global allies and other member states of the tribunal will respond to the American sanctions."
+    },
+    {
+      "type": "paragraph",
+      "text": "Further developments are expected as the diplomatic and legal fallout from both the Nobel recognition and the U.S. sanctions unfolds globally. Observers will track any potential secondary impacts on international cooperation, multilateral policy, and foreign relations in the coming weeks."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "EXCLUSIVE US imposes sanctions on International Criminal Court, hours after former judge wins Nobel - Reuters"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "christa-pike-is-walking-with-help-and-eating-after-failed-execution-attempt-npr-1791557921",
   "category": "world",
   "headline": "Christa Pike is walking with help and eating after failed execution attempt - NPR",

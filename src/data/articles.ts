@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "spacex-seeks-75-billion-in-record-ipo-to-fund-ai-launch-bloombergcom-1791504901",
+  "category": "technology",
+  "headline": "SpaceX Seeks $75 Billion in Record IPO to Fund AI, Launch - Bloomberg.com",
+  "dek": "SpaceX is targeting a record $75 billion initial public offering to finance its expanding artificial intelligence and launch operations.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-09T00:15:01Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791504899_7169.png",
+  "imageAlt": "SpaceX Seeks $75 Billion in Record IPO to Fund AI, Launch - Bloomberg.com",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "technology"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "SpaceX has initiated plans to seek $75 billion in what would be a record-breaking initial public offering. The proposed capital raise is designed to secure substantial financial backing for the company's expanding artificial intelligence initiatives and core launch operations."
+    },
+    {
+      "type": "paragraph",
+      "text": "The unprecedented valuation target highlights the massive scale of capital required to sustain advanced aerospace manufacturing alongside rapidly growing technology sectors. By targeting the public markets, the company aims to unlock significant liquidity to support its long-term strategic roadmap."
+    },
+    {
+      "type": "paragraph",
+      "text": "Proceeds generated from the record public offering are explicitly earmarked to fund next-generation technological infrastructure and ongoing rocket launch capabilities. This financial push reflects the high cost of maintaining leadership in both commercial spaceflight and heavy-duty orbital logistics."
+    },
+    {
+      "type": "paragraph",
+      "text": "The dual focus on artificial intelligence and launch services demonstrates how modern aerospace firms are increasingly intertwined with advanced computational technologies. Industry analysts note that such capital-intensive programs require access to deep public liquidity pools beyond traditional venture funding."
+    },
+    {
+      "type": "paragraph",
+      "text": "Market participants and global investors will be closely watching subsequent regulatory filings for definitive timelines and detailed financial prospectuses regarding the offering. The debut is expected to serve as a bellwether for technology and aerospace valuations across global capital markets."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "SpaceX Seeks $75 Billion in Record IPO to Fund AI, Launch - Bloomberg.com"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "christa-pike-now-walking-after-us-execution-went-wrong-lawyer-says-bbc-1791503398",
   "category": "world",
   "headline": "Christa Pike now walking after US execution went wrong, lawyer says - BBC",

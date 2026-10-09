@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "trump-donor-accuses-grifter-kimberly-guilfoyle-of-100000-quid-pro-quo-the-guardi-1791506565",
+  "category": "world",
+  "headline": "Trump donor accuses ‘grifter’ Kimberly Guilfoyle of $100,000 quid pro quo - The Guardian",
+  "dek": "A Trump donor accuses Kimberly Guilfoyle of demanding a $100,000 quid pro quo wire transfer.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-09T00:42:45Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791506563_4777.png",
+  "imageAlt": "Trump donor accuses ‘grifter’ Kimberly Guilfoyle of $100,000 quid pro quo - The Guardian",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "A Trump donor has publicly accused Kimberly Guilfoyle of demanding a $100,000 quid pro quo wire transfer, according to recent reports from major news organizations. The allegations center on a financial request made to a businessman, who described the transaction as a quid pro quo."
+    },
+    {
+      "type": "paragraph",
+      "text": "The specific figure of $100,000 has become a central point of discussion as details of the alleged communication emerge. Associates of Guilfoyle have faced direct questions regarding the nature of the solicited funds."
+    },
+    {
+      "type": "paragraph",
+      "text": "Political figures have largely avoided immediate engagement with the controversy. Senator Marco Rubio notably refused to comment when approached by journalists regarding the developing allegations."
+    },
+    {
+      "type": "paragraph",
+      "text": "The situation underscores ongoing scrutiny surrounding political fundraising practices and donor relations. Observers are analyzing how such allegations might impact internal campaign dynamics and public perception."
+    },
+    {
+      "type": "paragraph",
+      "text": "Further developments are anticipated as additional details regarding the alleged wire transfer and associated communications are examined by reporters and stakeholders."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Trump donor accuses ‘grifter’ Kimberly Guilfoyle of $100,000 quid pro quo - The Guardian"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "spacex-seeks-75-billion-in-record-ipo-to-fund-ai-launch-bloombergcom-1791504901",
   "category": "technology",
   "headline": "SpaceX Seeks $75 Billion in Record IPO to Fund AI, Launch - Bloomberg.com",

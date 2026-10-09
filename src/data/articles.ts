@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "rahul-gandhis-supporters-thrashed-me-man-assaulted-at-delhi-protest-ndtv-1791544060",
+  "category": "india",
+  "headline": "\"Rahul Gandhi's Supporters Thrashed Me\": Man Assaulted At Delhi Protest - NDTV",
+  "dek": "An FIR has been registered in Delhi after a Kashmiri youth alleged he was assaulted by Rahul Gandhi supporters during a protest.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-09T11:07:40Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791544057_8607.png",
+  "imageAlt": "\"Rahul Gandhi's Supporters Thrashed Me\": Man Assaulted At Delhi Protest - NDTV",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Delhi Police have registered a formal First Information Report following an incident at a protest in Connaught Place, where a Kashmiri youth alleged he was assaulted by supporters of senior Congress leader Rahul Gandhi."
+    },
+    {
+      "type": "paragraph",
+      "text": "The victim, identified as Altaf, raised public questions directed at the INDIA bloc following the confrontation, asking whether criticising Rahul Gandhi has become a crime."
+    },
+    {
+      "type": "paragraph",
+      "text": "The alleged altercation has drawn local political condemnation, with figures such as Vivek Bali publicly speaking out against the assault on a Kashmiri youth in the capital."
+    },
+    {
+      "type": "paragraph",
+      "text": "Calls for accountability have intensified, with leaders demanding a thorough and impartial probe into the circumstances surrounding the protest and the alleged violence."
+    },
+    {
+      "type": "paragraph",
+      "text": "The incident highlights ongoing tensions during political demonstrations in urban centers and brings renewed focus to the safety of participants and bystanders alike."
+    },
+    {
+      "type": "paragraph",
+      "text": "As the investigation proceeds, authorities are expected to examine evidence from the scene to verify the allegations and establish accountability under the law."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "\"Rahul Gandhi's Supporters Thrashed Me\": Man Assaulted At Delhi Protest - NDTV"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "bypoll-results-live-tvk-leads-in-tamil-nadu-mother-of-adhikaris-slain-personal-a-1791541813",
   "category": "india",
   "headline": "Bypoll results LIVE: TVK leads in Tamil Nadu; Mother of Adhikari’s slain personal assistant leads in Nandigram - The Hindu",

@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "trump-says-us-will-not-attack-iran-before-midterm-elections-in-november-reuters-1791509258",
+  "category": "india",
+  "headline": "Trump says US will not attack Iran before midterm elections in November - Reuters",
+  "dek": "US President Donald Trump has ruled out military strikes against Iran prior to the November midterm elections, citing productive discussions.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-09T01:27:38Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791509257_8587.png",
+  "imageAlt": "Trump says US will not attack Iran before midterm elections in November - Reuters",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "United States President Donald Trump has formally stated that the US will not launch any military attacks against Iran before the upcoming midterm elections in November. The announcement provides a firm timeline regarding Washington's immediate military posture in the Middle East amidst a period of heightened regional uncertainty."
+    },
+    {
+      "type": "paragraph",
+      "text": "According to reports, the decision accompanies what the administration describes as productive ongoing discussions between the two nations. The diplomatic engagement signals a temporary preference for dialogue over military escalation as the US domestic political calendar approaches a crucial phase."
+    },
+    {
+      "type": "paragraph",
+      "text": "The statement had an immediate and measurable impact on global commodity markets. Crude oil prices eased significantly from their session highs following the news, falling to $103 per barrel as immediate fears of a military conflict and associated supply disruptions receded."
+    },
+    {
+      "type": "paragraph",
+      "text": "For energy-importing nations such as India, fluctuations in global crude benchmarks carry direct economic implications. Lower oil prices can alleviate pressures on domestic fuel pricing structures, retail inflation, and the broader national import bill, making geopolitical developments in the Middle East closely watched by policymakers in New Delhi."
+    },
+    {
+      "type": "paragraph",
+      "text": "Financial analysts and market observers are expected to monitor subsequent diplomatic channels and US foreign policy statements closely. The trajectory of these discussions will remain a critical variable for energy markets as the November midterms draw nearer."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Trump says US will not attack Iran before midterm elections in November - Reuters"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "trump-donor-accuses-grifter-kimberly-guilfoyle-of-100000-quid-pro-quo-the-guardi-1791506565",
   "category": "world",
   "headline": "Trump donor accuses ‘grifter’ Kimberly Guilfoyle of $100,000 quid pro quo - The Guardian",

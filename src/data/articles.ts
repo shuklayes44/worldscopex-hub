@@ -92,6 +92,53 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "indias-ambition-of-becoming-developed-economy-demands-policy-certainty-business-1791585888",
+  "category": "economy",
+  "headline": "India's ambition of becoming developed economy demands policy certainty - Business Standard",
+  "dek": "Business Standard reports that regulatory predictability is vital for India's developed economy goal.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-09T22:44:48Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791585886_1562.png",
+  "imageAlt": "India's ambition of becoming developed economy demands policy certainty - Business Standard",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "economy"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "India's strategic ambition to transition into a fully developed economy requires absolute policy certainty, according to recent business analysis. Predictable regulatory frameworks remain a foundational requirement for sustained economic expansion and investor confidence."
+    },
+    {
+      "type": "paragraph",
+      "text": "The assessment highlights that inconsistent rules can disrupt long-term investments needed to drive major economic milestones. Maintaining a stable policy environment helps mitigate operational risks for both domestic enterprises and international stakeholders."
+    },
+    {
+      "type": "paragraph",
+      "text": "Policymakers face the ongoing challenge of balancing dynamic economic reforms with the stability required by markets. Clear guidelines are particularly vital for sectors central to national development and industrial output."
+    },
+    {
+      "type": "paragraph",
+      "text": "As the country pursues its broader growth objectives, stakeholders are watching for concrete steps toward regulatory continuity. Future economic trajectories will likely depend on how consistently these policy frameworks are implemented."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "India's ambition of becoming developed economy demands policy certainty - Business Standard"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "2026-nobel-peace-prize-awarded-to-navi-pillay-al-jazeera-1791582718",
   "category": "india",
   "headline": "2026 Nobel Peace Prize awarded to Navi Pillay - Al Jazeera",

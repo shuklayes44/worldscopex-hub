@@ -92,6 +92,53 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "christa-pikes-health-has-seen-profound-turnaround-in-last-three-days-lawyers-say-1791532851",
+  "category": "world",
+  "headline": "Christa Pike's health has seen 'profound turnaround' in last three days, lawyers say - BBC",
+  "dek": "Lawyers report Christa Pike is now walking following a profound health recovery over three days.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-09T08:00:51Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791532849_4212.png",
+  "imageAlt": "Christa Pike's health has seen 'profound turnaround' in last three days, lawyers say - BBC",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Legal representatives for Christa Pike have announced that her health has undergone a profound turnaround over the last three days. The update follows a botched execution in the United States that left her confused in the aftermath."
+    },
+    {
+      "type": "paragraph",
+      "text": "According to her lawyers, Pike is now capable of walking. The developments have brought renewed attention to the legal and procedural aspects surrounding the execution attempt."
+    },
+    {
+      "type": "paragraph",
+      "text": "The situation has highlighted ongoing legal discussions regarding the handling of survivors of failed executions. Legal experts and watchdogs continue to examine the implications of such incidents within the judicial system."
+    },
+    {
+      "type": "paragraph",
+      "text": "Further updates are anticipated as legal teams and officials address the circumstances surrounding the event. Observers will be watching for potential impacts on broader legal standards and policies regarding capital punishment."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Christa Pike's health has seen 'profound turnaround' in last three days, lawyers say - BBC"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "gst-council-proposes-5-levy-on-e-commerce-delivery-services-with-no-input-tax-cr-1791528437",
   "category": "india",
   "headline": "GST Council proposes 5% levy on e-commerce delivery services, with no input tax credit - Moneycontrol.com",

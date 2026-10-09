@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "dhs-chief-defends-new-york-ice-shooting-calling-victim-one-of-the-worst-of-the-w-1791571126",
+  "category": "world",
+  "headline": "DHS chief defends New York ICE shooting, calling victim one of ‘the worst of the worst’ - Politico",
+  "dek": "DHS defends a New York ICE shooting after a man was wounded in a car with a child.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-09T18:38:46Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791571124_7874.png",
+  "imageAlt": "DHS chief defends New York ICE shooting, calling victim one of ‘the worst of the worst’ - Politico",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "The Department of Homeland Security has formally defended a recent immigration enforcement operation in New York City that resulted in a man being shot and wounded by agents."
+    },
+    {
+      "type": "paragraph",
+      "text": "According to the reports, the shooting occurred while the individual was inside a vehicle accompanied by a five-year-old child."
+    },
+    {
+      "type": "paragraph",
+      "text": "In defending the enforcement action, the DHS chief publicly characterized the wounded individual as one of \"the worst of the worst.\""
+    },
+    {
+      "type": "paragraph",
+      "text": "The incident has intensified local political scrutiny and added friction to ongoing debates surrounding federal immigration enforcement tactics in urban areas."
+    },
+    {
+      "type": "paragraph",
+      "text": "Observer attention remains focused on the broader policy and safety implications of armed operations conducted in close proximity to children and bystanders."
+    },
+    {
+      "type": "paragraph",
+      "text": "Further updates from federal authorities and local oversight bodies are anticipated as accountability measures are reviewed."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "DHS chief defends New York ICE shooting, calling victim one of ‘the worst of the worst’ - Politico"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "india-to-deploy-thousands-of-security-forces-in-delhi-for-protest-over-poll-chie-1791569598",
   "category": "india",
   "headline": "India to deploy thousands of security forces in Delhi for protest over poll chief - Reuters",

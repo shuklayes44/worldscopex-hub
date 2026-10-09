@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "fiery-senate-debates-in-maine-michigan-and-georgia-five-takeaways-the-new-york-t-1791567082",
+  "category": "world",
+  "headline": "Fiery Senate Debates in Maine, Michigan and Georgia: Five Takeaways - The New York Times",
+  "dek": "Senate debates in Maine, Michigan, and Georgia highlight intense policy clashes over previous federal administrations.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-09T17:31:22Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791567079_1910.png",
+  "imageAlt": "Fiery Senate Debates in Maine, Michigan and Georgia: Five Takeaways - The New York Times",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "High-stakes Senate debates across Maine, Michigan, and Georgia have brought national attention to the shifting political landscape in key battleground states. The New York Times and other major outlets have detailed five core takeaways from the legislative showdowns that underscore broader partisan divides."
+    },
+    {
+      "type": "paragraph",
+      "text": "In Georgia, a focal point of the debates was the direct clash between differing political philosophies surrounding Trump- and Biden-era policies. Candidates sparred over economic strategies, federal governance, and legislative priorities that resonate deeply with local and national voters."
+    },
+    {
+      "type": "paragraph",
+      "text": "The contests in Michigan and Georgia have intensified as candidates vie for voter approval on critical domestic issues. These regional debates offer a clear preview of the key messaging and policy fights that will dominate the remainder of the election cycle."
+    },
+    {
+      "type": "paragraph",
+      "text": "Political analysts note that the outcomes in these competitive states could ultimately determine the future balance of power in the United States Senate. The heightened scrutiny on these debates reflects the razor-thin margins currently defining key legislative contests."
+    },
+    {
+      "type": "paragraph",
+      "text": "Observers and campaign strategists will continue tracking public response and polling shifts following these high-profile appearances. The ongoing campaigns in Maine, Michigan, and Georgia remain central to the broader national political strategy for both major parties."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Fiery Senate Debates in Maine, Michigan and Georgia: Five Takeaways - The New York Times"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "cec-row-live-updates-cjp-leaders-accuse-govt-of-imposing-emergency-even-if-i-am-1791565688",
   "category": "india",
   "headline": "CEC row LIVE updates: CJP leaders accuse govt. of imposing Emergency, 'Even if I am detained, the protest should not end', says Dipke - The Hindu",

@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "india-to-deploy-thousands-of-security-forces-in-delhi-for-protest-over-poll-chie-1791569598",
+  "category": "india",
+  "headline": "India to deploy thousands of security forces in Delhi for protest over poll chief - Reuters",
+  "dek": "India mobilizes thousands of security forces in Delhi amid ongoing opposition protests regarding the poll chief.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-09T18:13:18Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791569595_7089.png",
+  "imageAlt": "India to deploy thousands of security forces in Delhi for protest over poll chief - Reuters",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "India has announced the deployment of thousands of security forces in the national capital of Delhi to manage escalating protests directed at the country's poll chief."
+    },
+    {
+      "type": "paragraph",
+      "text": "The heightened security measures come as opposition lawmakers from the INDIA bloc continue demonstrations for the fourth consecutive day, taking to the streets ahead of planned rallies at Jantar Mantar."
+    },
+    {
+      "type": "paragraph",
+      "text": "Political tensions have intensified following statements from opposition leaders, including Rahul Gandhi, who asserted that they possess proof regarding election-related concerns."
+    },
+    {
+      "type": "paragraph",
+      "text": "The protests highlight ongoing political friction between the ruling administration and opposition coalitions over electoral oversight and administration."
+    },
+    {
+      "type": "paragraph",
+      "text": "Authorities have stepped up security to maintain public order and manage potential disruptions across key areas of Delhi as the demonstrations unfold."
+    },
+    {
+      "type": "paragraph",
+      "text": "Observers and political analysts will be watching closely to see how the demonstrations impact broader political dialogue and legislative proceedings moving forward."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "India to deploy thousands of security forces in Delhi for protest over poll chief - Reuters"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "fiery-senate-debates-in-maine-michigan-and-georgia-five-takeaways-the-new-york-t-1791567082",
   "category": "world",
   "headline": "Fiery Senate Debates in Maine, Michigan and Georgia: Five Takeaways - The New York Times",

@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "bypoll-results-live-ruling-parties-sweep-bypolls-in-three-states-puducherry-the-1791563548",
+  "category": "india",
+  "headline": "Bypoll results LIVE: Ruling parties sweep bypolls in three States, Puducherry - The Hindu",
+  "dek": "Ruling parties sweep bypolls across three states and Puducherry as the BJP records a major victory in Nandigram.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-09T16:32:28Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791563545_5272.png",
+  "imageAlt": "Bypoll results LIVE: Ruling parties sweep bypolls in three States, Puducherry - The Hindu",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Ruling parties have secured a decisive sweep across bypolls held in three states and Puducherry, according to live election results. The outcomes highlight critical political shifts at the regional level, drawing widespread attention from national political observers."
+    },
+    {
+      "type": "paragraph",
+      "text": "In West Bengal, the Bharatiya Janata Party achieved a notable milestone by sweeping the Nandigram bypoll with a record-setting margin. This victory consolidates the party's presence in a closely watched electoral battleground."
+    },
+    {
+      "type": "paragraph",
+      "text": "Further expanding its footprint in the state, the BJP also secured a victory in the Muslim-majority Rejinagar constituency. Prime Minister Narendra Modi publicly hailed the successful outcomes following the announcement of the results."
+    },
+    {
+      "type": "paragraph",
+      "text": "Meanwhile, the electoral process faced calls for administrative intervention from opposition figures. The Congress party urged Election Commission official Gyanesh Kumar to temporarily halt the vote counting process in Rejinagar and order a repoll."
+    },
+    {
+      "type": "paragraph",
+      "text": "As election authorities process the final tallies, political analysts are assessing the broader implications of these regional outcomes. Stakeholders across the political spectrum will continue to monitor the formal conclusion of the bypoll results and subsequent administrative responses."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Bypoll results LIVE: Ruling parties sweep bypolls in three States, Puducherry - The Hindu"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "exclusive-us-imposes-sanctions-on-international-criminal-court-hours-after-forme-1791560238",
   "category": "world",
   "headline": "EXCLUSIVE US imposes sanctions on International Criminal Court, hours after former judge wins Nobel - Reuters",

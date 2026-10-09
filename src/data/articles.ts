@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "christa-pike-is-walking-with-help-and-eating-after-failed-execution-attempt-npr-1791557921",
+  "category": "world",
+  "headline": "Christa Pike is walking with help and eating after failed execution attempt - NPR",
+  "dek": "Christa Pike is walking with help and eating following a failed execution attempt in Tennessee.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-09T14:58:41Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791557918_7018.png",
+  "imageAlt": "Christa Pike is walking with help and eating after failed execution attempt - NPR",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Christa Pike is currently walking with help and eating following a failed execution attempt in Tennessee, according to recent media reports. The incident has drawn renewed attention to capital punishment procedures and state protocols."
+    },
+    {
+      "type": "paragraph",
+      "text": "Legal scrutiny has intensified following the event, with courts examining the administrative and procedural aspects of the execution attempt. The situation has prompted wider discussions regarding state methods and oversight."
+    },
+    {
+      "type": "paragraph",
+      "text": "A judge has requested new court documents today as part of the ongoing judicial review process. These filings are expected to provide further details regarding the circumstances surrounding the event."
+    },
+    {
+      "type": "paragraph",
+      "text": "The case highlights ongoing legal and ethical debates regarding capital punishment protocols across various jurisdictions. Observers continue to monitor the judicial proceedings for potential broader impacts on policy."
+    },
+    {
+      "type": "paragraph",
+      "text": "Further developments are anticipated as courts review the newly requested documentation and legal arguments presented by involved parties. What to watch next includes upcoming judicial rulings and potential updates on state execution protocols."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Christa Pike is walking with help and eating after failed execution attempt - NPR"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "indian-youth-leader-says-protest-will-go-ahead-despite-detentions-reuters-1791556070",
   "category": "india",
   "headline": "Indian youth leader says protest will go ahead despite detentions - Reuters",

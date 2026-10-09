@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "ai-bubble-fears-are-starting-to-spill-over-futurism-1791512487",
+  "category": "technology",
+  "headline": "AI Bubble Fears Are Starting to Spill Over - Futurism",
+  "dek": "Market anxiety regarding artificial intelligence valuations begins to spread across broader financial and technology sectors.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-09T02:21:27Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791512485_1944.png",
+  "imageAlt": "AI Bubble Fears Are Starting to Spill Over - Futurism",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "technology"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Market anxiety regarding artificial intelligence valuations is beginning to spread across broader financial and technology sectors, according to recent reporting from Futurism. The development marks a notable shift in sentiment as speculative momentum in the AI landscape encounters heightened scrutiny from market analysts and financial institutions."
+    },
+    {
+      "type": "paragraph",
+      "text": "The expanding apprehension highlights potential vulnerabilities within heavily capitalized technology portfolios that have relied heavily on continuous expectations of generative AI expansion. As capital expenditure reaches unprecedented levels, stakeholders are increasingly demanding concrete returns on investment to justify the ongoing market boom."
+    },
+    {
+      "type": "paragraph",
+      "text": "For global markets and Indian technology services providers, any correction or reassessment in enterprise tech spending could influence future capital allocation and contract pipelines. The technology sector has long anticipated sustained demand for AI integration, making valuation corrections a critical variable for multinational corporate strategies."
+    },
+    {
+      "type": "paragraph",
+      "text": "Market participants and institutional investors are now monitoring upcoming corporate earnings reports for clearer signals on enterprise adoption rates and capital return timelines. Analysts suggest that risk assessments will likely tighten as financial markets evaluate the sustainability of current AI-driven equity valuations."
+    },
+    {
+      "type": "paragraph",
+      "text": "The unfolding situation underscores the delicate balance between technological innovation and financial market realities. As the discourse around artificial intelligence matures, the broader economic and sector-wide implications will remain a focal point for global technology markets in the near term."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "AI Bubble Fears Are Starting to Spill Over - Futurism"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "trump-says-us-will-not-attack-iran-before-midterm-elections-in-november-reuters-1791509258",
   "category": "india",
   "headline": "Trump says US will not attack Iran before midterm elections in November - Reuters",

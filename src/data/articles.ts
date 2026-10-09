@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "jd-vance-says-he-wont-watch-livestream-execution-of-fort-hood-shooter-axios-1791587844",
+  "category": "world",
+  "headline": "JD Vance says he won't watch livestream execution of Fort Hood shooter - Axios",
+  "dek": "JD Vance confirms he will not watch the planned livestream execution of the Fort Hood shooter.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-09T23:17:24Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791587842_4745.png",
+  "imageAlt": "JD Vance says he won't watch livestream execution of Fort Hood shooter - Axios",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "JD Vance has stated that he will not watch the upcoming livestream execution of the Fort Hood shooter, Axios reported. The announcement emerges amid discussions surrounding the Trump administration's plans for a public killing of Nidal Hasan."
+    },
+    {
+      "type": "paragraph",
+      "text": "The prospect of a livestreamed execution has drawn significant public and media attention, highlighting debates surrounding capital punishment and modern media spectacles. Historical precedents of public executions in the United States are being re-examined in light of the current administration's plans."
+    },
+    {
+      "type": "paragraph",
+      "text": "Legal analysts and policy experts continue to assess the implications of broadcasting such events. The administration's approach represents a departure from modern norms regarding the execution of federal inmates."
+    },
+    {
+      "type": "paragraph",
+      "text": "The controversy underscores ongoing tensions regarding transparency, punishment, and public engagement with state-sanctioned executions. Observers note that the administration's plans have sparked intense discussions across legal and political spheres."
+    },
+    {
+      "type": "paragraph",
+      "text": "As the situation develops, stakeholders are monitoring further announcements from administration officials. What to watch next includes any official updates on the execution timeline and the technical specifics of the planned broadcast."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "JD Vance says he won't watch livestream execution of Fort Hood shooter - Axios"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "indias-ambition-of-becoming-developed-economy-demands-policy-certainty-business-1791585888",
   "category": "economy",
   "headline": "India's ambition of becoming developed economy demands policy certainty - Business Standard",

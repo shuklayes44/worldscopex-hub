@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "gst-council-unveils-major-reforms-eases-penalties-and-speeds-up-refunds-business-1791547750",
+  "category": "india",
+  "headline": "GST Council unveils major reforms, eases penalties and speeds up refunds - Business Standard",
+  "dek": "The GST Council has announced major reforms focusing on eased penalties, faster refunds, and compliance enablement.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-09T12:09:10Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791547747_2790.png",
+  "imageAlt": "GST Council unveils major reforms, eases penalties and speeds up refunds - Business Standard",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "The GST Council has officially unveiled a series of major structural reforms designed to ease compliance norms and streamline tax administration frameworks. The policy updates, highlighted during recent deliberations, mark a notable shift in regulatory approach toward enablement rather than stringent enforcement."
+    },
+    {
+      "type": "paragraph",
+      "text": "Key measures adopted by the council include significant easing of penalties and a raising of the prosecution threshold. These adjustments are intended to alleviate compliance burdens for businesses operating within the nationwide indirect tax system."
+    },
+    {
+      "type": "paragraph",
+      "text": "In addition to modifying punitive frameworks, the reforms incorporate provisions aimed at curbing routine inspections. The measures also seek to accelerate the processing and disbursement of refunds, addressing long-standing operational friction points for commercial entities."
+    },
+    {
+      "type": "paragraph",
+      "text": "The announced changes reflect ongoing efforts under the broader GST evolution to rationalise administrative oversight and improve the ease of doing business. Industry stakeholders have closely watched these developments as potential steps toward a more predictable tax environment."
+    },
+    {
+      "type": "paragraph",
+      "text": "Further operational directives and formal notifications detailing the implementation timeline of these reforms are expected to follow. Businesses and market analysts will monitor these forthcoming guidelines to assess the exact procedural impact on compliance workflows."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "GST Council unveils major reforms, eases penalties and speeds up refunds - Business Standard"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "fort-hood-attackers-execution-by-firing-squad-will-be-livestreamed-pentagon-says-1791545801",
   "category": "world",
   "headline": "Fort Hood attacker's execution by firing squad will be livestreamed, Pentagon says - BBC",

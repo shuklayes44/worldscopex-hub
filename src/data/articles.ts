@@ -92,6 +92,65 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "gst-council-unveils-reforms-to-ease-refund-registration-and-reduce-litigation-th-1791537517",
+  "category": "india",
+  "headline": "GST Council unveils reforms to ease refund, registration and reduce litigation - The Hindu",
+  "dek": "The GST Council has introduced sweeping reforms to ease registration, reduce litigation, and raise the prosecution threshold.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-09T09:18:37Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791537515_4840.png",
+  "imageAlt": "GST Council unveils reforms to ease refund, registration and reduce litigation - The Hindu",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "The GST Council has announced a comprehensive package of reforms designed to streamline indirect taxation, ease compliance norms, and significantly reduce ongoing litigation for businesses."
+    },
+    {
+      "type": "paragraph",
+      "text": "Key changes highlighted in the recent announcements include streamlined registration procedures and a recalibration of enforcement mechanisms."
+    },
+    {
+      "type": "paragraph",
+      "text": "Among the most notable structural updates is the raising of the statutory prosecution threshold to ₹5 crore, altering how severe tax offenses are handled."
+    },
+    {
+      "type": "paragraph",
+      "text": "Additionally, the overhaul scales back certain official inspections and removes specific arrest powers, signaling a shift toward a less punitive regulatory environment."
+    },
+    {
+      "type": "paragraph",
+      "text": "These measures collectively form a major step toward reducing the administrative and legal burdens faced by commercial entities operating under the tax regime."
+    },
+    {
+      "type": "paragraph",
+      "text": "Stakeholders and market participants will monitor the rollout of these policy shifts to evaluate their direct impact on operational costs and compliance efficiency."
+    },
+    {
+      "type": "paragraph",
+      "text": "Further clarifications from regulatory authorities regarding the operational mechanics of the revised framework are expected as implementation progresses."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "GST Council unveils reforms to ease refund, registration and reduce litigation - The Hindu"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "christa-pikes-health-has-seen-profound-turnaround-in-last-three-days-lawyers-say-1791532851",
   "category": "world",
   "headline": "Christa Pike's health has seen 'profound turnaround' in last three days, lawyers say - BBC",

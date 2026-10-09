@@ -92,6 +92,65 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "fort-hood-attackers-execution-by-firing-squad-will-be-livestreamed-pentagon-says-1791545801",
+  "category": "world",
+  "headline": "Fort Hood attacker's execution by firing squad will be livestreamed, Pentagon says - BBC",
+  "dek": "The Pentagon announced that the execution of the Fort Hood attacker will be livestreamed, prompting intense political backlash.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-09T11:36:41Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791545799_7857.png",
+  "imageAlt": "Fort Hood attacker's execution by firing squad will be livestreamed, Pentagon says - BBC",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "The Pentagon has confirmed that the upcoming execution of the Fort Hood attacker will be livestreamed, according to reports by the BBC."
+    },
+    {
+      "type": "paragraph",
+      "text": "The decision to broadcast the execution by firing squad has immediately triggered fierce political backlash across the United States."
+    },
+    {
+      "type": "paragraph",
+      "text": "The controversial plan has thrust the issue of capital punishment protocols and public transparency back into the national spotlight."
+    },
+    {
+      "type": "paragraph",
+      "text": "Debates have intensified regarding the ethical and political implications of livestreaming such state-sanctioned events to a global audience."
+    },
+    {
+      "type": "paragraph",
+      "text": "Legal experts and commentators continue to examine the historical context of public executions in the United States following the announcement."
+    },
+    {
+      "type": "paragraph",
+      "text": "Stakeholders and political figures are closely monitoring how the Pentagon will manage the resulting political and public fallout."
+    },
+    {
+      "type": "paragraph",
+      "text": "Future developments will likely focus on potential legal challenges and the final protocols established for the livestreamed execution."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Fort Hood attacker's execution by firing squad will be livestreamed, Pentagon says - BBC"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "rahul-gandhis-supporters-thrashed-me-man-assaulted-at-delhi-protest-ndtv-1791544060",
   "category": "india",
   "headline": "\"Rahul Gandhi's Supporters Thrashed Me\": Man Assaulted At Delhi Protest - NDTV",

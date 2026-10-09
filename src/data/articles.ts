@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "2026-nobel-peace-prize-awarded-to-navi-pillay-al-jazeera-1791582718",
+  "category": "india",
+  "headline": "2026 Nobel Peace Prize awarded to Navi Pillay - Al Jazeera",
+  "dek": "Navi Pillay wins the 2026 Nobel Peace Prize, drawing immediate international controversy and sharp criticism from global leaders.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-09T21:51:58Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791582715_8292.png",
+  "imageAlt": "2026 Nobel Peace Prize awarded to Navi Pillay - Al Jazeera",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "The 2026 Nobel Peace Prize has officially been awarded to Navi Pillay, according to announcements highlighted by Al Jazeera. The prestigious international accolade recognizes contributions to peace, though this year's selection immediately drew intense geopolitical scrutiny and sharp pushback from prominent world figures."
+    },
+    {
+      "type": "paragraph",
+      "text": "Israeli Prime Minister Benjamin Netanyahu strongly condemned the committee's decision, publicly labeling the Nobel winner a bigot and a corrupt prosecutor. The characterization underscores deep divisions over the international figures honored by the Nobel Committee."
+    },
+    {
+      "type": "paragraph",
+      "text": "In the United States, high-profile political reactions echoed the criticism. Donald Trump reshared posts criticizing the Peace Prize winner and characterizing the choice in harsh terms, reflecting the polarized global reception of the announcement."
+    },
+    {
+      "type": "paragraph",
+      "text": "Meanwhile, diplomatic maneuvering continued parallel to the announcement. Reports noted that hours before the Nobel Peace Prize reveal, Shehbaz Sharif nominated Trump again, a move that drew public criticism and domestic backlash within Pakistan."
+    },
+    {
+      "type": "paragraph",
+      "text": "The convergence of the Nobel award and simultaneous diplomatic nominations highlights heightened geopolitical tensions across multiple regions. Observers will continue to track how global leaders and international bodies navigate the diplomatic fallout from the committee's decision."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "2026 Nobel Peace Prize awarded to Navi Pillay - Al Jazeera"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "navi-pillay-former-un-human-rights-chief-wins-nobel-peace-prize-bbc-1791580974",
   "category": "world",
   "headline": "Navi Pillay, former UN human rights chief, wins Nobel Peace Prize - BBC",

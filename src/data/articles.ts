@@ -92,6 +92,65 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "india-cancels-trains-floods-capital-with-police-to-block-protests-the-new-york-t-1791574810",
+  "category": "india",
+  "headline": "India Cancels Trains, Floods Capital with Police to Block Protests - The New York Times",
+  "dek": "New Delhi deploys 20,000 personnel and halts trains to block a youth-led protest.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-09T19:40:10Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791574808_7707.png",
+  "imageAlt": "India Cancels Trains, Floods Capital with Police to Block Protests - The New York Times",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Authorities in New Delhi have implemented stringent security measures, deploying 20,000 personnel and canceling train services to block an upcoming youth-led protest at Jantar Mantar."
+    },
+    {
+      "type": "paragraph",
+      "text": "The heavy mobilization marks a significant escalation in efforts by the administration to prevent the planned demonstration from taking place in the capital."
+    },
+    {
+      "type": "paragraph",
+      "text": "Opposition parties have sharply criticized the Modi government over the sweeping restrictions, labeling the clampdown as an undeclared emergency in Delhi."
+    },
+    {
+      "type": "paragraph",
+      "text": "The restrictions on rail travel and the heavy police presence highlight the intense sensitivity surrounding public demonstrations organized by youth groups."
+    },
+    {
+      "type": "paragraph",
+      "text": "Organizers and supporters remain defiant, questioning the extent of the travel restrictions and asserting the determination of the nation's youth."
+    },
+    {
+      "type": "paragraph",
+      "text": "As tensions persist between political opponents and the government, analysts are watching how the situation will unfold in the capital."
+    },
+    {
+      "type": "paragraph",
+      "text": "Further developments will depend on the ability of protesters to gather despite the sweeping logistical and security hurdles."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "India Cancels Trains, Floods Capital with Police to Block Protests - The New York Times"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "dhs-chief-defends-new-york-ice-shooting-calling-victim-one-of-the-worst-of-the-w-1791571126",
   "category": "world",
   "headline": "DHS chief defends New York ICE shooting, calling victim one of ‘the worst of the worst’ - Politico",

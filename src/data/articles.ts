@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "indian-youth-leader-says-protest-will-go-ahead-despite-detentions-reuters-1791556070",
+  "category": "india",
+  "headline": "Indian youth leader says protest will go ahead despite detentions - Reuters",
+  "dek": "Indian youth leaders confirm protests will proceed despite widespread detentions and severe security shutdowns in Delhi.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-09T14:27:50Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791556068_5523.png",
+  "imageAlt": "Indian youth leader says protest will go ahead despite detentions - Reuters",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "An Indian youth leader has announced that planned demonstrations will go ahead as scheduled, despite recent police detentions and a sweeping security clampdown implemented across the national capital."
+    },
+    {
+      "type": "paragraph",
+      "text": "Authorities have instituted closures across Delhi in an aggressive effort to halt the demonstrations and maintain public order."
+    },
+    {
+      "type": "paragraph",
+      "text": "The strict measures have brought heightened security protocols into sharp focus, revealing operational friction between police and protection details assigned to prominent political figures."
+    },
+    {
+      "type": "paragraph",
+      "text": "The unfolding situation highlights escalating tensions between civil demonstration organizers and law enforcement agencies enforcing restrictions in urban centers."
+    },
+    {
+      "type": "paragraph",
+      "text": "This security standoff reflects broader challenges regarding the management of public gatherings, political movements, and official security protocols in India."
+    },
+    {
+      "type": "paragraph",
+      "text": "Stakeholders and observers will be watching closely to see how authorities respond as youth leaders push forward with their demonstration plans amidst heavy policing."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Indian youth leader says protest will go ahead despite detentions - Reuters"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "breaking-dont-completely-stop-trainsmetro-in-delhi-to-handle-october-10-protests-1791552889",
   "category": "india",
   "headline": "BREAKING | Don't Completely Stop Trains/Metro In Delhi To Handle October 10 Protests : Supreme Court To... - Live Law",

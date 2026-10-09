@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "breaking-dont-completely-stop-trainsmetro-in-delhi-to-handle-october-10-protests-1791552889",
+  "category": "india",
+  "headline": "BREAKING | Don't Completely Stop Trains/Metro In Delhi To Handle October 10 Protests : Supreme Court To... - Live Law",
+  "dek": "Supreme Court directs authorities not to completely halt Delhi metro and train services during October 10 protests.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-09T13:34:49Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791552886_2397.png",
+  "imageAlt": "BREAKING | Don't Completely Stop Trains/Metro In Delhi To Handle October 10 Protests : Supreme Court To... - Live Law",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "The Supreme Court has issued a directive instructing authorities not to completely shut down train and metro services in Delhi to manage the upcoming October 10 protests. The order aims to maintain essential public transit functionality while security personnel manage the demonstrations in the national capital."
+    },
+    {
+      "type": "paragraph",
+      "text": "The judicial intervention follows discussions surrounding the handling of the scheduled protest, striking a balance between civil liberties and public infrastructure management. Legal proceedings highlighted the necessity of keeping key commuter arteries operational."
+    },
+    {
+      "type": "paragraph",
+      "text": "During the hearings, the court explicitly upheld the right to peaceful protest while simultaneously requesting detailed permission specifics regarding the October 10 demonstration. Authorities are required to coordinate security measures without imposing a total transit blackout."
+    },
+    {
+      "type": "paragraph",
+      "text": "The directive carries significant implications for daily commuters, business operations, and general urban mobility across Delhi. Complete transit shutdowns historically inflict severe economic and logistical friction on the city."
+    },
+    {
+      "type": "paragraph",
+      "text": "Stakeholders and transit operators will closely observe how local authorities implement the court's directives on the ground. Compliance with the judicial balance between security protocols and transit availability remains a key factor to watch ahead of the protests."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "BREAKING | Don't Completely Stop Trains/Metro In Delhi To Handle October 10 Protests : Supreme Court To... - Live Law"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "gst-council-unveils-major-reforms-eases-penalties-and-speeds-up-refunds-business-1791547750",
   "category": "india",
   "headline": "GST Council unveils major reforms, eases penalties and speeds up refunds - Business Standard",

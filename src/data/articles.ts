@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "navi-pillay-former-un-human-rights-chief-wins-nobel-peace-prize-bbc-1791580974",
+  "category": "world",
+  "headline": "Navi Pillay, former UN human rights chief, wins Nobel Peace Prize - BBC",
+  "dek": "Former UN human rights chief Navi Pillay has been awarded the Nobel Peace Prize.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-09T21:22:54Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791580971_4647.png",
+  "imageAlt": "Navi Pillay, former UN human rights chief, wins Nobel Peace Prize - BBC",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Navi Pillay, the former United Nations High Commissioner for Human Rights, has officially been awarded the Nobel Peace Prize according to recent reports from the BBC."
+    },
+    {
+      "type": "paragraph",
+      "text": "The announcement highlights Pillay's extensive career dedicated to international justice, legal advocacy, and the protection of fundamental human rights globally."
+    },
+    {
+      "type": "paragraph",
+      "text": "Prior to her leadership role at the United Nations, Pillay served in prominent judicial capacities, including as a judge on the International Criminal Court and president of the International Criminal Tribunal for Rwanda."
+    },
+    {
+      "type": "paragraph",
+      "text": "The Nobel Peace Prize is widely regarded as one of the most prestigious international honors, recognizing individuals or organizations that have made significant contributions to peace and human rights."
+    },
+    {
+      "type": "paragraph",
+      "text": "This distinction underscores the critical importance of international humanitarian law and accountability mechanisms in addressing global conflicts and abuses."
+    },
+    {
+      "type": "paragraph",
+      "text": "Stakeholders and international observers will monitor the official presentation of the prize and assess any broader diplomatic impacts on global human rights initiatives."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Navi Pillay, former UN human rights chief, wins Nobel Peace Prize - BBC"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "saudi-arabia-reopens-riyadh-airport-after-houthi-attack-kills-three-al-jazeera-1791578580",
   "category": "india",
   "headline": "Saudi Arabia reopens Riyadh airport after Houthi attack kills three - Al Jazeera",

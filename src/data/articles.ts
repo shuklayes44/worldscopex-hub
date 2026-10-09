@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "gst-council-proposes-5-levy-on-e-commerce-delivery-services-with-no-input-tax-cr-1791528437",
+  "category": "india",
+  "headline": "GST Council proposes 5% levy on e-commerce delivery services, with no input tax credit - Moneycontrol.com",
+  "dek": "The GST Council has proposed a 5% tax on e-commerce delivery services without input tax credit.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-09T06:47:17Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791528435_6850.png",
+  "imageAlt": "GST Council proposes 5% levy on e-commerce delivery services, with no input tax credit - Moneycontrol.com",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "The GST Council has proposed a 5% levy on e-commerce delivery services, according to recent updates from official meetings. The measure introduces a direct tax on e-commerce logistics operations without the benefit of input tax credit."
+    },
+    {
+      "type": "paragraph",
+      "text": "The proposed levy is part of broader policy discussions surrounding ongoing GST reforms aimed at regulatory updates. Additional measures discussed in the meetings include eased compliance norms, faster refunds, and reduced prosecution risks."
+    },
+    {
+      "type": "paragraph",
+      "text": "Other notable proposals from the Council include scraping arresting powers for tax officers and raising the prosecution threshold to Rs 5 crore. These changes form part of a wider effort to streamline tax administration and compliance for businesses."
+    },
+    {
+      "type": "paragraph",
+      "text": "Industry participants are expected to monitor the implementation timeline and detailed guidelines regarding the new delivery service levy. The impact on operational costs and pricing structures across the e-commerce sector remains a key point of focus."
+    },
+    {
+      "type": "paragraph",
+      "text": "Further announcements from the GST Council will outline the formal adoption process and final implementation dates for the proposed tax and compliance modifications. Observers will continue to track the broader effects of these regulatory shifts on the Indian market."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "GST Council proposes 5% levy on e-commerce delivery services, with no input tax credit - Moneycontrol.com"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "hegseth-says-firing-squad-execution-of-fort-hood-shooter-will-be-public-al-jazee-1791523201",
   "category": "india",
   "headline": "Hegseth says firing squad execution of Fort Hood shooter will be ‘public’ - Al Jazeera",

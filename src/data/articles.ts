@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "saudi-arabia-reopens-riyadh-airport-after-houthi-attack-kills-three-al-jazeera-1791578580",
+  "category": "india",
+  "headline": "Saudi Arabia reopens Riyadh airport after Houthi attack kills three - Al Jazeera",
+  "dek": "Saudi Arabia reopens Riyadh airport after a fatal Houthi attack causes flight disruptions and triggers EU airspace warnings.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-09T20:43:00Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791578577_5375.png",
+  "imageAlt": "Saudi Arabia reopens Riyadh airport after Houthi attack kills three - Al Jazeera",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Saudi Arabia has officially reopened Riyadh airport following a Houthi attack that resulted in three deaths and caused damage to at least one aircraft at the facility."
+    },
+    {
+      "type": "paragraph",
+      "text": "The security incident has led to ongoing disruptions for flight services operating to and from the Saudi capital."
+    },
+    {
+      "type": "paragraph",
+      "text": "In response to the escalating attacks, the European Union aviation regulator has expanded its airspace warning for airlines operating in the region."
+    },
+    {
+      "type": "paragraph",
+      "text": "The security development highlights rising geopolitical risks within the Middle East, directly impacting major regional transit hubs and international flight corridors."
+    },
+    {
+      "type": "paragraph",
+      "text": "Airlines and regulatory bodies are closely evaluating safety protocols as security measures remain heightened across Saudi airspace."
+    },
+    {
+      "type": "paragraph",
+      "text": "Further updates from aviation authorities are expected as carriers assess route safety and operational schedules in the aftermath of the strike."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Saudi Arabia reopens Riyadh airport after Houthi attack kills three - Al Jazeera"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "katie-zacharia-picked-as-the-new-white-house-press-secretary-the-new-york-times-1791576530",
   "category": "world",
   "headline": "Katie Zacharia Picked as the New White House Press Secretary - The New York Times",

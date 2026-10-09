@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "hegseth-says-firing-squad-execution-of-fort-hood-shooter-will-be-public-al-jazee-1791523201",
+  "category": "india",
+  "headline": "Hegseth says firing squad execution of Fort Hood shooter will be ‘public’ - Al Jazeera",
+  "dek": "US plans livestreamed firing squad execution for the 2009 Fort Hood shooter, marking a historic policy shift.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-09T05:20:01Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791523199_4250.png",
+  "imageAlt": "Hegseth says firing squad execution of Fort Hood shooter will be ‘public’ - Al Jazeera",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "United States authorities have announced plans for a public execution of the 2009 Fort Hood shooter by firing squad. The proceeding is expected to be livestreamed and broadcast publicly."
+    },
+    {
+      "type": "paragraph",
+      "text": "This development represents the first public execution of its kind in 90 years. The historical nature of the event highlights significant shifts in how capital punishment is administered and communicated."
+    },
+    {
+      "type": "paragraph",
+      "text": "The announcement details plans involving an Army firing squad for the convicted individual responsible for the 2009 shooting that targeted fellow service members."
+    },
+    {
+      "type": "paragraph",
+      "text": "Legal analysts and policy experts are reviewing the precedent of publicly broadcasting a capital sentence. The decision brings renewed attention to the protocols governing military justice and executions."
+    },
+    {
+      "type": "paragraph",
+      "text": "Stakeholders and the public will be watching for potential legal interventions or policy adjustments regarding the livestreaming of the execution."
+    },
+    {
+      "type": "paragraph",
+      "text": "Further updates are anticipated as federal and military officials finalize the operational details for the scheduled proceeding."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Hegseth says firing squad execution of Fort Hood shooter will be ‘public’ - Al Jazeera"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "global-electricity-demand-growth-set-to-accelerate-as-power-systems-adjust-to-re-1791514948",
   "category": "world",
   "headline": "Global electricity demand growth set to accelerate as power systems adjust to recent shocks - News - IEA – International Energy Agency",

@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "trump-orders-new-investigation-of-feds-lisa-cook-axios-1791589986",
+  "category": "world",
+  "headline": "Trump orders new investigation of Fed's Lisa Cook - Axios",
+  "dek": "US President Trump forms committee to investigate Federal Reserve Governor Lisa Cook in latest ouster effort.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-09T23:53:06Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791589984_1675.png",
+  "imageAlt": "Trump orders new investigation of Fed's Lisa Cook - Axios",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "US President Donald Trump has ordered a new investigation into Federal Reserve Governor Lisa Cook, establishing a committee to examine the central bank official. The White House inquiry marks the latest effort by the administration to challenge or oust the Fed governor amid heightened scrutiny of the institution's leadership."
+    },
+    {
+      "type": "paragraph",
+      "text": "The establishment of the committee represents a formal escalation in the ongoing friction between the executive branch and the independent central bank. Details regarding the specific mandates or focus areas of the newly appointed investigative panel were outlined as part of the administration's broader approach to regulatory and monetary oversight."
+    },
+    {
+      "type": "paragraph",
+      "text": "Federal Reserve governance structures are designed to ensure operational independence, making direct executive inquiries into board members a subject of significant legal and economic debate. The central bank plays a central role in setting US monetary policy, managing interest rates, and overseeing the domestic banking system."
+    },
+    {
+      "type": "paragraph",
+      "text": "Developments surrounding Federal Reserve leadership carry substantial weight for global financial markets, influencing investor sentiment, bond yields, and currency valuations worldwide. International investors and emerging markets frequently assess US monetary policy trajectories to gauge potential impacts on capital flows and inflation."
+    },
+    {
+      "type": "paragraph",
+      "text": "As the newly formed committee commences its review of Governor Lisa Cook, financial analysts and legal experts will watch for any formal findings or subsequent administrative challenges. The progression of this inquiry could set important precedents regarding the executive branch's authority over independent monetary institutions."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Trump orders new investigation of Fed's Lisa Cook - Axios"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "jd-vance-says-he-wont-watch-livestream-execution-of-fort-hood-shooter-axios-1791587844",
   "category": "world",
   "headline": "JD Vance says he won't watch livestream execution of Fort Hood shooter - Axios",

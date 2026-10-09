@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "katie-zacharia-picked-as-the-new-white-house-press-secretary-the-new-york-times-1791576530",
+  "category": "world",
+  "headline": "Katie Zacharia Picked as the New White House Press Secretary - The New York Times",
+  "dek": "Conservative commentator Katie Zacharia has been tapped by Trump as the next White House Press Secretary.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-09T20:08:50Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791576527_2875.png",
+  "imageAlt": "Katie Zacharia Picked as the New White House Press Secretary - The New York Times",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "President-elect Donald Trump has selected conservative commentator Katie Zacharia to serve as the next White House Press Secretary, according to reports from major news organizations including The New York Times, The Washington Post, and CNN."
+    },
+    {
+      "type": "paragraph",
+      "text": "The appointment places a prominent conservative media figure at the center of the administration's public communications strategy, overseeing daily briefings and official media interactions."
+    },
+    {
+      "type": "paragraph",
+      "text": "Media outlets across the United States, such as ABC News, also confirmed that Zacharia was offered and accepted the high-profile White House communications post."
+    },
+    {
+      "type": "paragraph",
+      "text": "The selection represents a key staffing decision for the incoming administration as it finalizes its core communications team ahead of taking office."
+    },
+    {
+      "type": "paragraph",
+      "text": "Industry analysts and political observers will closely watch the administration's upcoming announcements and the structural approach the new press secretary takes in managing relations with the national press corps."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Katie Zacharia Picked as the New White House Press Secretary - The New York Times"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "india-cancels-trains-floods-capital-with-police-to-block-protests-the-new-york-t-1791574810",
   "category": "india",
   "headline": "India Cancels Trains, Floods Capital with Police to Block Protests - The New York Times",

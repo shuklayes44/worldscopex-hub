@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "cec-row-live-updates-cjp-leaders-accuse-govt-of-imposing-emergency-even-if-i-am-1791565688",
+  "category": "india",
+  "headline": "CEC row LIVE updates: CJP leaders accuse govt. of imposing Emergency, 'Even if I am detained, the protest should not end', says Dipke - The Hindu",
+  "dek": "CJP leaders accuse the government of imposing an undeclared Emergency as political tensions mount ahead of Delhi youth protests.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-09T17:08:08Z",
+  "readingMinutes": 2,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791565686_8714.png",
+  "imageAlt": "CEC row LIVE updates: CJP leaders accuse govt. of imposing Emergency, 'Even if I am detained, the protest should not end', says Dipke - The Hindu",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Political tensions in the capital have escalated sharply as leaders from the CJP accused the government of imposing an undeclared Emergency in Delhi. The accusations come directly ahead of planned youth protests scheduled for October 10. Opposition parties have strongly targeted the Modi administration over the mounting restrictions and political climate."
+    },
+    {
+      "type": "paragraph",
+      "text": "In response to the escalating situation, prominent protest figures have urged their supporters to maintain momentum. Dipke, a key voice in the movement, explicitly stated that protests should not end even in the event of personal detentions. Authorities face significant pressure to balance public security with the fundamental right to protest."
+    },
+    {
+      "type": "paragraph",
+      "text": "The legal and judicial implications of the government's approach have already drawn the attention of the highest court. The Supreme Court specifically directed the Centre not to completely halt train and metro services in Delhi while handling the October 10 demonstrations. This judicial intervention aims to minimize disruption to ordinary citizens and public transit networks."
+    },
+    {
+      "type": "paragraph",
+      "text": "The disruption concerns underscore the broader economic and logistical stakes of large-scale political demonstrations in major urban centers. Analysts and market observers are watching the situation closely for potential impacts on daily commerce and mobility. Ensuring transit continuity remains a critical focus for both judicial authorities and municipal administrators."
+    },
+    {
+      "type": "paragraph",
+      "text": "As the date of the demonstration approaches, security preparations remain a primary point of discussion among government officials and protest organizers. The central administration must navigate the delicate balance between maintaining public order and upholding democratic freedoms. Public transport reliability will be a key metric of stability in the coming days."
+    },
+    {
+      "type": "paragraph",
+      "text": "Stakeholders across various sectors will continue monitoring the political fallout from these developments. Further updates from the Supreme Court and security agencies are expected as the protest date nears. Observers await concrete indications of how authorities will manage crowd control without resorting to severe transport shutdowns."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "CEC row LIVE updates: CJP leaders accuse govt. of imposing Emergency, 'Even if I am detained, the protest should not end', says Dipke - The Hindu"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "bypoll-results-live-ruling-parties-sweep-bypolls-in-three-states-puducherry-the-1791563548",
   "category": "india",
   "headline": "Bypoll results LIVE: Ruling parties sweep bypolls in three States, Puducherry - The Hindu",

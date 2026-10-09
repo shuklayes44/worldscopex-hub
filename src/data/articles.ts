@@ -92,6 +92,65 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "bypoll-results-live-tvk-leads-in-tamil-nadu-mother-of-adhikaris-slain-personal-a-1791541813",
+  "category": "india",
+  "headline": "Bypoll results LIVE: TVK leads in Tamil Nadu; Mother of Adhikari’s slain personal assistant leads in Nandigram - The Hindu",
+  "dek": "Early bypoll trends show TVK leading AIADMK in Tamil Nadu while the BJP secures strong leads in West Bengal and Assam.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-09T10:30:13Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791541810_3019.png",
+  "imageAlt": "Bypoll results LIVE: TVK leads in Tamil Nadu; Mother of Adhikari’s slain personal assistant leads in Nandigram - The Hindu",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Counting of votes for ongoing bypolls across multiple states has revealed early electoral shifts, according to latest reports from election monitoring bodies."
+    },
+    {
+      "type": "paragraph",
+      "text": "In Tamil Nadu, Vijay's newly formed party TVK has taken an early lead over the AIADMK, marking a notable development in the regional political landscape."
+    },
+    {
+      "type": "paragraph",
+      "text": "Meanwhile, in West Bengal, the BJP has widened its leads in key constituencies including Nandigram and Rejinagar."
+    },
+    {
+      "type": "paragraph",
+      "text": "Context snippets indicate that the BJP has achieved an unassailable lead in Nandigram while also making inroads into Muslim-majority Rejinagar."
+    },
+    {
+      "type": "paragraph",
+      "text": "In Assam, the BJP has similarly maintained leads as votes continue to be tallied in the respective bypoll contests."
+    },
+    {
+      "type": "paragraph",
+      "text": "Political analysts are viewing these bypoll outcomes as important indicators of regional voter sentiment and shifting party dynamics."
+    },
+    {
+      "type": "paragraph",
+      "text": "Further updates are expected as election officials complete the final verification and tallying of votes across the participating constituencies."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Bypoll results LIVE: TVK leads in Tamil Nadu; Mother of Adhikari’s slain personal assistant leads in Nandigram - The Hindu"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "gst-council-unveils-reforms-to-ease-refund-registration-and-reduce-litigation-th-1791537517",
   "category": "india",
   "headline": "GST Council unveils reforms to ease refund, registration and reduce litigation - The Hindu",

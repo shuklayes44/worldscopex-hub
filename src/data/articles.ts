@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "global-electricity-demand-growth-set-to-accelerate-as-power-systems-adjust-to-re-1791514948",
+  "category": "world",
+  "headline": "Global electricity demand growth set to accelerate as power systems adjust to recent shocks - News - IEA – International Energy Agency",
+  "dek": "The International Energy Agency reports that global electricity demand growth is set to accelerate amid evolving power system adjustments.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-09T03:02:28Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791514946_4211.png",
+  "imageAlt": "Global electricity demand growth set to accelerate as power systems adjust to recent shocks - News - IEA – International Energy Agency",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Global electricity demand growth is projected to accelerate as international power systems actively adjust to a series of recent shocks, according to new findings released by the International Energy Agency."
+    },
+    {
+      "type": "paragraph",
+      "text": "The latest assessment from the IEA underscores the ongoing transformation of global energy networks as they absorb the impacts of recent economic and geopolitical disruptions."
+    },
+    {
+      "type": "paragraph",
+      "text": "Power systems across various regions are currently undergoing significant realignments to manage volatile load demands and ensure long-term grid security."
+    },
+    {
+      "type": "paragraph",
+      "text": "For major economies and rapidly developing markets like India, these systemic adjustments carry direct implications for energy planning, industrial output, and infrastructure investment."
+    },
+    {
+      "type": "paragraph",
+      "text": "Policymakers and energy regulators face the critical task of balancing grid reliability against the pressures of accelerating consumption growth."
+    },
+    {
+      "type": "paragraph",
+      "text": "Market participants will closely watch subsequent IEA updates and national policy responses to assess the trajectory of global energy demand and infrastructure readiness."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Global electricity demand growth set to accelerate as power systems adjust to recent shocks - News - IEA – International Energy Agency"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "ai-bubble-fears-are-starting-to-spill-over-futurism-1791512487",
   "category": "technology",
   "headline": "AI Bubble Fears Are Starting to Spill Over - Futurism",

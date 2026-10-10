@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "exasperation-and-resignation-in-greece-over-allegations-against-kimberly-guilfoy-1791674526",
+  "category": "world",
+  "headline": "Exasperation and Resignation in Greece Over Allegations Against Kimberly Guilfoyle - The New York Times",
+  "dek": "International scrutiny follows allegations of a $100,000 quid pro quo involving Kimberly Guilfoyle and a donor.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-10T23:22:06Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791674523_9773.png",
+  "imageAlt": "Exasperation and Resignation in Greece Over Allegations Against Kimberly Guilfoyle - The New York Times",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Reports from Greece and international media have highlighted widespread reactions of exasperation and resignation following recent allegations made against Kimberly Guilfoyle."
+    },
+    {
+      "type": "paragraph",
+      "text": "The controversy centers on accusations from a Trump donor who alleged that Guilfoyle pushed for a $100,000 wire transfer to her American Express account."
+    },
+    {
+      "type": "paragraph",
+      "text": "According to reports from outlets including The New York Times, The Wall Street Journal, and The Guardian, associates have characterized the request as a quid pro quo arrangement."
+    },
+    {
+      "type": "paragraph",
+      "text": "The allegations have drawn considerable attention to the nature of political fundraising and donor relations within high-profile political circles."
+    },
+    {
+      "type": "paragraph",
+      "text": "As international coverage of the situation continues, stakeholders and observers are watching for any potential fallout concerning political strategy and public perception."
+    },
+    {
+      "type": "paragraph",
+      "text": "Further updates are expected as additional details regarding the financial allegations and responses from involved parties emerge."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Exasperation and Resignation in Greece Over Allegations Against Kimberly Guilfoyle - The New York Times"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "anti-cec-protest-live-updates-cjp-calls-for-another-protest-at-jantar-mantar-on-1791671404",
   "category": "india",
   "headline": "Anti-CEC protest LIVE updates: CJP calls for another protest at Jantar Mantar on Sunday; UNHRC demands immediate release of demonstrators | LIVE - The Hindu",

@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "trump-announces-major-diesel-deal-with-putin-infuriating-ukraine-axios-1791646559",
+  "category": "world",
+  "headline": "Trump announces major diesel deal with Putin, infuriating Ukraine - Axios",
+  "dek": "Trump announces major diesel deal with Putin, drawing sharp criticism from Ukraine and U.S. Democrats.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-10T15:35:59Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791646556_3535.png",
+  "imageAlt": "Trump announces major diesel deal with Putin, infuriating Ukraine - Axios",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Donald Trump has announced a major diesel agreement with Russian President Vladimir Putin, a development that has immediately drawn intense backlash from Ukraine and domestic critics. U.S. officials indicated that the deal was struck after Ukrainian President Volodymyr Zelenskyy ignored requests from Washington, heightening diplomatic friction."
+    },
+    {
+      "type": "paragraph",
+      "text": "The announcement has reverberated quickly through political circles, with Democratic lawmakers sharply criticizing the administration over the arrangement. Critics have characterized the policy shift as providing unjustified relief to Moscow while undermining allied solidarity."
+    },
+    {
+      "type": "paragraph",
+      "text": "The agreement has directly rattled officials in Kyiv, who view the easing of economic pressure as a significant setback. Analysts note that the development complicates the broader geopolitical landscape surrounding energy markets and sanctions enforcement against Russia."
+    },
+    {
+      "type": "paragraph",
+      "text": "While questions remain regarding the exact economic impact on fuel prices, the primary focus centers on the diplomatic fallout. European and American stakeholders are assessing the long-term ramifications of the pact on allied cooperation."
+    },
+    {
+      "type": "paragraph",
+      "text": "Observers are closely monitoring how the diplomatic dispute will affect ongoing support for Ukraine. Further statements from Washington and Kyiv are expected as lawmakers scrutinize the details of the agreement."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Trump announces major diesel deal with Putin, infuriating Ukraine - Axios"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "why-is-us-turning-to-russia-for-diesel-despite-sanctions-al-jazeera-1791643584",
   "category": "india",
   "headline": "Why is US turning to Russia for diesel despite sanctions? - Al Jazeera",

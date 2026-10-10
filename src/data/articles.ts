@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "delhi-protest-live-actor-imran-khan-detained-in-mumbai-wangchuk-warns-of-hunger-1791636723",
+  "category": "india",
+  "headline": "Delhi protest LIVE: Actor Imran Khan detained in Mumbai; Wangchuk warns of hunger strike if leaders not released | Hindustan Times - Hindustan Times",
+  "dek": "High-profile political detentions in New Delhi and Mumbai spark widespread protests and hunger strike warnings from activists.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-10T12:52:03Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791636721_1659.png",
+  "imageAlt": "Delhi protest LIVE: Actor Imran Khan detained in Mumbai; Wangchuk warns of hunger strike if leaders not released | Hindustan Times - Hindustan Times",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Protests erupted across New Delhi as opposition figures and activists mobilized following a series of high-profile detentions by law enforcement agencies. The unfolding political developments have drawn immediate nationwide attention amid escalating friction between the government and opposition groups."
+    },
+    {
+      "type": "paragraph",
+      "text": "In Mumbai, actor Imran Khan was detained by authorities, adding a prominent entertainment figure to the day's wave of restrictive police actions. Meanwhile, environmental and social activist Sonam Wangchuk issued a stark warning of an indefinite hunger strike unless all currently detained leaders are released immediately."
+    },
+    {
+      "type": "paragraph",
+      "text": "In the capital, former Delhi Chief Minister Arvind Kejriwal was detained by Delhi Police while attempting to lead a protest march toward Jantar Mantar. The demonstration was part of coordinated political pushback involving regional parties and civil society organizations."
+    },
+    {
+      "type": "paragraph",
+      "text": "The political unrest has also seen varied tactical approaches among opposition parties, with the Congress maintaining distance while Left parties and the Aam Aadmi Party join the agitation. Organizers have characterized the current administrative measures as an extreme constraint on democratic assembly."
+    },
+    {
+      "type": "paragraph",
+      "text": "The escalating confrontation underscores deep policy and political fractures regarding institutional oversight and civil liberties in India. Market observers and political analysts are closely monitoring the potential for broader civil unrest and further disruptions to urban transit."
+    },
+    {
+      "type": "paragraph",
+      "text": "As security forces maintain a heavy presence around key demonstration sites in New Delhi and Mumbai, attention turns to the political leadership's next response. Stakeholders will be watching to see whether authorities ease restrictions or if detained figures maintain their protest actions through hunger strikes."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Delhi protest LIVE: Actor Imran Khan detained in Mumbai; Wangchuk warns of hunger strike if leaders not released | Hindustan Times - Hindustan Times"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "anthropic-ai-model-went-rogue-submitted-fake-unsolved-murder-tip-wsj-1791631659",
   "category": "world",
   "headline": "Anthropic AI Model Went Rogue, Submitted Fake Unsolved Murder Tip - WSJ",

@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "breaking-contempt-plea-filed-in-supreme-court-alleging-arbitrary-metro-station-c-1791613745",
+  "category": "india",
+  "headline": "BREAKING| Contempt Plea Filed In Supreme Court Alleging Arbitrary Metro Station Closures & Train... - Live Law",
+  "dek": "Supreme Court faces contempt plea over arbitrary Delhi Metro station closures and train disruptions.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-10T06:29:05Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791613742_4824.png",
+  "imageAlt": "BREAKING| Contempt Plea Filed In Supreme Court Alleging Arbitrary Metro Station Closures & Train... - Live Law",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "A contempt petition has been formally filed in the Supreme Court of India, alleging that authorities have arbitrarily closed Delhi Metro stations and halted train services in violation of existing judicial directives."
+    },
+    {
+      "type": "paragraph",
+      "text": "The legal challenge centers on the continued transit shutdown in the national capital, which has disrupted daily commuter movement amid anti-CEC and CJP protests."
+    },
+    {
+      "type": "paragraph",
+      "text": "According to the filings, the closure of metro stations and transit routes has persisted despite clear court orders restricting such actions against public mobility networks."
+    },
+    {
+      "type": "paragraph",
+      "text": "The case highlights ongoing tensions between security measures implemented during protests and the judiciary's mandate ensuring uninterrupted public transport operations."
+    },
+    {
+      "type": "paragraph",
+      "text": "Legal analysts note that the outcome of this contempt plea will set a significant precedent regarding the enforcement of judicial orders during civil demonstrations."
+    },
+    {
+      "type": "paragraph",
+      "text": "Observers will be closely watching the Supreme Court's upcoming proceedings to see how the bench addresses allegations of non-compliance by transit and administrative authorities."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "BREAKING| Contempt Plea Filed In Supreme Court Alleging Arbitrary Metro Station Closures & Train... - Live Law"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "market-wrap-itc-tcs-bse-ril-top-gainers-and-losers-on-nifty-and-sensex-on-friday-1791608726",
   "category": "economy",
   "headline": "Market wrap: ITC, TCS, BSE, RIL top gainers and losers on Nifty and Sensex on Friday - The Economic Times",

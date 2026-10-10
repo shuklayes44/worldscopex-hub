@@ -92,6 +92,41 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "stock-market-crash-today-sensex-falls-1045-points-nifty-down-371-5-reasons-behin-1791663902",
+  "category": "economy",
+  "headline": "Stock market crash today: Sensex falls 1,045 points, Nifty down 371; 5 reasons behind market rout - Firstpost",
+  "dek": "Indian benchmark indices plunge sharply as Sensex drops 1,045 points and Nifty falls 371 points.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-10T20:25:02Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791663900_2546.png",
+  "imageAlt": "Stock market crash today: Sensex falls 1,045 points, Nifty down 371; 5 reasons behind market rout - Firstpost",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "economy"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Indian equity markets suffered a severe correction today, marked by a steep sell-off across key benchmarks. The market rout saw the BSE Sensex tumble by 1,045 points, reflecting broad-based weakness among heavyweights. Concurrently, the NSE Nifty dropped 371 points amid heightened selling pressure. Market observers have identified five primary factors driving the sharp downward movement in today's trading session. The sudden downturn underscores current anxieties and volatility affecting investor sentiment across the domestic financial landscape. Financial analysts and traders will closely track subsequent market sessions and institutional activity to gauge near-term recovery prospects."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Stock market crash today: Sensex falls 1,045 points, Nifty down 371; 5 reasons behind market rout - Firstpost"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "us-lifts-sanctions-on-sale-of-russian-diesel-in-global-markets-the-hindu-1791662307",
   "category": "india",
   "headline": "U.S. lifts sanctions on sale of Russian diesel in global markets - The Hindu",

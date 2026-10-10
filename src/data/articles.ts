@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "india-cracks-down-on-youth-protests-as-anger-grows-against-modi-and-election-chi-1791655177",
+  "category": "world",
+  "headline": "India cracks down on youth protests as anger grows against Modi and election chief - NPR",
+  "dek": "New Delhi enters lockdown as Indian police detain leaders of the Gen-Z 'Cockroach' movement amid mounting youth protests.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-10T17:59:37Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791655175_6309.png",
+  "imageAlt": "India cracks down on youth protests as anger grows against Modi and election chief - NPR",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Indian authorities have implemented a strict lockdown across New Delhi while executing roundups of prominent youth protest leaders. The security crackdown follows escalating public anger directed against Prime Minister Narendra Modi and the nation's election chief."
+    },
+    {
+      "type": "paragraph",
+      "text": "The founder of India's newly emerged Gen-Z 'Cockroach' movement was among those detained by law enforcement ahead of a planned demonstration, according to party statements. The rapid police response underscores the state's stringent approach to managing emerging youth-led political opposition."
+    },
+    {
+      "type": "paragraph",
+      "text": "The demonstrations reflect a deepening wave of discontent among younger demographics regarding current political leadership and electoral administration. Authorities have deployed heightened security measures across the capital to contain further mobilization."
+    },
+    {
+      "type": "paragraph",
+      "text": "The intensification of political friction and state interventions carries implications for domestic stability and governance risk within the country. Investors and analysts continue to track how civil unrest may influence the broader political landscape in India."
+    },
+    {
+      "type": "paragraph",
+      "text": "Observers are closely monitoring whether additional protests will materialize despite the capital's lockdown and the ongoing detention of key movement organizers. Further updates from political parties and law enforcement agencies are anticipated as tensions persist."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "India cracks down on youth protests as anger grows against Modi and election chief - NPR"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "multiple-people-wounded-in-blast-at-riyadh-airport-say-eyewitnesses-reuters-1791653522",
   "category": "india",
   "headline": "Multiple people wounded in blast at Riyadh airport, say eyewitnesses - Reuters",

@@ -92,6 +92,65 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "tvk-wins-both-bypolls-in-tamil-nadu-what-it-means-for-aiadmk-dmk-ndtv-1791627478",
+  "category": "india",
+  "headline": "TVK Wins Both Bypolls In Tamil Nadu: What It Means For AIADMK, DMK - NDTV",
+  "dek": "Tamil Nadu bypoll sweep cements TVK as a major political force alongside DMK and AIADMK.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-10T10:17:58Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791627476_2298.png",
+  "imageAlt": "TVK Wins Both Bypolls In Tamil Nadu: What It Means For AIADMK, DMK - NDTV",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Tamil Nadu's political dynamics have experienced a notable shift following the announcement that TVK has won both bypolls in the state. The decisive outcome marks a major milestone for the newly emerged party led by Chief Minister Vijay."
+    },
+    {
+      "type": "paragraph",
+      "text": "According to the reports, the sweep was propelled by AIADMK defectors who successfully reclaimed the contested seats while running on the Vijay-led party ticket. The victories provide an immediate legislative footprint for the nascent political outfit."
+    },
+    {
+      "type": "paragraph",
+      "text": "Meanwhile, the ruling DMK managed to retain much of its established vote bank despite contesting the bypolls alone. This performance solidifies the DMK's position as the principal rival to the ascendant TVK in the state."
+    },
+    {
+      "type": "paragraph",
+      "text": "Political analysts indicate that the bypoll outcome serves as a direct endorsement of Chief Minister Vijay's leadership and governance approach. The results offer early empirical data on shifting voter allegiances in Tamil Nadu."
+    },
+    {
+      "type": "paragraph",
+      "text": "The broader implications of the election results point toward a reconfiguration of the state's traditional bipolar politics involving the DMK and AIADMK. Both established parties face new strategic imperatives following the emergence of a viable third force."
+    },
+    {
+      "type": "paragraph",
+      "text": "Stakeholders and analysts will continue to monitor how these electoral dynamics influence legislative proceedings and future coalition-building efforts across the state."
+    },
+    {
+      "type": "paragraph",
+      "text": "Further developments are anticipated as political parties begin recalibrating their grassroots strategies in response to the changing balance of power in Tamil Nadu."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "TVK Wins Both Bypolls In Tamil Nadu: What It Means For AIADMK, DMK - NDTV"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "zelenskyy-hits-out-at-gifts-to-putin-after-trump-diesel-announcement-euronewscom-1791625531",
   "category": "world",
   "headline": "Zelenskyy hits out at 'gifts to Putin' after Trump diesel announcement - Euronews.com",

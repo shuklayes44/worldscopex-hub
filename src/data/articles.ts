@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "democrats-explode-over-trumps-russia-diesel-deal-the-hill-1791647995",
+  "category": "world",
+  "headline": "Democrats explode over Trump’s Russia diesel deal - The Hill",
+  "dek": "Lawmakers criticize a U.S.-Russia diesel deal, citing contradictions with sanctions legislation.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-10T15:59:55Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791647992_8972.png",
+  "imageAlt": "Democrats explode over Trump’s Russia diesel deal - The Hill",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Democratic lawmakers have reacted with sharp criticism following reports of a diesel agreement between the United States and Russia. The development marks a significant shift in diplomatic interactions involving major energy markets and international sanctions policy."
+    },
+    {
+      "type": "paragraph",
+      "text": "A U.S. official confirmed that the arrangement with Moscow was concluded after Ukrainian leadership bypassed or ignored prior requests. This context has intensified the political debate surrounding the administration's foreign policy and energy decisions."
+    },
+    {
+      "type": "paragraph",
+      "text": "The agreement has drawn immediate accusations that it directly contradicts federal Russia sanctions law. Critics and policy experts have expressed concern over the easing of restrictions on Russian oil exports amid ongoing geopolitical tensions."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ukraine has reportedly been rattled by the developments, viewing the policy adjustment as counterproductive to ongoing peace efforts. Meanwhile, parallel peace talks regarding the conflict have shown signs of stalling."
+    },
+    {
+      "type": "paragraph",
+      "text": "The unfolding situation highlights ongoing friction between legislative priorities and executive actions regarding foreign energy trade. Market analysts and political observers will continue to track the domestic and international fallout from the agreement."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Democrats explode over Trump’s Russia diesel deal - The Hill"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "trump-announces-major-diesel-deal-with-putin-infuriating-ukraine-axios-1791646559",
   "category": "world",
   "headline": "Trump announces major diesel deal with Putin, infuriating Ukraine - Axios",

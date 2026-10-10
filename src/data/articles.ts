@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "why-is-us-turning-to-russia-for-diesel-despite-sanctions-al-jazeera-1791643584",
+  "category": "india",
+  "headline": "Why is US turning to Russia for diesel despite sanctions? - Al Jazeera",
+  "dek": "The United States has lifted sanctions to pursue a diesel deal with Russia, sparking criticism over energy ties.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-10T14:46:24Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791643582_3629.png",
+  "imageAlt": "Why is US turning to Russia for diesel despite sanctions? - Al Jazeera",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "The United States has lifted sanctions to permit a diesel deal with Russia, according to recent reports. The arrangement highlights deep energy ties between the two global powers despite ongoing international restrictions."
+    },
+    {
+      "type": "paragraph",
+      "text": "The move follows previous diplomatic pressure from Washington regarding purchases of Russian energy by other countries, including India."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ukrainian President Volodymyr Zelensky criticized the arrangement in comments to Axios, describing the deal as not fair and not honest."
+    },
+    {
+      "type": "paragraph",
+      "text": "The lifting of sanctions has prompted renewed scrutiny over Western enforcement policies and the resilience of global energy supply chains."
+    },
+    {
+      "type": "paragraph",
+      "text": "Market observers and international trade partners will continue to assess the broader policy implications of the U.S. decision."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Why is US turning to Russia for diesel despite sanctions? - Al Jazeera"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "flydubai-co-pilot-planned-suicide-attack-in-israel-inspired-by-911-euronewscom-1791641665",
   "category": "india",
   "headline": "Flydubai co-pilot planned suicide attack in Israel inspired by 9/11 - Euronews.com",

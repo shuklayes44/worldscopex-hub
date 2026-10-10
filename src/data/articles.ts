@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "us-lifts-sanctions-on-sale-of-russian-diesel-in-global-markets-the-hindu-1791662307",
+  "category": "india",
+  "headline": "U.S. lifts sanctions on sale of Russian diesel in global markets - The Hindu",
+  "dek": "The United States has lifted sanctions on Russian diesel sales, drawing criticism from Ukraine and raising questions over policy consistency.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-10T19:58:27Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791662305_2974.png",
+  "imageAlt": "U.S. lifts sanctions on sale of Russian diesel in global markets - The Hindu",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "The United States has officially lifted sanctions on the sale of Russian diesel in global markets, according to reports from multiple international news outlets. The policy change marks a notable adjustment in the enforcement of Western economic restrictions targeting Russia's energy sector."
+    },
+    {
+      "type": "paragraph",
+      "text": "The decision has immediately drawn sharp international reactions and political fallout. Ukrainian leadership has expressed intense frustration regarding the development, pointing to the implications of resuming trade involving Russian petroleum products."
+    },
+    {
+      "type": "paragraph",
+      "text": "The shift has also prompted widespread commentary regarding policy consistency. Observers and analysts have questioned the alignment between past lecturing on energy reliance and the newly announced arrangements permitting Russian diesel transactions."
+    },
+    {
+      "type": "paragraph",
+      "text": "Market participants and policymakers are closely evaluating the potential impacts of the lifted restrictions on global fuel pricing and trade flows. The integration of Russian diesel back into regulated international supply chains could alter regional distribution patterns."
+    },
+    {
+      "type": "paragraph",
+      "text": "As the situation unfolds, international attention remains focused on how European and global partners will respond to the U.S. policy shift. Analysts will continue to track further diplomatic developments and market reactions surrounding the trade of Russian energy commodities."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "U.S. lifts sanctions on sale of Russian diesel in global markets - The Hindu"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "nine-dead-in-mass-shooting-at-pennsylvania-home-bbc-1791660093",
   "category": "world",
   "headline": "Nine dead in mass shooting at Pennsylvania home - BBC",

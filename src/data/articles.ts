@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "flydubai-co-pilot-planned-suicide-attack-in-israel-inspired-by-911-euronewscom-1791641665",
+  "category": "india",
+  "headline": "Flydubai co-pilot planned suicide attack in Israel inspired by 9/11 - Euronews.com",
+  "dek": "UAE prosecutors state a Flydubai co-pilot planned a suicide attack in Israel, prompting an anti-hijacking case in India.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-10T14:14:25Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791641663_3883.png",
+  "imageAlt": "Flydubai co-pilot planned suicide attack in Israel inspired by 9/11 - Euronews.com",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "UAE prosecutors have revealed that a Flydubai co-pilot planned a suicide attack in Israel, with the plot directly inspired by the 9/11 attacks. Early investigation findings indicate the alleged hijacker stated that the 9/11 strikes spurred him to become a pilot in order to carry out the operation."
+    },
+    {
+      "type": "paragraph",
+      "text": "According to the findings, the co-pilot specifically intended to crash the aircraft into Tel Aviv airport. The details of the thwarted plot have triggered immediate international concern regarding aviation security protocols and flight deck vetting procedures."
+    },
+    {
+      "type": "paragraph",
+      "text": "In response to the incident, Indian authorities have registered a formal case under anti-hijacking and terror laws. The cross-border legal action underscores the gravity of the threat and the widespread jurisdictional reach of aviation security regulations."
+    },
+    {
+      "type": "paragraph",
+      "text": "The case brings renewed attention to the historical impact of the 9/11 attacks on modern aviation security frameworks. Aviation authorities worldwide are reviewing cockpit security measures to prevent potential insider threats."
+    },
+    {
+      "type": "paragraph",
+      "text": "Stakeholders in the aviation and tourism sectors are closely monitoring regulatory responses and potential policy shifts following the disclosures. The incident is expected to influence international cooperation on counter-terrorism and aviation safety standards."
+    },
+    {
+      "type": "paragraph",
+      "text": "Investigators continue to examine the full scope of the plot and any potential accomplices involved in the planning. Further developments are anticipated as legal and security agencies release additional details from the ongoing investigation."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Flydubai co-pilot planned suicide attack in Israel inspired by 9/11 - Euronews.com"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "cec-protest-cjp-legal-affairs-head-ratna-singh-moves-delhi-court-seeking-fir-aga-1791639785",
   "category": "india",
   "headline": "CEC Protest: CJP Legal Affairs Head Ratna Singh Moves Delhi Court Seeking FIR Against Cops Over 'Illegal... - Live Law",

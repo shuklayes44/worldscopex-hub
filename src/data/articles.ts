@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "market-wrap-itc-tcs-bse-ril-top-gainers-and-losers-on-nifty-and-sensex-on-friday-1791608726",
+  "category": "economy",
+  "headline": "Market wrap: ITC, TCS, BSE, RIL top gainers and losers on Nifty and Sensex on Friday - The Economic Times",
+  "dek": "ITC, TCS, BSE, and RIL featured among the top movers on Nifty and Sensex during Friday's trading session.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-10T05:05:26Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791608723_4872.png",
+  "imageAlt": "Market wrap: ITC, TCS, BSE, RIL top gainers and losers on Nifty and Sensex on Friday - The Economic Times",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "economy"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Indian equity markets wrapped up the week with notable movements among several heavyweight stocks listed on the Nifty and Sensex indices."
+    },
+    {
+      "type": "paragraph",
+      "text": "Friday's trading session highlighted distinct gainers and losers that captured the attention of market participants and analysts."
+    },
+    {
+      "type": "paragraph",
+      "text": "Among the prominent equities driving market action were ITC, TCS, BSE, and Reliance Industries (RIL), according to the wrap-up data."
+    },
+    {
+      "type": "paragraph",
+      "text": "The performance of these index heavyweights serves as a key indicator of underlying sectoral strength and broader market sentiment."
+    },
+    {
+      "type": "paragraph",
+      "text": "Individual stock volatility among large-cap companies frequently influences overall index trajectories during weekly closeouts."
+    },
+    {
+      "type": "paragraph",
+      "text": "Investors and analysts will closely evaluate these closing trends to gauge market momentum heading into the next trading week."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Market wrap: ITC, TCS, BSE, RIL top gainers and losers on Nifty and Sensex on Friday - The Economic Times"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "houthi-attack-on-riyadh-airport-killed-three-saudi-nationals-al-jazeera-1791598837",
   "category": "india",
   "headline": "Houthi attack on Riyadh airport killed three Saudi nationals - Al Jazeera",

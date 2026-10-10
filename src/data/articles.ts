@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "nine-dead-in-mass-shooting-at-pennsylvania-home-bbc-1791660093",
+  "category": "world",
+  "headline": "Nine dead in mass shooting at Pennsylvania home - BBC",
+  "dek": "Nine people, including children, were killed in a mass shooting at a Pennsylvania home on Friday.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-10T19:21:33Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791660091_5728.png",
+  "imageAlt": "Nine dead in mass shooting at Pennsylvania home - BBC",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Nine people, including children, have died following a mass shooting at a residential home in Erie, Pennsylvania, according to local city officials and police reports."
+    },
+    {
+      "type": "paragraph",
+      "text": "The violent incident unfolded on Friday, prompting a major emergency response and drawing immediate concern from state leaders."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pennsylvania Governor Josh Shapiro and other state officials publicly shared statements and prayers in the wake of the tragedy."
+    },
+    {
+      "type": "paragraph",
+      "text": "Law enforcement agencies have confirmed the death toll, though specific details regarding the suspect and the exact sequence of events remain limited as investigations proceed."
+    },
+    {
+      "type": "paragraph",
+      "text": "The mass shooting has renewed national and international scrutiny over community safety, residential security, and gun violence in the United States."
+    },
+    {
+      "type": "paragraph",
+      "text": "Authorities are anticipated to release additional verified information as forensic investigations and official police briefings continue."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Nine dead in mass shooting at Pennsylvania home - BBC"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "several-wounded-in-riyadh-airport-attack-operations-suspended-saudi-aviation-aut-1791658108",
   "category": "world",
   "headline": "Several wounded in Riyadh airport attack, operations suspended, Saudi aviation authority says - Reuters",

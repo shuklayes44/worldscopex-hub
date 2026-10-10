@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "indias-cockroach-leaders-detained-new-delhi-in-lockdown-al-jazeera-1791669468",
+  "category": "india",
+  "headline": "India’s ‘Cockroach’ leaders detained; New Delhi in lockdown - Al Jazeera",
+  "dek": "New Delhi enters lockdown following mass detentions of youth protest leaders by Indian authorities.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-10T21:57:48Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791669466_7404.png",
+  "imageAlt": "India’s ‘Cockroach’ leaders detained; New Delhi in lockdown - Al Jazeera",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "New Delhi has been placed under a strict lockdown following the mass detention of multiple youth protest leaders by authorities. The sweeping security crackdown comes as political tensions escalate across the national capital."
+    },
+    {
+      "type": "paragraph",
+      "text": "The developments have prompted multiple 'Jantar Mantar' protest sites to spring up as the city effectively shuts down. A political war of words has intensified alongside the unfolding security measures and mass custodies."
+    },
+    {
+      "type": "paragraph",
+      "text": "Leaders remain in custody as the Citizens for Justice and Peace (CJP) has announced another Jantar Mantar protest scheduled for 10 AM on Sunday. The unfolding situation highlights rising civil unrest and direct confrontation between protesters and authorities."
+    },
+    {
+      "type": "paragraph",
+      "text": "The capital's lockdown and ongoing demonstrations pose potential risks to public transit, urban mobility, and local business operations in New Delhi. Investors and analysts are closely monitoring the political fallout for any broader economic or market disruptions."
+    },
+    {
+      "type": "paragraph",
+      "text": "Stakeholders will be watching the scheduled Sunday morning demonstrations closely to gauge the trajectory of the protests. Authorities are expected to maintain heavy security across critical junctions as the political standoff continues to unfold."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "India’s ‘Cockroach’ leaders detained; New Delhi in lockdown - Al Jazeera"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "un-human-rights-body-expresses-concern-over-delhi-detentions-urges-immediate-rel-1791664856",
   "category": "india",
   "headline": "UN human rights body expresses concern over Delhi detentions, urges immediate release - The Hindu",

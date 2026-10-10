@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "breaking-delhi-court-rejects-cjp-leader-ratna-singhs-plea-for-fir-against-cops-o-1791652127",
+  "category": "india",
+  "headline": "BREAKING | Delhi Court Rejects CJP Leader Ratna Singh's Plea For FIR Against Cops Over 'Illegal... - Live Law",
+  "dek": "A Delhi court has dismissed a plea by CJP leader Ratna Singh for an FIR against police officers, amid separate protests involving detained lawyers.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-10T17:08:47Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791652125_1934.png",
+  "imageAlt": "BREAKING | Delhi Court Rejects CJP Leader Ratna Singh's Plea For FIR Against Cops Over 'Illegal... - Live Law",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "A Delhi court has officially rejected a plea filed by Citizens for Justice and Peace (CJP) leader Ratna Singh seeking the registration of a First Information Report (FIR) against police officers over alleged illegal actions. The judicial decision marks a significant development in ongoing legal confrontations involving civil rights advocates and law enforcement agencies."
+    },
+    {
+      "type": "paragraph",
+      "text": "The court ruling comes concurrently with high-profile developments concerning the detention of lawyers outside the Supreme Court. According to recent updates, advocates who had been detained during demonstrations were subsequently released following the direct intervention of the Chief Justice of India."
+    },
+    {
+      "type": "paragraph",
+      "text": "The Supreme Court Bar Association (SCBA) had actively flagged the detention of the lawyers to the highest judicial authorities. This advocacy prompted immediate attention from the bench, leading to the swift release of the detained legal professionals."
+    },
+    {
+      "type": "paragraph",
+      "text": "The convergence of the CJP leader's rejected plea and the detention of advocates underscores heightened tensions between civil rights groups, legal practitioners, and law enforcement authorities in the national capital. The events reflect broader concerns regarding police conduct, the right to protest, and the protection of legal advocates in the execution of their professional duties."
+    },
+    {
+      "type": "paragraph",
+      "text": "Legal analysts and observers are closely following the unfolding situation to gauge potential impacts on institutional accountability and judicial oversight. The interplay between lower court rulings and Supreme Court interventions remains a critical area of focus for the legal community."
+    },
+    {
+      "type": "paragraph",
+      "text": "Further updates are anticipated as stakeholders assess the judicial outcomes and the broader implications for civil liberties and professional protections for lawyers in India. Future proceedings will likely be watched closely by civil rights organizations and legal associations alike."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "BREAKING | Delhi Court Rejects CJP Leader Ratna Singh's Plea For FIR Against Cops Over 'Illegal... - Live Law"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "will-be-compelled-to-consider-fast-or-march-wangchuk-seeks-release-of-detainees-1791649099",
   "category": "india",
   "headline": "‘Will be compelled to consider fast or march’: Wangchuk seeks release of detainees - The Times of India",

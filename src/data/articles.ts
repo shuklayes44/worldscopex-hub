@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "multiple-people-wounded-in-blast-at-riyadh-airport-say-eyewitnesses-reuters-1791653522",
+  "category": "india",
+  "headline": "Multiple people wounded in blast at Riyadh airport, say eyewitnesses - Reuters",
+  "dek": "Eyewitnesses report multiple injuries following an explosion at Riyadh airport, according to Reuters.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-10T17:32:02Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791653519_4975.png",
+  "imageAlt": "Multiple people wounded in blast at Riyadh airport, say eyewitnesses - Reuters",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Multiple people have been wounded in a blast at Riyadh airport, according to eyewitness reports cited by Reuters."
+    },
+    {
+      "type": "paragraph",
+      "text": "The incident has drawn immediate international attention given the strategic importance of the Saudi capital's primary aviation facility."
+    },
+    {
+      "type": "paragraph",
+      "text": "Eyewitness accounts provided the initial reports of the explosion, while official verification and casualty figures from governing authorities remain pending."
+    },
+    {
+      "type": "paragraph",
+      "text": "Security disruptions at key Middle East transport hubs often prompt heightened monitoring across international aviation networks and regional markets."
+    },
+    {
+      "type": "paragraph",
+      "text": "Observers are closely watching for official updates from Saudi authorities regarding the cause of the blast and the condition of those wounded."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Multiple people wounded in blast at Riyadh airport, say eyewitnesses - Reuters"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "breaking-delhi-court-rejects-cjp-leader-ratna-singhs-plea-for-fir-against-cops-o-1791652127",
   "category": "india",
   "headline": "BREAKING | Delhi Court Rejects CJP Leader Ratna Singh's Plea For FIR Against Cops Over 'Illegal... - Live Law",

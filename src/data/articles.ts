@@ -92,6 +92,65 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "houthi-attack-on-riyadh-airport-killed-three-saudi-nationals-al-jazeera-1791598837",
+  "category": "india",
+  "headline": "Houthi attack on Riyadh airport killed three Saudi nationals - Al Jazeera",
+  "dek": "A Houthi attack on Riyadh airport killed three Saudi nationals and damaged an aircraft, disrupting flight services.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-10T02:20:37Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791598835_5409.png",
+  "imageAlt": "Houthi attack on Riyadh airport killed three Saudi nationals - Al Jazeera",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "A reported Houthi attack targeting Riyadh airport has resulted in the deaths of three Saudi nationals and caused damage to a plane at the facility."
+    },
+    {
+      "type": "paragraph",
+      "text": "The incident comes as Houthi forces escalate cross-border attacks utilizing aerial threats against critical infrastructure within Saudi Arabia."
+    },
+    {
+      "type": "paragraph",
+      "text": "Flight services to and from Riyadh remain disrupted following the security breach as aviation authorities assess the damage and safety risks."
+    },
+    {
+      "type": "paragraph",
+      "text": "The ongoing escalation underscores persistent regional security challenges affecting commercial aviation corridors across the Arabian Peninsula."
+    },
+    {
+      "type": "paragraph",
+      "text": "Yemen's Ministry of Foreign Affairs has previously addressed related security incidents, sending formal letters to the UN Security Council and Secretary-General regarding Houthi attacks."
+    },
+    {
+      "type": "paragraph",
+      "text": "International observers and diplomatic bodies are monitoring the situation closely to gauge the broader implications for regional stability and air traffic safety."
+    },
+    {
+      "type": "paragraph",
+      "text": "Further developments will depend on official security assessments and potential diplomatic actions at the United Nations level."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Houthi attack on Riyadh airport killed three Saudi nationals - Al Jazeera"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "why-indias-7-growth-may-not-be-enough-for-2047-developed-nation-goal-business-st-1791597054",
   "category": "economy",
   "headline": "Why India's 7% growth may not be enough for 2047 developed nation goal - Business Standard",

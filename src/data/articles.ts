@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "trump-announces-deal-for-russian-diesel-as-zelensky-calls-it-a-gift-to-putin-bbc-1791618262",
+  "category": "world",
+  "headline": "Trump announces deal for Russian diesel as Zelensky calls it a 'gift to Putin' - BBC",
+  "dek": "President Trump announces a new Russian diesel deal, prompting severe criticism from Ukraine's Volodymyr Zelensky.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-10T07:44:22Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791618260_9219.png",
+  "imageAlt": "Trump announces deal for Russian diesel as Zelensky calls it a 'gift to Putin' - BBC",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "United States President Donald Trump has announced a formal deal concerning Russian diesel imports, a move that has immediately escalated international tensions. The announcement centers on an agreement involving Russian energy supplies, specifically targeting diesel fuel distribution channels."
+    },
+    {
+      "type": "paragraph",
+      "text": "The decision drew a swift and severe response from Ukrainian President Volodymyr Zelensky. In exclusive comments, Zelensky condemned the arrangement as a gift to Vladimir Putin, characterizing the deal as neither fair nor honest."
+    },
+    {
+      "type": "paragraph",
+      "text": "Beyond diplomatic friction, the agreement has triggered immediate scrutiny from market analysts and legal experts. Observers have voiced significant doubts regarding the operational viability and strategic implications of the pact."
+    },
+    {
+      "type": "paragraph",
+      "text": "Furthermore, the arrangement faces accusations that it directly contradicts existing international sanctions legislation targeting Russia. The apparent clash with established sanctions laws has intensified debate over the enforcement of trade restrictions against Moscow."
+    },
+    {
+      "type": "paragraph",
+      "text": "As the situation develops, stakeholders across energy markets and policy sectors will monitor how governments address the legal and geopolitical fallout of the agreement. The coming days are expected to reveal whether regulatory bodies or allied nations will challenge the diesel pact under current sanctions frameworks."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Trump announces deal for Russian diesel as Zelensky calls it a 'gift to Putin' - BBC"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "breaking-contempt-plea-filed-in-supreme-court-alleging-arbitrary-metro-station-c-1791613745",
   "category": "india",
   "headline": "BREAKING| Contempt Plea Filed In Supreme Court Alleging Arbitrary Metro Station Closures & Train... - Live Law",

@@ -92,6 +92,65 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "panama-rocked-by-2-powerful-earthquakes-and-multiple-aftershocks-prompting-evacu-1791621827",
+  "category": "world",
+  "headline": "Panama rocked by 2 powerful earthquakes and multiple aftershocks, prompting evacuations - AP News",
+  "dek": "Two powerful earthquakes and multiple aftershocks strike Panama, prompting evacuations and a tsunami threat.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-10T08:43:47Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791621825_3234.png",
+  "imageAlt": "Panama rocked by 2 powerful earthquakes and multiple aftershocks, prompting evacuations - AP News",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Panama has been rocked by two powerful earthquakes, accompanied by a series of subsequent aftershocks that prompted immediate emergency evacuations across affected areas."
+    },
+    {
+      "type": "paragraph",
+      "text": "Reports indicate that a 7.7-magnitude earthquake served as the primary seismic event, setting off the extensive sequence of shaking and tremors."
+    },
+    {
+      "type": "paragraph",
+      "text": "In response to the severity of the tremors, a regional tsunami threat has been officially issued, heightening safety concerns along vulnerable coastal zones."
+    },
+    {
+      "type": "paragraph",
+      "text": "While initial reports suggest the major shaking has avoided catastrophic destruction, local infrastructure is undergoing urgent assessment by emergency responders."
+    },
+    {
+      "type": "paragraph",
+      "text": "Citizens and local populations have been advised to remain cautious as ongoing aftershocks continue to pose potential safety risks."
+    },
+    {
+      "type": "paragraph",
+      "text": "Authorities and disaster response teams remain mobilized to monitor the situation, evaluate structural integrity, and coordinate public safety measures."
+    },
+    {
+      "type": "paragraph",
+      "text": "Further updates are expected as emergency services complete initial damage assessments and monitor the evolving tsunami threat."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Panama rocked by 2 powerful earthquakes and multiple aftershocks, prompting evacuations - AP News"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "trump-announces-deal-for-russian-diesel-as-zelensky-calls-it-a-gift-to-putin-bbc-1791618262",
   "category": "world",
   "headline": "Trump announces deal for Russian diesel as Zelensky calls it a 'gift to Putin' - BBC",

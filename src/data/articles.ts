@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "anti-cec-protest-live-updates-cjp-calls-for-another-protest-at-jantar-mantar-on-1791671404",
+  "category": "india",
+  "headline": "Anti-CEC protest LIVE updates: CJP calls for another protest at Jantar Mantar on Sunday; UNHRC demands immediate release of demonstrators | LIVE - The Hindu",
+  "dek": "UNHRC demands immediate release of detained anti-CEC protesters as India slams international remarks as unwarranted interference.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-10T22:30:04Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791671401_3753.png",
+  "imageAlt": "Anti-CEC protest LIVE updates: CJP calls for another protest at Jantar Mantar on Sunday; UNHRC demands immediate release of demonstrators | LIVE - The Hindu",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "The United Nations Human Rights Council has issued a demand for the immediate release of demonstrators detained during ongoing anti-CEC protests, according to live updates."
+    },
+    {
+      "type": "paragraph",
+      "text": "The intervention by the international body has sparked a sharp diplomatic response from New Delhi, with India terming the UN's remarks on the Delhi detentions as unwarranted interference."
+    },
+    {
+      "type": "paragraph",
+      "text": "The domestic political fallout continues to widen, following government actions to pre-empt what officials described as a plot to incite violence during the demonstrations."
+    },
+    {
+      "type": "paragraph",
+      "text": "Civil rights groups, including the CJP, have maintained pressure on authorities, announcing plans for further protests at Jantar Mantar on Sunday."
+    },
+    {
+      "type": "paragraph",
+      "text": "The wave of demonstrations has renewed national debate over the state of Indian democracy and the handling of civil dissent by security forces."
+    },
+    {
+      "type": "paragraph",
+      "text": "Observers and stakeholders are closely watching the unfolding situation for potential impacts on domestic political stability and international diplomatic relations."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Anti-CEC protest LIVE updates: CJP calls for another protest at Jantar Mantar on Sunday; UNHRC demands immediate release of demonstrators | LIVE - The Hindu"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "indias-cockroach-leaders-detained-new-delhi-in-lockdown-al-jazeera-1791669468",
   "category": "india",
   "headline": "India’s ‘Cockroach’ leaders detained; New Delhi in lockdown - Al Jazeera",

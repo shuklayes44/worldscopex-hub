@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "why-indias-7-growth-may-not-be-enough-for-2047-developed-nation-goal-business-st-1791597054",
+  "category": "economy",
+  "headline": "Why India's 7% growth may not be enough for 2047 developed nation goal - Business Standard",
+  "dek": "Reports question if India's 7% growth rate is adequate for 2047 developed nation targets.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-10T01:50:54Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791597052_9722.png",
+  "imageAlt": "Why India's 7% growth may not be enough for 2047 developed nation goal - Business Standard",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "economy"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Recent economic analyses suggest that India's current 7% growth trajectory may face challenges in achieving the country's long-term objective of becoming a developed nation by 2047."
+    },
+    {
+      "type": "paragraph",
+      "text": "The assessment focuses on whether the prevailing expansion pace provides sufficient momentum to bridge the per capita income gap required for advanced economy status."
+    },
+    {
+      "type": "paragraph",
+      "text": "Achieving developed nation status typically demands sustained high productivity, structural labor shifts, and robust capital formation over multiple decades."
+    },
+    {
+      "type": "paragraph",
+      "text": "Economists and policy observers are closely evaluating the intersection between macroeconomic indicators and underlying structural reforms."
+    },
+    {
+      "type": "paragraph",
+      "text": "Stakeholders in industry and government continue to review the long-term benchmarks necessary to ensure broad-based prosperity."
+    },
+    {
+      "type": "paragraph",
+      "text": "Future economic updates and policy frameworks will likely address the pacing and composition of India's growth trajectory as the 2047 horizon approaches."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Why India's 7% growth may not be enough for 2047 developed nation goal - Business Standard"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "indias-economic-growth-likely-slowed-to-71-in-april-june-quarter-poll-business-s-1791594726",
   "category": "economy",
   "headline": "India's economic growth likely slowed to 7.1% in April-June quarter: Poll - Business Standard",

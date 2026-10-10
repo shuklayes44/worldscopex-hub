@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "cec-protest-cjp-legal-affairs-head-ratna-singh-moves-delhi-court-seeking-fir-aga-1791639785",
+  "category": "india",
+  "headline": "CEC Protest: CJP Legal Affairs Head Ratna Singh Moves Delhi Court Seeking FIR Against Cops Over 'Illegal... - Live Law",
+  "dek": "CJP legal head seeks police FIR after Supreme Court protest detentions.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-10T13:43:05Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791639784_7457.png",
+  "imageAlt": "CEC Protest: CJP Legal Affairs Head Ratna Singh Moves Delhi Court Seeking FIR Against Cops Over 'Illegal... - Live Law",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Ratna Singh, head of legal affairs for CJP, has moved a Delhi court to seek an official FIR against police personnel over alleged illegal actions stemming from recent protests. The development follows a series of demonstrations that drew significant attention to police conduct outside India's apex judicial institution."
+    },
+    {
+      "type": "paragraph",
+      "text": "The legal proceedings center on events surrounding the CJP protest, which led to the detention of several lawyers outside the Supreme Court. While those detained legal professionals were later released following an intervention by Chief Justice of India Surya Kant, fallout from the enforcement actions continues to ripple through legal circles."
+    },
+    {
+      "type": "paragraph",
+      "text": "Despite the intervention leading to the swift release of the detained lawyers, subsequent efforts by civil society representatives to secure formal accountability through the judiciary indicate unresolved tensions between activists and law enforcement agencies."
+    },
+    {
+      "type": "paragraph",
+      "text": "The pursuit of criminal complaints against police officers highlights broader questions regarding the management of public demonstrations and the enforcement of civil liberties. Observers note that such confrontations underscore the delicate balance between maintaining public order and protecting the right to peaceful assembly."
+    },
+    {
+      "type": "paragraph",
+      "text": "As the matter proceeds through the judicial system, further hearings are expected to clarify the scope of accountability for law enforcement actions. Stakeholders will closely monitor the court's response to the petition seeking an FIR against the police personnel involved."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "CEC Protest: CJP Legal Affairs Head Ratna Singh Moves Delhi Court Seeking FIR Against Cops Over 'Illegal... - Live Law"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "delhi-protest-live-actor-imran-khan-detained-in-mumbai-wangchuk-warns-of-hunger-1791636723",
   "category": "india",
   "headline": "Delhi protest LIVE: Actor Imran Khan detained in Mumbai; Wangchuk warns of hunger strike if leaders not released | Hindustan Times - Hindustan Times",

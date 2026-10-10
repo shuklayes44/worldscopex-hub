@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "last-warning-to-global-airlines-houthis-attack-riyadh-airport-warn-over-saudi-ai-1791629744",
+  "category": "world",
+  "headline": "‘Last warning to global airlines’: Houthis attack Riyadh airport, warn over Saudi airspace - The Times of India",
+  "dek": "Houthis launch attack on Riyadh airport and issue airspace warning to global airlines.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-10T10:55:44Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791629742_2118.png",
+  "imageAlt": "‘Last warning to global airlines’: Houthis attack Riyadh airport, warn over Saudi airspace - The Times of India",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Yemen's Houthi movement has launched an attack targeting Riyadh airport, escalating regional security concerns."
+    },
+    {
+      "type": "paragraph",
+      "text": "In conjunction with the strike, the group issued what it termed a last warning to global airlines regarding Saudi airspace."
+    },
+    {
+      "type": "paragraph",
+      "text": "The directive specifically cautions international commercial carriers against operating flights through Saudi airspace amidst ongoing hostilities."
+    },
+    {
+      "type": "paragraph",
+      "text": "The security development poses immediate operational risks for international aviation routes connecting major global hubs through the Middle East."
+    },
+    {
+      "type": "paragraph",
+      "text": "Aviation authorities and international airlines are expected to review risk assessments and flight paths in response to the security warning."
+    },
+    {
+      "type": "paragraph",
+      "text": "Industry analysts are closely monitoring potential disruptions to regional air traffic and any subsequent policy responses from aviation regulators."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "‘Last warning to global airlines’: Houthis attack Riyadh airport, warn over Saudi airspace - The Times of India"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "tvk-wins-both-bypolls-in-tamil-nadu-what-it-means-for-aiadmk-dmk-ndtv-1791627478",
   "category": "india",
   "headline": "TVK Wins Both Bypolls In Tamil Nadu: What It Means For AIADMK, DMK - NDTV",

@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "un-human-rights-body-expresses-concern-over-delhi-detentions-urges-immediate-rel-1791664856",
+  "category": "india",
+  "headline": "UN human rights body expresses concern over Delhi detentions, urges immediate release - The Hindu",
+  "dek": "UN human rights body calls for immediate release of detainees in Delhi, drawing sharp rejection from India.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-10T20:40:56Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791664854_6370.png",
+  "imageAlt": "UN human rights body expresses concern over Delhi detentions, urges immediate release - The Hindu",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "The United Nations human rights body has expressed formal concern regarding recent detentions in Delhi. In its public statement, the international organization urged the immediate release of individuals affected by the security measures."
+    },
+    {
+      "type": "paragraph",
+      "text": "The developments coincide with ongoing protests in the capital involving daily-wage workers. Reports indicate that protesters have faced significant movement restrictions at police barricades, resulting in lost daily earnings for laborers."
+    },
+    {
+      "type": "paragraph",
+      "text": "In response to the international intervention, the Indian government issued a strong rebuttal. Officials characterized the remarks from the UN Office of the High Commissioner for Human Rights as misplaced and unwarranted."
+    },
+    {
+      "type": "paragraph",
+      "text": "New Delhi maintained its position that such external commentary constitutes unwarranted interference in domestic administrative matters. The government emphasized its sovereign authority in managing public order and law enforcement within the capital."
+    },
+    {
+      "type": "paragraph",
+      "text": "The diplomatic friction highlights ongoing sensitivities regarding international oversight of domestic protests. Observers will continue to monitor the humanitarian situation on the ground and any further diplomatic communications between New Delhi and international bodies."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "UN human rights body expresses concern over Delhi detentions, urges immediate release - The Hindu"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "stock-market-crash-today-sensex-falls-1045-points-nifty-down-371-5-reasons-behin-1791663902",
   "category": "economy",
   "headline": "Stock market crash today: Sensex falls 1,045 points, Nifty down 371; 5 reasons behind market rout - Firstpost",

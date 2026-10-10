@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "will-be-compelled-to-consider-fast-or-march-wangchuk-seeks-release-of-detainees-1791649099",
+  "category": "india",
+  "headline": "‘Will be compelled to consider fast or march’: Wangchuk seeks release of detainees - The Times of India",
+  "dek": "Sonam Wangchuk warns of a hunger strike or march over the release of detainees following a protest crackdown.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-10T16:18:19Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791649096_8289.png",
+  "imageAlt": "‘Will be compelled to consider fast or march’: Wangchuk seeks release of detainees - The Times of India",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Activist Sonam Wangchuk has issued a formal warning that he will be compelled to consider a fast or a march."
+    },
+    {
+      "type": "paragraph",
+      "text": "The development follows recent actions surrounding a CJP protest crackdown."
+    },
+    {
+      "type": "paragraph",
+      "text": "Wangchuk cited other sorrows as a factor contributing to the heightened tensions."
+    },
+    {
+      "type": "paragraph",
+      "text": "The warning specifically centers on the ongoing detention of individuals connected to the protests."
+    },
+    {
+      "type": "paragraph",
+      "text": "Such escalations draw significant attention to civil liberties and public demonstrations."
+    },
+    {
+      "type": "paragraph",
+      "text": "Observers will continue to monitor whether the proposed hunger strike or march proceeds."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "‘Will be compelled to consider fast or march’: Wangchuk seeks release of detainees - The Times of India"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "democrats-explode-over-trumps-russia-diesel-deal-the-hill-1791647995",
   "category": "world",
   "headline": "Democrats explode over Trump’s Russia diesel deal - The Hill",

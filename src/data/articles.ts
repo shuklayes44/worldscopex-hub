@@ -92,6 +92,65 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "saudi-arabia-12-killed-hundreds-injured-in-riyadh-strike-dwcom-1791676647",
+  "category": "india",
+  "headline": "Saudi Arabia: 12 killed, hundreds injured in Riyadh strike - DW.com",
+  "dek": "An attack on Riyadh's King Khalid International Airport has left 12 dead and over 300 injured.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-10T23:57:27Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791676644_1089.png",
+  "imageAlt": "Saudi Arabia: 12 killed, hundreds injured in Riyadh strike - DW.com",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "An attack on Saudi Arabia's King Khalid International Airport in Riyadh has resulted in 12 fatalities and hundreds of injuries, according to multiple international reports."
+    },
+    {
+      "type": "paragraph",
+      "text": "The strike on the major aviation facility left at least 12 people dead and 309 wounded, sparking immediate security concerns across the region."
+    },
+    {
+      "type": "paragraph",
+      "text": "The incident has severely impacted operations at one of the primary transport hubs in Saudi Arabia, drawing attention from global news organizations including DW, CNN, BBC, and The Times of India."
+    },
+    {
+      "type": "paragraph",
+      "text": "With over 300 individuals sustaining injuries, emergency services and medical personnel have been heavily deployed to manage the aftermath of the fresh attack on the airport."
+    },
+    {
+      "type": "paragraph",
+      "text": "The escalation in violence targeting vital infrastructure poses significant implications for regional security and international aviation corridors."
+    },
+    {
+      "type": "paragraph",
+      "text": "Stakeholders and global markets are closely watching for further official updates from Saudi authorities regarding the source of the attack and subsequent security protocols."
+    },
+    {
+      "type": "paragraph",
+      "text": "Future developments will focus on casualty updates, structural assessments of the airport, and any potential diplomatic or security responses from regional and international actors."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Saudi Arabia: 12 killed, hundreds injured in Riyadh strike - DW.com"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "exasperation-and-resignation-in-greece-over-allegations-against-kimberly-guilfoy-1791674526",
   "category": "world",
   "headline": "Exasperation and Resignation in Greece Over Allegations Against Kimberly Guilfoyle - The New York Times",

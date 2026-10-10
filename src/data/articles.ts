@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "indias-economic-growth-likely-slowed-to-71-in-april-june-quarter-poll-business-s-1791594726",
+  "category": "economy",
+  "headline": "India's economic growth likely slowed to 7.1% in April-June quarter: Poll - Business Standard",
+  "dek": "A recent poll indicates India's economic growth likely eased to 7.1% in the April-June quarter.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-10T01:12:06Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791594724_6106.png",
+  "imageAlt": "India's economic growth likely slowed to 7.1% in April-June quarter: Poll - Business Standard",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "economy"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "India's economic growth is projected to have moderated to 7.1% during the April-June quarter, according to a recent poll of analysts and economists."
+    },
+    {
+      "type": "paragraph",
+      "text": "The anticipated figure points to a slight cooling of momentum in the broader Indian economy following previous expansion phases."
+    },
+    {
+      "type": "paragraph",
+      "text": "Market participants and financial analysts are closely evaluating the projected data to gauge underlying domestic consumption and investment trends."
+    },
+    {
+      "type": "paragraph",
+      "text": "The quarterly Gross Domestic Product (GDP) metrics serve as a vital benchmark for policymakers assessing monetary and fiscal policy stances."
+    },
+    {
+      "type": "paragraph",
+      "text": "Future official data releases will be critical for understanding whether this moderation represents a temporary soft patch or a sustained easing trend in India's economic expansion."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "India's economic growth likely slowed to 7.1% in April-June quarter: Poll - Business Standard"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "india-opposition-steps-up-pressure-amid-cjp-protests-dwcom-1791592072",
   "category": "india",
   "headline": "India: Opposition steps up pressure amid CJP protests - DW.com",

@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "zelenskyy-hits-out-at-gifts-to-putin-after-trump-diesel-announcement-euronewscom-1791625531",
+  "category": "world",
+  "headline": "Zelenskyy hits out at 'gifts to Putin' after Trump diesel announcement - Euronews.com",
+  "dek": "Ukrainian President Volodymyr Zelenskyy has criticized Donald Trump's new Russian diesel deal as a gift to Putin.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-10T09:45:31Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791625528_8372.png",
+  "imageAlt": "Zelenskyy hits out at 'gifts to Putin' after Trump diesel announcement - Euronews.com",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Ukrainian President Volodymyr Zelenskyy has hit out at a newly announced diesel agreement involving Donald Trump and Russia, dismissing the arrangement as a direct \"gift to Putin.\""
+    },
+    {
+      "type": "paragraph",
+      "text": "The deal, which centers on Russian diesel supplies, has sparked immediate anger and political friction within Ukraine regarding its fairness and strategic implications."
+    },
+    {
+      "type": "paragraph",
+      "text": "In exclusive remarks reported by media outlets including Axios and the BBC, Zelenskyy characterized the arrangement as neither fair nor honest."
+    },
+    {
+      "type": "paragraph",
+      "text": "The announcement has simultaneously drawn skepticism from international analysts and observers monitoring energy markets and geopolitical alignments."
+    },
+    {
+      "type": "paragraph",
+      "text": "As the situation unfolds, policymakers and industry watchers are assessing the potential impact of the diesel deal on ongoing diplomatic efforts and sanctions frameworks."
+    },
+    {
+      "type": "paragraph",
+      "text": "Future developments will likely hinge on how international stakeholders respond to the shifting energy dynamics and the broader geopolitical fallout from the agreement."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Zelenskyy hits out at 'gifts to Putin' after Trump diesel announcement - Euronews.com"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "panama-rocked-by-2-powerful-earthquakes-and-multiple-aftershocks-prompting-evacu-1791621827",
   "category": "world",
   "headline": "Panama rocked by 2 powerful earthquakes and multiple aftershocks, prompting evacuations - AP News",

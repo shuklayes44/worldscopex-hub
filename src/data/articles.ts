@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "several-wounded-in-riyadh-airport-attack-operations-suspended-saudi-aviation-aut-1791658108",
+  "category": "world",
+  "headline": "Several wounded in Riyadh airport attack, operations suspended, Saudi aviation authority says - Reuters",
+  "dek": "Saudi aviation authority suspends operations at Riyadh airport following an attack that caused multiple injuries.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-10T18:48:28Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791658106_9720.png",
+  "imageAlt": "Several wounded in Riyadh airport attack, operations suspended, Saudi aviation authority says - Reuters",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Operations at the international airport in Saudi Arabia's capital, Riyadh, have been officially suspended following an attack that left several people wounded, according to statements from the Saudi aviation authority."
+    },
+    {
+      "type": "paragraph",
+      "text": "The incident is part of a broader escalation involving Houthi bombardments aimed at Saudi air links, which observers note is part of a deliberate effort to cut the kingdom off from the rest of the world."
+    },
+    {
+      "type": "paragraph",
+      "text": "Diplomats in the region confirmed that the Riyadh airport has faced repeated attacks following a tense week of heightened Houthi strikes targeting strategic infrastructure."
+    },
+    {
+      "type": "paragraph",
+      "text": "The suspension of flights at a major Middle Eastern aviation hub carries significant implications for regional connectivity, passenger safety, and international transit networks."
+    },
+    {
+      "type": "paragraph",
+      "text": "Market watchers and aviation officials will be closely monitoring security assessments and updates from Saudi authorities to determine when normal operations can safely resume."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Several wounded in Riyadh airport attack, operations suspended, Saudi aviation authority says - Reuters"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "india-cracks-down-on-youth-protests-as-anger-grows-against-modi-and-election-chi-1791655177",
   "category": "world",
   "headline": "India cracks down on youth protests as anger grows against Modi and election chief - NPR",

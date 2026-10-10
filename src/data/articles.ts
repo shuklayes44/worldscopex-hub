@@ -92,6 +92,41 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "india-opposition-steps-up-pressure-amid-cjp-protests-dwcom-1791592072",
+  "category": "india",
+  "headline": "India: Opposition steps up pressure amid CJP protests - DW.com",
+  "dek": "India's opposition escalates political pressure amid mounting CJP protests across the country.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-10T00:27:52Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791592070_6503.png",
+  "imageAlt": "India: Opposition steps up pressure amid CJP protests - DW.com",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "India's political opposition has stepped up its pressure on the central government as protests involving the CJP continue to unfold. The demonstrations have drawn heightened attention from various political factions seeking to challenge the ruling administration. Opposition leaders are utilizing the public unrest to question current policy directions and administrative handling of the situation. The intensification of political friction comes at a critical juncture for domestic governance. Observers are closely watching how legislative bodies will manage the mounting pressure from opposing parties. The unfolding situation highlights ongoing tensions within the country's political arena. Further developments are anticipated as political actors respond to the shifting dynamics of the protests."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "India: Opposition steps up pressure amid CJP protests - DW.com"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "trump-orders-new-investigation-of-feds-lisa-cook-axios-1791589986",
   "category": "world",
   "headline": "Trump orders new investigation of Fed's Lisa Cook - Axios",

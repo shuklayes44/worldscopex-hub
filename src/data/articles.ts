@@ -92,6 +92,65 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "storm-isaias-leaves-4-dead-thousands-without-power-as-it-moves-across-southern-u-1791736922",
+  "category": "world",
+  "headline": "Storm Isaias leaves 4 dead, thousands without power as it moves across southern US - DW.com",
+  "dek": "Storm Isaias causes four deaths and widespread power outages across the southern United States.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-11T16:42:02Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791736919_9732.png",
+  "imageAlt": "Storm Isaias leaves 4 dead, thousands without power as it moves across southern US - DW.com",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Storm Isaias has left at least four people dead and thousands of residents without electricity as it tracks across the southern United States."
+    },
+    {
+      "type": "paragraph",
+      "text": "The violent Category 2 storm carved a destructive path through Florida and the Gulf Coast before pushing further inland."
+    },
+    {
+      "type": "paragraph",
+      "text": "Utility companies and emergency response teams are currently working to assess damages and restore power in affected areas across Florida and Alabama."
+    },
+    {
+      "type": "paragraph",
+      "text": "The severe weather system is now moving north toward the Appalachians and the Mid-Atlantic region, posing continued weather risks."
+    },
+    {
+      "type": "paragraph",
+      "text": "Disruptions from major meteorological events frequently impact regional logistics, local business operations, and utility infrastructure networks."
+    },
+    {
+      "type": "paragraph",
+      "text": "Authorities and disaster response agencies remain on high alert as the storm continues its northward progression."
+    },
+    {
+      "type": "paragraph",
+      "text": "Further updates on infrastructure recovery and regional safety assessments are expected as emergency crews access impacted zones."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Storm Isaias leaves 4 dead, thousands without power as it moves across southern US - DW.com"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "indias-economic-growth-likely-slowed-to-71-in-april-june-quarter-poll-business-s-1791735766",
   "category": "economy",
   "headline": "India's economic growth likely slowed to 7.1% in April-June quarter: Poll - Business Standard",

@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "doj-investigating-5-major-tv-networks-over-response-to-white-house-press-ban-the-1791734380",
+  "category": "world",
+  "headline": "DOJ investigating 5 major TV networks over response to White House press ban - The Hill",
+  "dek": "The US Justice Department is investigating five major TV networks over their response to White House press restrictions.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-11T15:59:40Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791734378_5897.png",
+  "imageAlt": "DOJ investigating 5 major TV networks over response to White House press ban - The Hill",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "The United States Department of Justice has initiated a formal investigation examining five major television networks regarding their coverage and institutional response to a White House press ban."
+    },
+    {
+      "type": "paragraph",
+      "text": "The federal probe specifically targets how these major US news organizations handled pool coverage duties and coordinated their collective actions following the administration's decision to restrict access for CNN reporters."
+    },
+    {
+      "type": "paragraph",
+      "text": "Media industry stakeholders and legal analysts are closely examining the inquiry, which touches on sensitive issues regarding press freedom, editorial independence, and federal oversight of media institutions."
+    },
+    {
+      "type": "paragraph",
+      "text": "The investigation underscores ongoing tensions between the executive branch and major news organizations over press credentials, pool reporting obligations, and constitutional protections."
+    },
+    {
+      "type": "paragraph",
+      "text": "As the inquiry progresses, industry observers will be watching for further procedural developments from federal authorities and any formal responses from the targeted broadcasting networks."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "DOJ investigating 5 major TV networks over response to White House press ban - The Hill"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "kyiv-pushes-back-on-trumps-call-for-a-new-ukrainian-president-as-drones-hit-russ-1791731285",
   "category": "world",
   "headline": "Kyiv pushes back on Trump’s call for a new Ukrainian president as drones hit Russian data hub - AP News",

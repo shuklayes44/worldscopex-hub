@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "kyiv-pushes-back-on-trumps-call-for-a-new-ukrainian-president-as-drones-hit-russ-1791731285",
+  "category": "world",
+  "headline": "Kyiv pushes back on Trump’s call for a new Ukrainian president as drones hit Russian data hub - AP News",
+  "dek": "Kyiv pushes back against leadership demands while drone strikes target Russian data hubs and energy infrastructure.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-11T15:08:05Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791731282_7738.png",
+  "imageAlt": "Kyiv pushes back on Trump’s call for a new Ukrainian president as drones hit Russian data hub - AP News",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Kyiv has formally pushed back against recent calls for a new Ukrainian president, asserting that the nation's leadership decisions remain entirely up to the Ukrainian people. The political pushback coincides with ongoing military developments on the ground, including recent drone strikes targeting a Russian data hub."
+    },
+    {
+      "type": "paragraph",
+      "text": "President Volodymyr Zelenskiy addressed the political timeline in an interview with ABC, stating that he is prepared to organize national elections on the condition that Russia agrees to a formal 60-day ceasefire. The proposal ties the democratic electoral process directly to a cessation of active hostilities by Moscow."
+    },
+    {
+      "type": "paragraph",
+      "text": "Alongside the political debate, Zelenskiy defended ongoing military operations, specifically targeting Russian oil refineries. Ukrainian officials maintain that these tactical strikes are a necessary component of their defense strategy against the broader invasion."
+    },
+    {
+      "type": "paragraph",
+      "text": "The simultaneous escalation of infrastructure attacks and international political commentary underscores the complex geopolitical pressures facing Kyiv. Observers are closely monitoring how these developments might influence future diplomatic negotiations, international aid flows, and global energy markets."
+    },
+    {
+      "type": "paragraph",
+      "text": "As the conflict continues, the interplay between domestic political continuity, military strategy, and foreign diplomatic pressure remains a critical focus for international allies. Future developments will likely hinge on potential ceasefire negotiations and the ongoing trajectory of the frontline drone campaigns."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Kyiv pushes back on Trump’s call for a new Ukrainian president as drones hit Russian data hub - AP News"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "is-indias-economic-growth-real-raghuram-rajan-says-something-is-off-the-economic-1791729663",
   "category": "economy",
   "headline": "Is India's economic growth real? Raghuram Rajan says something is off - The Economic Times",

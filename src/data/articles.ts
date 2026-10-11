@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "trump-says-ukraine-and-russia-have-agreed-energy-ceasefire-bbc-1791747289",
+  "category": "world",
+  "headline": "Trump says Ukraine and Russia have agreed 'energy ceasefire' - BBC",
+  "dek": "Trump announces Russia and Ukraine energy ceasefire as Kyiv reports ongoing attacks.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-11T19:34:49Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791747286_9006.png",
+  "imageAlt": "Trump says Ukraine and Russia have agreed 'energy ceasefire' - BBC",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "US President Donald Trump announced that Ukraine and Russia have agreed to what he termed an energy ceasefire, marking a notable development in the ongoing conflict."
+    },
+    {
+      "type": "paragraph",
+      "text": "The announcement outlines a partial ceasefire specifically targeting energy infrastructure, according to statements from the US administration."
+    },
+    {
+      "type": "paragraph",
+      "text": "However, Ukrainian President Volodymyr Zelenskyy responded to the announcement by stating that the proposed deal was 'news to me.'"
+    },
+    {
+      "type": "paragraph",
+      "text": "Reports from the ground indicate that military attacks are continuing despite the reported diplomatic agreement announced by Washington."
+    },
+    {
+      "type": "paragraph",
+      "text": "The discrepancy between the high-level diplomatic claims and the situation on the ground underscores the complexity of securing lasting truces in the war."
+    },
+    {
+      "type": "paragraph",
+      "text": "Energy markets and international observers will closely monitor subsequent developments to determine if the reported ceasefire takes formal effect."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Trump says Ukraine and Russia have agreed 'energy ceasefire' - BBC"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "pm-modi-in-chennai-updates-prime-minister-inaugurates-metro-rails-phase-2-stretc-1791745471",
   "category": "india",
   "headline": "PM Modi in Chennai updates | Prime Minister inaugurates Metro Rail's Phase 2 stretch, ₹13000-crore worth development projects - The Hindu",

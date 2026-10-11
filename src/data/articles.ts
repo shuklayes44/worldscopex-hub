@@ -92,6 +92,65 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "concerned-by-reports-of-mass-detentions-un-says-about-delhi-polices-crackdown-on-1791683521",
+  "category": "india",
+  "headline": "Concerned by reports of mass detentions, UN says about Delhi police's crackdown on CJP protest - Telegraph India",
+  "dek": "The United Nations has expressed concern over Delhi police detentions during a CJP protest, drawing a sharp rebuttal from India.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-11T01:52:01Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791683519_7516.png",
+  "imageAlt": "Concerned by reports of mass detentions, UN says about Delhi police's crackdown on CJP protest - Telegraph India",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "The United Nations human rights body has raised formal concerns regarding mass detentions and a heavy-handed police crackdown on a CJP protest in the capital."
+    },
+    {
+      "type": "paragraph",
+      "text": "The international intervention highlights growing global scrutiny over domestic law enforcement actions and the management of civil demonstrations in urban centers."
+    },
+    {
+      "type": "paragraph",
+      "text": "In a swift and firm response, Indian authorities dismissed the UN's observations as unwarranted interference in the nation's internal governance and security operations."
+    },
+    {
+      "type": "paragraph",
+      "text": "The government defended the enforcement measures by asserting that law enforcement agencies had pre-emptively acted to neutralize a specific plot designed to incite violence."
+    },
+    {
+      "type": "paragraph",
+      "text": "The incident underscores ongoing tensions between international human rights standards and domestic security protocols implemented by national authorities."
+    },
+    {
+      "type": "paragraph",
+      "text": "Stakeholders and legal experts are closely monitoring the unfolding situation to assess potential diplomatic fallout and any subsequent policy stances from international bodies."
+    },
+    {
+      "type": "paragraph",
+      "text": "Future updates will track the official status of the detained individuals and any further diplomatic communications between national authorities and the United Nations."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Concerned by reports of mass detentions, UN says about Delhi police's crackdown on CJP protest - Telegraph India"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "fight-should-be-face-to-face-cm-yogi-accepts-akhileshs-ayodhya-challenge-the-tim-1791680953",
   "category": "india",
   "headline": "'Fight should be face-to-face': CM Yogi accepts Akhilesh's Ayodhya challenge - The Times of India",

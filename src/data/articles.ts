@@ -92,6 +92,65 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "saudi-arabias-riyadh-airport-hit-by-second-strike-in-two-days-bbc-1791740188",
+  "category": "world",
+  "headline": "Saudi Arabia's Riyadh airport hit by second strike in two days - BBC",
+  "dek": "Passenger terminal at Riyadh airport struck for the second time in two days, resulting in casualties.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-11T17:36:28Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791740186_1608.png",
+  "imageAlt": "Saudi Arabia's Riyadh airport hit by second strike in two days - BBC",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Saudi Arabia's Riyadh airport has been hit by a second strike in two days, according to reports from the BBC and international news agencies."
+    },
+    {
+      "type": "paragraph",
+      "text": "A projectile struck a passenger terminal at the airport, compounding security concerns following an earlier attack a day prior."
+    },
+    {
+      "type": "paragraph",
+      "text": "Saudi officials confirmed that at least 12 people have been killed and more than 300 others injured in the latest strike on the facility."
+    },
+    {
+      "type": "paragraph",
+      "text": "The repeated attacks on critical infrastructure have raised immediate alarms across international markets and security analysts."
+    },
+    {
+      "type": "paragraph",
+      "text": "In response to the deteriorating security environment, oil chiefs have pulled out of Riyadh, halting high-level business engagements."
+    },
+    {
+      "type": "paragraph",
+      "text": "The developments threaten to impact regional energy security, global oil markets, and international aviation routes."
+    },
+    {
+      "type": "paragraph",
+      "text": "Observers and market participants will continue to monitor the immediate security response and any potential retaliatory measures as the crisis unfolds."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Saudi Arabia's Riyadh airport hit by second strike in two days - BBC"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "storm-isaias-leaves-4-dead-thousands-without-power-as-it-moves-across-southern-u-1791736922",
   "category": "world",
   "headline": "Storm Isaias leaves 4 dead, thousands without power as it moves across southern US - DW.com",

@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "shooter-kills-8-people-and-himself-in-pennsylvania-police-say-with-governor-shap-1791716974",
+  "category": "world",
+  "headline": "Shooter kills 8 people and himself in Pennsylvania, police say, with Governor Shapiro offering support - DW.com",
+  "dek": "A gunman killed eight people, including two children and a pregnant woman, before taking his own life in Pennsylvania.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-11T11:09:34Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791716972_2519.png",
+  "imageAlt": "Shooter kills 8 people and himself in Pennsylvania, police say, with Governor Shapiro offering support - DW.com",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Police in Pennsylvania have confirmed that a shooter killed eight people and himself during a tragic domestic incident in Erie. Authorities stated that a total of nine individuals died in the shooting, which deeply shocked the local community and drew immediate attention from state leadership."
+    },
+    {
+      "type": "paragraph",
+      "text": "Among the victims in the Pennsylvania house were two children and a pregnant woman, according to local reports from the Erie Times-News. The high casualty count has prompted widespread concern over public safety and community well-being in the region."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pennsylvania Governor Josh Shapiro quickly responded to the tragedy by offering state-level support and resources to aid local law enforcement and affected families. Officials continue to coordinate emergency response efforts as the community mourns the severe loss of life."
+    },
+    {
+      "type": "paragraph",
+      "text": "Erie police officials have stated that mental health may have been a contributing factor in the shooting, highlighting ongoing concerns regarding mental health interventions and firearm access. The intersection of behavioral health and public safety remains a critical focus for community stakeholders."
+    },
+    {
+      "type": "paragraph",
+      "text": "As the investigation proceeds, federal and local agencies are working to piece together the exact sequence of events that led to the mass casualty incident. Authorities are expected to provide further updates as forensic and background investigations into the shooter's history continue."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Shooter kills 8 people and himself in Pennsylvania, police say, with Governor Shapiro offering support - DW.com"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "nvidia-releases-software-platform-to-stop-ai-agents-from-misbehaving-cnbc-1791714665",
   "category": "technology",
   "headline": "Nvidia releases software platform to stop AI agents from misbehaving - CNBC",

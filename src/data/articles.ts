@@ -92,6 +92,53 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "is-indias-economic-growth-real-raghuram-rajan-says-something-is-off-the-economic-1791729663",
+  "category": "economy",
+  "headline": "Is India's economic growth real? Raghuram Rajan says something is off - The Economic Times",
+  "dek": "Former RBI Governor Raghuram Rajan questions the accuracy of official economic growth figures for India.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-11T14:41:03Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791729662_4405.png",
+  "imageAlt": "Is India's economic growth real? Raghuram Rajan says something is off - The Economic Times",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "economy"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Former Reserve Bank of India Governor Raghuram Rajan has raised questions regarding the authenticity of India's reported economic growth figures. In recent commentary, Rajan pointed out that certain underlying economic indicators do not fully align with official headline statistics."
+    },
+    {
+      "type": "paragraph",
+      "text": "The remarks bring renewed scrutiny to how macroeconomic performance is measured and interpreted within the country. Official growth data serves as a foundational metric for fiscal policy, monetary decisions, and long-term economic planning."
+    },
+    {
+      "type": "paragraph",
+      "text": "Discrepancies between reported growth and underlying indicators can complicate assessments by policymakers and institutional investors alike. Reliable data is essential for maintaining market confidence and guiding investment decisions in the region."
+    },
+    {
+      "type": "paragraph",
+      "text": "As discussions continue among economists and financial experts, stakeholders will look for further clarification on the methodology behind India's growth metrics. Observers are watching to see how policymakers address these concerns in future economic reports and market forecasts."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Is India's economic growth real? Raghuram Rajan says something is off - The Economic Times"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "global-electricity-demand-growth-set-to-accelerate-as-power-systems-adjust-to-re-1791727768",
   "category": "world",
   "headline": "Global electricity demand growth set to accelerate as power systems adjust to recent shocks - IEA - International Energy Agency",

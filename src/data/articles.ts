@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "indias-economic-growth-likely-slowed-to-71-in-april-june-quarter-poll-business-s-1791735766",
+  "category": "economy",
+  "headline": "India's economic growth likely slowed to 7.1% in April-June quarter: Poll - Business Standard",
+  "dek": "A recent poll indicates India's economic growth likely slowed to 7.1% in the April-June quarter.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-11T16:22:46Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791735764_6722.png",
+  "imageAlt": "India's economic growth likely slowed to 7.1% in April-June quarter: Poll - Business Standard",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "economy"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "India's economic growth likely slowed to 7.1% in the April-June quarter, according to a recent poll published by Business Standard."
+    },
+    {
+      "type": "paragraph",
+      "text": "The projected figure points to a moderation in the pace of economic expansion compared to previous periods, drawing attention from economists and financial analysts alike."
+    },
+    {
+      "type": "paragraph",
+      "text": "Such quarterly growth figures serve as key indicators for assessing the broader health and momentum of the Indian economy."
+    },
+    {
+      "type": "paragraph",
+      "text": "Market participants and policymakers closely monitor these estimates to gauge the impact of prevailing domestic and global economic conditions."
+    },
+    {
+      "type": "paragraph",
+      "text": "Official data releases following these polling projections will offer a clearer picture of India's macroeconomic performance and growth trajectory."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "India's economic growth likely slowed to 7.1% in April-June quarter: Poll - Business Standard"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "doj-investigating-5-major-tv-networks-over-response-to-white-house-press-ban-the-1791734380",
   "category": "world",
   "headline": "DOJ investigating 5 major TV networks over response to White House press ban - The Hill",

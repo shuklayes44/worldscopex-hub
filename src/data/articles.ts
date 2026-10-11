@@ -92,6 +92,53 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "six-senators-call-for-trump-administration-to-immediately-reverse-course-on-russ-1791751218",
+  "category": "world",
+  "headline": "Six senators call for Trump administration to 'immediately reverse course' on Russian diesel plan - AP News",
+  "dek": "Six senators demand the Trump administration immediately reverse course on a disputed Russian diesel plan.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-11T20:40:18Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791751216_5741.png",
+  "imageAlt": "Six senators call for Trump administration to 'immediately reverse course' on Russian diesel plan - AP News",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "A bipartisan group of six senators has formally called on the Trump administration to immediately reverse course regarding its controversial fuel deal with Russia. Lawmakers argue that the arrangement directly undermines the Western alliance and risks fracturing diplomatic solidarity."
+    },
+    {
+      "type": "paragraph",
+      "text": "Senator Thom Tillis has publicly stated his belief that the fuel agreement between Washington and Moscow could potentially be breaking the law. The high-level pushback highlights deep legislative concern over the administration's foreign energy strategy."
+    },
+    {
+      "type": "paragraph",
+      "text": "The diesel deal has driven an immediate wedge through traditional Western alliances, raising tensions among international partners. Policymakers are scrutinizing the long-term geopolitical and regulatory implications of the bilateral energy arrangement."
+    },
+    {
+      "type": "paragraph",
+      "text": "Global energy markets and diplomatic observers are closely watching to see how the executive branch responds to the mounting bipartisan pressure from Capitol Hill. Further developments are expected as lawmakers continue to demand transparency and policy corrections regarding the Russia fuel plan."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Six senators call for Trump administration to 'immediately reverse course' on Russian diesel plan - AP News"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "trump-announces-russia-ukraine-energy-ceasefire-zelensky-says-news-for-me-ndtv-1791748948",
   "category": "india",
   "headline": "Trump Announces Russia-Ukraine Energy Ceasefire, Zelensky Says \"News For Me\" - NDTV",

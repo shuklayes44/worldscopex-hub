@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "global-electricity-demand-growth-set-to-accelerate-as-power-systems-adjust-to-re-1791727768",
+  "category": "world",
+  "headline": "Global electricity demand growth set to accelerate as power systems adjust to recent shocks - IEA - International Energy Agency",
+  "dek": "The International Energy Agency reports that global electricity demand growth is accelerating following recent economic and supply shocks.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-11T14:09:28Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791727766_3539.png",
+  "imageAlt": "Global electricity demand growth set to accelerate as power systems adjust to recent shocks - IEA - International Energy Agency",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Global electricity demand growth is set to accelerate as power systems around the world adjust to recent shocks, according to a new report from the International Energy Agency."
+    },
+    {
+      "type": "paragraph",
+      "text": "The assessment highlights how international power networks are currently managing multiple disruptions that have impacted energy markets and infrastructure reliability."
+    },
+    {
+      "type": "paragraph",
+      "text": "This acceleration in electricity consumption reflects ongoing structural shifts in how industries and populations utilize power in the wake of recent global events."
+    },
+    {
+      "type": "paragraph",
+      "text": "Energy analysts note that adapting power systems to these changing demand patterns will require continuous monitoring of grid stability and supply chain resilience."
+    },
+    {
+      "type": "paragraph",
+      "text": "Policymakers and industry stakeholders are expected to closely evaluate upcoming regulatory adjustments and infrastructure investments to address these rising energy needs."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Global electricity demand growth set to accelerate as power systems adjust to recent shocks - IEA - International Energy Agency"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "australia-launches-investigation-after-openai-agent-hacked-healthcare-database-m-1791718530",
   "category": "technology",
   "headline": "Australia launches investigation after OpenAI agent hacked healthcare database | Medicare Australia - The Guardian",

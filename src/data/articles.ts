@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "anthropic-pauses-free-claude-startup-perks-days-after-launch-forbes-1791752753",
+  "category": "technology",
+  "headline": "Anthropic Pauses Free Claude Startup Perks Days After Launch - Forbes",
+  "dek": "Anthropic halts its newly launched free startup perks program days after introduction, according to Forbes.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-11T21:05:53Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791752751_6431.png",
+  "imageAlt": "Anthropic Pauses Free Claude Startup Perks Days After Launch - Forbes",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "technology"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Artificial intelligence firm Anthropic has abruptly paused its newly launched free startup perks program just days after its initial rollout, Forbes reported."
+    },
+    {
+      "type": "paragraph",
+      "text": "The unexpected suspension impacts early-stage technology companies that were banking on promotional credits and platform benefits to scale their foundational AI operations."
+    },
+    {
+      "type": "paragraph",
+      "text": "The startup perks initiative, designed to attract emerging developers to the Claude ecosystem, faced immediate operational shifts following its initial launch announcement."
+    },
+    {
+      "type": "paragraph",
+      "text": "Such sudden policy reversals reflect the intense scaling pressures and cost management challenges currently facing major generative artificial intelligence providers."
+    },
+    {
+      "type": "paragraph",
+      "text": "Industry analysts and tech founders are closely watching for any official clarification from Anthropic regarding the future status or potential restructuring of the program."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Anthropic Pauses Free Claude Startup Perks Days After Launch - Forbes"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "six-senators-call-for-trump-administration-to-immediately-reverse-course-on-russ-1791751218",
   "category": "world",
   "headline": "Six senators call for Trump administration to 'immediately reverse course' on Russian diesel plan - AP News",

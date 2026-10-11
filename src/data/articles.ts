@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "why-is-the-us-sanctioning-the-international-criminal-court-al-jazeera-1791709509",
+  "category": "world",
+  "headline": "Why is the US sanctioning the International Criminal Court? - Al Jazeera",
+  "dek": "The US faces international scrutiny following its decision to impose sanctions on the International Criminal Court.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-11T09:05:09Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791709507_8042.png",
+  "imageAlt": "Why is the US sanctioning the International Criminal Court? - Al Jazeera",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "The United States has initiated sanctions targeting the International Criminal Court, sparking significant international debate over legal jurisdiction and global governance."
+    },
+    {
+      "type": "paragraph",
+      "text": "The decision places the US in a controversial position regarding international judicial bodies and their enforcement of global accountability standards."
+    },
+    {
+      "type": "paragraph",
+      "text": "Legal experts and international observers are assessing the broader implications of these measures on diplomatic relations and multilateral institutions."
+    },
+    {
+      "type": "paragraph",
+      "text": "The sanctions raise complex questions about how global superpowers interact with international courts and tribunals that claim jurisdiction over non-member states."
+    },
+    {
+      "type": "paragraph",
+      "text": "Policymakers and diplomats worldwide are evaluating the potential fallout of this policy on future international cooperation and legal proceedings."
+    },
+    {
+      "type": "paragraph",
+      "text": "Further developments are expected as international organizations and affected parties formulate their official responses to the US sanctions."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Why is the US sanctioning the International Criminal Court? - Al Jazeera"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "us-forces-disable-ship-attempting-to-run-iran-blockade-in-gulf-of-oman-al-jazeer-1791704744",
   "category": "india",
   "headline": "US forces disable ship ‘attempting to run’ Iran blockade in Gulf of Oman - Al Jazeera",

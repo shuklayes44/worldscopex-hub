@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "protest-leaders-rounded-up-as-new-delhi-is-locked-down-the-new-york-times-1791678504",
+  "category": "india",
+  "headline": "Protest Leaders Rounded Up as New Delhi Is Locked Down - The New York Times",
+  "dek": "Authorities detain protest leaders and enforce a strict security lockdown across New Delhi.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-11T00:28:24Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791678502_1829.png",
+  "imageAlt": "Protest Leaders Rounded Up as New Delhi Is Locked Down - The New York Times",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Protest leaders have been rounded up by authorities as a strict security lockdown is enforced across New Delhi, according to reports. The sudden operational clampdown follows escalating demonstrations in the capital region."
+    },
+    {
+      "type": "paragraph",
+      "text": "Key organizers and prominent figures linked to the ongoing protests were detained by law enforcement agencies during the sweep."
+    },
+    {
+      "type": "paragraph",
+      "text": "Public movement, transit access, and large gatherings have been heavily restricted as security forces maintain a high-alert posture across critical municipal zones."
+    },
+    {
+      "type": "paragraph",
+      "text": "The heavy-handed security measures threaten to cause immediate disruptions to local commerce, daily commuter transit, and business operations throughout the metropolitan area."
+    },
+    {
+      "type": "paragraph",
+      "text": "Analysts and market participants will be closely watching whether the security lockdown remains in place or if authorities begin easing restrictions in the coming days."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Protest Leaders Rounded Up as New Delhi Is Locked Down - The New York Times"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "saudi-arabia-12-killed-hundreds-injured-in-riyadh-strike-dwcom-1791676647",
   "category": "india",
   "headline": "Saudi Arabia: 12 killed, hundreds injured in Riyadh strike - DW.com",

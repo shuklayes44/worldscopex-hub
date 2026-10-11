@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "indias-cockroach-leaders-released-as-new-delhi-braces-for-more-protests-the-new-1791712686",
+  "category": "india",
+  "headline": "India’s ‘Cockroach’ Leaders Released as New Delhi Braces for More Protests - The New York Times",
+  "dek": "A Delhi court has ordered the release of three CJP leaders as New Delhi prepares for a second day of protests.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-11T09:58:06Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791712683_4895.png",
+  "imageAlt": "India’s ‘Cockroach’ Leaders Released as New Delhi Braces for More Protests - The New York Times",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "A Delhi executive magistrate court has ordered the release of three CJP leaders, including Abhijeet Dipke and Saurav Das, according to reports from various news organizations including The New York Times, NDTV, and The Guardian."
+    },
+    {
+      "type": "paragraph",
+      "text": "The court reportedly instructed the released individuals not to breach peace for a period of one year following their release."
+    },
+    {
+      "type": "paragraph",
+      "text": "The legal development coincides with New Delhi bracing for a second day of protests and heightened public demonstrations."
+    },
+    {
+      "type": "paragraph",
+      "text": "The ongoing civil unrest has prompted increased security measures across the capital region, with authorities closely monitoring potential disruptions."
+    },
+    {
+      "type": "paragraph",
+      "text": "Market participants and regional stakeholders are keeping a close watch on the security situation and its potential impact on daily commerce and transit."
+    },
+    {
+      "type": "paragraph",
+      "text": "As authorities prepare for continued demonstrations, the focus remains on maintaining public order and ensuring safety across New Delhi."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "India’s ‘Cockroach’ Leaders Released as New Delhi Braces for More Protests - The New York Times"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "why-is-the-us-sanctioning-the-international-criminal-court-al-jazeera-1791709509",
   "category": "world",
   "headline": "Why is the US sanctioning the International Criminal Court? - Al Jazeera",

@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "pope-leo-to-have-surgery-to-remove-nodule-on-his-lung-the-guardian-1791741338",
+  "category": "world",
+  "headline": "Pope Leo to have surgery to remove nodule on his lung - The Guardian",
+  "dek": "Pope Leo XIV will undergo surgery to remove a recently discovered lung nodule, according to Vatican announcements.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-11T17:55:38Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791741335_4270.png",
+  "imageAlt": "Pope Leo to have surgery to remove nodule on his lung - The Guardian",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Pope Leo XIV is scheduled to undergo a surgical procedure to remove a nodule that has been identified on his lung, media reports confirmed."
+    },
+    {
+      "type": "paragraph",
+      "text": "The upcoming medical intervention was announced following routine health evaluations by medical personnel overseeing the pontiff."
+    },
+    {
+      "type": "paragraph",
+      "text": "In response to the medical announcement, US bishops have formally called upon the faithful to offer prayers for Pope Leo ahead of his scheduled surgery."
+    },
+    {
+      "type": "paragraph",
+      "text": "The health development coincides with the pope's ongoing international engagements, which recently included a renewed public appeal for peace in Ukraine."
+    },
+    {
+      "type": "paragraph",
+      "text": "Medical teams and Vatican officials are expected to release further official bulletins regarding the timeline and recovery process following the procedure."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Pope Leo to have surgery to remove nodule on his lung - The Guardian"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "saudi-arabias-riyadh-airport-hit-by-second-strike-in-two-days-bbc-1791740188",
   "category": "world",
   "headline": "Saudi Arabia's Riyadh airport hit by second strike in two days - BBC",

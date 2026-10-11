@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "trump-announces-russia-ukraine-energy-ceasefire-zelensky-says-news-for-me-ndtv-1791748948",
+  "category": "india",
+  "headline": "Trump Announces Russia-Ukraine Energy Ceasefire, Zelensky Says \"News For Me\" - NDTV",
+  "dek": "US President Donald Trump announced an immediate Russia-Ukraine energy ceasefire, while Ukrainian President Volodymyr Zelenskyy stated the development was news to him.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-11T20:02:28Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791748946_2943.png",
+  "imageAlt": "Trump Announces Russia-Ukraine Energy Ceasefire, Zelensky Says \"News For Me\" - NDTV",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "US President Donald Trump has announced an immediate energy ceasefire between Russia and Ukraine, according to multiple international news reports. The development comes as global energy markets monitor ongoing geopolitical tensions stemming from the conflict."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ukrainian President Volodymyr Zelenskyy responded to the unexpected announcement by stating that the development was entirely new to him. The divergence in statements highlights potential communication gaps surrounding diplomatic initiatives involving the warring nations."
+    },
+    {
+      "type": "paragraph",
+      "text": "International news agencies, including BBC, CNN, and NDTV, have followed the breaking announcement closely as details emerge. The focus remains on whether formal agreements have been established between Moscow and Kyiv regarding energy infrastructure protection."
+    },
+    {
+      "type": "paragraph",
+      "text": "Energy market participants are assessing the potential implications of a sudden ceasefire on supply chains and commodity pricing. Disruptions to energy transit have historically caused volatility in international markets, affecting importing economies worldwide."
+    },
+    {
+      "type": "paragraph",
+      "text": "The lack of immediate confirmation from Ukrainian leadership underscores the complex nature of ongoing negotiations and international mediation efforts. Observers will be tracking official statements from both capitals to verify the scope and enforceability of the reported ceasefire."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Trump Announces Russia-Ukraine Energy Ceasefire, Zelensky Says \"News For Me\" - NDTV"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "trump-says-ukraine-and-russia-have-agreed-energy-ceasefire-bbc-1791747289",
   "category": "world",
   "headline": "Trump says Ukraine and Russia have agreed 'energy ceasefire' - BBC",

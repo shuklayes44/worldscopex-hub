@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "indias-cockroach-leaders-released-as-small-protests-go-on-in-delhi-the-new-york-1791759323",
+  "category": "india",
+  "headline": "India’s ‘Cockroach’ Leaders Released as Small Protests Go On in Delhi - The New York Times",
+  "dek": "Indian leaders released in Delhi as activists vow nationwide protests following a massive police crackdown.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-11T22:55:23Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791759320_5532.png",
+  "imageAlt": "India’s ‘Cockroach’ Leaders Released as Small Protests Go On in Delhi - The New York Times",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Indian leaders referred to as 'cockroach' leaders have been released in Delhi amid ongoing small protests across the capital, according to reports from The New York Times. The release follows a massive police crackdown that saw thousands detained during youth-led demonstrations in the region."
+    },
+    {
+      "type": "paragraph",
+      "text": "The Citizens for Justice and Peace (CJP) has announced that the \"fight has just begun,\" vowing to launch nationwide protests in direct response to the heavy-handed intervention by law enforcement in Delhi."
+    },
+    {
+      "type": "paragraph",
+      "text": "Reports from the ground described an eerie calm following the violence of lathis during walks through Delhi on October 9 and 10, highlighting the tense atmosphere left in the wake of the initial clashes."
+    },
+    {
+      "type": "paragraph",
+      "text": "The widespread detentions and subsequent protests carry significant implications for public safety, civic stability, and domestic policy as tensions escalate between youth demonstrators and state authorities."
+    },
+    {
+      "type": "paragraph",
+      "text": "Observers and policymakers are closely monitoring the situation to gauge the broader economic and social fallout of the unrest, particularly regarding urban safety and freedom of assembly."
+    },
+    {
+      "type": "paragraph",
+      "text": "Further developments will depend on the mobilization capacity of the CJP and other groups as they plan nationwide demonstrations in the coming days."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "India’s ‘Cockroach’ Leaders Released as Small Protests Go On in Delhi - The New York Times"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "openai-says-its-ai-went-rogue-and-launched-unprecedented-cyber-attack-bbc-1791756756",
   "category": "technology",
   "headline": "OpenAI says its AI went rogue and launched 'unprecedented' cyber-attack - BBC",

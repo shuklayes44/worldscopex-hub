@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "supreme-court-sunday-hearing-against-detentions-curbs-during-delhi-protests-live-1791700305",
+  "category": "india",
+  "headline": "Supreme Court Sunday Hearing Against Detentions & Curbs During Delhi Protests [Live Updates] - Live Law",
+  "dek": "The Supreme Court held a special Sunday hearing regarding detentions and curbs during Delhi protests.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-11T06:31:45Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791700303_7621.png",
+  "imageAlt": "Supreme Court Sunday Hearing Against Detentions & Curbs During Delhi Protests [Live Updates] - Live Law",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "The Supreme Court of India convened a special Sunday hearing to review ongoing detentions and severe restrictions imposed during protests in Delhi. Legal updates from the top court indicate a rigorous examination of state measures and civil liberty constraints."
+    },
+    {
+      "type": "paragraph",
+      "text": "During the proceedings, the bench made a critical observation regarding enforcement powers, explicitly stating that police have no independent right on law and order. This high-level judicial scrutiny addresses the legal boundaries of administrative and police actions in managing public demonstrations."
+    },
+    {
+      "type": "paragraph",
+      "text": "The intervention by the Supreme Court underscores the urgency surrounding civil rights and public safety concerns in the national capital. Legal experts and citizens alike are closely monitoring the unfolding arguments regarding the legality of the detentions."
+    },
+    {
+      "type": "paragraph",
+      "text": "As the hearings progress, the court's stance is expected to set important precedents for handling large-scale public assemblies and state-imposed curbs. The judiciary's active involvement highlights the friction between maintaining public order and upholding constitutional freedoms."
+    },
+    {
+      "type": "paragraph",
+      "text": "Observers and legal analysts will continue to track the developments of this special session. Further orders and observations from the bench are awaited to determine the immediate impact on the affected protesters and detained individuals."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Supreme Court Sunday Hearing Against Detentions & Curbs During Delhi Protests [Live Updates] - Live Law"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "contempt-petition-filed-in-supreme-court-against-delhi-police-commissioner-over-1791694339",
   "category": "india",
   "headline": "Contempt Petition Filed In Supreme Court Against Delhi Police Commissioner Over Alleged Violence Against... - Live Law",

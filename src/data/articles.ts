@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "us-forces-disable-ship-attempting-to-run-iran-blockade-in-gulf-of-oman-al-jazeer-1791704744",
+  "category": "india",
+  "headline": "US forces disable ship ‘attempting to run’ Iran blockade in Gulf of Oman - Al Jazeera",
+  "dek": "US forces disable a commercial cargo vessel attempting to run an Iran blockade in the Gulf of Oman.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-11T07:45:44Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791704742_2539.png",
+  "imageAlt": "US forces disable ship ‘attempting to run’ Iran blockade in Gulf of Oman - Al Jazeera",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "US military forces have disabled a commercial cargo vessel attempting to run an Iran blockade in the Gulf of Oman, according to regional military and news reports."
+    },
+    {
+      "type": "paragraph",
+      "text": "The United Kingdom Maritime Trade Operations reported that it is actively probing the maritime incident following the Central Command strike."
+    },
+    {
+      "type": "paragraph",
+      "text": "The military action underscores rising geopolitical tensions in a vital global energy and commercial shipping corridor."
+    },
+    {
+      "type": "paragraph",
+      "text": "Commercial maritime traffic through the Gulf of Oman remains a critical artery for international trade and energy supplies."
+    },
+    {
+      "type": "paragraph",
+      "text": "Analysts and market observers are watching the situation closely for any potential repercussions on regional security and maritime transit costs."
+    },
+    {
+      "type": "paragraph",
+      "text": "Further updates from military authorities are expected as the security assessment of the targeted vessel and surrounding waters continues."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "US forces disable ship ‘attempting to run’ Iran blockade in Gulf of Oman - Al Jazeera"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "supreme-court-sunday-hearing-against-detentions-curbs-during-delhi-protests-live-1791700305",
   "category": "india",
   "headline": "Supreme Court Sunday Hearing Against Detentions & Curbs During Delhi Protests [Live Updates] - Live Law",

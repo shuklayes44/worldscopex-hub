@@ -92,6 +92,65 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "fight-should-be-face-to-face-cm-yogi-accepts-akhileshs-ayodhya-challenge-the-tim-1791680953",
+  "category": "india",
+  "headline": "'Fight should be face-to-face': CM Yogi accepts Akhilesh's Ayodhya challenge - The Times of India",
+  "dek": "Uttar Pradesh Chief Minister Yogi Adityanath has accepted a direct political challenge from Samajwadi Party chief Akhilesh Yadav regarding Ayodhya.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-11T01:09:13Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791680951_5552.png",
+  "imageAlt": "'Fight should be face-to-face': CM Yogi accepts Akhilesh's Ayodhya challenge - The Times of India",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Uttar Pradesh Chief Minister Yogi Adityanath has formally accepted a challenge issued by Samajwadi Party chief Akhilesh Yadav for a direct political contest in Ayodhya, intensifying the state's political landscape."
+    },
+    {
+      "type": "paragraph",
+      "text": "The development follows sharp criticism from the Samajwadi Party leadership, which has targeted the ruling Bharatiya Janata Party over development initiatives and governance records in the state."
+    },
+    {
+      "type": "paragraph",
+      "text": "In response to the opposition's challenges regarding specific constituencies, the Chief Minister's acceptance of a face-to-face contest signals a direct confrontation between the two major political forces in Uttar Pradesh."
+    },
+    {
+      "type": "paragraph",
+      "text": "The ongoing war of words underscores the high-stakes political rivalry in the region, with both parties attempting to consolidate their voter bases through high-profile electoral positioning."
+    },
+    {
+      "type": "paragraph",
+      "text": "Political analysts are assessing the broader implications of this localized challenge on statewide party dynamics and upcoming electoral preparations."
+    },
+    {
+      "type": "paragraph",
+      "text": "Stakeholders and observers will continue to monitor statements from both the Bharatiya Janata Party and the Samajwadi Party leadership for indications of further escalation."
+    },
+    {
+      "type": "paragraph",
+      "text": "Future developments in this political standoff will depend on whether the leaders formalize their electoral confrontation in the specified constituency."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "'Fight should be face-to-face': CM Yogi accepts Akhilesh's Ayodhya challenge - The Times of India"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "protest-leaders-rounded-up-as-new-delhi-is-locked-down-the-new-york-times-1791678504",
   "category": "india",
   "headline": "Protest Leaders Rounded Up as New Delhi Is Locked Down - The New York Times",

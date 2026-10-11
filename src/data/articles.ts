@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "contempt-petition-filed-in-supreme-court-against-delhi-police-commissioner-over-1791694339",
+  "category": "india",
+  "headline": "Contempt Petition Filed In Supreme Court Against Delhi Police Commissioner Over Alleged Violence Against... - Live Law",
+  "dek": "A contempt petition has been filed in the Supreme Court against the Delhi Police Commissioner over protest-related violence and curbs.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-11T04:52:19Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791694337_9817.png",
+  "imageAlt": "Contempt Petition Filed In Supreme Court Against Delhi Police Commissioner Over Alleged Violence Against... - Live Law",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "A contempt petition has been filed in the Supreme Court against the Delhi Police Commissioner over alleged violence against protesters and strict movement restrictions implemented across the capital."
+    },
+    {
+      "type": "paragraph",
+      "text": "The legal challenge comes amid a wave of civil demonstrations that prompted widespread detentions and severe commute disruptions throughout Delhi."
+    },
+    {
+      "type": "paragraph",
+      "text": "In response to the escalating situation, the top court has scheduled a special hearing today to specifically address the metro station closures and the legality of the protest detentions."
+    },
+    {
+      "type": "paragraph",
+      "text": "The case places renewed judicial focus on the balance between maintaining public order and upholding the freedom of movement and assembly during demonstrations."
+    },
+    {
+      "type": "paragraph",
+      "text": "Legal experts and stakeholders are closely monitoring the proceedings to gauge how the judiciary will address enforcement measures and police accountability during civil unrest."
+    },
+    {
+      "type": "paragraph",
+      "text": "The Supreme Court's upcoming directives are expected to set a critical precedent for handling future public protests and urban mobility curbs in the National Capital Region."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Contempt Petition Filed In Supreme Court Against Delhi Police Commissioner Over Alleged Violence Against... - Live Law"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "concerned-by-reports-of-mass-detentions-un-says-about-delhi-polices-crackdown-on-1791683521",
   "category": "india",
   "headline": "Concerned by reports of mass detentions, UN says about Delhi police's crackdown on CJP protest - Telegraph India",

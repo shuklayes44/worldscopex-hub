@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "nvidia-releases-software-platform-to-stop-ai-agents-from-misbehaving-cnbc-1791714665",
+  "category": "technology",
+  "headline": "Nvidia releases software platform to stop AI agents from misbehaving - CNBC",
+  "dek": "Nvidia launches software to address misbehaving AI agents.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-11T10:31:05Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791714663_8674.png",
+  "imageAlt": "Nvidia releases software platform to stop AI agents from misbehaving - CNBC",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "technology"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Nvidia has released a new software platform specifically engineered to prevent artificial intelligence agents from misbehaving in operational environments. The announcement marks a significant step by the hardware giant into the realm of AI governance and safety infrastructure."
+    },
+    {
+      "type": "paragraph",
+      "text": "The software platform aims to address mounting concerns among enterprise users regarding the unpredictability and autonomous actions of advanced AI agents. As organizations increasingly deploy automated systems to handle complex workflows, ensuring reliable behavior has become a primary operational challenge."
+    },
+    {
+      "type": "paragraph",
+      "text": "Industry analysts note that governance frameworks of this nature are essential for mitigating corporate risk and maintaining regulatory compliance. Without adequate safeguards, misbehaving AI systems can cause significant operational disruptions and reputational damage to adopting firms."
+    },
+    {
+      "type": "paragraph",
+      "text": "The release underscores Nvidia's expanding role beyond hardware manufacturing into foundational software ecosystems that support enterprise AI deployment. Market observers will be closely watching how quickly businesses integrate these safety platforms into their existing tech stacks."
+    },
+    {
+      "type": "paragraph",
+      "text": "Looking ahead, the effectiveness of such guardrails will likely influence broader enterprise confidence in deploying fully autonomous AI agents at scale. Regulators and industry leaders will continue to track the adoption of safety-focused software solutions across global markets."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Nvidia releases software platform to stop AI agents from misbehaving - CNBC"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "indias-cockroach-leaders-released-as-new-delhi-braces-for-more-protests-the-new-1791712686",
   "category": "india",
   "headline": "India’s ‘Cockroach’ Leaders Released as New Delhi Braces for More Protests - The New York Times",

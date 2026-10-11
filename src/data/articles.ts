@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "india-taking-steps-to-build-strategic-sectors-economic-affairs-secy-business-sta-1791743007",
+  "category": "economy",
+  "headline": "India taking steps to build strategic sectors: Economic Affairs secy - Business Standard",
+  "dek": "Economic Affairs Secretary highlights India's ongoing efforts to strengthen key strategic sectors.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-11T18:23:27Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791743006_2916.png",
+  "imageAlt": "India taking steps to build strategic sectors: Economic Affairs secy - Business Standard",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "economy"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "India is currently taking systematic steps to build and reinforce its strategic sectors, according to statements from the Economic Affairs Secretary. The initiative represents a focused approach toward strengthening critical areas of the domestic economy."
+    },
+    {
+      "type": "paragraph",
+      "text": "The development underscores the government's continued policy emphasis on fostering long-term industrial capability and economic self-reliance. Strategic sector enhancement is viewed as a vital component of broader national economic planning."
+    },
+    {
+      "type": "paragraph",
+      "text": "While specific timelines and financial outlays were not detailed in the initial report, the focus on foundational sectors is expected to guide future regulatory frameworks. Policymakers are anticipated to prioritize measures that support industrial growth and stability."
+    },
+    {
+      "type": "paragraph",
+      "text": "For markets and industry stakeholders, these policy directions signal a sustained government commitment to targeted economic development. Clearer insights into the initiative's scope are expected as further administrative updates are released."
+    },
+    {
+      "type": "paragraph",
+      "text": "Observers and market participants will closely watch subsequent policy announcements to gauge the practical impact on investment and sector growth. Future updates from the Ministry of Finance are anticipated to provide additional clarity on implementation."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "India taking steps to build strategic sectors: Economic Affairs secy - Business Standard"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "pope-leo-to-have-surgery-to-remove-nodule-on-his-lung-the-guardian-1791741338",
   "category": "world",
   "headline": "Pope Leo to have surgery to remove nodule on his lung - The Guardian",

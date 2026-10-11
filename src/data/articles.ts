@@ -92,6 +92,65 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "pm-modi-in-chennai-updates-prime-minister-inaugurates-metro-rails-phase-2-stretc-1791745471",
+  "category": "india",
+  "headline": "PM Modi in Chennai updates | Prime Minister inaugurates Metro Rail's Phase 2 stretch, ₹13000-crore worth development projects - The Hindu",
+  "dek": "Prime Minister Narendra Modi inaugurated the Chennai Metro Rail Phase 2 stretch and ₹13,000-crore development projects.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-11T19:04:31Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791745468_2393.png",
+  "imageAlt": "PM Modi in Chennai updates | Prime Minister inaugurates Metro Rail's Phase 2 stretch, ₹13000-crore worth development projects - The Hindu",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "india"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Prime Minister Narendra Modi arrived in Chennai to inaugurate key urban infrastructure, highlighted by the opening of the Chennai Metro Rail's Phase 2 stretch."
+    },
+    {
+      "type": "paragraph",
+      "text": "The newly inaugurated projects form part of a broader ₹13,000-crore development initiative aimed at modernizing regional transport and upgrading public infrastructure in Tamil Nadu."
+    },
+    {
+      "type": "paragraph",
+      "text": "According to official details, the transit upgrades are specifically designed to reduce travel times significantly, cutting a standard one-hour journey down to less than 40 minutes for commuters."
+    },
+    {
+      "type": "paragraph",
+      "text": "The visit also unfolded amid a charged political backdrop, highlighted by actor-turned-politician Vijay balancing his engagements alongside discussions involving national political figures."
+    },
+    {
+      "type": "paragraph",
+      "text": "Additionally, brief political stirs were reported at the venue, including a minor incident involving placards concerning future electoral prospects that drew local media attention."
+    },
+    {
+      "type": "paragraph",
+      "text": "Observers are closely watching the evolving political landscape in Tamil Nadu as state leaders recalibrate their strategies in response to shifting national and regional alignments."
+    },
+    {
+      "type": "paragraph",
+      "text": "Further updates on the utilization of the ₹13,000-crore allocation and the operational rollout of the new metro stretch are expected as local authorities oversee project implementation."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "PM Modi in Chennai updates | Prime Minister inaugurates Metro Rail's Phase 2 stretch, ₹13000-crore worth development projects - The Hindu"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "india-taking-steps-to-build-strategic-sectors-economic-affairs-secy-business-sta-1791743007",
   "category": "economy",
   "headline": "India taking steps to build strategic sectors: Economic Affairs secy - Business Standard",

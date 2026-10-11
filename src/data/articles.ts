@@ -92,6 +92,61 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "hurricane-isaias-devastating-aftermath-comes-into-focus-in-striking-images-fox-n-1791761562",
+  "category": "world",
+  "headline": "Hurricane Isaias’ devastating aftermath comes into focus in striking images - Fox News",
+  "dek": "Hurricane Isaias leaves two dead in Florida and knocks out power for 430,000 residents across the Southeast.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-11T23:32:42Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791761560_3657.png",
+  "imageAlt": "Hurricane Isaias’ devastating aftermath comes into focus in striking images - Fox News",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Hurricane Isaias has left a severe aftermath across the Southeastern United States, bringing destructive winds, heavy flooding, and tornadoes to the region."
+    },
+    {
+      "type": "paragraph",
+      "text": "Official reports indicate that the severe weather system has resulted in at least two storm-related fatalities in the state of Florida."
+    },
+    {
+      "type": "paragraph",
+      "text": "In addition to the casualties, the storm's impact has caused widespread infrastructure disruption, leaving approximately 430,000 homes and businesses without electrical power."
+    },
+    {
+      "type": "paragraph",
+      "text": "Emergency response teams have been deployed to assess the damage and begin recovery operations as striking images of the aftermath emerge from affected areas."
+    },
+    {
+      "type": "paragraph",
+      "text": "The severe weather event highlights ongoing vulnerabilities in regional power grids and emergency response networks during major seasonal storm events."
+    },
+    {
+      "type": "paragraph",
+      "text": "Authorities and utility companies are continuing their assessment of the damage as restoration efforts get underway across the impacted states."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Hurricane Isaias’ devastating aftermath comes into focus in striking images - Fox News"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "indias-cockroach-leaders-released-as-small-protests-go-on-in-delhi-the-new-york-1791759323",
   "category": "india",
   "headline": "India’s ‘Cockroach’ Leaders Released as Small Protests Go On in Delhi - The New York Times",

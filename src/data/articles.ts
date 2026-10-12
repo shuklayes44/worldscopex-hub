@@ -92,6 +92,57 @@ export const categories: Category[] = [
  */
 const articleRecords: Article[] = [
   {
+  "slug": "trump-announces-ukraine-energy-ceasefire-with-russia-surprising-zelenskiy-reuter-1791763466",
+  "category": "world",
+  "headline": "Trump announces Ukraine energy ceasefire with Russia, surprising Zelenskiy - Reuters",
+  "dek": "US President Trump announces an energy ceasefire between Russia and Ukraine, catching Zelenskiy by surprise.",
+  "author": {
+    "name": "WorldScopeX Desk",
+    "role": "Editorial Desk"
+  },
+  "verificationStatus": "verified",
+  "publishedAt": "2026-10-12T00:04:26Z",
+  "readingMinutes": 1,
+  "heroImage": "https://raw.githubusercontent.com/shuklayes44/News-boat/main/cards/card_1791763464_4584.png",
+  "imageAlt": "Trump announces Ukraine energy ceasefire with Russia, surprising Zelenskiy - Reuters",
+  "imageCredit": "Photo via Pexels",
+  "tags": [
+    "world"
+  ],
+  "featured": false,
+  "trending": false,
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "United States President Donald Trump has announced an energy ceasefire between Russia and Ukraine, according to wire service reports from Reuters. The unexpected declaration took Ukrainian leadership by surprise, leaving President Zelenskiy waiting for official details on how the agreement is structured."
+    },
+    {
+      "type": "paragraph",
+      "text": "Initial reports from the ground indicate that the fragile arrangement may already be facing severe stress. According to Sky News coverage, Russian forces have already broken Trump's declared energy ceasefire with an attack targeting a power plant."
+    },
+    {
+      "type": "paragraph",
+      "text": "The fast-moving diplomatic and conflict developments have also sparked wider political fallout. Public backlash is growing against a reported Russia diesel deal, which emerged alongside Trump's claims regarding the Ukraine energy ceasefire."
+    },
+    {
+      "type": "paragraph",
+      "text": "For global markets and energy policy observers, the rapid sequence of events highlights the volatility surrounding critical infrastructure in the ongoing conflict zone. Analysts and international stakeholders are closely monitoring whether any formal enforcement mechanisms will accompany the announced terms."
+    },
+    {
+      "type": "paragraph",
+      "text": "As the situation develops, attention turns to official diplomatic channels to clarify the exact parameters of the ceasefire. Observers will be watching to see how Kyiv and Moscow respond to the unfolding energy infrastructure security crisis."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google News aggregation",
+      "detail": "Trump announces Ukraine energy ceasefire with Russia, surprising Zelenskiy - Reuters"
+    }
+  ],
+  "relatedStories": []
+},
+
+  {
   "slug": "hurricane-isaias-devastating-aftermath-comes-into-focus-in-striking-images-fox-n-1791761562",
   "category": "world",
   "headline": "Hurricane Isaias’ devastating aftermath comes into focus in striking images - Fox News",
